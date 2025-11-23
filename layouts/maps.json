@@ -24,15 +24,6 @@
                                     "Besaid Part 2"
                                 ]
                             }
-                        },
-                        {
-                            "title": "North Continent",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "North Continent"
-                                ]
-                            }
                         }
                     ]
                 }
