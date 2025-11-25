@@ -1,26 +1,20 @@
 [
     {
         "name": "S.S. Winno",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/Treasure.png",
+        "chest_opened_img": "/images/TreasureBW.png",
         "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
-        "sections": [
+        "access_rules": ["$hasKilika"],
+        "children": [
             {
                 "name": "Hi-Potion x1 (Chest)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
+                "map_locations": [{ "map": "S.S. Winno", "x": 0, "y": 0}],
+                "sections": [{}]
+            },
             {
-                "map": "S.S. Winno",
-                "x": 731,
-                "y": 66,
-                "size": 6
+                "name": "Ace Wizard (Seagulls)",
+                "map_locations": [{ "map": "S.S. Winno", "x": 0, "y": 0}],
+                "sections": [{}]
             }
         ]
     }

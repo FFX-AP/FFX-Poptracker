@@ -1,0 +1,426 @@
+{
+    "$id": "https://poptracker.github.io/schema/packs/locations.json",
+    "title": "PopTracker Pack locations",
+    "description": "Locations for a PopTracker pack.",
+    "type": "array",
+    "items": {
+        "$ref": "#/$defs/location"
+    },
+    "$defs": {
+        "rules_string": {
+            "items": {
+                "description": "Rules. Comma separated for AND.",
+                "type": "string"
+            }
+        },
+        "rules_array": {
+            "items": {
+                "description": "List of rules to be AND-ed together.",
+                "type": "array",
+                "items": {
+                    "description": "A rule.",
+                    "type": "string"
+                }
+            }
+        },
+        "section": {
+            "type": "object",
+            "anyOf": [
+                {
+                    "properties": {
+                        "ref": false,
+                        "name": {
+                            "description": "Name of the section.",
+                            "type": "string"
+                        },
+                        "short_name": {
+                            "description": "Short version of name. Currently unused.",
+                            "type": "string"
+                        },
+                        "access_rules": {
+                            "example": [
+                                "rule1,rule2",
+                                "rule3,rule4",
+                                "{checkrule1, checkrule2}"
+                            ],
+                            "anyOf": [
+                                {
+                                    "type": "array",
+                                    "anyOf": [
+                                        {
+                                            "description": "Access rules for the section. Section will be marked reachable (green) if all rules are matched. Rules inside [] are optional (i.e. glitches work around this rule; marked as yellow). If rules in {} are matched, the section will be marked as checkable (blue). Children will always inherit rules from parents. Each entry will be OR-ed together, comma separated rules will be AND-ed.",
+                                            "$ref": "#/$defs/rules_string"
+                                        },
+                                        {
+                                            "description": "Access rules for the section. Section will be marked reachable (green) if all rules are matched. Rules inside [] are optional (i.e. glitches work around this rule; marked as yellow). If rules in {} are matched, the section will be marked as checkable (blue). Children will always inherit rules from parents. 2-Dimensional array of rules, first dimension will be OR-ed together, second will be AND-ed.",
+                                            "$ref": "#/$defs/rules_array"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "string",
+                                    "description": "Single code/access rule for the section. \"code\" behaves the same as [[\"code\"]]. See array of string and array of array of string for complex rules in json."
+                                }
+                            ]
+                        },
+                        "visibility_rules": {
+                            "example": [
+                                "rule1,rule2",
+                                "rule3,rule4"
+                            ],
+                            "anyOf": [
+                                {
+                                    "type": "array",
+                                    "anyOf": [
+                                        {
+                                            "description": "Visibility rules for the section. Section will only be visible if rules are matched. Children will always inherit rules from parents. Each entry will be OR-ed together, comma separated rules will be AND-ed.",
+                                            "$ref": "#/$defs/rules_string"
+                                        },
+                                        {
+                                            "description": "Visibility rules for the section. Section will only be visible if rules are matched. Children will always inherit rules from parents. 2-Dimensional array of rules, first dimension will be OR-ed together, second will be AND-ed.",
+                                            "$ref": "#/$defs/rules_array"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "string",
+                                    "description": "Single code/visibility rule for the section. \"code\" behaves the same as [[\"code\"]]. See array of string and array of array of string for complex rules in json."
+                                }
+                            ]
+                        },
+                        "chest_unopened_img": {
+                            "description": "Image for uncleared state.",
+                            "type": "string"
+                        },
+                        "chest_opened_img": {
+                            "description": "Image for cleared state.",
+                            "type": "string"
+                        },
+                        "clear_as_group": {
+                            "description": "If set to true, the section will clear all checks with one click.",
+                            "anyOf": [
+                                {
+                                    "type": "boolean"
+                                },
+                                {
+                                    "type": "string",
+                                    "enum": [
+                                        "true",
+                                        "false"
+                                    ]
+                                }
+                            ]
+                        },
+                        "item_count": {
+                            "description": "Number of checks in this section.",
+                            "anyOf": [
+                                {
+                                    "type": "number",
+                                    "minimum": 0
+                                },
+                                {
+                                    "type": "string",
+                                    "pattern": "^\\s*[0-9]*\\s*$"
+                                }
+                            ]
+                        },
+                        "hosted_item": {
+                            "description": "Item to be hosted in the section.",
+                            "type": "string"
+                        },
+                        "item_size": {
+                            "anyOf": [
+                                {
+                                    "description": "Size of the items in the format of x,y.",
+                                    "type": "string",
+                                    "pattern": "^(\\s*[0-9]+\\s*,\\s*){1}[0-9]+\\s*$"
+                                },
+                                {
+                                    "description": "Size of the items.",
+                                    "type": "string",
+                                    "pattern": "^\\s*[0-9]*\\s*$"
+                                },
+                                {
+                                    "description": "Size of the items.",
+                                    "type": "number",
+                                    "minimum": 0
+                                }
+                            ]
+                        },
+                        "item_height": {
+                            "description": "Height of the items.",
+                            "anyOf": [
+                                {
+                                    "type": "number",
+                                    "minimum": 0
+                                },
+                                {
+                                    "type": "string",
+                                    "pattern": "^\\s*[0-9]*\\s*$"
+                                }
+                            ]
+                        },
+                        "item_width": {
+                            "description": "Width of the items.",
+                            "anyOf": [
+                                {
+                                    "type": "number",
+                                    "minimum": 0
+                                },
+                                {
+                                    "type": "string",
+                                    "pattern": "^\\s*[0-9]*\\s*$"
+                                }
+                            ]
+                        },
+                        "inspectable_sequence_break": {
+                            "description": "Restores old behavior of showing sequence-break-inspectable locations as sequence break. Inherits from parent if undefined.",
+                            "type": "boolean"
+                        }
+                    }
+                },
+                {
+                    "properties": {
+                        "name": {
+                            "description": "If provided, overrides the original section's name (for display only).",
+                            "type": "string"
+                        },
+                        "short_name": {
+                            "description": "If provided, overrides the original section's short name.",
+                            "type": "string"
+                        },
+                        "ref": {
+                            "description": "Reference to another section to be placed here",
+                            "type": "string",
+                            "example": [
+                                "location A/section A"
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "location": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "description": "Name of the locations.",
+                    "type": "string"
+                },
+                "short_name": {
+                    "description": "Short version of name. Currently unused.",
+                    "type": "string"
+                },
+                "access_rules": {
+                    "example": [
+                        "rule1,rule2",
+                        "rule3,rule4",
+                        "{checkrule1, checkrule2}"
+                    ],
+                    "anyOf": [
+                        {
+                            "type": "array",
+                            "anyOf": [
+                                {
+                                    "description": "Access rules for the location. Location will be marked reachable (green) if all rules are matched. Rules inside [] are optional (i.e. glitches work around this rule; marked as yellow). If rules in {} are matched, the location will be marked as checkable (blue). Children/sections will always inherit rules from parents. Each entry will be OR-ed together, comma separated rules will be AND-ed.",
+                                    "$ref": "#/$defs/rules_string"
+                                },
+                                {
+                                    "description": "Access rules for the location. Location will be marked reachable (green) if all rules are matched. Rules inside [] are optional (i.e. glitches work around this rule; marked as yellow). If rules in {} are matched, the location will be marked as checkable (blue). Children/sections will always inherit rules from parents. 2-Dimensional array of rules, first dimension will be OR-ed together, second will be AND-ed.",
+                                    "$ref": "#/$defs/rules_array"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "string",
+                            "description": "Single code/access rule for the location. \"code\" behaves the same as [[\"code\"]]. See array of string and array of array of string for complex rules in json."
+                        }
+                    ]
+                },
+                "visibility_rules": {
+                    "example": [
+                        "rule1,rule2",
+                        "rule3,rule4"
+                    ],
+                    "anyOf": [
+                        {
+                            "type": "array",
+                            "anyOf": [
+                                {
+                                    "description": "Visibility rules for the location. Location will only be visible if rules are matched. Children/sections will always inherit rules from parents. Each entry will be OR-ed together, comma separated rules will be AND-ed.",
+                                    "$ref": "#/$defs/rules_string"
+                                },
+                                {
+                                    "description": "Visibility rules for the location. Location will only be visible if rules are matched. Children/sections will always inherit rules from parents. 2-Dimensional array of rules, first dimension will be OR-ed together, second will be AND-ed.",
+                                    "$ref": "#/$defs/rules_array"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "string",
+                            "description": "Single code/visibility rule for the location. \"code\" behaves the same as [[\"code\"]]. See array of string and array of array of string for complex rules in json."
+                        }
+                    ]
+                },
+                "chest_unopened_img": {
+                    "description": "Image for all not cleared sections in this location. Children/sections can override this.",
+                    "type": "string"
+                },
+                "chest_opened_img": {
+                    "description": "Image for all cleared sections in this location. Children/sections can override this.",
+                    "type": "string"
+                },
+                "map_locations": {
+                    "description": "Position(s) on the map(s)",
+                    "type": "array",
+                    "items": {
+                        "description": "A position on a map",
+                        "type": "object",
+                        "properties": {
+                            "map": {
+                                "description": "The map identifier of the map for the location to be on.",
+                                "type": "string"
+                            },
+                            "x": {
+                                "description": "X (horizontal) position on the map in pixels relative to the maps image.",
+                                "anyOf": [
+                                    {
+                                        "type": "number"
+                                    },
+                                    {
+                                        "type": "string",
+                                        "pattern": "^\\s*-?[0-9]*\\s*$"
+                                    }
+                                ]
+                            },
+                            "y": {
+                                "description": "Y (vertical) position on the map in pixels relative to the maps image.",
+                                "anyOf": [
+                                    {
+                                        "type": "number"
+                                    },
+                                    {
+                                        "type": "string",
+                                        "pattern": "^\\s*-?[0-9]*\\s*$"
+                                    }
+                                ]
+                            },
+                            "size": {
+                                "description": "Overrides the location size defined on the map.",
+                                "anyOf": [
+                                    {
+                                        "type": "number",
+                                        "minimum": -1
+                                    },
+                                    {
+                                        "type": "string",
+                                        "pattern": "^\\s*-?[0-9]*\\s*$"
+                                    }
+                                ]
+                            },
+                            "border_thickness": {
+                                "description": "Overrides the location border thickness defined on the map.",
+                                "anyOf": [
+                                    {
+                                        "type": "number",
+                                        "minimum": -1
+                                    },
+                                    {
+                                        "type": "string",
+                                        "pattern": "^\\s*-?[0-9]*\\s*$"
+                                    }
+                                ]
+                            },
+                            "shape": {
+                                "description": "Overrides the location shape defined on the map.",
+                                "enum": [null, "rect", "diamond", "trapezoid"]
+                            },
+                            "restrict_visibility_rules": {
+                                "example": [
+                                    "rule1,rule2",
+                                    "rule3,rule4"
+                                ],
+                                "anyOf": [
+                                    {
+                                        "type": "array",
+                                        "anyOf": [
+                                            {
+                                                "description": "Additional visibility rules for individual map location.",
+                                                "$ref": "#/$defs/rules_string"
+                                            },
+                                            {
+                                                "description": "Additional visibility rules for individual map location.",
+                                                "$ref": "#/$defs/rules_array"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "string",
+                                        "description": "Single additional visibility code/rule for individual map location."
+                                    }
+                                ]
+                            },
+                            "force_invisibility_rules": {
+                                "example": [
+                                    "rule1,rule2",
+                                    "rule3,rule4"
+                                ],
+                                "anyOf": [
+                                    {
+                                        "type": "array",
+                                        "anyOf": [
+                                            {
+                                                "description": "Additional rules that force-hide the map location if true.",
+                                                "$ref": "#/$defs/rules_string"
+                                            },
+                                            {
+                                                "description": "Additional rules that force-hide the map location if true.",
+                                                "$ref": "#/$defs/rules_array"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "string",
+                                        "description": "Single additional code/rule that force-hides the map location if true."
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "overlay_background": {
+                    "description": "Background color of the overlay text displaying the number of unopened chest in sections.",
+                    "type": "string",
+                    "pattern": "^#([a-fA-F0-9]{6}|[a-fA-F0-9]{3}|[a-fA-F0-9]{8}|[a-fA-F0-9]{4})$"
+                },
+                "color": {
+                    "descriptuion": "Color accent or tint of the location tooltip. Inherits if undefined. Currently unused.",
+                    "type": "string",
+                    "pattern": "^#([a-fA-F0-9]{6}|[a-fA-F0-9]{3}|[a-fA-F0-9]{8}|[a-fA-F0-9]{4})$"
+                },
+                "parent": {
+                    "description": "Overrides the locations parent. Needs a valid location code.",
+                    "type": "string"
+                },
+                "children": {
+                    "description": "Child locations of this location. Children will inherit all rules.",
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/$defs/location"
+                    }
+                },
+                "sections": {
+                    "description": "Sections of this location. Sections will inherit all rules.",
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/$defs/section"
+                    }
+                },
+                "inspectable_sequence_break": {
+                    "description": "Restores old behavior of showing sequence-break-inspectable locations as sequence break. Inherits from parent if undefined.",
+                    "type": "boolean"
+                }
+            }
+        }
+    }
+}

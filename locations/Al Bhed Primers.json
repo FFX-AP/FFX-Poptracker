@@ -29,6 +29,12 @@
                 "map_locations": [{ "map": "Kilika Village", "x": 0, "y": 0}],
                 "access_rules": "$hasKilika",
                 "sections": [{}]
+            },
+            {
+                "name": "Al Bhed Primer V",
+                "map_locations": [{ "map": "S.S. Winno", "x": 0, "y": 0}],
+                "access_rules": "$hasKilika",
+                "sections": [{}]
             }
         ]
     }

@@ -21,13 +21,4 @@
         "initial_active_state": false,
         "codes": "kilikadestructionsphere"
     }
-    // {
-    //     "name": "Destruction Spheres",
-    //     "type": "consumable",
-    //     "img": "images/Treasure.png",
-    //     "min_quantity": 0,
-    //     "max_quantity": 5,
-    //     "increment": 1,
-    //     "codes": "destructionspheres"
-    // }
 ]

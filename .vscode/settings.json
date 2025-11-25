@@ -1,0 +1,40 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/items/*.json"
+            ],
+            "url": "/schema/items.json"
+        },
+        {
+            "fileMatch": [
+                "/layouts/*.json"
+            ],
+            "url": "/schema/layouts.json"
+        },
+        {
+            "fileMatch": [
+                "/locations/*.json"
+            ],
+            "url": "/schema/locations.json"
+        },
+        {
+            "fileMatch": [
+                "/manifest.json"
+            ],
+            "url": "/schema/manifest.json"
+        },
+        {
+            "fileMatch": [
+                "/maps/*.json"
+            ],
+            "url": "/schema/maps.json"
+        },
+        {
+            "fileMatch": [
+                "/settings.json"
+            ],
+            "url": "/schema/settings.json"
+        }
+    ]
+}

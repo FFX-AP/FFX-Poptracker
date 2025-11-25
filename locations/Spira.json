@@ -190,57 +190,75 @@
                 "map_locations": [{ "map": "Spira", "x": 853, "y": 972, "size": 32}],
                 "sections": [
                     {
-                        "name": "Remedy x1 (Chest)",
+                        "name": "Village - Remedy x1 (Chest)",
                         "ref": "Kilika/Village/Potion x3 (Chest)/"
                     },
                     {
-                        "name": "Ether x1 (Chest)",
+                        "name": "Village - Ether x1 (Chest)",
                         "ref": "Kilika/Village/Ether x1 (Chest)/"
                     },
                     {
-                        "name": "Al Bhed Primer IV",
+                        "name": "Village - Al Bhed Primer IV",
                         "ref": "Al Bhed Primers/Al Bhed Primer IV/"
                     },
                     {
-                        "name": "Mana Sphere x2 (Chest)",
+                        "name": "Woods - Mana Sphere x2 (Chest)",
                         "ref": "Kilika/Woods/Mana Sphere x2 (Chest)/"
                     },
                     {
-                        "name": "Scout (Chest)",
+                        "name": "Woods - Scout (Chest)",
                         "ref": "Kilika/Woods/Scout (Chest)/"
                     },
                     {
-                        "name": "Remedy x1 (Leader NPC)",
+                        "name": "Woods - Remedy x1 (Leader NPC)",
                         "ref": "Kilika/Woods/Remedy x1 (Leader NPC)/"
                     },
                     {
-                        "name": "High Potion x1 (Guard NPC)",
+                        "name": "Woods - High Potion x1 (Guard NPC)",
                         "ref": "Kilika/Woods/High Potion x1 (Guard NPC)/"
                     },
                     {
-                        "name": "Luck Sphere x1 (Chest)",
+                        "name": "Woods - Luck Sphere x1 (Chest)",
                         "ref": "Kilika/Woods/Luck Sphere x1 (Chest)/"
                     },
                     {
-                        "name": "Luzu (NPC) - Antidote x4 (Before Ochu)",
+                        "name": "Woods - Luzu (NPC) - Antidote x4 (Before Ochu)",
                         "ref": "Kilika/Woods/Luzu (NPC)/Antidote x4 (Before Ochu)"
                     },
                     {
-                        "name": "Luzu (NPC) - Elixir x1 (After Ochu)",
+                        "name": "Woods - Luzu (NPC) - Elixir x1 (After Ochu)",
                         "ref": "Kilika/Woods/Luzu (NPC)/Elixir x1 (After Ochu)"
                     },
                     {
-                        "name": "Lord Ochu",
+                        "name": "Woods - Lord Ochu",
                         "ref": "Kilika/Woods/Lord Ochu/"
                     },
                     {
-                        "name": "Sinspawn Geneaux",
+                        "name": "Woods - Sinspawn Geneaux",
                         "ref": "Kilika/Woods/Sinspawn Geneaux/"
                     },
                     {
                         "name": "Cloister - Red Armlet",
                         "ref": "Kilika/Woods/Destruction Sphere/Red Armlet"
                     }                    
+                ]
+            },
+            {
+                "name": "S.S. Winno",
+                "map_locations": [{ "map": "Spira", "x": 887, "y": 910, "size": 24}],
+                "sections": [
+                    {
+                        "name": "Hi-Potion x1 (Chest)",
+                        "ref": "S.S. Winno/Hi-Potion x1 (Chest)/"
+                    },
+                    {
+                        "name": "Al Bhed Primer V",
+                        "ref": "Al Bhed Primers/Al Bhed Primer V/"
+                    },
+                    {
+                        "name": "Ace Wizard (Seagulls)",
+                        "ref": "S.S. Winno/Ace Wizard (Seagulls)/"
+                    }
                 ]
             }
         ]
