@@ -13,9 +13,7 @@
                 "title": "Airship",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "Airship"
-                    ]
+                    "maps": ["Airship"]
                 }
             },
             {
@@ -27,18 +25,14 @@
                             "title": "Baaj Temple",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Baaj Temple"
-                                ]
+                                "maps": ["Baaj Temple"]
                             }
                         },
                         {
                             "title": "Al Bhed Ship",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Al Bhed Ship"
-                                ]
+                                "maps": ["Al Bhed Ship"]
                             }
                         }
                     ]
@@ -53,27 +47,21 @@
                             "title": "Beach",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Besaid Beach"
-                                ]
+                                "maps": ["Besaid Beach"]
                             }
                         },
                         {
                             "title": "Village",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Besaid Village"
-                                ]
+                                "maps": ["Besaid Village"]
                             }
                         },
                         {
                             "title": "Ruins",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Besaid Ruins"
-                                ]
+                                "maps": ["Besaid Ruins"]
                             }
                         }
                     ]
@@ -83,18 +71,14 @@
                 "title": "Bevelle",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "Bevelle"
-                    ]
+                    "maps": ["Bevelle"]
                 }
             },
             {
                 "title": "Bikanel",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "Bikanel"
-                    ]
+                    "maps": ["Bikanel"]
                 }
             },
             {
@@ -106,36 +90,28 @@
                             "title": "Calm Lands",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Calm Lands"
-                                ]
+                                "maps": ["Calm Lands"]
                             }
                         },
                         {
                             "title": "Cavern of the Stolen Fayth",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Cavern of the Stolen Fayth"
-                                ]
+                                "maps": ["Cavern of the Stolen Fayth"]
                             }
                         },
                         {
                             "title": "Remiem Temple",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Remiem Temple"
-                                ]
+                                "maps": ["Remiem Temple"]
                             }
                         },
                         {
                             "title": "Monster Arena",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Monster Arena"
-                                ]
+                                "maps": ["Monster Arena"]
                             }
                         }
                     ]
@@ -145,44 +121,49 @@
                 "title": "Djose",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "Djose"
-                    ]
+                    "maps": ["Djose"]
                 }
             },
             {
                 "title": "Guadosalam",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "Guadosalam"
-                    ]
+                    "maps": ["Guadosalam"]
                 }
             },
             {
                 "title": "Home",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "Home"
-                    ]
+                    "maps": ["Home"]
                 }
             },
             {
                 "title": "Inside Sin",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "Inside Sin"
-                    ]
+                    "maps": ["Inside Sin"]
                 }
             },
             {
                 "title": "Kilika",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Kilika"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Village",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Kilika Village"]
+                            }
+                        },
+                        {
+                            "title": "Woods",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Kilika Woods"]
+                            }
+                        }
                     ]
                 }
             },
@@ -195,27 +176,21 @@
                             "title": "Lake Macalania",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Lake Macalania"
-                                ]
+                                "maps": ["Lake Macalania"]
                             }
                         },
                         {
                             "title": "Lake Macalania Bottom",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Lake Macalania Bottom"
-                                ]
+                                "maps": ["Lake Macalania Bottom"]
                             }
                         },
                         {
                             "title": "Macalania Woods",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Macalania Woods"
-                                ]
+                                "maps": ["Macalania Woods"]
                             }
                         }
                     ]
@@ -225,9 +200,7 @@
                 "title": "Luca",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "Luca"
-                    ]
+                    "maps": ["Luca"]
                 }
             },
             {
@@ -239,18 +212,14 @@
                             "title": "MiHen Highroad",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "MiHen Highroad"
-                                ]
+                                "maps": ["MiHen Highroad"]
                             }
                         },
                         {
                             "title": "Miihen Ruins",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Miihen Ruins"
-                                ]
+                                "maps": ["Miihen Ruins"]
                             }
                         }
                     ]
@@ -260,9 +229,7 @@
                 "title": "Moonflow",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "Moonflow"
-                    ]
+                    "maps": ["Moonflow"]
                 }
             },
             {
@@ -271,21 +238,17 @@
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Mt. Gagazet (Outside)",
+                            "title": "Outside",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Mt. Gagazet (Outside)"
-                                ]
+                                "maps": ["Mt. Gagazet (Outside)"]
                             }
                         },
                         {
-                            "title": "Mt. Gagazet (Cave)",
+                            "title": "Cave",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Mt. Gagazet (Cave)"
-                                ]
+                                "maps": ["Mt. Gagazet (Cave)"]
                             }
                         }
                     ]
@@ -295,54 +258,42 @@
                 "title": "Mushroom Rock Road",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "Mushroom Rock Road"
-                    ]
+                    "maps": ["Mushroom Rock Road"]
                 }
             },
             {
                 "title": "Omega Ruins",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "Omega Ruins"
-                    ]
+                    "maps": ["Omega Ruins"]
                 }
             },
             {
                 "title": "S.S. Liki",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "S.S. Liki"
-                    ]
+                    "maps": ["S.S. Liki"]
                 }
             },
             {
                 "title": "S.S. Winno",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "S.S. Winno"
-                    ]
+                    "maps": ["S.S. Winno"]
                 }
             },
             {
                 "title": "Sanubia Sands",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "Sanubia Sands"
-                    ]
+                    "maps": ["Sanubia Sands"]
                 }
             },
             {
                 "title": "Thunder Plains",
                 "content": {
                     "type": "map",
-                    "maps": [
-                        "Thunder Plains"
-                    ]
+                    "maps": ["Thunder Plains"]
                 }
             },
             {
@@ -354,18 +305,14 @@
                             "title": "Zanarkand",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Zanarkand"
-                                ]
+                                "maps": ["Zanarkand"]
                             }
                         },
                         {
                             "title": "Zanarkand Ruins",
                             "content": {
                                 "type": "map",
-                                "maps": [
-                                    "Zanarkand Ruins"
-                                ]
+                                "maps": ["Zanarkand Ruins"]
                             }
                         }
                     ]

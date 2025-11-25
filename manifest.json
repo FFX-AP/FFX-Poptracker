@@ -1,22 +1,16 @@
 {
-    "name": "Final Fantasy X Archipelago",
+    "name": "Final Fantasy X",
     "game_name": "Final Fantasy X",
     "package_version": "0.0.1",
-    "package_uid": "final fantasy x_ap",
-    "author": "builder_script",
+    "package_uid": "final_fantasy_X_andrewki",
+    "author": "Andrewki",
     "variants": {
         "Map Tracker": {
             "display_name": "Map Tracker",
             "flags": [
                 "ap"
             ]
-        },
-        // "Items Only": {
-        //     "display_name": "Items Only",
-        //     "flags": [
-        //         "ap"
-        //     ]
-        // }
+        }
     },
     "min_poptracker_version": "0.31.0"
 }

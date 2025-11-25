@@ -10,15 +10,15 @@
                 "map_locations": [{ "map": "Spira", "x": 610, "y": 675, "size": 32}],
                 "sections": [
                     {
-                        "name": "Al Bhed Ship - Potion x 3 (NPC)",
+                        "name": "Potion x 3 (NPC)",
                         "ref": "Al Bhed Ship/Potion x 3 (NPC)/"
                     },
                     {
-                        "name": "Al Bhed Ship - Al Bhed Primer I",
+                        "name": "Al Bhed Primer I",
                         "ref": "Al Bhed Primers/Al Bhed Primer I/"
                     },
                     {
-                        "name": "Al Bhed Ship - Tros Defeated",
+                        "name": "Tros Defeated",
                         "ref": "Al Bhed Ship/Tros Defeated/"
                     }
                 ]
@@ -142,7 +142,7 @@
                         "ref": "Al Bhed Primers/Al Bhed Primer II/"
                     },
                     {
-                        "name": "Village - Rod of Wisdom",
+                        "name": "Cloister - Rod of Wisdom",
                         "ref": "Besaid/Village/Destruction Sphere/Rod of Wisdom"
                     },
                     {
@@ -157,6 +157,90 @@
                         "name": "Super Bosses - Dark Valefor",
                         "ref": "Super Bosses/Dark Valefor/"
                     }
+                ]
+            },
+            {
+                "name": "S.S. Liki",
+                "map_locations": [{ "map": "Spira", "x": 810, "y": 1000, "size": 24}],
+                "sections": [
+                    {
+                        "name": "Remedy x1 (Chest)",
+                        "ref": "S.S. Liki/Remedy x1 (Chest)/"
+                    },
+                    {
+                        "name": "Al Bhed Primer III",
+                        "ref": "Al Bhed Primers/Al Bhed Primer III/"
+                    },
+                    {
+                        "name": "Sin Fin",
+                        "ref": "S.S. Liki/Sin Fin/"
+                    },
+                    {
+                        "name": "Sinspawn Echuilles",
+                        "ref": "S.S. Liki/Sinspawn Echuilles/"
+                    },
+                    {
+                        "name": "Friend Sphere x1 (Clasko NPC)",
+                        "ref": "S.S. Liki/Friend Sphere x1 (Clasko NPC)/"
+                    }
+                ]
+            },
+            {
+                "name": "Kilika",
+                "map_locations": [{ "map": "Spira", "x": 853, "y": 972, "size": 32}],
+                "sections": [
+                    {
+                        "name": "Remedy x1 (Chest)",
+                        "ref": "Kilika/Village/Potion x3 (Chest)/"
+                    },
+                    {
+                        "name": "Ether x1 (Chest)",
+                        "ref": "Kilika/Village/Ether x1 (Chest)/"
+                    },
+                    {
+                        "name": "Al Bhed Primer IV",
+                        "ref": "Al Bhed Primers/Al Bhed Primer IV/"
+                    },
+                    {
+                        "name": "Mana Sphere x2 (Chest)",
+                        "ref": "Kilika/Woods/Mana Sphere x2 (Chest)/"
+                    },
+                    {
+                        "name": "Scout (Chest)",
+                        "ref": "Kilika/Woods/Scout (Chest)/"
+                    },
+                    {
+                        "name": "Remedy x1 (Leader NPC)",
+                        "ref": "Kilika/Woods/Remedy x1 (Leader NPC)/"
+                    },
+                    {
+                        "name": "High Potion x1 (Guard NPC)",
+                        "ref": "Kilika/Woods/High Potion x1 (Guard NPC)/"
+                    },
+                    {
+                        "name": "Luck Sphere x1 (Chest)",
+                        "ref": "Kilika/Woods/Luck Sphere x1 (Chest)/"
+                    },
+                    {
+                        "name": "Luzu (NPC) - Antidote x4 (Before Ochu)",
+                        "ref": "Kilika/Woods/Luzu (NPC)/Antidote x4 (Before Ochu)"
+                    },
+                    {
+                        "name": "Luzu (NPC) - Elixir x1 (After Ochu)",
+                        "ref": "Kilika/Woods/Luzu (NPC)/Elixir x1 (After Ochu)"
+                    },
+                    {
+                        "name": "Lord Ochu",
+                        "ref": "Kilika/Woods/Lord Ochu/"
+                    },
+                    {
+                        "name": "Sinspawn Geneaux",
+                        "ref": "Kilika/Woods/Sinspawn Geneaux/"
+                    },
+                    {
+                        "name": "Cloister - Red Armlet",
+                        "ref": "Kilika/Woods/Destruction Sphere/Red Armlet"
+                    }                    
                 ]
             }
         ]

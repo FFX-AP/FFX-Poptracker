@@ -1,50 +1,31 @@
 [
     {
         "name": "S.S. Liki",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
+        "chest_unopened_img": "/images/Treasure.png",
+        "chest_opened_img": "/images/TreasureBW.png",
         "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
-        "sections": [
+        "access_rules": ["$hasBesaid"],
+        "children": [
             {
                 "name": "Remedy x1 (Chest)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Friend Sphere x1 (Clasko NPC)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Ace Wizard",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "map_locations": [{ "map": "S.S Liki", "x": 0, "y": 0}],
+                "sections": [{}]
             },
             {
                 "name": "Sin Fin",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "map_locations": [{ "map": "S.S Liki", "x": 0, "y": 0}],
+                "sections": [{}]
             },
             {
                 "name": "Sinspawn Echuilles",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
+                "map_locations": [{ "map": "S.S Liki", "x": 0, "y": 0}],
+                "sections": [{}]
+            },
             {
-                "map": "S.S. Liki",
-                "x": 2200,
-                "y": 2444,
-                "size": 6
+                "name": "Friend Sphere x1 (Clasko NPC)",
+                "map_locations": [{ "map": "S.S Liki", "x": 0, "y": 0}],
+                "access_rules": ["$hasMacalania"],
+                "sections": [{}]
             }
         ]
     }

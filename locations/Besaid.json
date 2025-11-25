@@ -78,7 +78,11 @@
                         "name": "Destruction Sphere",
                         "map_locations": [{ "map": "Besaid Village", "x": 80, "y": 227}],
                         "sections": [
-                            {"name": "Rod of Wisdom"}
+                            {
+                                "name": "Rod of Wisdom",
+                                "hosted_item": "besaiddestructionsphere",
+                                "clear_as_group": true
+                            }
                         ]
                     },
                     {

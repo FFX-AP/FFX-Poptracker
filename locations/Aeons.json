@@ -4,73 +4,31 @@
         "chest_unopened_img": "/images/Treasure.png",
         "chest_opened_img": "/images/TreasureBW.png",
         "overlay_background": "#000000",
-        "access_rules": [" "],
         "children": [
             {
                 "name": "Anima",
-                "map_locations": [{}],
-                "sections": [{ "access_rules": ["$hasBaaj, $canReachAnima", "{$hasBaaj}"]}]
+                "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
+                "access_rules": [
+                    "$hasBaaj, besaiddestructionsphere, kilikadestructionsphere", 
+                    "{$hasBaaj}"
+                ],
+                "sections": [{}]
+            },
+            {
+                "name": "Magus Sisters",
+                "map_locations": [{ "map": "Remiem Temple", "x": 0, "y": 0}],
+                "access_rules": [
+                    "$hasCalmLands, flowerscepter, blossomcrown",
+                    "{$hasCalmLands}"
+                ],
+                "sections": [{}]
+            },
+            {
+                "name": "Yojimbo",
+                "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 0, "y": 0}],
+                "access_rules": ["$hasCavern"],
+                "sections": [{}]
             }
         ]
-        
-        
-        // "sections": [
-        //     {
-        //         "name": "Valefor",
-        //         "access_rules": [],
-        //         "visibility_rules": [],
-        //         "item_count": 1
-        //     },
-        //     {
-        //         "name": "Ifrit",
-        //         "access_rules": [],
-        //         "visibility_rules": [],
-        //         "item_count": 1
-        //     },
-        //     {
-        //         "name": "Ixion",
-        //         "access_rules": [],
-        //         "visibility_rules": [],
-        //         "item_count": 1
-        //     },
-        //     {
-        //         "name": "Shiva",
-        //         "access_rules": [],
-        //         "visibility_rules": [],
-        //         "item_count": 1
-        //     },
-        //     {
-        //         "name": "Bahamut",
-        //         "access_rules": [],
-        //         "visibility_rules": [],
-        //         "item_count": 1
-        //     },
-        //     {
-        //         "name": "Anima",
-        //         "access_rules": [],
-        //         "visibility_rules": [],
-        //         "item_count": 1
-        //     },
-        //     {
-        //         "name": "Yojimbo",
-        //         "access_rules": [],
-        //         "visibility_rules": [],
-        //         "item_count": 1
-        //     },
-        //     {
-        //         "name": "Magus Sisters",
-        //         "access_rules": [],
-        //         "visibility_rules": [],
-        //         "item_count": 1
-        //     }
-        // ],
-        // "map_locations": [
-        //     {
-        //         "map": "Aeons",
-        //         "x": 206,
-        //         "y": 774,
-        //         "size": 6
-        //     }
-        // ]
     }
 ]

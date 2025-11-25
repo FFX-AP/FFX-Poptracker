@@ -138,7 +138,13 @@
         "img": "images/maps/Jecht Sphere.png"
     },
     {
-        "name": "Kilika",
+        "name": "Kilika Village",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kilika.png"
+    },
+    {
+        "name": "Kilika Woods",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Kilika.png"
