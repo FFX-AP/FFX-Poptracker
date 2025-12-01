@@ -2567,12 +2567,50 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 42,
-                        "item_width": 42,
+                        "item_height": 36,
+                        "item_width": 36,
                         "rows": [
                             [
                                 "cloudymirror",
-                                "celestialmirror"
+                                "celestialmirror",
+                                "rustysword"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "celestial_items_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "weapon(tidus)_caladbolg",
+                                "weapon(wakka)_worldchampion"
+                            ],
+                            [
+                                "suncrest",
+                                "jupitercrest"
+                            ],
+                            [
+                                "sunsigil",
+                                "jupitersigil"
                             ]
                         ]
                     }

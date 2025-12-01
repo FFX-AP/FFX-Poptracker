@@ -1,5 +1,5 @@
 function hasCaladbolg()
-    return has("weapon(tidus):caladbolg")
+    return has("weapon(tidus)_caladbolg")
 end
 
 function hasGodhand()
@@ -23,5 +23,5 @@ function hasSpiritLance()
 end
 
 function hasWorldChampion()
-    return has("weapon(wakka):worldchampion")
+    return has("weapon(wakka)_worldchampion")
 end

@@ -822,7 +822,7 @@
     {
         "name": "Sun Crest",
         "type": "toggle",
-        "img": "images/items/hd/Support_use_item_HD.png",
+        "img": "images/items/hd/Key_Item_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -1932,7 +1932,7 @@
     {
         "name": "Jupiter Crest",
         "type": "toggle",
-        "img": "images/items/jupitercrest.png",
+        "img": "images/items/hd/Key_Item_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -2442,7 +2442,7 @@
     {
         "name": "Jupiter Sigil",
         "type": "toggle",
-        "img": "images/items/jupitersigil.png",
+        "img": "images/items/hd/Key_Item_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -5312,13 +5312,16 @@
     },
     {
         "name": "Weapon (Wakka): World Champion",
-        "type": "toggle",
-        "img": "images/items/weapon(wakka):worldchampion.png",
+        "type": "consumable",
+        "img": "images/party/weapon/Blitzball.png",
         "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
+        "disabled_img": "images/party/weapon/Blitzball_BW.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(wakka):worldchampion"
+        "codes": "weapon(wakka)_worldchampion"
     },
     {
         "name": "[Warp Sphere] x 60",
@@ -7503,13 +7506,16 @@
     },
     {
         "name": "Weapon (Tidus): Caladbolg",
-        "type": "toggle",
-        "img": "images/items/hd/Support_use_item_HD.png",
+        "type": "consumable",
+        "img": "images/party/weapon/Sword.png",
         "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
+        "disabled_img": "images/party/weapon/Sword_BW.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(tidus):caladbolg"
+        "codes": "weapon(tidus)_caladbolg"
     },
     {
         "name": "[Winning Formula] x 40",
@@ -8504,7 +8510,7 @@
     {
         "name": "Sun Sigil",
         "type": "toggle",
-        "img": "images/items/hd/Support_use_item_HD.png",
+        "img": "images/items/hd/Key_Item_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -8824,7 +8830,7 @@
     {
         "name": "Rusty Sword",
         "type": "toggle",
-        "img": "images/items/rustysword.png",
+        "img": "images/items/hd/Key_Item_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,

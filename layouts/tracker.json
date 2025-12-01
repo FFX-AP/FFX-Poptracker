@@ -50,6 +50,15 @@
                             },
                             {
                                 "type": "group",
+                                "header": "Celestials",
+                                "dock": "top",
+                                "content": {
+                                    "type": "layout",
+                                    "key": "celestial_items_horizontal"
+                                }
+                            },
+                            {
+                                "type": "group",
                                 "header": "Options",
                                 "dock": "bottom",
                                 "content": {
