@@ -6,6 +6,8 @@
                 "title": "World Map",
                 "content": {
                     "type": "map",
+                    "h_alignment": "stretch",
+                    "v_alignment": "stretch",
                     "maps": ["Spira"]
                 }
             },

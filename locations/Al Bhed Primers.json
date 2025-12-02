@@ -169,6 +169,12 @@
                 "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 0, "y": 0}],
                 "access_rules": ["$hasCavern"],
                 "sections": [{}]
+            },
+            {
+                "name": "Al Bhed Primer XXVI",
+                "map_locations": [{ "map": "Omega Ruins", "x": 0, "y": 0}],
+                "access_rules": ["$hasOmega"],
+                "sections": [{}]
             }
         ]
     }

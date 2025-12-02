@@ -162,6 +162,41 @@
         "initial_active_state": false,
         "codes": "sanctuarykeeper"
     },
+    {
+        "name": "Spectral Keeper",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "spectralkeeper"
+    },
+    {
+        "name": "Yunalesca",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "yunalesca"
+    },
+    {
+        "name": "Seymour Omnis",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "seymouromnis"
+    },
+    {
+        "name": "Ultima Weapon",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ultimaweapon"
+    },
+    {
+        "name": "Omega Weapon",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "omegaweapon"
+    },
     
     //Dark Aeons
     {

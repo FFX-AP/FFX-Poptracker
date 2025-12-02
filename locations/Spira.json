@@ -7,7 +7,7 @@
         "children": [
             {
                 "name": "Al Bhed Ship",
-                "map_locations": [{ "map": "Spira", "x": 610, "y": 675, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 241, "y": 675, "size": 32}],
                 "sections": [
                     {
                         "name": "Potion x 3 (NPC)",
@@ -25,7 +25,7 @@
             },
             {
                 "name": "Baaj Temple",
-                "map_locations": [{ "map": "Spira", "x": 555, "y": 615, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 186, "y": 615, "size": 32}],
                 "sections": [
                     {
                         "name": "Outside - 200 gil (Chest)",
@@ -87,7 +87,7 @@
             },
             {
                 "name": "Besaid",
-                "map_locations": [{ "map": "Spira", "x": 779, "y": 1005, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 410, "y": 1005, "size": 32}],
                 "sections": [
                     {
                         "name": "Beach - Antidote x2",
@@ -169,7 +169,7 @@
             },
             {
                 "name": "S.S. Liki",
-                "map_locations": [{ "map": "Spira", "x": 810, "y": 1000, "size": 24}],
+                "map_locations": [{ "map": "Spira", "x": 441, "y": 1000, "size": 24}],
                 "sections": [
                     {
                         "name": "Remedy x1 (Chest)",
@@ -195,7 +195,7 @@
             },
             {
                 "name": "Kilika",
-                "map_locations": [{ "map": "Spira", "x": 854, "y": 971, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 485, "y": 971, "size": 32}],
                 "sections": [
                     {
                         "name": "Village - Remedy x1 (Chest)",
@@ -257,7 +257,7 @@
             },
             {
                 "name": "S.S. Winno",
-                "map_locations": [{ "map": "Spira", "x": 887, "y": 910, "size": 24}],
+                "map_locations": [{ "map": "Spira", "x": 518, "y": 910, "size": 24}],
                 "sections": [
                     {
                         "name": "Hi-Potion x1 (Chest)",
@@ -275,7 +275,7 @@
             },
             {
                 "name": "Luca",
-                "map_locations": [{ "map": "Spira", "x": 915, "y": 845, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 546, "y": 845, "size": 32}],
                 "sections": [
                     {
                         "name": "Stadium - Hi-Potion x2 (Chest)",
@@ -337,7 +337,7 @@
             },
             {
                 "name": "Miihen Highroad",
-                "map_locations": [{ "map": "Spira", "x": 895, "y": 760, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 526, "y": 760, "size": 32}],
                 "sections": [
                     {
                         "name": "South - Hi-Potion (Yellow Shirt NPC)",
@@ -443,7 +443,7 @@
             },
             {
                 "name": "Mushroom Rock Road",
-                "map_locations": [{ "map": "Spira", "x": 990, "y": 710, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 621, "y": 710, "size": 32}],
                 "sections": [
                     {
                         "name": "Entrance - Remedy x1 (Near Grey Helmet NPC)",
@@ -545,7 +545,7 @@
             },
             {
                 "name": "Djose",
-                "map_locations": [{ "map": "Spira", "x": 1105, "y": 687, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 736, "y": 687, "size": 32}],
                 "sections": [
                     {
                         "name": "Highroad - Phoenix Down x2 (Chest)",
@@ -627,7 +627,7 @@
             },
             {
                 "name": "Moonflow",
-                "map_locations": [{ "map": "Spira", "x": 1135, "y": 533, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 766, "y": 533, "size": 32}],
                 "sections": [
                     {
                         "name": "South - Lv. 1 Key Sphere x3 (Shelinda Chest)",
@@ -677,7 +677,7 @@
             },
             {
                 "name": "Guadosalam",
-                "map_locations": [{ "map": "Spira", "x": 1078, "y": 483, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 709, "y": 483, "size": 32}],
                 "sections": [
                     {
                         "name": "Guadosalam - Mega-Potion x1 (Chest)",
@@ -715,7 +715,7 @@
             },
             {
                 "name": "Thunder Plains",
-                "map_locations": [{ "map": "Spira", "x": 1177, "y": 383, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 808, "y": 383, "size": 32}],
                 "sections": [
                     {
                         "name": "South - Phoenix Down x2 (Chest)",
@@ -769,7 +769,7 @@
             },
             {
                 "name": "Macalania",
-                "map_locations": [{ "map": "Spira", "x": 1119, "y": 326, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 750, "y": 326, "size": 32}],
                 "sections": [
                     {
                         "name": "Woods - Sleepy Cait Sith (Chest)",
@@ -887,7 +887,7 @@
             },
             {
                 "name": "Celestial Flower",
-                "map_locations": [{ "map": "Spira", "x": 1085, "y": 326, "size": 24, "shape": "diamond"}],
+                "map_locations": [{ "map": "Spira", "x": 710, "y": 326, "size": 24, "shape": "diamond"}],
                 "sections": [
                     {
                         "name": "Celestial Mirror",
@@ -953,7 +953,7 @@
             },
             {
                 "name": "Bikanel",
-                "map_locations": [{ "map": "Spira", "x": 712, "y": 400, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 343, "y": 400, "size": 32}],
                 "sections": [
                     {
                         "name": "Bikanel East - Remedy x4 (Chest)",
@@ -1043,7 +1043,7 @@
             },
             {
                 "name": "Home",
-                "map_locations": [{ "map": "Spira", "x": 675, "y": 400, "size": 24}],
+                "map_locations": [{ "map": "Spira", "x": 306, "y": 400, "size": 24}],
                 "sections": [
                     {
                         "name": "Home - Hi-Potion x2 (NPC on Ground)",
@@ -1093,7 +1093,7 @@
             },
             {
                 "name": "Airship",
-                "map_locations": [{ "map": "Spira", "x": 740, "y": 500, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 460, "y": 520, "size": 32}],
                 "sections": [
                     {
                         "name": "Airship - Al Bhed Potion x4 (NPC)",
@@ -1131,7 +1131,7 @@
             },
             {
                 "name": "Bevelle",
-                "map_locations": [{ "map": "Spira", "x": 1047, "y": 273, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 678, "y": 273, "size": 32}],
                 "sections": [
                     {
                         "name": "Cloister - Al Bhed Primer XXII",
@@ -1201,7 +1201,7 @@
             },
             {
                 "name": "Calm Lands",
-                "map_locations": [{ "map": "Spira", "x": 1010, "y": 207, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 641, "y": 207, "size": 32}],
                 "sections": [
                     {
                         "name": "Plains - 5000 gil (Chest)",
@@ -1255,7 +1255,7 @@
             },
             {
                 "name": "Remiem Temple",
-                "map_locations": [{ "map": "Spira", "x": 1087, "y": 207, "size": 24}],
+                "map_locations": [{ "map": "Spira", "x": 718, "y": 207, "size": 24}],
                 "sections": [
                     {
                         "name": "Al Bhed Primer XXIV",
@@ -1309,7 +1309,7 @@
             },
             {
                 "name": "Monster Arena",
-                "map_locations": [{ "map": "Spira", "x": 1050, "y": 207, "size": 24, "shape": "diamond"}],
+                "map_locations": [{ "map": "Spira", "x": 681, "y": 207, "size": 24, "shape": "diamond"}],
                 "sections": [
                     {
                         "name": "Area Conquest (Calm Lands) - Nirvana",
@@ -1327,7 +1327,7 @@
             },
             {
                 "name": "Cavern of the Stolen Fayth",
-                "map_locations": [{ "map": "Spira", "x": 1080, "y": 145, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 711, "y": 145, "size": 32}],
                 "sections": [
                     {
                         "name": "Megalixir x1 (Chest)",
@@ -1373,7 +1373,7 @@
             },
             {
                 "name": "Mt. Gagazet",
-                "map_locations": [{ "map": "Spira", "x": 1080, "y": 70, "size": 32}],
+                "map_locations": [{ "map": "Spira", "x": 711, "y": 70, "size": 32}],
                 "sections": [
                     {
                         "name": "Outside - Biran and Yenke",
@@ -1434,6 +1434,148 @@
                     {
                         "name": "Super Bosses - Dark Anima",
                         "ref": "Super Bosses/Dark Anima/"
+                    }
+                ]
+            },
+            {
+                "name": "Zanarkand Ruins",
+                "map_locations": [{ "map": "Spira", "x": 785, "y": 50, "size": 32}],
+                "sections": [
+                    {
+                        "name": "Overpass - Fortune Sphere x1 (Chest)",
+                        "ref": "Zanarkand/Overpass/Fortune Sphere x1 (Chest)/"
+                    },
+                    {
+                        "name": "Overpass - Spiritual Targe (Chest)",
+                        "ref": "Zanarkand/Overpass/Spiritual Targe (Chest)/"
+                    },
+                    {
+                        "name": "Dome - 10000 gil (Chest)",
+                        "ref": "Zanarkand/Dome/10000 gil (Chest)/"
+                    },
+                    {
+                        "name": "Dome - Friend Sphere x1 (Chest)",
+                        "ref": "Zanarkand/Dome/Friend Sphere x1 (Chest)/"
+                    },
+                    {
+                        "name": "Dome - Lv. 3 Key Sphere x1 (Chest)",
+                        "ref": "Zanarkand/Dome/Lv. 3 Key Sphere x1 (Chest)/"
+                    },
+                    {
+                        "name": "Dome - Luck Sphere x1 (Chest)",
+                        "ref": "Zanarkand/Dome/Luck Sphere x1 (Chest)/"
+                    },
+                    {
+                        "name": "Cloister -Magistral Rod ",
+                        "ref": "Zanarkand/Cloister/Destruction Sphere/Magistral Rod"
+                    },
+                    {
+                        "name": "Cloister - Spectral Keeper",
+                        "ref": "Zanarkand/Cloister/Spectral Keeper/"
+                    },
+                    {
+                        "name": "Cloister - Yunalesca",
+                        "ref": "Zanarkand/Cloister/Yunalesca/"
+                    },
+                    {
+                        "name": "Cloister - Sun Crest (Chest)",
+                        "ref": "Celestial/Tidus/Sun Crest (Chest)/"
+                    },
+                    {
+                        "name": "Super Bosses - Dark Bahamut",
+                        "ref": "Super Bosses/Dark Bahamut/"
+                    }
+                ]
+            },
+            {
+                "name": "Inside Sin",
+                "map_locations": [{ "map": "Spira", "x": 930, "y": 100, "size": 32}],
+                "sections": [
+                    {
+                        "name": "Sea of Sorrow - Phantom Ring (Chest)",
+                        "ref": "Inside Sin/Sea of Sorrow/Phantom Ring (Chest)/"
+                    },
+                    {
+                        "name": "Sea of Sorrow - Special Sphere x1 (Chest)",
+                        "ref": "Inside Sin/Sea of Sorrow/Special Sphere x1 (Chest)/"
+                    },
+                    {
+                        "name": "Sea of Sorrow - Elixir x1 (Chest)",
+                        "ref": "Inside Sin/Sea of Sorrow/Elixir x1 (Chest)/"
+                    },
+                    {
+                        "name": "Sea of Sorrow - Wizard Lance (Chest)",
+                        "ref": "Inside Sin/Sea of Sorrow/Wizard Lance (Chest)/"
+                    },
+                    {
+                        "name": "Sea of Sorrow - Lv. 3 Key Sphere x1 (Chest)",
+                        "ref": "Inside Sin/Sea of Sorrow/Lv. 3 Key Sphere x1 (Chest)/"
+                    },
+                    {
+                        "name": "Sea of Sorrow - Seymour Omnis",
+                        "ref": "Inside Sin/Sea of Sorrow/Seymour Omnis/"
+                    },
+                    {
+                        "name": "City of Dying Dreams - Lv. 4 Key Sphere x1 (Chest)",
+                        "ref": "Inside Sin/City of Dying Dreams/Lv. 4 Key Sphere x1 (Chest)/"
+                    },
+                    {
+                        "name": "City of Dying Dreams - Four-on-One (Chest)",
+                        "ref": "Inside Sin/City of Dying Dreams/Four-on-One (Chest)/"
+                    },
+                    {
+                        "name": "City of Dying Dreams - Defending Bracer (Chest)",
+                        "ref": "Inside Sin/City of Dying Dreams/Defending Bracer (Chest)/"
+                    },
+                    {
+                        "name": "City of Dying Dreams - 20000 gil (Chest)",
+                        "ref": "Inside Sin/City of Dying Dreams/20000 gil (Chest)/"
+                    },
+                    {
+                        "name": "City of Dying Dreams - Megalixir x1 (Chest)",
+                        "ref": "Inside Sin/City of Dying Dreams/Megalixir x1 (Chest)/"
+                    },
+                    {
+                        "name": "City of Dying Dreams - HP Sphere x1 (Chest)",
+                        "ref": "Inside Sin/City of Dying Dreams/HP Sphere x1 (Chest)/"
+                    },
+                    {
+                        "name": "City of Dying Dreams - Defense Sphere x1 (Chest)",
+                        "ref": "Inside Sin/City of Dying Dreams/Defense Sphere x1 (Chest)/"
+                    },
+                    {
+                        "name": "City of Dying Dreams - Laevatein (Chest)",
+                        "ref": "Inside Sin/City of Dying Dreams/Laevatein (Chest)/"
+                    }
+                ]
+            },
+            {
+                "name": "Omega Ruins",
+                "map_locations": [{ "map": "Spira", "x": 1245, "y": 472, "size": 32}],
+                "sections": [
+                    {
+                        "name": "Teleport Sphere x1 (Chest)",
+                        "ref": "Omega Ruins/Teleport Sphere x1 (Chest)/"
+                    },
+                    {
+                        "name": "Friend Sphere x1 (Chest)",
+                        "ref": "Omega Ruins/Friend Sphere x1 (Chest)/"
+                    },
+                    {
+                        "name": "Magic Sphere x1 (Chest)",
+                        "ref": "Omega Ruins/Magic Sphere x1 (Chest)/"
+                    },
+                    {
+                        "name": "Al Bhed Primer XXVI",
+                        "ref": "Al Bhed Primers/Al Bhed Primer XXVI/"
+                    },
+                    {
+                        "name": "Ultima Weapon",
+                        "ref": "Omega Ruins/Ultima Weapon/"
+                    },
+                    {
+                        "name": "Omega Weapon",
+                        "ref": "Omega Ruins/Omega Weapon/"
                     }
                 ]
             }

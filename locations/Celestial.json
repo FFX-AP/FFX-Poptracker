@@ -226,7 +226,7 @@
                     {
                         "name": "Sun Crest (Chest)",
                         "map_locations": [{ "map": "Zanarkand Dome", "x": 0, "y": 0}],
-                        "access_rules": ["$hasZanarkand"],
+                        "access_rules": ["$hasZanarkand, yunalesca", "{$hasZanarkand}"],
                         "sections": [{}]
                     },
                     {

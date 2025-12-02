@@ -3131,13 +3131,16 @@
     },
     {
         "name": "Weapon (Lulu): Onion Knight",
-        "type": "toggle",
-        "img": "images/items/weapon(lulu):onionknight.png",
+        "type": "consumable",
+        "img": "images/party/weapon/Doll.png",
         "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
+        "disabled_img": "images/party/weapon/Doll_BW.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(lulu):onionknight"
+        "codes": "weapon(lulu)_onionknight"
     },
     {
         "name": "[Clear Sphere] x 10",
@@ -8429,13 +8432,16 @@
     },
     {
         "name": "Weapon (Yuna): Nirvana",
-        "type": "toggle",
-        "img": "images/items/weapon(yuna):nirvana.png",
+        "type": "consumable",
+        "img": "images/party/weapon/Rod.png",
         "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
+        "disabled_img": "images/party/weapon/Rod_BW.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(yuna):nirvana"
+        "codes": "weapon(yuna)_nirvana"
     },
     {
         "name": "Turbo Ether x 30",
@@ -8559,13 +8565,16 @@
     },
     {
         "name": "Weapon (Kimahri): Spirit Lance",
-        "type": "toggle",
-        "img": "images/items/weapon(kimahri):spiritlance.png",
+        "type": "consumable",
+        "img": "images/party/weapon/Spear.png",
         "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
+        "disabled_img": "images/party/weapon/Spear_BW.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(kimahri):spiritlance"
+        "codes": "weapon(kimahri)_spiritlance"
     },
     {
         "name": "Mana Distiller x 50",
@@ -9259,13 +9268,16 @@
     },
     {
         "name": "Weapon (Auron): Masamune",
-        "type": "toggle",
-        "img": "images/items/weapon(auron):masamune.png",
+        "type": "consumable",
+        "img": "images/party/weapon/Katana.png",
         "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
+        "disabled_img": "images/party/weapon/Katana_BW.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(auron):masamune"
+        "codes": "weapon(auron)_masamune"
     },
     {
         "name": "[Map] x 10",
@@ -11589,13 +11601,16 @@
     },
     {
         "name": "Weapon (Rikku): Godhand",
-        "type": "toggle",
-        "img": "images/items/weapon(rikku):godhand.png",
+        "type": "consumable",
+        "img": "images/party/weapon/Claw.png",
         "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
+        "disabled_img": "images/party/weapon/Claw_BW.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(rikku):godhand"
+        "codes": "weapon(rikku)_godhand"
     },
     {
         "name": "Chocobo Wing x 20",

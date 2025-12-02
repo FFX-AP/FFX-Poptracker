@@ -1,8 +1,6 @@
-Tracker:AddLayouts("layouts/settings_popup.json")
 Tracker:AddLayouts("layouts/items.json")
 Tracker:AddLayouts("layouts/maps.json")
 Tracker:AddLayouts("layouts/party_members.json")
 Tracker:AddLayouts("layouts/regions.json")
 Tracker:AddLayouts("layouts/options.json")
 Tracker:AddLayouts("layouts/tracker.json")
-Tracker:AddLayouts("layouts/broadcast.json")

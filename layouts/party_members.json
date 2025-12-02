@@ -15,8 +15,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
+                        "item_height": 40,
+                        "item_width": 40,
                         "rows": [
                             [
                                 "partymember:tidus",
@@ -52,8 +52,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
+                        "item_height": 40,
+                        "item_width": 40,
                         "rows": [
                             [
                                 "partymember:valefor",

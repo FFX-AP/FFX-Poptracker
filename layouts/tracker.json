@@ -7,6 +7,18 @@
                 "type": "dock",
                 "content": [
                     {
+                        "type": "group",
+                        "header": "Maps",
+                        "v_alignment": "stretch",
+                        "margin": "0, 0",
+                        "content": [
+                            {
+                                "type": "layout",
+                                "key": "tabbed_maps_horizontal"
+                            }
+                        ]
+                    },
+                    {
                         "type": "dock",
                         "dock": "left",
                         "h_alignment": "stretch",
@@ -47,40 +59,9 @@
                                     "type": "layout",
                                     "key": "key_items_horizontal"
                                 }
-                            },
-                            {
-                                "type": "group",
-                                "header": "Celestials",
-                                "dock": "top",
-                                "content": {
-                                    "type": "layout",
-                                    "key": "celestial_items_horizontal"
-                                }
-                            },
-                            {
-                                "type": "group",
-                                "header": "Options",
-                                "dock": "bottom",
-                                "content": {
-                                    "type": "layout",
-                                    "key": "options_horizontal"
-                                }
                             }
                         ]
-                    },
-                    {
-                        "type": "group",
-                        "header": "Maps",
-                        "v_alignment": "stretch",
-                        "margin": "0, 0",
-                        "content": [
-                            {
-                                "type": "layout",
-                                "key": "tabbed_maps_horizontal"
-                            }
-                        ]
-                    }
-
+                    }                    
                 ]
             }   
         ]
