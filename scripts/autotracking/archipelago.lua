@@ -81,14 +81,15 @@ function applySlotData(slot_data)
 
     if options['super_bosses'] then
         print("SUPER BOSSES = ", options['super_bosses'])
-        local setOption = options['super_bosses']
-        local itemOption = Tracker:FindObjectForCode("superbosses")
+        -- local setOption = options['super_bosses']
+        -- local itemOption = Tracker:FindObjectForCode("superbosses")
 
-        itemOption.Active = setOption
+        -- itemOption.Active = setOption
     end
 end
 
 function onClear(slot_data)
+    print("ON CLEAR CALLED")
     ScriptHost:RemoveWatchForCode("StateChanged")
     ScriptHost:RemoveOnLocationSectionHandler("location_section_change_handler")
     --SLOT_DATA = slot_data
@@ -141,7 +142,7 @@ function onClear(slot_data)
         end
     end
 
-    -- applySlotData(slot_data)
+    applySlotData(slot_data)
 
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
