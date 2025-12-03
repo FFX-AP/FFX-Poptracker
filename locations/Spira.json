@@ -78,11 +78,11 @@
                     {
                         "name": "Temple - Onion Knight (Chest)",
                         "ref": "Celestial/Lulu/Onion Knight (Chest)/"
-                    },
-                    {
-                        "name": "Temple - Anima",
-                        "ref": "Aeons/Anima/"
                     }
+                    // {
+                    //     "name": "Temple - Anima",
+                    //     "ref": "Aeons/Anima/"
+                    // }
                 ]
             },
             {
