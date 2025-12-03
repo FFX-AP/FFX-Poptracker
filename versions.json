@@ -1,6 +1,22 @@
 {
     "versions": [
         {
+            "package_version": "0.1.7",
+            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.7/FFX.zip",
+            "sha256": "79ed3e19c33697371416d704b8bef9a01e8cfbfd0c6cb9c9302db19910d891ba",
+            "changelog": [
+                " - Removed Anima check",
+                " - Removed Al Bhed 'What do I contain?' Chest",
+                " - Fixed various Besaid Chests not showing",
+                " - - Aurochs on beach",
+                " - - Behind the shop",
+                " - - Dock NPCs",
+                " - Macalania Woods Lucid Ring Chest requires Bevelle",
+                " - Masamune Crest/Sigil upgrade icon incorrect",
+                " - Serene Armlet not showing in MRR"
+            ]
+        },
+        {
             "package_version": "0.1.6",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.6/FFX.zip",
             "sha256": "31febc37045302dc786712d65c41fe23a24f50e97d5423793193fa1e1bddebeb",

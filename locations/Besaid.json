@@ -18,21 +18,74 @@
                         "name": "Aurochs",
                         "map_locations": [{ "map": "Besaid Beach", "x": 150, "y": 520}],
                         "sections": [
-                            {"name": "Hi-Potion x1 (Datto NPC)"},
-                            {"name": "Potion x3 (Jassu NPC)"},
-                            {"name": "Potion x2 (Botta NPC)"},
-                            {"name": "200 gil (Keepa NPC)"}
+                            {
+                                "hosted_item": "aurochs1, aurochs2, aurochs3, aurochs4",
+                                "clear_as_group": false
+                            },
+                            {
+                                "name": "Hi-Potion x1 (Datto NPC)",
+                                "hosted_item": "aurochs1",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            },
+                            {
+                                "name": "Potion x3 (Jassu NPC)",
+                                "hosted_item": "aurochs2",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            },
+                            {
+                                "name": "Potion x2 (Botta NPC)",
+                                "hosted_item": "aurochs3",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            },
+                            {
+                                "name": "200 gil (Keepa NPC)",
+                                "hosted_item": "aurochs4",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            }
                         ]
                     },
                     {
                         "name": "Dock",
                         "map_locations": [{ "map": "Besaid Beach", "x": 103, "y": 550}],
                         "sections": [
-                            {"name": "Remedy x1 (Kid on Dock Bridge NPC)"},
-                            {"name": "Seekers Ring (Priest NPC)"},
-                            {"name": "Phoenix Down x3 (Woman NPC)"},
-                            {"name": "400 gil (Shirtless Man NPC)"},
-                            {"name": "Ether (Green Shirt NPC)"}
+                            {
+                                "hosted_item": "besaiddock1, besaiddock2, besaiddock3, besaiddock4, besaiddock5",
+                                "clear_as_group": false
+                            },
+                            {
+                                "name": "Remedy x1 (Kid on Dock Bridge NPC)",
+                                "hosted_item": "besaiddock1",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            },
+                            {
+                                "name": "Seekers Ring (Priest NPC)",
+                                "hosted_item": "besaiddock2",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            },
+                            {
+                                "name": "Phoenix Down x3 (Woman NPC)",
+                                "hosted_item": "besaiddock3",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            },
+                            {
+                                "name": "400 gil (Shirtless Man NPC)",
+                                "hosted_item": "besaiddock4",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            },
+                            {
+                                "name": "Ether (Green Shirt NPC)",
+                                "hosted_item": "besaiddock5",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            }
                         ]
                     }
                 ]
@@ -69,9 +122,28 @@
                         "name": "Behind Shop",
                         "map_locations": [{ "map": "Besaid Village", "x": 208, "y": 430}],
                         "sections": [
-                            {"name": "Hi-Potion x1 (Chest)"},
-                            {"name": "400 gil (Chest)"},
-                            {"name": "Potion x2 (Chest)"}
+                            {
+                                "hosted_item": "behindtheshop1, behindtheshop2, behindtheshop3",
+                                "clear_as_group": false
+                            },
+                            {
+                                "name": "Hi-Potion x1 (Chest)",
+                                "hosted_item": "behindtheshop1",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            },
+                            {
+                                "name": "400 gil (Chest)",
+                                "hosted_item": "behindtheshop2",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            },
+                            {
+                                "name": "Potion x2 (Chest)",
+                                "hosted_item": "behindtheshop3",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            }
                         ]
                     },
                     {
@@ -89,7 +161,6 @@
                     {
                         "name": "Exit the Village (Event)",
                         "map_locations": [{ "map": "Besaid Village", "x": 245, "y": 350, "size": 16}],
-                        // "access_rules": ["besaidcloister", "{$hasBesaid}"],
                         "sections": [
                             {"name": "Map"},
                             {"name": "Brotherhood", "ref": "Celestial/Tidus/Brotherhood/"}

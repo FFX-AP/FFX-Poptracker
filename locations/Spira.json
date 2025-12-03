@@ -98,20 +98,8 @@
                         "ref": "Celestial/Yuna/Moon Crest (Chest)/"
                     },
                     {
-                        "name": "Aurochs - Datto (NPC)",
-                        "ref": "Besaid/Beach/Aurochs/Hi-Potion x1 (Datto NPC)"
-                    },
-                    {
-                        "name": "Aurochs - Jassu (NPC)",
-                        "ref": "Besaid/Beach/Aurochs/Potion x3 (Jassu NPC)"
-                    },
-                    {
-                        "name": "Aurochs - Botta (NPC)",
-                        "ref": "Besaid/Beach/Aurochs/Potion x2 (Botta NPC)"
-                    },
-                    {
-                        "name": "Aurochs - Keepa (NPC)",
-                        "ref": "Besaid/Beach/Aurochs/200 gil (Keepa NPC)"
+                        "name": "Aurochs - Aurochs NPCs",
+                        "ref": "Besaid/Beach/Aurochs/"
                     },
                     {
                         "name": "Valley - Phoenix Down x1 (Chest)",
@@ -130,16 +118,8 @@
                         "ref": "Besaid/Village/Phoenix Down x1 (Chest)/"
                     },
                     {
-                        "name": "Village - Hi-Potion x1 (Chest)",
-                        "ref": "Besaid/Village/Behind Shop/Hi-Potion x1 (Chest)/"
-                    },
-                    {
-                        "name": "Village - 400 gil (Chest)",
-                        "ref": "Besaid/Village/Behind Shop/400 gil (Chest)/"
-                    },
-                    {
-                        "name": "Village - Potion x2 (Chest)",
-                        "ref": "Besaid/Village/Behind Shop/Potion x2 (Chest)/"
+                        "name": "Village - Behind the Shop (Chests)",
+                        "ref": "Besaid/Village/Behind Shop/"
                     },
                     {
                         "name": "Village - Al Bhed Primer II",
@@ -160,6 +140,10 @@
                     {
                         "name": "Village - Brotherhood",
                         "ref": "Celestial/Tidus/Brotherhood/"
+                    },
+                    {
+                        "name": "Beach - Dock NPCs",
+                        "ref": "Besaid/Beach/Dock/"
                     },
                     {
                         "name": "Super Bosses - Dark Valefor",
@@ -491,7 +475,7 @@
                     },
                     {
                         "name": "Precipice - Serene Armlet (Chest)",
-                        "ref": "Mushroom Rock Road/PrecipiceSerene Armlet (Chest)/"
+                        "ref": "Mushroom Rock Road/Precipice/Serene Armlet (Chest)/"
                     },
                     {
                         "name": "Precipice - Al Bhed Primer X",
@@ -1093,10 +1077,10 @@
                         "name": "Home - Friend Sphere x1 (Al Bhed Vocabulary Chest)",
                         "ref": "Bikanel/Home/Friend Sphere x1 (Al Bhed Vocabulary Chest)/"
                     },
-                    {
-                        "name": "Home - Elixir x1 (Al Bhed Vocabulary Chest)",
-                        "ref": "Bikanel/Home/Elixir x1 (Al Bhed Vocabulary Chest)/"
-                    },
+                    // {
+                    //     "name": "Home - Elixir x1 (Al Bhed Vocabulary Chest)",
+                    //     "ref": "Bikanel/Home/Elixir x1 (Al Bhed Vocabulary Chest)/"
+                    // },
                     {
                         "name": "Home - Area Completion",
                         "ref": "Bikanel/Home/Area Completion/"

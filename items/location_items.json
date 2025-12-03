@@ -653,9 +653,9 @@
     {
         "name": "Masamune - Crest Upgrade",
         "type": "toggle",
-        "img": "images/party/weapon/Rod_BW.png",
+        "img": "images/party/weapon/Katana_BW.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/party/weapon/Rod.png",
+        "disabled_img": "images/party/weapon/Katana.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -664,9 +664,9 @@
     {
         "name": "Masamune - Sigil Upgrade",
         "type": "toggle",
-        "img": "images/party/weapon/Rod_BW.png",
+        "img": "images/party/weapon/Katana_BW.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/party/weapon/Rod.png",
+        "disabled_img": "images/party/weapon/Katana.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -828,5 +828,137 @@
         "capturable": true,
         "initial_active_state": false,
         "codes": "homecompletion3"
+    },
+    {
+        "name": "Hi-Potion x1 (Datto NPC)",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "aurochs1"
+    },
+    {
+        "name": "Potion x3 (Jassu NPC)",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "aurochs2"
+    },
+    {
+        "name": "Potion x2 (Botta NPC)",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "aurochs3"
+    },
+    {
+        "name": "200 gil (Keepa NPC)",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "aurochs4"
+    },
+    {
+        "name": "Hi-Potion x1 (Chest)",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "behindtheshop1"
+    },
+    {
+        "name": "400 gil (Chest)",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "behindtheshop2"
+    },
+    {
+        "name": "Potion x2 (Chest)",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "behindtheshop3"
+    },
+    {
+        "name": "Remedy x1 (Kid on Dock Bridge NPC)",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "besaiddock1"
+    },
+    {
+        "name": "Seekers Ring (Priest NPC)",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "besaiddock2"
+    },
+    {
+        "name": "Phoenix Down x3 (Woman NPC)",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "besaiddock3"
+    },
+    {
+        "name": "400 gil (Shirtless Man NPC)",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "besaiddock4"
+    },
+    {
+        "name": "Ether (Green Shirt NPC)",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "besaiddock5"
     }
 ]
