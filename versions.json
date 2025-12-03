@@ -3,7 +3,7 @@
         {
             "package_version": "0.1.5",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.5/FFX.zip",
-            "sha256": "",
+            "sha256": "de60437c77a001b16e98b394b6befff8e18c4a0b57726264083eee9019f2ce99",
             "changelog": [
                 " - Removed unused location mappings",
                 " - Fixed Spirit Lance Upgrade logic"
