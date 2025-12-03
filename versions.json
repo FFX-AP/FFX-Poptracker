@@ -1,6 +1,17 @@
 {
     "versions": [
         {
+            "package_version": "0.1.6",
+            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.6/FFX.zip",
+            "sha256": "31febc37045302dc786712d65c41fe23a24f50e97d5423793193fa1e1bddebeb",
+            "changelog": [
+                " - Dark Aeons autotracking fixes",
+                " - Dark Yojimbo logic fixed",
+                " - Bikanel Al Bhed Potion Chests fixed (needs testing)",
+                " - Blossom Crown location ID reactivated"
+            ]
+        },
+        {
             "package_version": "0.1.5",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.5/FFX.zip",
             "sha256": "de60437c77a001b16e98b394b6befff8e18c4a0b57726264083eee9019f2ce99",

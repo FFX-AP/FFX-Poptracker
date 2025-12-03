@@ -108,7 +108,7 @@
             {
                 "name": "Dark Yojimbo",
                 "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 245, "y": 465}],
-                "access_rules": ["$hasCavern"],
+                "access_rules": ["$hasCavern, $hasCalmLands"],
                 "sections": [
                     {
                         "hosted_item": "darkyojimbo",
