@@ -37,7 +37,7 @@ end
 function OnFrameHandler()
     ScriptHost:RemoveOnFrameHandler("load handler")
     -- stuff
-    ScriptHost:AddWatchForCode("StateChanged", "*", StateChanged)
+    -- ScriptHost:AddWatchForCode("StateChanged", "*", StateChanged)
     ScriptHost:AddOnLocationSectionChangedHandler("location_section_change_handler", ForceUpdate)
     ForceUpdate()
 end

@@ -60,7 +60,7 @@ function onClearHandler(slot_data)
         -- locations from AP have been processed.
         local handlerName = "AP onClearHandler"
         local function frameCallback()
-            ScriptHost:AddWatchForCode("StateChange", "*", StateChanged)
+            -- ScriptHost:AddWatchForCode("StateChange", "*", StateChanged)
             ScriptHost:RemoveOnFrameHandler(handlerName)
             Tracker.BulkUpdate = false
             ForceUpdate()
@@ -77,30 +77,30 @@ end
 -- apply everything needed from slot_data, called from onClear
 function applySlotData(slot_data)
     print("APPLY SLOT DATA")
-    local options = slot_data["options"]
+    -- local options = slot_data["options"]
 
-    if options['super_bosses'] then
-        print("SUPER BOSSES = ", options['super_bosses'])
-        local setOption = options['super_bosses']
-        local itemOption = Tracker:FindObjectForCode("superbosses")
-
-        itemOption.Active = setOption
+    if slot_data["super_bosses"] then 
+        Tracker:FindObjectForCode("superbosses").Active = slot_data["super_bosses"]
     end
 end
 
 function onClear(slot_data)
+    print("ON CLEAR CALLED")
     ScriptHost:RemoveWatchForCode("StateChanged")
     ScriptHost:RemoveOnLocationSectionHandler("location_section_change_handler")
-    --SLOT_DATA = slot_data
+    SLOT_DATA = slot_data
     CUR_INDEX = -1
     -- reset locations
     for _, location_array in pairs(LOCATION_MAPPING) do
+        -- print("LOCATION_ARRAY: " + location_array)
         for _, location in pairs(location_array) do
+            -- print("LOCATION: " + location)
             if location then
                 local location_obj = Tracker:FindObjectForCode(location)
                 if location_obj then
                     if location:sub(1, 1) == "@" then
                         -- location_obj.AvailableChestCount = location_obj.ChestCount
+                        -- print ("LOCATION: " .. location)
                         local obj = Tracker:FindObjectForCode(location)
 						if obj then
 							obj.AvailableChestCount = obj.ChestCount
@@ -141,7 +141,7 @@ function onClear(slot_data)
         end
     end
 
-    -- applySlotData(slot_data)
+    applySlotData(slot_data)
 
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0

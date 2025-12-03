@@ -89,7 +89,7 @@
                             {
                                 "name": "Crest",
                                 "access_rules": [
-                                    "$saturncrest", 
+                                    "saturncrest", 
                                     "{$hasMacalania, celestialmirror, $hasSpiritLance}"
                                 ],
                                 "hosted_item": "spiritlancecrest",
@@ -243,7 +243,6 @@
                     {
                         "name": "Brotherhood",
                         "map_locations": [{ "map": "Besaid", "x": 0, "y": 0}],
-                        // "access_rules": ["$hasBesaid, besaidcloister", "{$hasBesaid}"],
                         "access_rules": ["$hasBesaid"],
                         "sections": [{}]
                     },
