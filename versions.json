@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "0.1.8",
+            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.8/FFX.zip",
+            "sha256": "6aad9a97ac67eaecf5fdb2538780d36839afe9a2f18c69d61207ff3367afbbfb",
+            "changelog": [
+                " - Fixed mismatched references in Baaj"
+            ]
+        },
+        {
             "package_version": "0.1.7",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.7/FFX.zip",
             "sha256": "79ed3e19c33697371416d704b8bef9a01e8cfbfd0c6cb9c9302db19910d891ba",
