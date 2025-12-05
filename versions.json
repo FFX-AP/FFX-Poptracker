@@ -3,7 +3,7 @@
         {
             "package_version": "0.1.10",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.10/FFX.zip",
-            "sha256": "",
+            "sha256": "1e5c8eb348969d749240bb6709199b2e4a8d795edca7f40b2c98ca608cab1dd7",
             "changelog": [
                 " - S.S. Liki bosses require Wakka to be in logic",
                 " - Fixed ordering of Miihen Highroad checks on World Map",
