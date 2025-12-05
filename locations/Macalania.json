@@ -32,6 +32,7 @@
                     {
                         "name": "Spherimorph",
                         "map_locations": [{ "map": "Macalania Woods", "x": 0, "y": 0}],
+                        "access_rules": ["[$hasPartyMembers|3]"],
                         "sections": [
                             {
                                 "hosted_item": "spherimorph",
@@ -43,14 +44,14 @@
                     {
                         "name": "Lucid Ring (Chest)",
                         "map_locations": [{ "map": "Macalania Woods", "x": 0, "y": 0}],
-                        "access_rules": ["spherimorph, $hasBevelle", "{$hasMacalania}"],
+                        "access_rules": ["spherimorph, $hasBevelle"],
                         "sections": [{}]
                     }
                 ]
             },
             {
                 "name": "Lake",
-                "access_rules": ["spherimorph", "{$hasMacalania}"],
+                "access_rules": ["spherimorph"],
                 "children": [
                     {
                         "name": "Agency",
@@ -58,6 +59,7 @@
                             {
                                 "name": "Crawler",
                                 "map_locations": [{ "map": "Lake Macalania", "x": 0, "y": 0}],
+                                "access_rules": ["[$hasPartyMembers|3]"],
                                 "sections": [
                                     {
                                         "hosted_item": "crawler",
@@ -69,13 +71,13 @@
                             {
                                 "name": "4000 gil (Chest)",
                                 "map_locations": [{ "map": "Lake Macalania", "x": 0, "y": 0}],
-                                "access_rules": ["crawler", "{$hasMacalania}"],
+                                "access_rules": ["crawler"],
                                 "sections": [{}]
                             },
                             {
                                 "name": "Wendigo",
                                 "map_locations": [{ "map": "Lake Macalania", "x": 0, "y": 0}],
-                                "access_rules": ["seymouranima", "{$hasMacalania}"],
+                                "access_rules": ["seymouranima, [$hasPartyMembers|3]"],
                                 "sections": [
                                     {
                                         "hosted_item": "wendigo",
@@ -88,7 +90,7 @@
                     },
                     {
                         "name": "Road",
-                        "access_rules": ["crawler", "{$hasMacalania}"],
+                        "access_rules": ["crawler"],
                         "children": [
                             {
                                 "name": "Mega-Potion x1 (Chest)",
@@ -109,7 +111,7 @@
                     },
                     {
                         "name": "Temple",
-                        "access_rules": ["crawler", "{$hasMacalania}"],
+                        "access_rules": ["crawler"],
                         "children": [
                             {
                                 "name": "Shell Targe (Tromell)",
@@ -154,6 +156,7 @@
                             {
                                 "name": "Seymour",
                                 "map_locations": [{ "map": "Lake Macalania", "x": 0, "y": 0}],
+                                "access_rules": ["[$hasPartyMembers|3]"],
                                 "sections": [
                                     {
                                         "hosted_item": "seymouranima",
@@ -178,7 +181,7 @@
                     },
                     {
                         "name": "Bottom",
-                        "access_rules": ["wendigo", "{$hasMacalania}"],
+                        "access_rules": ["wendigo"],
                         "children": [
                             {
                                 "name": "Lv. 2 Key Sphere (Chest)",

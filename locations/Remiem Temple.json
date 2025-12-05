@@ -9,7 +9,7 @@
             {
                 "name": "Belgemine",
                 "map_locations": [{ "map": "Remiem Temple", "x": 0, "y": 0}],
-                "access_rules": ["$hasYuna, $hasAnyAeon", "{$hasCalmLands}"],
+                "access_rules": ["$hasYuna, $hasAeons|1"],
                 "children": [
                     {
                         "name": "Valefor Fight",
@@ -63,7 +63,7 @@
                     },
                     {
                         "name": "Yojimbo Fight",
-                        "access_rules": ["$hasYojimbo", "{$hasCalmLands}"],
+                        "access_rules": ["$hasYojimbo"],
                         "sections": [
                             {
                                 "hosted_item": "belgemineyojimbo",
@@ -74,7 +74,7 @@
                     },
                     {
                         "name": "Anima Fight",
-                        "access_rules": ["$hasAnima", "{$hasCalmLands}"],
+                        "access_rules": ["$hasAnima"],
                         "sections": [
                             {
                                 "hosted_item": "belgemineanima",
@@ -85,7 +85,7 @@
                     },
                     {
                         "name": "Magus Sisters Fight",
-                        "access_rules": ["$hasMagusSisters", "{$hasCalmLands}"],
+                        "access_rules": ["$hasMagusSisters"],
                         "sections": [
                             {
                                 "hosted_item": "belgeminemagus",

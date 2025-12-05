@@ -17,7 +17,7 @@
                     {
                         "name": "Story Win vs. Luca Goers Reward",
                         "map_locations": [{"map": "Luca Stadium", "x": 0, "y": 0}],
-                        "access_rules": ["[minigames]"],
+                        "access_rules": ["oblitzerator, [minigames]"],
                         "sections": [{}]
                     }
                 ]
@@ -53,7 +53,14 @@
                     {
                         "name": "Oblitzerator",
                         "map_locations": [{"map": "Luca Dock", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "access_rules": ["[$hasPartyMembers|3]"],
+                        "sections": [
+                            { 
+                                "hosted_item": "oblitzerator",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            }
+                        ]
                     }
                 ]
             },

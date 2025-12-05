@@ -64,22 +64,43 @@ function hasYojimbo()
     return has("partymember:yojimbo")
 end
 
-function hasAllAeons()
-    if (
-        hasAnima() and hasBahamut() and hasIfrit() and hasIfrit and
-        hasMagusSisters() and hasShiva() and hasValefor() and hasYojimbo
-    ) then
-        return true
-    else
-        return false
-    end
-end
+function hasAeons(quantity)
+    local quantity = tonumber(quantity)
+    local counter = 0
 
-function hasAnyAeon()
-    if (
-        hasAnima() or hasBahamut() or hasIfrit() or hasIfrit or
-        hasMagusSisters() or hasShiva() or hasValefor() or hasYojimbo
-    ) then
+    if hasAnima() then
+        counter = counter + 1
+    end
+
+    if hasBahamut() then
+        counter = counter + 1
+    end
+
+    if hasIfrit() then
+        counter = counter + 1
+    end
+
+    if hasIxion() then
+        counter = counter + 1
+    end
+
+    if hasMagusSisters() then
+        counter = counter + 1
+    end
+
+    if hasShiva() then
+        counter = counter + 1
+    end
+
+    if hasValefor() then
+        counter = counter + 1
+    end
+
+    if hasYojimbo() then
+        counter = counter + 1
+    end
+
+    if counter >= quantity then
         return true
     else
         return false
@@ -145,7 +166,6 @@ function hasPartyMembers(quantity)
         counter = counter + 1
     end
 
-    print("counter: " .. counter)
     if counter >= quantity then
         return true
     else

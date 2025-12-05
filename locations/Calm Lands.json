@@ -27,6 +27,7 @@
                     {
                         "name": "Defender X",
                         "map_locations": [{ "map": "Calm Lands", "x": 0, "y": 0}],
+                        "access_rules": ["[$hasPartyMembers|3]"],
                         "sections": [
                             {
                                 "hosted_item": "defenderx",

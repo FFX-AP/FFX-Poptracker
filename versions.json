@@ -10,11 +10,12 @@
                 " - Blossom Crown requires Gagazet",
                 " - Onion Knight logic requires Geosgaeno",
                 " - Update Seymour portrait",
+                " - Updated logic references for better forward maintenance",
                 " - Various Updates for UT Compatibility",
                 " - - Cleaned up JSON comments",
                 " - - Updated default map location sizes",
                 " - - Removed most discrete sizes, where unnecessary",
-                " - Added number of party members for logic for various checks (TO DO)"
+                " - **Added boss logic rules as per the FFX Apworld & UT**"
             ]
         },
         {

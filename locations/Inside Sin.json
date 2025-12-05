@@ -37,6 +37,7 @@
                     {
                         "name": "Seymour Omnis",
                         "map_locations": [{ "map": "Inside Sin", "x": 0, "y": 0}],
+                        "access_rules": ["[$hasPartyMembers|3]"],
                         "sections": [
                             {
                                 "hosted_item": "seymouromnis",
@@ -49,7 +50,7 @@
             },
             {
                 "name": "City of Dying Dreams",
-                "access_rules": ["seymouromnis", "{$hasSin}"],
+                "access_rules": ["seymouromnis"],
                 "children": [
                     {
                         "name": "Lv. 4 Key Sphere x1 (Chest)",

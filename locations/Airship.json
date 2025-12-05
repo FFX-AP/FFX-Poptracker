@@ -14,6 +14,7 @@
             {
                 "name": "Evrae",
                 "map_locations": [{ "map": "Airship", "x": 0, "y": 0}],
+                "access_rules": ["[$hasPartyMembers|3]"],
                 "sections": [
                     {
                         "hosted_item": "evrae",
@@ -25,6 +26,7 @@
             {
                 "name": "Sin Left Fin",
                 "map_locations": [{ "map": "Airship", "x": 0, "y": 0}],
+                "access_rules": ["[$hasPartyMembers|3]"],
                 "sections": [
                     {
                         "hosted_item": "sinleftfin",
@@ -36,6 +38,7 @@
             {
                 "name": "Sin Right Fin",
                 "map_locations": [{ "map": "Airship", "x": 0, "y": 0}],
+                "access_rules": ["[$hasPartyMembers|3]"],
                 "sections": [
                     {
                         "hosted_item": "sinrightfin",
@@ -47,6 +50,7 @@
             {
                 "name": "Sinspawn Genais and Core",
                 "map_locations": [{ "map": "Airship", "x": 0, "y": 0}],
+                "access_rules": ["[$hasPartyMembers|3]"],
                 "sections": [
                     {
                         "hosted_item": "sincore",
@@ -58,6 +62,7 @@
             {
                 "name": "Overdrive Sin",
                 "map_locations": [{ "map": "Airship", "x": 0, "y": 0}],
+                "access_rules": ["[$hasPartyMembers|3]"],
                 "sections": [
                     {
                         "hosted_item": "sinoverdrive",

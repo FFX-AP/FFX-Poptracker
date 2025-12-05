@@ -85,13 +85,13 @@
                     },
                     {
                         "name": "Megalixir (Chest)",
-                        "access_rules": ["geosgaeno", "{klikk}"],
+                        "access_rules": ["geosgaeno"],
                         "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
                         "sections": [{}]
                     },
                     {
                         "name": "Mega Phoenix x4 (Chest)",
-                        "access_rules": ["geosgaeno", "{klikk}"],
+                        "access_rules": ["geosgaeno"],
                         "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
                         "sections": [{}]
                     }

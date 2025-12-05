@@ -24,6 +24,7 @@
             {
                 "name": "Ultima Weapon",
                 "map_locations": [{ "map": "Omega Ruins", "x": 0, "y": 0}],
+                "access_rules": ["[$hasPartyMembers|3]"],
                 "sections": [
                     {
                         "hosted_item": "ultimaweapon",
@@ -35,7 +36,7 @@
             {
                 "name": "Omega Weapon",
                 "map_locations": [{ "map": "Omega Ruins", "x": 0, "y": 0}],
-                "access_rules": ["ultimaweapon", "{$hasOmega}"],
+                "access_rules": ["ultimaweapon, [$hasPartyMembers|3]"],
                 "sections": [
                     {
                         "hosted_item": "omegaweapon",

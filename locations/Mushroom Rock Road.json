@@ -107,6 +107,7 @@
                     {
                         "name": "Sinspawn Gui",
                         "map_locations": [{ "map": "Mushroom Rock Road Ridge", "x": 0, "y": 0}],
+                        "access_rules": ["[$hasPartyMembers|3]"],
                         "sections": [
                             {
                                 "hosted_item": "sinspawngui1, sinspawngui",
@@ -131,7 +132,7 @@
             },
             {
                 "name": "Aftermath",
-                "access_rules": ["sinspawngui", "{$hasMRR}"],
+                "access_rules": ["sinspawngui"],
                 "children": [
                     {
                         "name": "Hi-Potion x1 (Chest)",

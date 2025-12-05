@@ -9,6 +9,7 @@
             {
                 "name": "Biran and Yenke",
                 "map_locations": [{ "map": "Mt. Gagazet Outside", "x": 0, "y": 0}],
+                "access_rules": ["[$hasPartyMembers|3]"],
                 "sections": [
                     {
                         "hosted_item": "biranyenke",
@@ -19,7 +20,7 @@
             },
             {
                 "name": "Outside",
-                "access_rules": ["biranyenke", "{$hasGagazet}"],
+                "access_rules": ["biranyenke"],
                 "children": [
                     {
                         "name": "20000 gil (Chest)",
@@ -49,6 +50,7 @@
                     {
                         "name": "Seymour Flux",
                         "map_locations": [{ "map": "Mt. Gagazet Outside", "x": 0, "y": 0}],
+                        "access_rules": ["[$hasPartyMembers|3]"],
                         "sections": [
                             {
                                 "hosted_item": "seymourflux",
@@ -61,7 +63,7 @@
             },
             {
                 "name": "Inside",
-                "access_rules": ["seymourflux", "{$hasGagazet}"],
+                "access_rules": ["seymourflux"],
                 "children": [
                     {
                         "name": "Lv. 1 Key Sphere x1 (Chest)",
@@ -91,6 +93,7 @@
                     {
                         "name": "Sanctuary Keeper",
                         "map_locations": [{ "map": "Mt. Gagazet Outside", "x": 0, "y": 0}],
+                        "access_rules": ["[$hasPartyMembers|3]"],
                         "sections": [
                             {
                                 "hosted_item": "sanctuarykeeper",

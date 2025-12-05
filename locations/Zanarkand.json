@@ -64,6 +64,7 @@
                     {
                         "name": "Spectral Keeper",
                         "map_locations": [{ "map": "Zanarkand", "x": 0, "y": 0}],
+                        "access_rules": ["[$hasPartyMembers|3]"],
                         "sections": [
                             {
                                 "hosted_item": "spectralkeeper",
@@ -75,7 +76,7 @@
                     {
                         "name": "Yunalesca",
                         "map_locations": [{ "map": "Zanarkand", "x": 0, "y": 0}],
-                        "access_rules": ["spectralkeeper", "{$hasZanarkand}"],
+                        "access_rules": ["spectralkeeper, [$hasPartyMembers|3]"],
                         "sections": [
                             {
                                 "hosted_item": "yunalesca",

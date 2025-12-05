@@ -15,6 +15,27 @@
         "codes": "geosgaeno"
     },
     {
+        "name": "Sinspawn Echuilles",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "echuilles"
+    },
+    {
+        "name": "Sinspawn Geneaux",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "geneaux"
+    },
+    {
+        "name": "Oblitzerator",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "oblitzerator"
+    },
+    {
         "name": "Chocobo Eater Defeated",
         "type": "toggle",
         "capturable": true,

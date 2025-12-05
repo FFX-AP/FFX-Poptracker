@@ -55,7 +55,7 @@
             },
             {
                 "name": "North",
-                "access_rules": ["extractor", "{$hasMoonflow}"],
+                "access_rules": ["extractor"],
                 "children": [
                     {
                         "name": "Ether x1 (Chest)",

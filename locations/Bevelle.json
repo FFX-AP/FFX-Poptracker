@@ -69,7 +69,7 @@
                     {
                         "name": "Isaaru",
                         "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
-                        "access_rules": ["$hasYuna", "{$hasBevelle}"],
+                        "access_rules": ["$hasYuna, $hasAeons|1, [$hasAeons|2]"],
                         "sections": [
                             {
                                 "hosted_item": "isaaru", 
@@ -99,24 +99,25 @@
                     {
                         "name": "Rematch (Chest)",
                         "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
-                        "access_rules": ["evraealtana", "{isaaru}"],
+                        "access_rules": ["evraealtana"],
                         "sections": [{}]
                     },
                     {
                         "name": "Avenger (Chest)",
                         "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
-                        "access_rules": ["evraealtana", "{isaaru}"],
+                        "access_rules": ["evraealtana"],
                         "sections": [{}]
                     }
                 ]
             },
             {
                 "name": "Highbridge",
-                "access_rules": ["evraealtana", "{isaaru}"],
+                "access_rules": ["evraealtana"],
                 "children": [
                     {
                         "name": "Seymour Natus",
                         "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
+                        "access_rules": ["[$hasPartyMembers|3]"],
                         "sections": [
                             {
                                 "hosted_item": "seymournatus", 

@@ -12,7 +12,7 @@
                     {
                         "name": "Blossom Crown",
                         "map_locations": [{ "map": "Monster Arena", "x": 0, "y": 0}],
-                        "access_rules": ["$hasGagazet", "{$hasCalmLands}"],
+                        "access_rules": ["$hasGagazet"],
                         "chest_unopened_img": "images/items/hd/Key_Item_HD.png",
                         "chest_opened_img": "images/items/hd/Key_Item_HD_BW.png",
                         "sections": [{}]

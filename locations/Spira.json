@@ -258,14 +258,6 @@
                         "ref": "Al Bhed Primers/Al Bhed Primer VI/"
                     },
                     {
-                        "name": "Stadium - Story Win vs. Luca Goers Reward",
-                        "ref": "Luca/Stadium/Story Win vs. Luca Goers Reward/"
-                    },
-                    {
-                        "name": "Stadium - Jupiter Crest (Locker)",
-                        "ref": "Celestial/Wakka/Jupiter Crest (Locker)/"
-                    },
-                    {
                         "name": "Dock - 600 Gil (Chest)",
                         "ref": "Luca/Dock/600 Gil (Chest)/"
                     },
@@ -286,16 +278,24 @@
                         "ref": "Luca/Dock/Magic Sphere x1 (Chest)/"
                     },
                     {
-                        "name": "Dock - Oblitzerator",
-                        "ref": "Luca/Dock/Oblitzerator/"
-                    },
-                    {
                         "name": "City - 1000 Gil (Chest)",
                         "ref": "Luca/City/1000 Gil (Chest)/"
                     },
                     {
                         "name": "City - Al Bhed Primer VII",
                         "ref": "Al Bhed Primers/Al Bhed Primer VII/"
+                    },
+                    {
+                        "name": "Dock - Oblitzerator",
+                        "ref": "Luca/Dock/Oblitzerator/"
+                    },
+                    {
+                        "name": "Stadium - Story Win vs. Luca Goers Reward",
+                        "ref": "Luca/Stadium/Story Win vs. Luca Goers Reward/"
+                    },
+                    {
+                        "name": "Stadium - Jupiter Crest (Locker)",
+                        "ref": "Celestial/Wakka/Jupiter Crest (Locker)/"
                     },
                     {
                         "name": "City - World Champion",

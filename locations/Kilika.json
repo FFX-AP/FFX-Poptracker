@@ -57,11 +57,19 @@
                     {
                         "name": "Sinspawn Geneaux",
                         "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "access_rules": ["[$hasPartyMembers|3]"],
+                        "sections": [
+                            {
+                                "hosted_item": "geneaux",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            }
+                        ]
                     },
                     {
                         "name": "Destruction Sphere",
                         "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
+                        "access_rules": ["geneaux"],
                         "sections": [
                             { 
                                 "name": "Red Armlet", 
