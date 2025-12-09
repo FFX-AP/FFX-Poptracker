@@ -9,17 +9,18 @@ RegionDifficulty = {
     ["mushroomrockroad"] = 6,
     ["djose"] = 7,
     ["moonflow"] = 8,
-    ["thunderplains"] = 10,
-    ["macalania"] = 11,
-    ["bikanel"] = 12,
-    ["airship"] = 13,
-    ["bevelle"] = 13,
-    ["calmlands"] = 14,
-    ["cavernofthestolenfayth"] = 14,
-    ["gagazet"] = 15,
-    ["zanarkand"] = 16,
-    ["sin"] = 17,
-    ["omegaruins"] = 18
+    ["thunderplains"] = 9,
+    ["macalania"] = 10,
+    ["bikanel"] = 11,
+    ["airship"] = 12,
+    ["bevelle"] = 12,
+    ["calmlands"] = 13,
+    ["cavernofthestolenfayth"] = 13,
+    ["gagazet"] = 14,
+    ["zanarkand"] = 15,
+    ["sin"] = 16,
+    ["omegaruins"] = 17,
+    ["superbosses"] = 18
 }
 
 RegionOrder = {
@@ -43,6 +44,7 @@ RegionOrder = {
     "zanarkand",
     "sin",
     "omegaruins",
+    "superbosses"
 }
 
 RegionAccessibility = {
@@ -65,7 +67,8 @@ RegionAccessibility = {
     ["gagazet"] = ACCESS_NONE,
     ["zanarkand"] = ACCESS_NONE,
     ["sin"] = ACCESS_NONE,
-    ["omegaruins"] = ACCESS_NONE
+    ["omegaruins"] = ACCESS_NONE,
+    ["superbosses"] = ACCESS_NONE
 }
 
 -- Must be in difficulty order
@@ -89,7 +92,8 @@ RegionAccessRegions = {
     ["gagazet"] = {},
     ["zanarkand"] = {},
     ["sin"] = {},
-    ["omegaruins"] = {}
+    ["omegaruins"] = {},
+    ["superbosses"] = {}
 }
 
 -- Updates RegionAccessRegions with list of regions required to access new region, based on difficulty
