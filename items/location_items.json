@@ -461,6 +461,96 @@
         "codes": "lightning200"
     },
 
+    //Characters
+    {
+        "name": "Auron",
+        "type": "toggle",
+        "img": "images/party/characters/Auron.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/characters/Auron.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "auronlocation"
+    },
+    {
+        "name": "Kimahri",
+        "type": "toggle",
+        "img": "images/party/characters/Kimahri.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/characters/Kimahri.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "kimahrilocation"
+    },
+    {
+        "name": "Lulu",
+        "type": "toggle",
+        "img": "images/party/characters/Lulu.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/characters/Lulu.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "lululocation"
+    },
+    {
+        "name": "Rikku",
+        "type": "toggle",
+        "img": "images/party/characters/Rikku.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/characters/Rikku.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "rikkulocation"
+    },
+    {
+        "name": "Seymour",
+        "type": "toggle",
+        "img": "images/party/characters/Seymour.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/characters/Seymour.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "seymourlocation"
+    },
+    {
+        "name": "Tidus",
+        "type": "toggle",
+        "img": "images/party/characters/Tidus.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/characters/Tidus.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "tiduslocation"
+    },
+    {
+        "name": "Wakka",
+        "type": "toggle",
+        "img": "images/party/characters/Wakka.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/characters/Wakka.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "wakkalocation"
+    },
+    {
+        "name": "Yuna",
+        "type": "toggle",
+        "img": "images/party/characters/Yuna.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/characters/Yuna.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "yunalocation"
+    },
+
     //Cloisters
     {
         "name": "Baaj Cloister Complete",

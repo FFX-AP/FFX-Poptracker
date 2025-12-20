@@ -78,6 +78,10 @@
                     {
                         "name": "Temple - Onion Knight (Chest)",
                         "ref": "Celestial/Lulu/Onion Knight (Chest)/"
+                    },
+                    {
+                        "name": "Temple - Anima",
+                        "ref": "Party Member/Aeon/Anima/"
                     }
                 ]
             },
@@ -96,6 +100,10 @@
                     {
                         "name": "Aurochs - Aurochs NPCs",
                         "ref": "Besaid/Beach/Aurochs/"
+                    },
+                    {
+                        "name": "Valley - Wakka",
+                        "ref": "Party Member/Character/Wakka/"
                     },
                     {
                         "name": "Valley - Phoenix Down x1 (Chest)",
@@ -126,12 +134,24 @@
                         "ref": "Besaid/Village/Destruction Sphere/Rod of Wisdom"
                     },
                     {
+                        "name": "Cloister - Valefor",
+                        "ref": "Party Member/Aeon/Valefor/"
+                    },
+                    {
                         "name": "Village - Map",
                         "ref": "Besaid/Village/Exit the Village (Event)/Map"
                     },
                     {
                         "name": "Village - Brotherhood",
                         "ref": "Celestial/Tidus/Brotherhood/"
+                    },
+                    {
+                        "name": "Post-Village - Lulu",
+                        "ref": "Party Member/Character/Lulu/"
+                    },
+                    {
+                        "name": "Post-Village - Yuna",
+                        "ref": "Party Member/Character/Yuna/"
                     },
                     {
                         "name": "Beach - Dock NPCs",
@@ -158,6 +178,10 @@
                     {
                         "name": "Sin Fin",
                         "ref": "S.S. Liki/Sin Fin/"
+                    },
+                    {
+                        "name": "Kimahri",
+                        "ref": "Party Member/Character/Kimahri/"
                     },
                     {
                         "name": "Sinspawn Echuilles",
@@ -223,7 +247,11 @@
                     },
                     {
                         "name": "Cloister - Red Armlet",
-                        "ref": "Kilika/Woods/Destruction Sphere/Red Armlet"
+                        "ref": "Kilika/Temple/Destruction Sphere/Red Armlet"
+                    },
+                    {
+                        "name": "Cloister - Ifrit",
+                        "ref": "Party Member/Aeon/Ifrit/"
                     }                   
                 ]
             },
@@ -292,6 +320,10 @@
                     {
                         "name": "Stadium - Story Win vs. Luca Goers Reward",
                         "ref": "Luca/Stadium/Story Win vs. Luca Goers Reward/"
+                    },
+                    {
+                        "name": "Stadium - Auron",
+                        "ref": "Party Member/Character/Auron/"
                     },
                     {
                         "name": "Stadium - Jupiter Crest (Locker)",
@@ -490,6 +522,10 @@
                         "ref": "Mushroom Rock Road/Ridge/Sinspawn Gui/"
                     },
                     {
+                        "name": "Ridge - Seymour",
+                        "ref": "Party Member/Character/Seymour/"
+                    },
+                    {
                         "name": "Aftermath - Hi-Potion x1 (Chest)",
                         "ref": "Mushroom Rock Road/Aftermath/Hi-Potion x1 (Chest)/"
                     },
@@ -576,6 +612,10 @@
                         "ref": "Djose/Temple/Destruction Sphere/Magic Sphere"
                     },
                     {
+                        "name": "Cloister - Ixion",
+                        "ref": "Party Member/Aeon/Ixion/"
+                    },
+                    {
                         "name": "Temple - Switch Hitter (Chest)",
                         "ref": "Djose/Temple/Switch Hitter (Chest)/"
                     },
@@ -632,6 +672,10 @@
                     {
                         "name": "North - Ether x1 (Chest)",
                         "ref": "Moonflow/North/Ether x1 (Chest)/"
+                    },
+                    {
+                        "name": "North - Rikku",
+                        "ref": "Party Member/Character/Rikku/"
                     },
                     {
                         "name": "North - Antidote x4 (Chest)",
@@ -826,6 +870,10 @@
                     {
                         "name": "Temple - Seymour & Anima",
                         "ref": "Macalania/Lake/Temple/Seymour/"
+                    },
+                    {
+                        "name": "Temple - Shiva",
+                        "ref": "Party Member/Aeon/Shiva/"
                     },
                     {
                         "name": "Cloister - Luck Sphere",
@@ -1118,6 +1166,10 @@
                         "ref": "Bevelle/Cloister/Knight Lance (Chest)/"
                     },
                     {
+                        "name": "Cloister - Bahamut",
+                        "ref": "Party Member/Aeon/Bahamut/"
+                    },
+                    {
                         "name": "Via Purifico - Mega-Potion x1 (Chest)",
                         "ref": "Bevelle/Via Purifico/Mega-Potion x1 (Chest)/"
                     },
@@ -1268,6 +1320,10 @@
                     {
                         "name": "Belgemine - Moon Sigil (Send Belgemine)",
                         "ref": "Celestial/Yuna/Moon Sigil (Send Belgemine)/"
+                    },
+                    {
+                        "name": "Magus Sisters",
+                        "ref": "Party Member/Aeon/Magus Sisters/"
                     }
                 ]
             },
@@ -1324,6 +1380,10 @@
                     {
                         "name": "X-Potion x2 (Chest)",
                         "ref": "Cavern of the Stolen Fayth/X-Potion x2 (Chest)/"
+                    },
+                    {
+                        "name": "Yojimbo",
+                        "ref": "Party Member/Aeon/Yojimbo/"
                     },
                     {
                         "name": "Super Bosses - Dark Yojimbo",

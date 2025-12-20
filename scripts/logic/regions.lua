@@ -182,7 +182,7 @@ function CheckGoalRequirement()
             return ACCESS_NONE
         end
     elseif (goal == 2) then
-        -- Pilgrimage (Unsupported, data not available from @Moonflow/Smoke Bomb x6 (Lose Aeon Fight)
+        -- Pilgrimage (Unsupported, data not available from apworld for pilgrimage events)
         return ACCESS_NORMAL
     elseif (goal == 3) then
         -- Party Members & Aeons

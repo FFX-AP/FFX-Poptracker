@@ -121,7 +121,7 @@
                             },
                             {
                                 "name": "Second Fight",
-                                "access_rules": ["sinspawngui1", "{mushroomrockroad}"],
+                                "access_rules": ["sinspawngui1"],
                                 "hosted_item": "sinspawngui",
                                 "item_count": 1,
                                 "clear_as_group": true

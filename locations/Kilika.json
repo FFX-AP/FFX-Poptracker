@@ -67,9 +67,22 @@
                         ]
                     },
                     {
+                        "name": "Luzu (NPC)",
+                        "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
+                        "sections": [
+                            {"name": "Antidote x4 (Before Ochu)"},
+                            {"name": "Elixir x1 (After Ochu)"}
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Temple",
+                "access_rules": ["geneaux"],
+                "children": [
+                    {
                         "name": "Destruction Sphere",
                         "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
-                        "access_rules": ["geneaux"],
                         "sections": [
                             { 
                                 "name": "Red Armlet", 
@@ -77,14 +90,6 @@
                                 "item_count": 1,
                                 "clear_as_group": true
                             }
-                        ]
-                    },
-                    {
-                        "name": "Luzu (NPC)",
-                        "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
-                        "sections": [
-                            {"name": "Antidote x4 (Before Ochu)"},
-                            {"name": "Elixir x1 (After Ochu)"}
                         ]
                     }
                 ]
