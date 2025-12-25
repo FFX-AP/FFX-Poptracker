@@ -6,82 +6,82 @@
         "overlay_background": "#000000",
         "children": [
             {
-                "name": "Al Bhed Ship",
-                "map_locations": [{ "map": "Spira", "x": 241, "y": 675}],
-                "sections": [
-                    {
-                        "name": "Potion x 3 (NPC)",
-                        "ref": "Al Bhed Ship/Potion x 3 (NPC)/"
-                    },
-                    {
-                        "name": "Al Bhed Primer I",
-                        "ref": "Al Bhed Primers/Al Bhed Primer I/Al Bhed Ship"
-                    },
-                    {
-                        "name": "Tros",
-                        "ref": "Al Bhed Ship/Tros/"
-                    }
-                ]
-            },
-            {
                 "name": "Baaj Temple",
                 "map_locations": [{ "map": "Spira", "x": 186, "y": 615}],
                 "sections": [
                     {
-                        "name": "Outside - 200 gil (Chest)",
-                        "ref": "Baaj Temple/Outside/200 gil (Chest)/"
+                        "name": "Submerged Ruins - 200 gil (Chest)",
+                        "ref": "Baaj Temple/Outside/Northeast Structure (Chest)/200 gil"
                     },
                     {
-                        "name": "Outside - Potion x2 (Chest)",
-                        "ref": "Baaj Temple/Outside/Potion x2 (Chest)/"
+                        "name": "Submerged Ruins - Potion x2 (Chest)",
+                        "ref": "Baaj Temple/Outside/Northwest Structure (Chest)/Potion x2"
                     },
                     {
-                        "name": "Outside - Hi-Potion x1 (Chest)",
-                        "ref": "Baaj Temple/Outside/Hi-Potion x1 (Chest)/"
+                        "name": "Underwater Hall - Hi-Potion x1 (Chest)",
+                        "ref": "Baaj Temple/Outside/West Branch of Main Path (Chest)/Hi-Potion x1"
                     },
                     {
-                        "name": "Inside - Flint",
-                        "ref": "Baaj Temple/Inside/Flint/"
+                        "name": "Small Room - Flint",
+                        "ref": "Baaj Temple/Inside/Flint Inside Desk (Event)/Flint"
                     },
                     {
-                        "name": "Inside - X-Potion x1 (Chest)",
-                        "ref": "Baaj Temple/Inside/X-Potion x1 (Chest)/"
+                        "name": "Hall - X-Potion x1 (Chest)",
+                        "ref": "Baaj Temple/Inside/South Side of East Door (Chest)/X-Potion x1"
                     },
                     {
-                        "name": "Inside - Ether (Chest)",
-                        "ref": "Baaj Temple/Inside/Ether (Chest)/"
+                        "name": "Stairs - Ether (Chest)",
+                        "ref": "Baaj Temple/Inside/South End (Chest)/Ether"
                     },
                     {
-                        "name": "Inside - Withered Bouquet",
-                        "ref": "Baaj Temple/Inside/Withered Bouquet/"
+                        "name": "Stairs - Withered Bouquet",
+                        "ref": "Baaj Temple/Inside/Flowers in Sconce on Right Wall, North End (Event)/Withered Bouquet"
                     },
                     {
-                        "name": "Inside - Hi-Potion x1 (Chest)",
-                        "ref": "Baaj Temple/Inside/Hi-Potion x1 (Chest)/"
+                        "name": "Hall - Hi-Potion x1 (Chest)",
+                        "ref": "Baaj Temple/Inside/North exit from Stairs, East End (Chest)/Hi-Potion x1"
                     },
                     {
-                        "name": "Inside - Klikk",
-                        "ref": "Baaj Temple/Inside/Klikk/"
+                        "name": "Hall - Klikk",
+                        "ref": "Baaj Temple/Inside/Defeat Klikk (Boss)/Klikk"
                     },
                     {
-                        "name": "Temple - Geosgaeno",
-                        "ref": "Baaj Temple/Temple/Geosgaeno/"
+                        "name": "Underwater Hall - Geosgaeno",
+                        "ref": "Baaj Temple/Temple/Defeat Geosgaeno (Boss)/Geosgaeno"
                     },
                     {
-                        "name": "Temple - Megalixir (Chest)",
-                        "ref": "Baaj Temple/Temple/Megalixir (Chest)/"
-                    },
-                    {
-                        "name": "Temple - Mega Phoenix x4 (Chest)",
-                        "ref": "Baaj Temple/Temple/Mega Phoenix x4 (Chest)/"
-                    },
-                    {
-                        "name": "Temple - Onion Knight (Chest)",
+                        "name": "Underwater Hall - Onion Knight (Chest)",
                         "ref": "Celestial/Lulu/Onion Knight (Chest)/"
                     },
                     {
-                        "name": "Temple - Anima",
-                        "ref": "Party Member/Aeon/Anima/"
+                        "name": "Antechamber - Megalixir (Chest)",
+                        "ref": "Baaj Temple/Temple/Right Side (Chest)/Megalixir"
+                    },
+                    {
+                        "name": "Antechamber - Mega Phoenix x4 (Chest)",
+                        "ref": "Baaj Temple/Temple/Left Side (Chest)/Mega Phoenix x4"
+                    },
+                    {
+                        "name": "Antechamber - Anima",
+                        "ref": "Party Member/Aeon/Anima"
+                    }
+                ]
+            },
+            {
+                "name": "Al Bhed Ship",
+                "map_locations": [{ "map": "Spira", "x": 241, "y": 675}],
+                "sections": [
+                    {
+                        "name": "Deck - Potion x 3 (NPC)",
+                        "ref": "Al Bhed Ship/Yellow Al Bhed, on Left (NPC)/Potion x 3"
+                    },
+                    {
+                        "name": "Deck- Al Bhed Primer I",
+                        "ref": "Al Bhed Primers/Al Bhed Primer I/Al Bhed Ship"
+                    },
+                    {
+                        "name": "Sunken Ruins - Tros",
+                        "ref": "Al Bhed Ship/Defeat Tros (Boss)/Tros"
                     }
                 ]
             },
@@ -907,11 +907,11 @@
                     },
                     {
                         "name": "Auron - Masamune Crest Updgrade",
-                        "ref": "Celestial/Auron/Masamune Upgrade/Crest"
+                        "ref": "Celestial/Auron/Masamune Crest Upgrade"
                     },
                     {
                         "name": "Auron - Masamune Sigil Updgrade",
-                        "ref": "Celestial/Auron/Masamune Upgrade/Sigil"
+                        "ref": "Celestial/Auron/Masamune Sigil Upgrade"
                     },
                     {
                         "name": "Kimahri - Spirit Lance Crest Updgrade",
