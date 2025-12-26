@@ -51,7 +51,7 @@
                     },
                     {
                         "name": "Underwater Hall - Onion Knight (Chest)",
-                        "ref": "Celestial/Lulu/Onion Knight (Chest)/"
+                        "ref": "Celestial/Lulu/Onion Knight"
                     },
                     {
                         "name": "Antechamber - Megalixir (Chest)",
@@ -90,76 +90,72 @@
                 "map_locations": [{ "map": "Spira", "x": 410, "y": 1005}],
                 "sections": [
                     {
-                        "name": "Beach - Antidote x2",
-                        "ref": "Besaid/Beach/Antidote x2 (Chest)/"
+                        "name": "Beach - Antidote x2 (Chest)",
+                        "ref": "Besaid/Beach/West Near Huts (Chest)/Antidote x2"
                     },
                     {
                         "name": "Beach - Moon Crest (Chest)",
-                        "ref": "Celestial/Yuna/Moon Crest (Chest)/"
+                        "ref": "Celestial/Yuna/Moon Crest"
                     },
                     {
-                        "name": "Aurochs - Aurochs NPCs",
-                        "ref": "Besaid/Beach/Aurochs/"
+                        "name": "Beach - Aurochs (NPCs)",
+                        "ref": "Besaid/Beach/Aurochs (NPCs)/"
                     },
                     {
                         "name": "Valley - Wakka",
-                        "ref": "Party Member/Character/Wakka/"
+                        "ref": "Party Member/Character/Wakka"
                     },
                     {
                         "name": "Valley - Phoenix Down x1 (Chest)",
-                        "ref": "Besaid/Valley/Phoenix Down x1 (Chest)/"
+                        "ref": "Besaid/Valley/South of Spawn, Right Side (Chest)/Phoenix Down x1"
                     },
                     {
                         "name": "Valley - Hi-Potion x1 (Chest)",
-                        "ref": "Besaid/Valley/Hi-Potion x1 (Chest)/"
+                        "ref": "Besaid/Valley/South Side, Hidden Behind Right Wall (Chest)/Hi-Potion x1"
                     },
                     {
                         "name": "Valley - Antidote x2 (Chest)",
-                        "ref": "Besaid/Valley/Antidote x2 (Chest)/"
+                        "ref": "Besaid/Valley/East Side, Right of Path (Chest)/Antidote x2"
                     },
                     {
                         "name": "Village - Phoenix Down x1 (Chest)",
-                        "ref": "Besaid/Village/Phoenix Down x1 (Chest)/"
+                        "ref": "Besaid/Village/Front of Shop (Chest)/Phoenix Down x1"
                     },
                     {
                         "name": "Village - Behind the Shop (Chests)",
-                        "ref": "Besaid/Village/Behind Shop/"
+                        "ref": "Besaid/Village/Behind Shop (Chests)/"
                     },
                     {
                         "name": "Village - Al Bhed Primer II",
-                        "ref": "Al Bhed Primers/Al Bhed Primer II/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer II/Besaid"
                     },
                     {
                         "name": "Cloister - Rod of Wisdom",
-                        "ref": "Besaid/Village/Destruction Sphere/Rod of Wisdom"
+                        "ref": "Besaid/Village/Cloister/Destruction Sphere - Rod of Wisdom"
                     },
                     {
                         "name": "Cloister - Valefor",
-                        "ref": "Party Member/Aeon/Valefor/"
+                        "ref": "Party Member/Aeon/Valefor"
                     },
                     {
-                        "name": "Village - Map",
-                        "ref": "Besaid/Village/Exit the Village (Event)/Map"
+                        "name": "Village - Exit the Village (Event)",
+                        "ref": "Besaid/Village/Exit the Village (Event)/"
                     },
                     {
-                        "name": "Village - Brotherhood",
-                        "ref": "Celestial/Tidus/Brotherhood/"
+                        "name": "Village Slope - Lulu",
+                        "ref": "Party Member/Character/Lulu"
                     },
                     {
-                        "name": "Post-Village - Lulu",
-                        "ref": "Party Member/Character/Lulu/"
-                    },
-                    {
-                        "name": "Post-Village - Yuna",
-                        "ref": "Party Member/Character/Yuna/"
+                        "name": "Waterfall Way - Yuna",
+                        "ref": "Party Member/Character/Yuna"
                     },
                     {
                         "name": "Beach - Dock NPCs",
-                        "ref": "Besaid/Beach/Dock/"
+                        "ref": "Besaid/Beach/Dock (NPCs)/"
                     },
                     {
                         "name": "Super Bosses - Dark Valefor",
-                        "ref": "Super Bosses/Dark Valefor/"
+                        "ref": "Super Bosses/Dark Valefor"
                     }
                 ]
             },
