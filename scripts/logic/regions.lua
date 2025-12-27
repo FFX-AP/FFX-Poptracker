@@ -182,8 +182,12 @@ function CheckGoalRequirement()
             return ACCESS_NONE
         end
     elseif (goal == 2) then
-        -- Pilgrimage (Unsupported, data not available from apworld for pilgrimage events)
-        return ACCESS_NORMAL
+        -- Pilgrimage
+        if (has("besaidcloister") and has("kilikacloister") and has("djosecloister") and has("macalaniacloister") and has("bevellecloister") and has("yunalesca")) then
+            return ACCESS_NORMAL
+        else
+            return ACCESS_NONE
+        end
     elseif (goal == 3) then
         -- Party Members & Aeons
         if (hasPartyMembersAndAeons(Tracker:ProviderCountForCode("requiredpartymembers"))) then
