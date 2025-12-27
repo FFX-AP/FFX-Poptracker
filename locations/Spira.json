@@ -130,15 +130,11 @@
                         "ref": "Al Bhed Primers/Al Bhed Primer II/Besaid"
                     },
                     {
-                        "name": "Cloister - Rod of Wisdom",
-                        "ref": "Besaid/Village/Cloister/Destruction Sphere - Rod of Wisdom"
+                        "name": "Village - Cloister of Trials",
+                        "ref": "Besaid/Village/Cloister/"
                     },
                     {
-                        "name": "Cloister - Valefor",
-                        "ref": "Party Member/Aeon/Valefor"
-                    },
-                    {
-                        "name": "Village - Exit the Village (Event)",
+                        "name": "Village - Exit the Village (Event)" ,
                         "ref": "Besaid/Village/Exit the Village (Event)/"
                     },
                     {
@@ -187,60 +183,52 @@
                 "sections": [
                     {
                         "name": "Village - Remedy x1 (Chest)",
-                        "ref": "Kilika/Village/Potion x3 (Chest)/"
+                        "ref": "Kilika/Village/Right of Collapsing House (Chest)/Potion x3"
                     },
                     {
                         "name": "Village - Ether x1 (Chest)",
-                        "ref": "Kilika/Village/Ether x1 (Chest)/"
+                        "ref": "Kilika/Village/After Rescuing Kulukan's Sister from Collapsing House (Chest)/Ether x1"
                     },
                     {
                         "name": "Village - Al Bhed Primer IV",
-                        "ref": "Al Bhed Primers/Al Bhed Primer IV/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer IV/Kilika"
                     },
                     {
                         "name": "Woods - Mana Sphere x2 (Chest)",
-                        "ref": "Kilika/Woods/Mana Sphere x2 (Chest)/"
+                        "ref": "Kilika/Woods/East of First Intersection (Chest)/Mana Sphere x2"
                     },
                     {
                         "name": "Woods - Scout (Chest)",
-                        "ref": "Kilika/Woods/Scout (Chest)/"
+                        "ref": "Kilika/Woods/West of First Intersection, First North Fork (Chest)/Scout"
                     },
                     {
                         "name": "Woods - Remedy x1 (Leader NPC)",
-                        "ref": "Kilika/Woods/Remedy x1 (Leader NPC)/"
+                        "ref": "Kilika/Woods/Crusader Commander West of Lord Ochu (NPC)/Remedy x1"
                     },
                     {
                         "name": "Woods - High Potion x1 (Guard NPC)",
-                        "ref": "Kilika/Woods/High Potion x1 (Guard NPC)/"
+                        "ref": "Kilika/Woods/Crusader Commander North of Lord Ochu (NPC)/High Potion x1"
                     },
                     {
                         "name": "Woods - Luck Sphere x1 (Chest)",
-                        "ref": "Kilika/Woods/Luck Sphere x1 (Chest)/"
+                        "ref": "Kilika/Woods/Path North of Lord Ochu, Curving West (Chest)/Luck Sphere x1"
                     },
                     {
-                        "name": "Woods - Luzu (NPC) - Antidote x4 (Before Ochu)",
-                        "ref": "Kilika/Woods/Luzu (NPC)/Antidote x4 (Before Ochu)"
-                    },
-                    {
-                        "name": "Woods - Luzu (NPC) - Elixir x1 (After Ochu)",
-                        "ref": "Kilika/Woods/Luzu (NPC)/Elixir x1 (After Ochu)"
+                        "name": "Woods - Luzu (NPC)",
+                        "ref": "Kilika/Woods/Luzu (NPC)/"
                     },
                     {
                         "name": "Woods - Lord Ochu",
-                        "ref": "Kilika/Woods/Lord Ochu/"
+                        "ref": "Kilika/Woods/Defeat Lord Ochu (Boss)/Lord Ochu"
                     },
                     {
                         "name": "Woods - Sinspawn Geneaux",
-                        "ref": "Kilika/Woods/Sinspawn Geneaux/"
+                        "ref": "Kilika/Woods/Defeat Sinspawn Geneaux (Boss)/Sinspawn Geneaux"
                     },
                     {
-                        "name": "Cloister - Red Armlet",
-                        "ref": "Kilika/Temple/Destruction Sphere/Red Armlet"
-                    },
-                    {
-                        "name": "Cloister - Ifrit",
-                        "ref": "Party Member/Aeon/Ifrit/"
-                    }                   
+                        "name": "Temple - Cloister of Trials",
+                        "ref": "Kilika/Cloister/"
+                    }                 
                 ]
             },
             {
@@ -249,15 +237,15 @@
                 "sections": [
                     {
                         "name": "Hi-Potion x1 (Chest)",
-                        "ref": "S.S. Winno/Hi-Potion x1 (Chest)/"
+                        "ref": "S.S. Winno/Left, Between Aurochs and Goers (Chest)/Hi-Potion x1"
                     },
                     {
                         "name": "Al Bhed Primer V",
                         "ref": "Al Bhed Primers/Al Bhed Primer V/S.S. Winno"
                     },
                     {
-                        "name": "Ace Wizard (Seagulls)",
-                        "ref": "S.S. Winno/Ace Wizard (Seagulls)/"
+                        "name": "Ace Wizard (11 Seagulls)",
+                        "ref": "S.S. Winno/Top Floor, Counting Gulls (NPC - 11 Seagulls)/Ace Wizard"
                     }
                 ]
             },
@@ -266,64 +254,64 @@
                 "map_locations": [{ "map": "Spira", "x": 546, "y": 845}],
                 "sections": [
                     {
-                        "name": "Stadium - Hi-Potion x2 (Chest)",
-                        "ref": "Luca/Stadium/Hi-Potion x2 (Chest)/"
+                        "name": "Stadium Basement B - Hi-Potion x2 (Chest)",
+                        "ref": "Luca/Stadium/West Locker Hall (Chest)/Hi-Potion x2"
                     },
                     {
-                        "name": "Stadium - Al Bhed Primer VI",
-                        "ref": "Al Bhed Primers/Al Bhed Primer VI/"
+                        "name": "Stadium Basement B - Al Bhed Primer VI",
+                        "ref": "Al Bhed Primers/Al Bhed Primer VI/Luca"
                     },
                     {
-                        "name": "Dock - 600 Gil (Chest)",
-                        "ref": "Luca/Dock/600 Gil (Chest)/"
+                        "name": "Dock 1 - 600 Gil (Chest)",
+                        "ref": "Luca/Dock/Dock 1 - Right Side (Chest)/600 Gil"
                     },
                     {
-                        "name": "Dock - Tidal Spear (Chest)",
-                        "ref": "Luca/Dock/Tidal Spear (Chest)/"
+                        "name": "Dock 1 - Tidal Spear (Chest)",
+                        "ref": "Luca/Dock/Dock 1 - End (Chest)/Tidal Spear"
                     },
                     {
-                        "name": "Dock - Phoenix Down x2 (Chest)",
-                        "ref": "Luca/Dock/Phoenix Down x2 (Chest)/"
+                        "name": "Dock 2 - Phoenix Down x2 (Chest)",
+                        "ref": "Luca/Dock/Dock 2 - Left Side (Chest)/Phoenix Down x2"
                     },
                     {
-                        "name": "Dock - HP Sphere x1 (Chest)",
-                        "ref": "Luca/Dock/HP Sphere x1 (Chest)/"
+                        "name": "Dock 5 - HP Sphere x1 (Chest)",
+                        "ref": "Luca/Dock/Dock 5 - End, Hidden Behind Boxes (Chests)/HP Sphere x1"
                     },
                     {
-                        "name": "Dock - Magic Sphere x1 (Chest)",
-                        "ref": "Luca/Dock/Magic Sphere x1 (Chest)/"
+                        "name": "Dock 5 - Magic Sphere x1 (Chest)",
+                        "ref": "Luca/Dock/Dock 5 - End, Hidden Behind Boxes (Chests)/Magic Sphere x1"
                     },
                     {
-                        "name": "City - 1000 Gil (Chest)",
-                        "ref": "Luca/City/1000 Gil (Chest)/"
+                        "name": "City Limits - 1000 Gil (Chest)",
+                        "ref": "Luca/City/Staircase Leading to Mi'ihen (Chest)/1000 Gil"
                     },
                     {
-                        "name": "City - Al Bhed Primer VII",
-                        "ref": "Al Bhed Primers/Al Bhed Primer VII/"
+                        "name": "Theater Reception - Al Bhed Primer VII",
+                        "ref": "Al Bhed Primers/Al Bhed Primer VII/Luca"
                     },
                     {
                         "name": "Dock - Oblitzerator",
-                        "ref": "Luca/Dock/Oblitzerator/"
+                        "ref": "Luca/Dock/Defeat Oblitzerator (Boss)/Oblitzerator"
                     },
                     {
                         "name": "Stadium - Story Win vs. Luca Goers Reward",
-                        "ref": "Luca/Stadium/Story Win vs. Luca Goers Reward/"
+                        "ref": "Luca/Stadium/Win the Story Blitzball Tournament (Event)/Story Win vs. Luca Goers Reward"
                     },
                     {
                         "name": "Stadium - Auron",
-                        "ref": "Party Member/Character/Auron/"
+                        "ref": "Party Member/Character/Auron"
                     },
                     {
-                        "name": "Stadium - Jupiter Crest (Locker)",
-                        "ref": "Celestial/Wakka/Jupiter Crest (Locker)/"
+                        "name": "Stadium Locker Room - Jupiter Crest (Locker)",
+                        "ref": "Celestial/Wakka/Jupiter Crest"
                     },
                     {
-                        "name": "City - World Champion",
-                        "ref": "Celestial/Wakka/World Champion/"
+                        "name": "City Cafe - World Champion",
+                        "ref": "Celestial/Wakka/World Champion"
                     },
                     {
                         "name": "Blitzball - Jupiter Sigil (Blitzball League)",
-                        "ref": "Celestial/Wakka/Jupiter Sigil (Blitzball League)/"
+                        "ref": "Celestial/Wakka/Jupiter Sigil"
                     }
                 ]
             },

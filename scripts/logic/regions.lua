@@ -134,13 +134,9 @@ function UpdateAccessLevels()
 
     for Index, Region in ipairs(RegionOrder) do
         -- print(Index .. " | " .. Region)
-        -- If you don't have the region item, no access
-        if (Tracker:FindObjectForCode(Region).Active == false) then
-            -- print("REGION OBJECT FALSE: " .. Region)            
-            RegionAccessibility[Region] = ACCESS_NONE
-
-        -- Has region item
-        else
+        -- Check for region item
+        if (Tracker:FindObjectForCode(Region).Active == true or Region == "superbosses") then
+            -- Has region item
             -- Difficulty < 5 --> Always have access
             if (RegionDifficulty[Region] < 5) then
                 -- print("REGION DIFFICULTY < 5: " .. Region)
@@ -158,7 +154,11 @@ function UpdateAccessLevels()
                         RegionAccessibility[Region] = ACCESS_SEQUENCEBREAK
                     end
                 end
-            end            
+            end  
+        else
+            -- No region item
+            -- print("REGION OBJECT FALSE: " .. Region)            
+            RegionAccessibility[Region] = ACCESS_NONE
         end
     end
 end

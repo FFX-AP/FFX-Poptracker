@@ -167,7 +167,7 @@
                         ]
                     },
                     {
-                        "name": "Crusader Lodge - On Ground Near Counter (Primer)",
+                        "name": "On Ground Near Counter (Primer)",
                         "map_locations": [{ "map": "Besaid Village", "x": 0, "y": 0}],
                         "sections": [
                             {
@@ -180,6 +180,10 @@
                         "name": "Cloister",
                         "map_locations": [{ "map": "Besaid Village", "x": 0, "y": 0}],
                         "sections": [
+                            {
+                                "hosted_item": "besaiddestructionsphere, besaidcloister", 
+                                "clear_as_group": false
+                            },
                             {
                                 "name": "Destruction Sphere - Rod of Wisdom",
                                 "hosted_item": "besaiddestructionsphere",

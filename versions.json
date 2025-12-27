@@ -5,7 +5,8 @@
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.0/FFX.zip",
             "sha256": "",
             "changelog": [
-                " - Section Refactor for UT compatibility",
+                " - Major Refactor for UT compatibility",
+                " - - Using descriptive location names from the Check Guide", 
                 " - Added RecruitSanity Locations",
                 " - Pilgrimage Goal support",
                 " - Added Baaj Map",

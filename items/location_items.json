@@ -608,7 +608,7 @@
 
     //Cloisters
     {
-        "name": "Baaj Cloister Complete",
+        "name": "Anima",
         "type": "toggle",
         "img": "images/party/aeons/Anima_BW.png",
         "img_mods": "@disabled",
@@ -619,7 +619,7 @@
         "codes": "baajcloister"
     },
     {
-        "name": "Besaid Cloister Complete",
+        "name": "Valefor",
         "type": "toggle",
         "img": "images/party/aeons/Valefor_BW.png",
         "img_mods": "@disabled",
@@ -630,7 +630,7 @@
         "codes": "besaidcloister"
     },
     {
-        "name": "Bevelle Cloister Complete",
+        "name": "Bahamut",
         "type": "toggle",
         "img": "images/party/aeons/Bahamut_BW.png",
         "img_mods": "@disabled",
@@ -641,7 +641,7 @@
         "codes": "bevellecloister"
     },
     {
-        "name": "Cavern Cloister Complete",
+        "name": "Yojimbo",
         "type": "toggle",
         "img": "images/party/aeons/Yojimbo_BW.png",
         "img_mods": "@disabled",
@@ -652,7 +652,7 @@
         "codes": "caverncloister"
     },
     {
-        "name": "Djose Cloister Complete",
+        "name": "Ixion",
         "type": "toggle",
         "img": "images/party/aeons/Ixion_BW.png",
         "img_mods": "@disabled",
@@ -663,7 +663,7 @@
         "codes": "djosecloister"
     },
     {
-        "name": "Kilika Cloister Complete",
+        "name": "Ifrit",
         "type": "toggle",
         "img": "images/party/aeons/Ifrit_BW.png",
         "img_mods": "@disabled",
@@ -674,7 +674,7 @@
         "codes": "kilikacloister"
     },
     {
-        "name": "Macalania Cloister Complete",
+        "name": "Shiva",
         "type": "toggle",
         "img": "images/party/aeons/Shiva_BW.png",
         "img_mods": "@disabled",
@@ -685,7 +685,7 @@
         "codes": "macalaniacloister"
     },
     {
-        "name": "Remiem Cloister Complete",
+        "name": "Magus Sisters",
         "type": "toggle",
         "img": "images/party/aeons/Magus Sisters_BW.png",
         "img_mods": "@disabled",
