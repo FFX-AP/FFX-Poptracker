@@ -92,6 +92,7 @@ function applySlotData(slot_data)
     Tracker:FindObjectForCode("requiredpartymembers").AcquiredCount = slot_data["required_party_members"]
     Tracker:FindObjectForCode("superbosses").Active = slot_data["super_bosses"]
     Tracker:FindObjectForCode("minigames").Active = slot_data["mini_games"]
+    Tracker:FindObjectForCode("recruitsanity").Active = slot_data["recruit_sanity"]
     Tracker:FindObjectForCode("logicdifficulty").AcquiredCount = slot_data["logic_difficulty"]
 
     -- if slot_data["super_bosses"] then 
