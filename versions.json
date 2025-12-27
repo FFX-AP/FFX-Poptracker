@@ -1,6 +1,18 @@
 {
     "versions": [
         {
+            "package_version": "0.2.0",
+            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.0/FFX.zip",
+            "sha256": "96dd33c44a9c10485f740a1ee26f8ddc8c5654c0f196ee3ec84bedabd94a3c57",
+            "changelog": [
+                " - Major Refactor for UT compatibility (WIP)",
+                " - - Using descriptive location names from the Check Guide", 
+                " - Added RecruitSanity Locations & option support",
+                " - Pilgrimage Goal support",
+                " - Added Baaj Temple Map"
+            ]
+        },
+        {
             "package_version": "0.1.12",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.12/FFX.zip",
             "sha256": "c597720044ed06ee667f57bab8608985dfd7744264a4f97ce1a2764839db0909",

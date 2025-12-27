@@ -7,14 +7,31 @@
         "access_rules": ["^$CheckAccessLevel|baajtemple"],
         "children": [
             {
-                "name": "Potion x 3 (NPC)",
+                "name": "Yellow Al Bhed, on Left (NPC)",
                 "map_locations": [{ "map": "Al Bhed Ship", "x": 0, "y": 0}],
-                "sections": [{}]
+                "sections": [{"name": "Potion x 3"}]
             },
             {
-                "name": "Tros",
+                "name": "Northeast Corner (Primer)",
                 "map_locations": [{ "map": "Al Bhed Ship", "x": 0, "y": 0}],
-                "sections": [{}]
+                "sections": [
+                    {
+                        "name": "Al Bhed Primer I",
+                        "ref": "Al Bhed Primers/Al Bhed Primer I/Al Bhed Ship"
+                    }
+                ]
+            },
+            {
+                "name": "Defeat Tros (Boss)",
+                "map_locations": [{ "map": "Al Bhed Ship", "x": 0, "y": 0}],
+                "sections": [
+                    { 
+                        "name": "Tros",
+                        "hosted_item": "baajtemple2",
+                        "item_count": 1,
+                        "clear_as_group": true
+                    }
+                ]
             }
         ]
     }

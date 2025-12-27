@@ -10,19 +10,19 @@
                 "name": "Outside",
                 "children": [
                     {
-                        "name": "200 gil (Chest)",
-                        "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "name": "Northeast Structure (Chest)",
+                        "map_locations": [{ "map": "Baaj Temple", "x": 1240, "y": 660}],
+                        "sections": [{"name": "200 gil"}]
                     },
                     {
-                        "name": "Potion x2 (Chest)",
-                        "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "name": "Northwest Structure (Chest)",
+                        "map_locations": [{ "map": "Baaj Temple", "x": 910, "y": 610}],
+                        "sections": [{"name": "Potion x2"}]
                     },
                     {
-                        "name": "Hi-Potion x1 (Chest)",
-                        "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "name": "West Branch of Main Path (Chest)",
+                        "map_locations": [{ "map": "Baaj Temple", "x": 780, "y": 510}],
+                        "sections": [{"name": "Hi-Potion x1"}]
                     }
                 ]
             },
@@ -30,36 +30,37 @@
                 "name": "Inside",
                 "children": [
                     {
-                        "name": "Flint",
-                        "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "name": "Flint Inside Desk (Event)",
+                        "map_locations": [{ "map": "Baaj Temple", "x": 420, "y": 690}],
+                        "sections": [{"name": "Flint"}]
                     },
                     {
-                        "name": "X-Potion x1 (Chest)",
-                        "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "name": "South Side of East Door (Chest)",
+                        "map_locations": [{ "map": "Baaj Temple", "x": 540, "y": 400}],
+                        "sections": [{"name": "X-Potion x1"}]
                     },
                     {
-                        "name": "Ether (Chest)",
-                        "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "name": "South End (Chest)",
+                        "map_locations": [{ "map": "Baaj Temple", "x": 280, "y": 265}],
+                        "sections": [{"name": "Ether"}]
                     },
                     {
-                        "name": "Withered Bouquet",
-                        "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "name": "Flowers in Sconce on Right Wall, North End (Event)",
+                        "map_locations": [{ "map": "Baaj Temple", "x": 285, "y": 90}],
+                        "sections": [{"name": "Withered Bouquet"}]
                     },
                     {
-                        "name": "Hi-Potion x1 (Chest)",
-                        "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "name": "North exit from Stairs, East End (Chest)",
+                        "map_locations": [{ "map": "Baaj Temple", "x": 590, "y": 315}],
+                        "sections": [{"name": "Hi-Potion x1"}]
                     },
                     {
-                        "name": "Klikk",
-                        "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
+                        "name": "Defeat Klikk (Boss)",
+                        "map_locations": [{ "map": "Baaj Temple", "x": 400, "y": 460, "shape": "trapezoid", "size": 24}],
                         "sections": [
                             { 
-                                "hosted_item": "klikk, baajtemple2",
+                                "name": "Klikk",
+                                "hosted_item": "klikk",
                                 "item_count": 1,
                                 "clear_as_group": true
                             }
@@ -72,11 +73,12 @@
                 "access_rules": ["klikk, ^$CheckAccessLevel|baajtemple2"],
                 "children": [
                     {
-                        "name": "Geosgaeno",
-                        "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
+                        "name": "Defeat Geosgaeno (Boss)",
+                        "map_locations": [{ "map": "Baaj Temple", "x": 520, "y": 880, "shape": "trapezoid", "size": 24}],
                         "access_rules": ["[$hasSwimmers|3]"],
                         "sections": [
                             { 
+                                "name": "Geosgaeno",
                                 "hosted_item": "geosgaeno",
                                 "item_count": 1,
                                 "clear_as_group": true
@@ -84,16 +86,37 @@
                         ]
                     },
                     {
-                        "name": "Megalixir (Chest)",
+                        "name": "South Side Hidden Under Rocks (Chest)",
                         "access_rules": ["geosgaeno"],
-                        "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "map_locations": [{ "map": "Baaj Temple", "x": 700, "y": 860}],
+                        "sections": [
+                            {
+                                "name": "Onion Knight",
+                                "ref": "Celestial/Lulu/Onion Knight"
+                            }
+                        ]
                     },
                     {
-                        "name": "Mega Phoenix x4 (Chest)",
+                        "name": "Right Side (Chest)",
                         "access_rules": ["geosgaeno"],
-                        "map_locations": [{ "map": "Baaj Temple", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "map_locations": [{ "map": "Baaj Temple", "x": 155, "y": 555}],
+                        "sections": [{"name": "Megalixir"}]
+                    },
+                    {
+                        "name": "Left Side (Chest)",
+                        "access_rules": ["geosgaeno"],
+                        "map_locations": [{ "map": "Baaj Temple", "x": 55, "y": 550}],
+                        "sections": [{"name": "Mega Phoenix x4"}]
+                    },
+                    {
+                        "name": "Release Anima (Event)",
+                        "map_locations": [{ "map": "Baaj Temple", "x": 150, "y": 70}],
+                        "sections": [
+                            {
+                                "name": "Anima",
+                                "ref": "Party Member/Aeon/Anima"
+                            }
+                        ]
                     }
                 ]
             }

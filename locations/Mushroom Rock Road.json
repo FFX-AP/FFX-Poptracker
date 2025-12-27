@@ -10,29 +10,39 @@
                 "name": "Entrance",
                 "children": [
                     {
-                        "name": "Remedy x1 (Near Grey Helmet NPC)",
+                        "name": "Left Near Southern Exit (NPC)",
                         "map_locations": [{ "map": "Mushroom Rock Road Entrance", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Remedy x1"}]
                     },
                     {
-                        "name": "Tough Bangle (Gray Helmet NPC)",
+                        "name": "Right Near Southern Exit (NPC)",
                         "map_locations": [{ "map": "Mushroom Rock Road Entrance", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Tough Bangle"}]
                     },
                     {
-                        "name": "Ether x1 (Purple Helmet NPC)",
+                        "name": "Pacing Between Blue Commander and South Exit (NPC)",
                         "map_locations": [{ "map": "Mushroom Rock Road Entrance", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Ether x1"}]
                     },
                     {
-                        "name": "Hi-Potion x1 (Woman in Blue NPC)",
+                        "name": "Blue Commander on Left Side (NPC)",
                         "map_locations": [{ "map": "Mushroom Rock Road Entrance", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Hi-Potion x1"}]
                     },
                     {
-                        "name": "Phoenix Down x2 (Blue Shirt Crusader NPC)",
+                        "name": "Pacing Between Blue Commander and North Exit (NPC)",
                         "map_locations": [{ "map": "Mushroom Rock Road Entrance", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Phoenix Down x2"}]
+                    },
+                    {
+                        "name": "Dark Magus Sisters (Superboss)",
+                        "map_locations": [{ "map": "Mushroom Rock Road Entrance", "x": 0, "y": 0}],
+                        "sections": [
+                            {"hosted_item": "darkcindy, darkmindy, darksandy", "clear_as_group": false},
+                            {"name": "Dark Cindy", "ref": "Super Bosses/Dark Cindy"},
+                            {"name": "Dark Mindy", "ref": "Super Bosses/Dark Mindy"},
+                            {"name": "Dark Sandy", "ref": "Super Bosses/Dark Sandy"}
+                        ]
                     }
                 ]
             },
@@ -40,29 +50,27 @@
                 "name": "Valley",
                 "children": [
                     {
-                        "name": "Hi-Potion x1 (Woman NPC near Save Point)",
+                        "name": "Woman Before First Elevator (NPC)",
                         "map_locations": [{ "map": "Mushroom Rock Road Valley", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Hi-Potion x1"}]
                     },
                     {
-                        "name": "1000 gil (Chest)",
+                        "name": "North Alcove After First Elevator (Chest & NPC)",
                         "map_locations": [{ "map": "Mushroom Rock Road Valley", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [
+                            {"name": "1000 gil"},
+                            {"name": "Potion x10"}
+                        ]
                     },
                     {
-                        "name": "Potion x10 (NPC near chest)",
+                        "name": "Left Side, As Trail Turns East (Chest)",
                         "map_locations": [{ "map": "Mushroom Rock Road Valley", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Remedy x1"}]
                     },
                     {
-                        "name": "Remedy x1 (Chest)",
+                        "name": "Behind Pillar, Before Second Elevator (Chest)",
                         "map_locations": [{ "map": "Mushroom Rock Road Valley", "x": 0, "y": 0}],
-                        "sections": [{}]
-                    },
-                    {
-                        "name": "Hi-Potion x1 (Chest)",
-                        "map_locations": [{ "map": "Mushroom Rock Road Valley", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Hi-Potion x1"}]
                     }
                 ]
             },
@@ -70,24 +78,34 @@
                 "name": "Precipice",
                 "children": [
                     {
-                        "name": "X-Potion x1 (NPC near lift)",
+                        "name": "Near South Elevator (NPC)",
                         "map_locations": [{ "map": "Mushroom Rock Road Precipice", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "X-Potion x1"}]
                     },
                     {
-                        "name": "Serene Armlet (Chest)",
+                        "name": "Below West Elevator (Chest)",
                         "map_locations": [{ "map": "Mushroom Rock Road Precipice", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Serene Armlet"}]
                     },
                     {
-                        "name": "400 gil (NPC near elevator)",
+                        "name": "End of Curved Path West of North Elevator (Primer)",
                         "map_locations": [{ "map": "Mushroom Rock Road Precipice", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [
+                            {
+                                "name": "Al Bhed Primer X",
+                                "ref": "Al Bhed Primers/Al Bhed Primer X/Mushroom Rock Road"
+                            }
+                        ]
                     },
                     {
-                        "name": "Mega-Potion x1 (NPC)",
+                        "name": "Pacing Between North Elevator and East Ridge (NPC)",
                         "map_locations": [{ "map": "Mushroom Rock Road Precipice", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "400 gil"}]
+                    },
+                    {
+                        "name": "Near Large Elevator (NPC)",
+                        "map_locations": [{ "map": "Mushroom Rock Road Precipice", "x": 0, "y": 0}],
+                        "sections": [{"name": "Mega-Potion x1"}]
                     }
                 ]
             },
@@ -95,32 +113,36 @@
                 "name": "Ridge",
                 "children": [
                     {
-                        "name": "Mega-Potion x1 (Chest)",
+                        "name": "Near Lulu (Chest)",
                         "map_locations": [{ "map": "Mushroom Rock Road Ridge", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Mega-Potion x1"}]
                     },
                     {
-                        "name": "Serene Bracer (Chest)",
+                        "name": "Behind Spear Rack (Chest)",
                         "map_locations": [{ "map": "Mushroom Rock Road Ridge", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Serene Bracer"}]
                     },
                     {
-                        "name": "Sinspawn Gui",
+                        "name": "Defeat Sinspawn Gui (Boss)",
                         "map_locations": [{ "map": "Mushroom Rock Road Ridge", "x": 0, "y": 0}],
                         "access_rules": ["[$hasPartyMembers|3]"],
                         "sections": [
                             {
-                                "hosted_item": "sinspawngui1, sinspawngui",
+                                "hosted_item": "sinspawngui1, sinspawngui, seymourlocation",
                                 "clear_as_group": false
                             },
                             {
-                                "name": "First Fight",
+                                "name": "Sinspawn Gui",
                                 "hosted_item": "sinspawngui1",
                                 "item_count": 1,
                                 "clear_as_group": true
                             },
                             {
-                                "name": "Second Fight",
+                                "name": "Seymour",
+                                "ref": "Party Member/Character/Seymour"
+                            },
+                            {
+                                "name": "Sinspawn Gui 2",
                                 "access_rules": ["sinspawngui1"],
                                 "hosted_item": "sinspawngui",
                                 "item_count": 1,
@@ -135,14 +157,24 @@
                 "access_rules": ["sinspawngui"],
                 "children": [
                     {
-                        "name": "Hi-Potion x1 (Chest)",
+                        "name": "Under Overhang, West Side (Chest)",
                         "map_locations": [{ "map": "Mushroom Rock Road Aftermath", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Hi-Potion x1"}]
                     },
                     {
-                        "name": "Soft x4 (Chest)",
+                        "name": "Left Exit Over Boxes (Chest)",
                         "map_locations": [{ "map": "Mushroom Rock Road Aftermath", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Soft x4"}]
+                    },
+                    {
+                        "name": "Up Elevator in West Alcove, North Side (Event)",
+                        "map_locations": [{ "map": "Mushroom Rock Road Aftermath", "x": 0, "y": 0}],
+                        "sections": [
+                            {
+                                "name": "Masamune",
+                                "ref": "Celestial/Auron/Masamune"
+                            }
+                        ]
                     }
                 ]
             }

@@ -7,14 +7,29 @@
         "access_rules": ["^$CheckAccessLevel|kilika, geneaux"],
         "children": [
             {
-                "name": "Hi-Potion x1 (Chest)",
+                "name": "Left, Between Aurochs and Goers (Chest)",
                 "map_locations": [{ "map": "S.S. Winno", "x": 0, "y": 0}],
-                "sections": [{}]
+                "sections": [{"name": "Hi-Potion x1"}]
             },
             {
-                "name": "Ace Wizard (Seagulls)",
+                "name": "On Floor Behind Captain (Primer)",
                 "map_locations": [{ "map": "S.S. Winno", "x": 0, "y": 0}],
-                "sections": [{}]
+                "sections": [
+                    {
+                        "name": "Al Bhed Primver V",
+                        "ref": "Al Bhed Primers/Al Bhed Primer V/S.S. Winno"
+                    }
+                ]
+            },
+            {
+                "name": "Blitzball Recruit",
+                "map_locations": [{ "map": "S.S. Winno", "x": 0, "y": 0}],
+                "sections": [{"name": "Kiyuri", "ref": "Blitzball Recruits/Kiyuri"}]
+            },
+            {
+                "name": "Top Floor, Counting Gulls (NPC - 11 Seagulls)",
+                "map_locations": [{ "map": "S.S. Winno", "x": 0, "y": 0}],
+                "sections": [{"name": "Ace Wizard"}]
             }
         ]
     }

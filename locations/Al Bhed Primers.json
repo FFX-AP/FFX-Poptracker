@@ -4,19 +4,15 @@
         "chest_unopened_img": "/images/items/hd/Al_Bhed_Primer_HD.png",
         "chest_opened_img": "/images/items/hd/Al_Bhed_Primer_HD_BW.png",
         "overlay_background": "#000000",
-        "children": [
+        "sections": [
             {
                 "name": "Complete Al Bhed Primers",
-                "map_locations": [{ "map": "Airship", "x": 0, "y": 0}],
-                "access_rules": ["@Airship, albhedprimeri, albhedprimerii, albhedprimeriii, albhedprimeriv, albhedprimerv, albhedprimervi, albhedprimervii, albhedprimerviii, albhedprimerix, albhedprimerx, albhedprimerxi, albhedprimerxii, albhedprimerxiii, albhedprimerxiv, albhedprimerxv, albhedprimerxvi, albhedprimerxvii, albhedprimerxviii, albhedprimerxix, albhedprimerxx, albhedprimerxxi, albhedprimerxxii, albhedprimerxxiii, albhedprimerxxiv, albhedprimerxxv, albhedprimerxxvi"],
-                "sections": [{}]
-            },
+                "access_rules": ["@Airship, albhedprimeri, albhedprimerii, albhedprimeriii, albhedprimeriv, albhedprimerv, albhedprimervi, albhedprimervii, albhedprimerviii, albhedprimerix, albhedprimerx, albhedprimerxi, albhedprimerxii, albhedprimerxiii, albhedprimerxiv, albhedprimerxv, albhedprimerxvi, albhedprimerxvii, albhedprimerxviii, albhedprimerxix, albhedprimerxx, albhedprimerxxi, albhedprimerxxii, albhedprimerxxiii, albhedprimerxxiv, albhedprimerxxv, albhedprimerxxvi"]
+            }
+        ],
+        "children": [
             {
                 "name": "Al Bhed Primer I",
-                "map_locations": [
-                    {"map": "Al Bhed Ship", "x": 0, "y": 0},
-                    { "map": "Bikanel", "x": 0, "y": 0}
-                ],
                 "sections": [
                     {"name": "Al Bhed Ship", "access_rules": ["@Al Bhed Ship"]},
                     {"name": "Bikanel", "access_rules": ["@Bikanel/Desert/Oasis"]}
@@ -24,16 +20,11 @@
             },
             {
                 "name": "Al Bhed Primer II",
-                "map_locations": [{ "map": "Besaid Village", "x": 165, "y": 375}],
                 "access_rules": ["@Besaid"],
-                "sections": [{}]
+                "sections": [{"name": "Besaid"}]
             },
             {
                 "name": "Al Bhed Primer III",
-                "map_locations": [
-                    { "map": "S.S. Liki", "x": 0, "y": 0},
-                    { "map": "Bikanel", "x": 0, "y": 0}
-                ],
                 "sections": [
                     {"name": "S.S. Liki", "access_rules": ["@S.S. Liki"]},
                     {"name": "Bikanel", "access_rules": ["@Bikanel/Desert/Oasis"]}
@@ -41,16 +32,11 @@
             },
             {
                 "name": "Al Bhed Primer IV",
-                "map_locations": [{ "map": "Kilika Village", "x": 0, "y": 0}],
                 "access_rules": ["@Kilika"],
-                "sections": [{}]
+                "sections": [{"name": "Kilika"}]
             },
             {
                 "name": "Al Bhed Primer V",
-                "map_locations": [
-                    { "map": "S.S. Winno", "x": 0, "y": 0},
-                    { "map": "Bikanel", "x": 0, "y": 0}
-                ],
                 "sections": [
                     {"name": "S.S. Winno", "access_rules": ["@S.S. Winno"]},
                     {"name": "Bikanel", "access_rules": ["@Bikanel/Desert/East"]}
@@ -58,58 +44,46 @@
             },
             {
                 "name": "Al Bhed Primer VI",
-                "map_locations": [{ "map": "Luca Stadium", "x": 0, "y": 0}],
                 "access_rules": ["@Luca/Stadium"],
-                "sections": [{}]
+                "sections": [{"name": "Luca"}]
             },
             {
                 "name": "Al Bhed Primer VII",
-                "map_locations": [{ "map": "Luca City", "x": 0, "y": 0}],
                 "access_rules": ["@Luca/City"],
-                "sections": [{}]
+                "sections": [{"name": "Luca"}]
             },
             {
                 "name": "Al Bhed Primer VIII",
-                "map_locations": [{ "map": "Miihen Highroad Agency", "x": 0, "y": 0}],
                 "access_rules": ["@Miihen Highroad/Agency"],
-                "sections": [{}]
+                "sections": [{"name": "Miihen Highroad"}]
             },
             {
                 "name": "Al Bhed Primer IX",
-                "map_locations": [{ "map": "Miihen Highroad North", "x": 0, "y": 0}],
                 "access_rules": ["@Miihen Highroad/North"],
-                "sections": [{}]
+                "sections": [{"name": "Miihen Highroad"}]
             },
             {
                 "name": "Al Bhed Primer X",
-                "map_locations": [{ "map": "Mushroom Rock Road Precipice", "x": 0, "y": 0}],
                 "access_rules": ["@Mushroom Rock Road/Precipice"],
-                "sections": [{}]
+                "sections": [{"name": "Mushroom Rock Road"}]
             },
             {
                 "name": "Al Bhed Primer XI",
-                "map_locations": [{ "map": "Djose Highroad", "x": 0, "y": 0}],
                 "access_rules": ["@Djose/Highroad"],
-                "sections": [{}]
+                "sections": [{"name": "Djose"}]
             },
             {
                 "name": "Al Bhed Primer XII",
-                "map_locations": [{ "map": "Moonflow North", "x": 0, "y": 0}],
                 "access_rules": ["@Moonflow/North"],
-                "sections": [{}]
+                "sections": [{"name": "Moonflow"}]
             },
             {
                 "name": "Al Bhed Primer XIII",
-                "map_locations": [{ "map": "Guadosalam", "x": 0, "y": 0}],
                 "access_rules": ["@Guadosalam"],
-                "sections": [{}]
+                "sections": [{"name": "Guadosalam"}]
             },
             {
                 "name": "Al Bhed Primer XIV",
-                "map_locations": [
-                    { "map": "Thunder Plains", "x": 0, "y": 0},
-                    { "map": "Bikanel", "x": 0, "y": 0}
-                ],
                 "sections": [
                     {"name": "Thunder Plains", "access_rules": ["@Thunder Plains/Agency"]},
                     {"name": "Bikanel", "access_rules": ["@Bikanel/Desert/East"]}
@@ -117,75 +91,63 @@
             },
             {
                 "name": "Al Bhed Primer XV",
-                "map_locations": [{ "map": "Macalania Woods", "x": 0, "y": 0}],
                 "access_rules": ["@Macalania/Woods"],
-                "sections": [{}]
+                "sections": [{"name": "Macalania"}]
             },
             {
                 "name": "Al Bhed Primer XVI",
-                "map_locations": [{ "map": "Lake Macalania", "x": 0, "y": 0}],
                 "access_rules": ["@Macalania/Lake/Agency"],
-                "sections": [{}]
+                "sections": [{"name": "Macalania"}]
             },
             {
                 "name": "Al Bhed Primer XVII",
-                "map_locations": [{ "map": "Bikanel", "x": 0, "y": 0}],
                 "access_rules": ["@Bikanel/Desert"],
-                "sections": [{}]
+                "sections": [{"name": "Bikanel"}]
             },
             {
                 "name": "Al Bhed Primer XVIII",
-                "map_locations": [{ "map": "Bikanel", "x": 0, "y": 0}],
                 "access_rules": ["@Bikanel/Desert"],
-                "sections": [{}]
+                "sections": [{"name": "Bikanel"}]
             },
             {
                 "name": "Al Bhed Primer XIX",
-                "map_locations": [{ "map": "Home", "x": 0, "y": 0}],
                 "access_rules": ["@Bikanel/Home"],
-                "sections": [{}]
+                "sections": [{"name": "Home"}]
             },
             {
                 "name": "Al Bhed Primer XX",
-                "map_locations": [{ "map": "Home", "x": 0, "y": 0}],
                 "access_rules": ["@Bikanel/Home"],
-                "sections": [{}]
+                "sections": [{"name": "Home"}]
             },
             {
                 "name": "Al Bhed Primer XXI",
-                "map_locations": [{ "map": "Home", "x": 0, "y": 0}],
                 "access_rules": ["@Bikanel/Home"],
-                "sections": [{}]
+                "sections": [{"name": "Home"}]
             },
             {
                 "name": "Al Bhed Primer XXII",
-                "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
                 "access_rules": ["@Bevelle"],
-                "sections": [{}]
+                "sections": [{"name": "Bevelle"}]
             },
             {
                 "name": "Al Bhed Primer XXIII",
-                "map_locations": [{ "map": "Calm Lands", "x": 0, "y": 0}],
                 "access_rules": ["@Calm Lands/Plains"],
-                "sections": [{}]
+                "sections": [{"name": "Calm Lands"}]
             },
             {
                 "name": "Al Bhed Primer XXIV",
-                "map_locations": [{ "map": "Remiem Temple", "x": 0, "y": 0}],
                 "access_rules": ["@Remiem Temple"],
-                "sections": [{}]
+                "sections": [{"name": "Remiem Temple"}]
             },
             {
                 "name": "Al Bhed Primer XXV",
-                "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 0, "y": 0}],
                 "access_rules": ["@Cavern of the Stolen Fayth"],
-                "sections": [{}]
+                "sections": [{"name": "Cavern of the Stolen Fayth"}]
             },
             {
                 "name": "Al Bhed Primer XXVI",
-                "map_locations": [{ "map": "Omega Ruins", "x": 0, "y": 0}],
                 "access_rules": ["@Omega Ruins"],
-                "sections": [{}]
+                "sections": [{"name": "Omega Ruins"}]
             }
         ]
     }

@@ -10,12 +10,22 @@
                 "name": "Beach",
                 "children": [
                     {
-                        "name": "Antidote x2 (Chest)",
-                        "map_locations": [{ "map": "Besaid Beach", "x": 120, "y": 573}],
-                        "sections": [{}]
+                        "name": "East Alcove (Chest)",
+                        "map_locations": [{ "map": "Besaid Beach", "x": 0, "y": 0}],
+                        "sections": [
+                            {
+                                "name": "Moon Crest",
+                                "ref": "Celestial/Yuna/Moon Crest"
+                            }
+                        ]
                     },
                     {
-                        "name": "Aurochs",
+                        "name": "West Near Huts (Chest)",
+                        "map_locations": [{ "map": "Besaid Beach", "x": 120, "y": 573}],
+                        "sections": [{"name": "Antidote x2"}]
+                    },
+                    {
+                        "name": "Aurochs (NPCs)",
                         "map_locations": [{ "map": "Besaid Beach", "x": 150, "y": 520}],
                         "sections": [
                             {
@@ -23,25 +33,25 @@
                                 "clear_as_group": false
                             },
                             {
-                                "name": "Hi-Potion x1 (Datto NPC)",
+                                "name": "Hi-Potion x1 (Datto)",
                                 "hosted_item": "aurochs1",
                                 "item_count": 1,
                                 "clear_as_group": true
                             },
                             {
-                                "name": "Potion x3 (Jassu NPC)",
+                                "name": "Potion x3 (Jassu)",
                                 "hosted_item": "aurochs2",
                                 "item_count": 1,
                                 "clear_as_group": true
                             },
                             {
-                                "name": "Potion x2 (Botta NPC)",
+                                "name": "Potion x2 (Botta)",
                                 "hosted_item": "aurochs3",
                                 "item_count": 1,
                                 "clear_as_group": true
                             },
                             {
-                                "name": "200 gil (Keepa NPC)",
+                                "name": "200 gil (Keepa)",
                                 "hosted_item": "aurochs4",
                                 "item_count": 1,
                                 "clear_as_group": true
@@ -49,7 +59,7 @@
                         ]
                     },
                     {
-                        "name": "Dock",
+                        "name": "Dock (NPCs)",
                         "map_locations": [{ "map": "Besaid Beach", "x": 103, "y": 550}],
                         "sections": [
                             {
@@ -57,31 +67,31 @@
                                 "clear_as_group": false
                             },
                             {
-                                "name": "Remedy x1 (Kid on Dock Bridge NPC)",
+                                "name": "Remedy x1 (Kid)",
                                 "hosted_item": "besaiddock1",
                                 "item_count": 1,
                                 "clear_as_group": true
                             },
                             {
-                                "name": "Seekers Ring (Priest NPC)",
+                                "name": "Seekers Ring (Priest)",
                                 "hosted_item": "besaiddock2",
                                 "item_count": 1,
                                 "clear_as_group": true
                             },
                             {
-                                "name": "Phoenix Down x3 (Woman NPC)",
+                                "name": "Phoenix Down x3 (Woman)",
                                 "hosted_item": "besaiddock3",
                                 "item_count": 1,
                                 "clear_as_group": true
                             },
                             {
-                                "name": "400 gil (Shirtless Man NPC)",
+                                "name": "400 gil (Shirtless Man)",
                                 "hosted_item": "besaiddock4",
                                 "item_count": 1,
                                 "clear_as_group": true
                             },
                             {
-                                "name": "Ether (Green Shirt NPC)",
+                                "name": "Ether (Green Shirt)",
                                 "hosted_item": "besaiddock5",
                                 "item_count": 1,
                                 "clear_as_group": true
@@ -94,19 +104,29 @@
                 "name": "Valley",
                 "children": [
                     {
-                        "name": "Phoenix Down x1 (Chest)",
+                        "name": "Enter the Valley (Event)",
                         "map_locations": [{ "map": "Besaid Beach", "x": 239, "y": 381}],
-                        "sections": [{}]
+                        "sections": [
+                            {
+                                "name": "Wakka",
+                                "ref": "Party Member/Character/Wakka"
+                            }
+                        ]
                     },
                     {
-                        "name": "Hi-Potion x1 (Chest)",
+                        "name": "South of Spawn, Right Side (Chest)",
+                        "map_locations": [{ "map": "Besaid Beach", "x": 239, "y": 381}],
+                        "sections": [{"name": "Phoenix Down x1"}]
+                    },
+                    {
+                        "name": "South Side, Hidden Behind Right Wall (Chest)",
                         "map_locations": [{ "map": "Besaid Beach", "x": 279, "y": 402}],
-                        "sections": [{}]
+                        "sections": [{"name": "Hi-Potion x1"}]
                     },
                     {
-                        "name": "Antidote x2 (Chest)",
+                        "name": "East Side, Right of Path (Chest)",
                         "map_locations": [{ "map": "Besaid Beach", "x": 390, "y": 388}],
-                        "sections": [{}]
+                        "sections": [{"name": "Antidote x2"}]
                     }
                 ]
             },
@@ -114,12 +134,12 @@
                 "name": "Village",
                 "children": [
                     {
-                        "name": "Phoenix Down x1 (Chest)",
+                        "name": "Front of Shop (Chest)",
                         "map_locations": [{ "map": "Besaid Village", "x": 239, "y": 432}],
-                        "sections": [{}]
+                        "sections": [{"name": "Phoenix Down x1"}]
                     },
                     {
-                        "name": "Behind Shop",
+                        "name": "Behind Shop (Chests)",
                         "map_locations": [{ "map": "Besaid Village", "x": 208, "y": 430}],
                         "sections": [
                             {
@@ -127,19 +147,19 @@
                                 "clear_as_group": false
                             },
                             {
-                                "name": "Hi-Potion x1 (Chest)",
+                                "name": "Hi-Potion x1",
                                 "hosted_item": "behindtheshop1",
                                 "item_count": 1,
                                 "clear_as_group": true
                             },
                             {
-                                "name": "400 gil (Chest)",
+                                "name": "400 gil",
                                 "hosted_item": "behindtheshop2",
                                 "item_count": 1,
                                 "clear_as_group": true
                             },
                             {
-                                "name": "Potion x2 (Chest)",
+                                "name": "Potion x2",
                                 "hosted_item": "behindtheshop3",
                                 "item_count": 1,
                                 "clear_as_group": true
@@ -147,14 +167,37 @@
                         ]
                     },
                     {
-                        "name": "Destruction Sphere",
-                        "map_locations": [{ "map": "Besaid Village", "x": 80, "y": 227}],
+                        "name": "On Ground Near Counter (Primer)",
+                        "map_locations": [{ "map": "Besaid Village", "x": 0, "y": 0}],
                         "sections": [
                             {
-                                "name": "Rod of Wisdom",
+                                "name": "Al Bhed Primer II",
+                                "ref": "Al Bhed Primers/Al Bhed Primer II/Besaid"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blitzball Recruit",
+                        "map_locations": [{ "map": "Besaid Village", "x": 0, "y": 0}],
+                        "sections": [{"name": "Vilucha", "ref": "Blitzball Recruits/Vilucha"}]
+                    },
+                    {
+                        "name": "Cloister",
+                        "map_locations": [{ "map": "Besaid Village", "x": 0, "y": 0}],
+                        "sections": [
+                            {
+                                "hosted_item": "besaiddestructionsphere, besaidcloister", 
+                                "clear_as_group": false
+                            },
+                            {
+                                "name": "Destruction Sphere - Rod of Wisdom",
                                 "hosted_item": "besaiddestructionsphere",
                                 "item_count": 1,
                                 "clear_as_group": true
+                            },
+                            {
+                                "name": "Valefor",
+                                "ref": "Party Member/Aeon/Valefor"
                             }
                         ]
                     },
@@ -162,11 +205,38 @@
                         "name": "Exit the Village (Event)",
                         "map_locations": [{ "map": "Besaid Village", "x": 245, "y": 350, "size": 16}],
                         "sections": [
-                            {"name": "Map"},
-                            {"name": "Brotherhood", "ref": "Celestial/Tidus/Brotherhood/"}
+                            {
+                                "hosted_item": "map, brotherhood", 
+                                "clear_as_group": false
+                            },
+                            {
+                                "name": "Map",
+                                "hosted_item": "map",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            },
+                            {
+                                "name": "Brotherhood", 
+                                "ref": "Celestial/Tidus/Brotherhood"
+                            }
                         ]
+                    },
+                    {
+                        "name": "Defeat Dark Valefor (Superboss)",
+                        "map_locations": [{ "map": "Besaid Village", "x": 0, "y": 0}],
+                        "sections": [{"name": "Dark Velfor", "ref": "Super Bosses/Dark Valefor"}]
                     }
                 ]
+            },
+            {
+                "name": "Village Slope - Element Tutorial (Event)",
+                "map_locations": [{ "map": "Besaid Village", "x": 0, "y": 0}],
+                "sections": [{"name": "Lulu", "ref": "Party Member/Character/Lulu"}]
+            },
+            {
+                "name": "Waterfall Way - Summon Tutorial (Event)",
+                "map_locations": [{ "map": "Besaid Village", "x": 0, "y": 0}],
+                "sections": [{"name": "Yuna", "ref": "Party Member/Character/Yuna"}]
             }
         ]
     }

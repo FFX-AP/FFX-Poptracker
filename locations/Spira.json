@@ -6,82 +6,82 @@
         "overlay_background": "#000000",
         "children": [
             {
-                "name": "Al Bhed Ship",
-                "map_locations": [{ "map": "Spira", "x": 241, "y": 675}],
-                "sections": [
-                    {
-                        "name": "Potion x 3 (NPC)",
-                        "ref": "Al Bhed Ship/Potion x 3 (NPC)/"
-                    },
-                    {
-                        "name": "Al Bhed Primer I",
-                        "ref": "Al Bhed Primers/Al Bhed Primer I/Al Bhed Ship"
-                    },
-                    {
-                        "name": "Tros",
-                        "ref": "Al Bhed Ship/Tros/"
-                    }
-                ]
-            },
-            {
                 "name": "Baaj Temple",
                 "map_locations": [{ "map": "Spira", "x": 186, "y": 615}],
                 "sections": [
                     {
-                        "name": "Outside - 200 gil (Chest)",
-                        "ref": "Baaj Temple/Outside/200 gil (Chest)/"
+                        "name": "Submerged Ruins - 200 gil (Chest)",
+                        "ref": "Baaj Temple/Outside/Northeast Structure (Chest)/200 gil"
                     },
                     {
-                        "name": "Outside - Potion x2 (Chest)",
-                        "ref": "Baaj Temple/Outside/Potion x2 (Chest)/"
+                        "name": "Submerged Ruins - Potion x2 (Chest)",
+                        "ref": "Baaj Temple/Outside/Northwest Structure (Chest)/Potion x2"
                     },
                     {
-                        "name": "Outside - Hi-Potion x1 (Chest)",
-                        "ref": "Baaj Temple/Outside/Hi-Potion x1 (Chest)/"
+                        "name": "Underwater Hall - Hi-Potion x1 (Chest)",
+                        "ref": "Baaj Temple/Outside/West Branch of Main Path (Chest)/Hi-Potion x1"
                     },
                     {
-                        "name": "Inside - Flint",
-                        "ref": "Baaj Temple/Inside/Flint/"
+                        "name": "Small Room - Flint",
+                        "ref": "Baaj Temple/Inside/Flint Inside Desk (Event)/Flint"
                     },
                     {
-                        "name": "Inside - X-Potion x1 (Chest)",
-                        "ref": "Baaj Temple/Inside/X-Potion x1 (Chest)/"
+                        "name": "Hall - X-Potion x1 (Chest)",
+                        "ref": "Baaj Temple/Inside/South Side of East Door (Chest)/X-Potion x1"
                     },
                     {
-                        "name": "Inside - Ether (Chest)",
-                        "ref": "Baaj Temple/Inside/Ether (Chest)/"
+                        "name": "Stairs - Ether (Chest)",
+                        "ref": "Baaj Temple/Inside/South End (Chest)/Ether"
                     },
                     {
-                        "name": "Inside - Withered Bouquet",
-                        "ref": "Baaj Temple/Inside/Withered Bouquet/"
+                        "name": "Stairs - Withered Bouquet",
+                        "ref": "Baaj Temple/Inside/Flowers in Sconce on Right Wall, North End (Event)/Withered Bouquet"
                     },
                     {
-                        "name": "Inside - Hi-Potion x1 (Chest)",
-                        "ref": "Baaj Temple/Inside/Hi-Potion x1 (Chest)/"
+                        "name": "Hall - Hi-Potion x1 (Chest)",
+                        "ref": "Baaj Temple/Inside/North exit from Stairs, East End (Chest)/Hi-Potion x1"
                     },
                     {
-                        "name": "Inside - Klikk",
-                        "ref": "Baaj Temple/Inside/Klikk/"
+                        "name": "Hall - Klikk",
+                        "ref": "Baaj Temple/Inside/Defeat Klikk (Boss)/Klikk"
                     },
                     {
-                        "name": "Temple - Geosgaeno",
-                        "ref": "Baaj Temple/Temple/Geosgaeno/"
+                        "name": "Underwater Hall - Geosgaeno",
+                        "ref": "Baaj Temple/Temple/Defeat Geosgaeno (Boss)/Geosgaeno"
                     },
                     {
-                        "name": "Temple - Megalixir (Chest)",
-                        "ref": "Baaj Temple/Temple/Megalixir (Chest)/"
+                        "name": "Underwater Hall - Onion Knight (Chest)",
+                        "ref": "Celestial/Lulu/Onion Knight"
                     },
                     {
-                        "name": "Temple - Mega Phoenix x4 (Chest)",
-                        "ref": "Baaj Temple/Temple/Mega Phoenix x4 (Chest)/"
+                        "name": "Antechamber - Megalixir (Chest)",
+                        "ref": "Baaj Temple/Temple/Right Side (Chest)/Megalixir"
                     },
                     {
-                        "name": "Temple - Onion Knight (Chest)",
-                        "ref": "Celestial/Lulu/Onion Knight (Chest)/"
+                        "name": "Antechamber - Mega Phoenix x4 (Chest)",
+                        "ref": "Baaj Temple/Temple/Left Side (Chest)/Mega Phoenix x4"
                     },
                     {
-                        "name": "Temple - Anima",
-                        "ref": "Party Member/Aeon/Anima/"
+                        "name": "Antechamber - Anima",
+                        "ref": "Party Member/Aeon/Anima"
+                    }
+                ]
+            },
+            {
+                "name": "Al Bhed Ship",
+                "map_locations": [{ "map": "Spira", "x": 241, "y": 675}],
+                "sections": [
+                    {
+                        "name": "Deck - Potion x 3 (NPC)",
+                        "ref": "Al Bhed Ship/Yellow Al Bhed, on Left (NPC)/Potion x 3"
+                    },
+                    {
+                        "name": "Deck- Al Bhed Primer I",
+                        "ref": "Al Bhed Primers/Al Bhed Primer I/Al Bhed Ship"
+                    },
+                    {
+                        "name": "Sunken Ruins - Tros",
+                        "ref": "Al Bhed Ship/Defeat Tros (Boss)/Tros"
                     }
                 ]
             },
@@ -90,76 +90,72 @@
                 "map_locations": [{ "map": "Spira", "x": 410, "y": 1005}],
                 "sections": [
                     {
-                        "name": "Beach - Antidote x2",
-                        "ref": "Besaid/Beach/Antidote x2 (Chest)/"
+                        "name": "Beach - Antidote x2 (Chest)",
+                        "ref": "Besaid/Beach/West Near Huts (Chest)/Antidote x2"
                     },
                     {
                         "name": "Beach - Moon Crest (Chest)",
-                        "ref": "Celestial/Yuna/Moon Crest (Chest)/"
+                        "ref": "Celestial/Yuna/Moon Crest"
                     },
                     {
-                        "name": "Aurochs - Aurochs NPCs",
-                        "ref": "Besaid/Beach/Aurochs/"
+                        "name": "Beach - Aurochs (NPCs)",
+                        "ref": "Besaid/Beach/Aurochs (NPCs)/"
                     },
                     {
                         "name": "Valley - Wakka",
-                        "ref": "Party Member/Character/Wakka/"
+                        "ref": "Party Member/Character/Wakka"
                     },
                     {
                         "name": "Valley - Phoenix Down x1 (Chest)",
-                        "ref": "Besaid/Valley/Phoenix Down x1 (Chest)/"
+                        "ref": "Besaid/Valley/South of Spawn, Right Side (Chest)/Phoenix Down x1"
                     },
                     {
                         "name": "Valley - Hi-Potion x1 (Chest)",
-                        "ref": "Besaid/Valley/Hi-Potion x1 (Chest)/"
+                        "ref": "Besaid/Valley/South Side, Hidden Behind Right Wall (Chest)/Hi-Potion x1"
                     },
                     {
                         "name": "Valley - Antidote x2 (Chest)",
-                        "ref": "Besaid/Valley/Antidote x2 (Chest)/"
+                        "ref": "Besaid/Valley/East Side, Right of Path (Chest)/Antidote x2"
                     },
                     {
                         "name": "Village - Phoenix Down x1 (Chest)",
-                        "ref": "Besaid/Village/Phoenix Down x1 (Chest)/"
+                        "ref": "Besaid/Village/Front of Shop (Chest)/Phoenix Down x1"
                     },
                     {
                         "name": "Village - Behind the Shop (Chests)",
-                        "ref": "Besaid/Village/Behind Shop/"
+                        "ref": "Besaid/Village/Behind Shop (Chests)/"
                     },
                     {
                         "name": "Village - Al Bhed Primer II",
-                        "ref": "Al Bhed Primers/Al Bhed Primer II/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer II/Besaid"
                     },
                     {
-                        "name": "Cloister - Rod of Wisdom",
-                        "ref": "Besaid/Village/Destruction Sphere/Rod of Wisdom"
+                        "name": "Village - Recruit Vilucha",
+                        "ref": "Blitzball Recruits/Vilucha"
                     },
                     {
-                        "name": "Cloister - Valefor",
-                        "ref": "Party Member/Aeon/Valefor/"
+                        "name": "Village - Cloister of Trials",
+                        "ref": "Besaid/Village/Cloister/"
                     },
                     {
-                        "name": "Village - Map",
-                        "ref": "Besaid/Village/Exit the Village (Event)/Map"
+                        "name": "Village - Exit the Village (Event)" ,
+                        "ref": "Besaid/Village/Exit the Village (Event)/"
                     },
                     {
-                        "name": "Village - Brotherhood",
-                        "ref": "Celestial/Tidus/Brotherhood/"
+                        "name": "Village Slope - Lulu",
+                        "ref": "Party Member/Character/Lulu"
                     },
                     {
-                        "name": "Post-Village - Lulu",
-                        "ref": "Party Member/Character/Lulu/"
-                    },
-                    {
-                        "name": "Post-Village - Yuna",
-                        "ref": "Party Member/Character/Yuna/"
+                        "name": "Waterfall Way - Yuna",
+                        "ref": "Party Member/Character/Yuna"
                     },
                     {
                         "name": "Beach - Dock NPCs",
-                        "ref": "Besaid/Beach/Dock/"
+                        "ref": "Besaid/Beach/Dock (NPCs)/"
                     },
                     {
                         "name": "Super Bosses - Dark Valefor",
-                        "ref": "Super Bosses/Dark Valefor/"
+                        "ref": "Super Bosses/Dark Valefor"
                     }
                 ]
             },
@@ -169,7 +165,7 @@
                 "sections": [
                     {
                         "name": "Remedy x1 (Chest)",
-                        "ref": "S.S. Liki/Remedy x1 (Chest)/"
+                        "ref": "S.S. Liki/Cabin (Chest)/Remedy x1"
                     },
                     {
                         "name": "Al Bhed Primer III",
@@ -177,19 +173,11 @@
                     },
                     {
                         "name": "Sin Fin",
-                        "ref": "S.S. Liki/Sin Fin/"
-                    },
-                    {
-                        "name": "Kimahri",
-                        "ref": "Party Member/Character/Kimahri/"
-                    },
-                    {
-                        "name": "Sinspawn Echuilles",
-                        "ref": "S.S. Liki/Sinspawn Echuilles/"
+                        "ref": "S.S. Liki/Encounter Sin Fin (Event)/"
                     },
                     {
                         "name": "Friend Sphere x1 (Clasko NPC)",
-                        "ref": "S.S. Liki/Friend Sphere x1 (Clasko NPC)/"
+                        "ref": "S.S. Liki/Clasko, After Breeder Encouragement in Macalania (Event)/Friend Sphere x1 (Clasko)"
                     }
                 ]
             },
@@ -199,60 +187,60 @@
                 "sections": [
                     {
                         "name": "Village - Remedy x1 (Chest)",
-                        "ref": "Kilika/Village/Potion x3 (Chest)/"
+                        "ref": "Kilika/Village/Right of Collapsing House (Chest)/Potion x3"
                     },
                     {
                         "name": "Village - Ether x1 (Chest)",
-                        "ref": "Kilika/Village/Ether x1 (Chest)/"
+                        "ref": "Kilika/Village/After Rescuing Kulukan's Sister from Collapsing House (Chest)/Ether x1"
                     },
                     {
                         "name": "Village - Al Bhed Primer IV",
-                        "ref": "Al Bhed Primers/Al Bhed Primer IV/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer IV/Kilika"
+                    },
+                    {
+                        "name": "Village - Recruit Tatts",
+                        "ref": "Blitzball Recruits/Tatts"
                     },
                     {
                         "name": "Woods - Mana Sphere x2 (Chest)",
-                        "ref": "Kilika/Woods/Mana Sphere x2 (Chest)/"
+                        "ref": "Kilika/Woods/East of First Intersection (Chest)/Mana Sphere x2"
                     },
                     {
                         "name": "Woods - Scout (Chest)",
-                        "ref": "Kilika/Woods/Scout (Chest)/"
+                        "ref": "Kilika/Woods/West of First Intersection, First North Fork (Chest)/Scout"
                     },
                     {
                         "name": "Woods - Remedy x1 (Leader NPC)",
-                        "ref": "Kilika/Woods/Remedy x1 (Leader NPC)/"
+                        "ref": "Kilika/Woods/Crusader Commander West of Lord Ochu (NPC)/Remedy x1"
                     },
                     {
                         "name": "Woods - High Potion x1 (Guard NPC)",
-                        "ref": "Kilika/Woods/High Potion x1 (Guard NPC)/"
+                        "ref": "Kilika/Woods/Crusader Commander North of Lord Ochu (NPC)/High Potion x1"
                     },
                     {
                         "name": "Woods - Luck Sphere x1 (Chest)",
-                        "ref": "Kilika/Woods/Luck Sphere x1 (Chest)/"
+                        "ref": "Kilika/Woods/Path North of Lord Ochu, Curving West (Chest)/Luck Sphere x1"
                     },
                     {
-                        "name": "Woods - Luzu (NPC) - Antidote x4 (Before Ochu)",
-                        "ref": "Kilika/Woods/Luzu (NPC)/Antidote x4 (Before Ochu)"
-                    },
-                    {
-                        "name": "Woods - Luzu (NPC) - Elixir x1 (After Ochu)",
-                        "ref": "Kilika/Woods/Luzu (NPC)/Elixir x1 (After Ochu)"
+                        "name": "Woods - Luzu (NPC)",
+                        "ref": "Kilika/Woods/Luzu (NPC)/"
                     },
                     {
                         "name": "Woods - Lord Ochu",
-                        "ref": "Kilika/Woods/Lord Ochu/"
+                        "ref": "Kilika/Woods/Defeat Lord Ochu (Boss)/Lord Ochu"
                     },
                     {
                         "name": "Woods - Sinspawn Geneaux",
-                        "ref": "Kilika/Woods/Sinspawn Geneaux/"
+                        "ref": "Kilika/Woods/Defeat Sinspawn Geneaux (Boss)/Sinspawn Geneaux"
                     },
                     {
-                        "name": "Cloister - Red Armlet",
-                        "ref": "Kilika/Temple/Destruction Sphere/Red Armlet"
+                        "name": "Temple - Recruit Mep",
+                        "ref": "Blitzball Recruits/Mep"
                     },
                     {
-                        "name": "Cloister - Ifrit",
-                        "ref": "Party Member/Aeon/Ifrit/"
-                    }                   
+                        "name": "Temple - Cloister of Trials",
+                        "ref": "Kilika/Temple/Cloister/"
+                    }                 
                 ]
             },
             {
@@ -261,15 +249,19 @@
                 "sections": [
                     {
                         "name": "Hi-Potion x1 (Chest)",
-                        "ref": "S.S. Winno/Hi-Potion x1 (Chest)/"
+                        "ref": "S.S. Winno/Left, Between Aurochs and Goers (Chest)/Hi-Potion x1"
                     },
                     {
                         "name": "Al Bhed Primer V",
                         "ref": "Al Bhed Primers/Al Bhed Primer V/S.S. Winno"
                     },
                     {
-                        "name": "Ace Wizard (Seagulls)",
-                        "ref": "S.S. Winno/Ace Wizard (Seagulls)/"
+                        "name": "Recruit Kiyuri",
+                        "ref": "Blitzball Recruits/Kiyuri"
+                    },
+                    {
+                        "name": "Ace Wizard (11 Seagulls)",
+                        "ref": "S.S. Winno/Top Floor, Counting Gulls (NPC - 11 Seagulls)/Ace Wizard"
                     }
                 ]
             },
@@ -278,64 +270,96 @@
                 "map_locations": [{ "map": "Spira", "x": 546, "y": 845}],
                 "sections": [
                     {
-                        "name": "Stadium - Hi-Potion x2 (Chest)",
-                        "ref": "Luca/Stadium/Hi-Potion x2 (Chest)/"
+                        "name": "Stadium Basement B - Hi-Potion x2 (Chest)",
+                        "ref": "Luca/Stadium/West Locker Hall (Chest)/Hi-Potion x2"
                     },
                     {
-                        "name": "Stadium - Al Bhed Primer VI",
-                        "ref": "Al Bhed Primers/Al Bhed Primer VI/"
+                        "name": "Stadium Basement B - Al Bhed Primer VI",
+                        "ref": "Al Bhed Primers/Al Bhed Primer VI/Luca"
                     },
                     {
-                        "name": "Dock - 600 Gil (Chest)",
-                        "ref": "Luca/Dock/600 Gil (Chest)/"
+                        "name": "Dock 1 - 600 Gil (Chest)",
+                        "ref": "Luca/Dock/Dock 1 - Right Side (Chest)/600 Gil"
                     },
                     {
-                        "name": "Dock - Tidal Spear (Chest)",
-                        "ref": "Luca/Dock/Tidal Spear (Chest)/"
+                        "name": "Dock 1 - Tidal Spear (Chest)",
+                        "ref": "Luca/Dock/Dock 1 - End (Chest)/Tidal Spear"
                     },
                     {
-                        "name": "Dock - Phoenix Down x2 (Chest)",
-                        "ref": "Luca/Dock/Phoenix Down x2 (Chest)/"
+                        "name": "Dock 2 - Phoenix Down x2 (Chest)",
+                        "ref": "Luca/Dock/Dock 2 - Left Side (Chest)/Phoenix Down x2"
                     },
                     {
-                        "name": "Dock - HP Sphere x1 (Chest)",
-                        "ref": "Luca/Dock/HP Sphere x1 (Chest)/"
+                        "name": "Dock 5 - HP Sphere x1 (Chest)",
+                        "ref": "Luca/Dock/Dock 5 - End, Hidden Behind Boxes (Chests)/HP Sphere x1"
                     },
                     {
-                        "name": "Dock - Magic Sphere x1 (Chest)",
-                        "ref": "Luca/Dock/Magic Sphere x1 (Chest)/"
+                        "name": "Dock 5 - Magic Sphere x1 (Chest)",
+                        "ref": "Luca/Dock/Dock 5 - End, Hidden Behind Boxes (Chests)/Magic Sphere x1"
                     },
                     {
-                        "name": "City - 1000 Gil (Chest)",
-                        "ref": "Luca/City/1000 Gil (Chest)/"
+                        "name": "Theater Reception - Al Bhed Primer VII",
+                        "ref": "Al Bhed Primers/Al Bhed Primer VII/Luca"
                     },
                     {
-                        "name": "City - Al Bhed Primer VII",
-                        "ref": "Al Bhed Primers/Al Bhed Primer VII/"
+                        "name": "City Limits - 1000 Gil (Chest)",
+                        "ref": "Luca/City/Staircase Leading to Mi'ihen (Chest)/1000 Gil"
                     },
                     {
                         "name": "Dock - Oblitzerator",
-                        "ref": "Luca/Dock/Oblitzerator/"
+                        "ref": "Luca/Dock/Defeat Oblitzerator (Boss)/Oblitzerator"
                     },
                     {
                         "name": "Stadium - Story Win vs. Luca Goers Reward",
-                        "ref": "Luca/Stadium/Story Win vs. Luca Goers Reward/"
+                        "ref": "Luca/Stadium/Win the Story Blitzball Tournament (Event)/Story Win vs. Luca Goers Reward"
                     },
                     {
                         "name": "Stadium - Auron",
-                        "ref": "Party Member/Character/Auron/"
+                        "ref": "Party Member/Character/Auron"
                     },
                     {
-                        "name": "Stadium - Jupiter Crest (Locker)",
-                        "ref": "Celestial/Wakka/Jupiter Crest (Locker)/"
+                        "name": "Dock - Recruit Nedus",
+                        "ref": "Blitzball Recruits/Nedus"
                     },
                     {
-                        "name": "City - World Champion",
-                        "ref": "Celestial/Wakka/World Champion/"
+                        "name": "Dock - Recruit Zev Ronso",
+                        "ref": "Blitzball Recruits/Zev Ronso"
+                    },
+                    {
+                        "name": "Stadium - Recruit Biggs",
+                        "ref": "Blitzball Recruits/Biggs"
+                    },
+                    {
+                        "name": "Stadium - Recruit Wedge",
+                        "ref": "Blitzball Recruits/Wedge"
+                    },
+                    {
+                        "name": "City - Recruit Jumal",
+                        "ref": "Blitzball Recruits/Jumal"
+                    },
+                    {
+                        "name": "City - Recruit Shaami",
+                        "ref": "Blitzball Recruits/Shaami"
+                    },
+                    {
+                        "name": "City - Recruit Shuu",
+                        "ref": "Blitzball Recruits/Shuu"
+                    },
+                    {
+                        "name": "City - Recruit Zalitz",
+                        "ref": "Blitzball Recruits/Zalitz"
+                    },
+                    {
+                        "name": "Stadium Locker Room - Jupiter Crest (Locker)",
+                        "ref": "Celestial/Wakka/Jupiter Crest"
+                    },
+                    {
+                        "name": "City Cafe - World Champion",
+                        "ref": "Celestial/Wakka/World Champion"
                     },
                     {
                         "name": "Blitzball - Jupiter Sigil (Blitzball League)",
-                        "ref": "Celestial/Wakka/Jupiter Sigil (Blitzball League)/"
+                        "ref": "Celestial/Wakka/Jupiter Sigil"
                     }
                 ]
             },
@@ -345,103 +369,107 @@
                 "sections": [
                     {
                         "name": "South - Hi-Potion (Yellow Shirt NPC)",
-                        "ref": "Miihen Highroad/South/Hi-Potion (Yellow Shirt NPC)/"
+                        "ref": "Miihen Highroad/South/Yellow Man, Looping South to North (NPC)/Hi-Potion"
                     },
                     {
                         "name": "South - Hunters Spear (Blue Shirt NPC)",
-                        "ref": "Miihen Highroad/South/Hunters Spear (Blue Shirt NPC)/"
+                        "ref": "Miihen Highroad/South/Blue-White Man, Looping North to South (NPC)/Hunters Spear"
                     },
                     {
                         "name": "South - Antidote x2 (Red Skirt NPC)",
-                        "ref": "Miihen Highroad/South/Antidote x2 (Red Skirt NPC)/"
+                        "ref": "Miihen Highroad/South/Red Skirt Girl, Pacing Between Maechen and Ruins (NPC)/Antidote x2"
                     },
                     {
                         "name": "South - Ice Brand (Chest)",
-                        "ref": "Miihen Highroad/South/Ice Brand (Chest)/"
+                        "ref": "Miihen Highroad/South/Behind Ruins on Left (Chest)/Ice Brand"
                     },
                     {
                         "name": "South - Remedy x1 (Chest)",
-                        "ref": "Miihen Highroad/South/Remedy x1 (Chest)/"
+                        "ref": "Miihen Highroad/South/Behind Elma, North Side (Chest)/Remedy x1"
                     },
                     {
                         "name": "South - Red Ring (Crusader NPC)",
-                        "ref": "Miihen Highroad/South/Red Ring (Crusader NPC)/"
+                        "ref": "Miihen Highroad/South/Crusader Running East then West (NPC)/Red Ring"
                     },
                     {
                         "name": "South - Soft x3 (Boy NPC)",
-                        "ref": "Miihen Highroad/South/Soft x3 (Boy NPC)/"
+                        "ref": "Miihen Highroad/South/Boy Before Kicking the Blitzball (NPC)/Soft x3"
                     },
                     {
                         "name": "Central - Lv. 1 Key Sphere x1 (Purple Crusader NPC)",
-                        "ref": "Miihen Highroad/Central/Lv. 1 Key Sphere x1 (Purple Crusader NPC)/"
+                        "ref": "Miihen Highroad/Central/Purple Crusader, Looping South to North (NPC)/Lv. 1 Key Sphere x1"
                     },
                     {
                         "name": "Central - Antidote x4 (Woman in Yellow NPC)",
-                        "ref": "Miihen Highroad/Central/Antidote x4 (Woman in Yellow NPC)/"
+                        "ref": "Miihen Highroad/Central/Female Yellow Crusader, Looping North to South (NPC)/Antidote x4"
                     },
                     {
                         "name": "Central - 2000 gil (Chest)",
-                        "ref": "Miihen Highroad/Central/2000 gil (Chest)/"
+                        "ref": "Miihen Highroad/Central/East Alcove (Chest)/2000 gil"
                     },
                     {
                         "name": "Central - 600 gil (Yellow Crusader NPC)",
-                        "ref": "Miihen Highroad/Central/600 gil (Yellow Crusader NPC)/"
+                        "ref": "Miihen Highroad/Central/Yellow Crusader, Looping North to South (NPC)/600 gil"
                     },
                     {
                         "name": "Central - Ether x1 (NPC)",
-                        "ref": "Miihen Highroad/Central/Ether x1 (NPC)/"
+                        "ref": "Miihen Highroad/Central/Purple Crusader Freaking Out, West Side (NPC)/Ether x1"
                     },
                     {
                         "name": "Central - Hi-Potion x1 (NPC)",
-                        "ref": "Miihen Highroad/Central/Hi-Potion x1 (NPC)/"
+                        "ref": "Miihen Highroad/Central/Woman on North End, West Side (NPC)/Hi-Potion x1"
                     },
                     {
                         "name": "Central - Eye Drops x3 (Chest)",
-                        "ref": "Miihen Highroad/Central/Eye Drops x3 (Chest)/"
+                        "ref": "Miihen Highroad/Central/North Exit (Chest)/Eye Drops x3"
                     },
                     {
                         "name": "Agency - Lv. 1 Key Sphere x1 (NPC)",
-                        "ref": "Miihen Highroad/Agency/Lv. 1 Key Sphere x1 (NPC)/"
+                        "ref": "Miihen Highroad/Agency/Green NPC After Resting (Event)/Lv. 1 Key Sphere x1"
                     },
                     {
                         "name": "Agency - Mega-Potion (NPC)",
-                        "ref": "Miihen Highroad/Agency/Mega-Potion (NPC)/"
+                        "ref": "Miihen Highroad/Agency/Exit After Resting (Event)/Mega-Potion"
                     },
                     {
                         "name": "Agency - Al Bhed Primer VIII",
-                        "ref": "Al Bhed Primers/Al Bhed Primer VIII/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer VIII/Miihen Highroad"
+                    },
+                    {
+                        "name": "Agency - Recruit Ropp",
+                        "ref": "Blitzball Recruits/Ropp"
                     },
                     {
                         "name": "Agency - Chocobo Eater",
-                        "ref": "Miihen Highroad/Agency/Chocobo Eater/"
+                        "ref": "Miihen Highroad/Agency/Defeat Chocobo Eater (Boss)/Chocobo Eater"
                     },
                     {
-                        "name": "North - Heat Lance (Chest)",
-                        "ref": "Miihen Highroad/North/Heat Lance (Chest)/"
+                        "name": "Newroad - Heat Lance (Chest)",
+                        "ref": "Miihen Highroad/North/Chocobo Jump North Peak of Bend (Chest)/Heat Lance"
                     },
                     {
-                        "name": "North - Al Bhed Primer IX",
-                        "ref": "Al Bhed Primers/Al Bhed Primer IX/"
+                        "name": "Newroad - Al Bhed Primer IX",
+                        "ref": "Al Bhed Primers/Al Bhed Primer IX/Miihen Highroad"
                     },
                     {
-                        "name": "North - Hi-Potion x2 (Chest)",
-                        "ref": "Miihen Highroad/North/Hi-Potion x2 (Chest)/"
+                        "name": "Newroad - Hi-Potion x2 (Chest)",
+                        "ref": "Miihen Highroad/North/Left by Child Soldiers (Chest)/Hi-Potion x2"
                     },
                     {
-                        "name": "North - Thunder Blade (Chest)",
-                        "ref": "Miihen Highroad/North/Thunder Blade (Chest)/"
+                        "name": "Oldroad - Thunder Blade (Chest)",
+                        "ref": "Miihen Highroad/North/Chocobo Jump, Left Side (Chests)/Thunder Blade"
                     },
                     {
-                        "name": "North - Scout (Chest)",
-                        "ref": "Miihen Highroad/North/Scout (Chest)/"
+                        "name": "Oldroad - Scout (Chest)",
+                        "ref": "Miihen Highroad/North/Chocobo Jump, Left Side (Chests)/Scout"
                     },
                     {
-                        "name": "North - Fortune Sphere (Chest)",
-                        "ref": "Miihen Highroad/North/Fortune Sphere (Chest)/"
+                        "name": "Oldroad - Fortune Sphere (Chest)",
+                        "ref": "Miihen Highroad/North/Chocobo Jump, Alcove on East Side (Chest)/Fortune Sphere"
                     },
                     {
-                        "name": "North - Mars Crest (Chest)",
-                        "ref": "Celestial/Auron/Mars Crest (Chest)/"
+                        "name": "Oldroad - Mars Crest (Chest)",
+                        "ref": "Celestial/Auron/Mars Crest"
                     }
                 ]
             },
@@ -451,103 +479,91 @@
                 "sections": [
                     {
                         "name": "Entrance - Remedy x1 (Near Grey Helmet NPC)",
-                        "ref": "Mushroom Rock Road/Entrance/Remedy x1 (Near Grey Helmet NPC)/"
+                        "ref": "Mushroom Rock Road/Entrance/Left Near Southern Exit (NPC)/Remedy x1"
                     },
                     {
                         "name": "Entrance - Tough Bangle (Gray Helmet NPC)",
-                        "ref": "Mushroom Rock Road/Entrance/Tough Bangle (Gray Helmet NPC)/"
+                        "ref": "Mushroom Rock Road/Entrance/Right Near Southern Exit (NPC)/Tough Bangle"
                     },
                     {
                         "name": "Entrance - Ether x1 (Purple Helmet NPC)",
-                        "ref": "Mushroom Rock Road/Entrance/Ether x1 (Purple Helmet NPC)/"
+                        "ref": "Mushroom Rock Road/Entrance/Pacing Between Blue Commander and South Exit (NPC)/Ether x1"
                     },
                     {
                         "name": "Entrance - Hi-Potion x1 (Woman in Blue NPC)",
-                        "ref": "Mushroom Rock Road/Entrance/Hi-Potion x1 (Woman in Blue NPC)/"
+                        "ref": "Mushroom Rock Road/Entrance/Blue Commander on Left Side (NPC)/Hi-Potion x1"
                     },
                     {
                         "name": "Entrance - Phoenix Down x2 (Blue Shirt Crusader NPC)",
-                        "ref": "Mushroom Rock Road/Entrance/Phoenix Down x2 (Blue Shirt Crusader NPC)/"
+                        "ref": "Mushroom Rock Road/Entrance/Pacing Between Blue Commander and North Exit (NPC)/Phoenix Down x2"
                     },
                     {
                         "name": "Valley - Hi-Potion x1 (Woman NPC near Save Point)",
-                        "ref": "Mushroom Rock Road/Valley/Hi-Potion x1 (Woman NPC near Save Point)/"
+                        "ref": "Mushroom Rock Road/Valley/Woman Before First Elevator (NPC)/Hi-Potion x1"
                     },
                     {
                         "name": "Valley - 1000 gil (Chest)",
-                        "ref": "Mushroom Rock Road/Valley/1000 gil (Chest)/"
+                        "ref": "Mushroom Rock Road/Valley/North Alcove After First Elevator (Chest & NPC)/1000 gil"
                     },
                     {
                         "name": "Valley - Potion x10 (NPC near chest)",
-                        "ref": "Mushroom Rock Road/Valley/Potion x10 (NPC near chest)/"
+                        "ref": "Mushroom Rock Road/Valley/North Alcove After First Elevator (Chest & NPC)/Potion x10"
                     },
                     {
                         "name": "Valley - Remedy x1 (Chest)",
-                        "ref": "Mushroom Rock Road/Valley/Remedy x1 (Chest)/"
+                        "ref": "Mushroom Rock Road/Valley/Left Side, As Trail Turns East (Chest)/Remedy x1"
                     },
                     {
                         "name": "Valley - Hi-Potion x1 (Chest)",
-                        "ref": "Mushroom Rock Road/Valley/Hi-Potion x1 (Chest)/"
+                        "ref": "Mushroom Rock Road/Valley/Behind Pillar, Before Second Elevator (Chest)/Hi-Potion x1"
                     },
                     {
                         "name": "Precipice - X-Potion x1 (NPC near lift)",
-                        "ref": "Mushroom Rock Road/Precipice/X-Potion x1 (NPC near lift)/"
+                        "ref": "Mushroom Rock Road/Precipice/Near South Elevator (NPC)/X-Potion x1"
                     },
                     {
                         "name": "Precipice - Serene Armlet (Chest)",
-                        "ref": "Mushroom Rock Road/Precipice/Serene Armlet (Chest)/"
+                        "ref": "Mushroom Rock Road/Precipice/Below West Elevator (Chest)/Serene Armlet"
                     },
                     {
                         "name": "Precipice - Al Bhed Primer X",
-                        "ref": "Al Bhed Primers/Al Bhed Primer X/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer X/Mushroom Rock Road"
                     },
                     {
                         "name": "Precipice - 400 gil (NPC near elevator)",
-                        "ref": "Mushroom Rock Road/Precipice/400 gil (NPC near elevator)/"
+                        "ref": "Mushroom Rock Road/Precipice/Pacing Between North Elevator and East Ridge (NPC)/400 gil"
                     },
                     {
                         "name": "Precipice - Mega-Potion x1 (NPC)",
-                        "ref": "Mushroom Rock Road/Precipice/Mega-Potion x1 (NPC)/"
+                        "ref": "Mushroom Rock Road/Precipice/Near Large Elevator (NPC)/Mega-Potion x1"
                     },
                     {
                         "name": "Ridge - Mega-Potion x1 (Chest)",
-                        "ref": "Mushroom Rock Road/Ridge/Mega-Potion x1 (Chest)/"
+                        "ref": "Mushroom Rock Road/Ridge/Near Lulu (Chest)/Mega-Potion x1"
                     },
                     {
                         "name": "Ridge - Serene Bracer (Chest)",
-                        "ref": "Mushroom Rock Road/Ridge/Serene Bracer (Chest)/"
+                        "ref": "Mushroom Rock Road/Ridge/Behind Spear Rack (Chest)/Serene Bracer"
                     },
                     {
                         "name": "Ridge - Sinspawn Gui",
-                        "ref": "Mushroom Rock Road/Ridge/Sinspawn Gui/"
-                    },
-                    {
-                        "name": "Ridge - Seymour",
-                        "ref": "Party Member/Character/Seymour/"
+                        "ref": "Mushroom Rock Road/Ridge/Defeat Sinspawn Gui (Boss)/"
                     },
                     {
                         "name": "Aftermath - Hi-Potion x1 (Chest)",
-                        "ref": "Mushroom Rock Road/Aftermath/Hi-Potion x1 (Chest)/"
+                        "ref": "Mushroom Rock Road/Aftermath/Under Overhang, West Side (Chest)/Hi-Potion x1"
                     },
                     {
                         "name": "Aftermath - Soft x4 (Chest)",
-                        "ref": "Mushroom Rock Road/Aftermath/Soft x4 (Chest)/"
+                        "ref": "Mushroom Rock Road/Aftermath/Left Exit Over Boxes (Chest)/Soft x4"
                     },
                     {
                         "name": "Aftermath - Masamune",
                         "ref": "Celestial/Auron/Masamune/"
                     },
                     {
-                        "name": "Super Bosses - Dark Magus Sisters (Mindy)",
-                        "ref": "Super Bosses/Dark Magus Sisters/Dark Mindy"
-                    },
-                    {
-                        "name": "Super Bosses - Dark Magus Sisters (Sandy)",
-                        "ref": "Super Bosses/Dark Magus Sisters/Dark Sandy"
-                    },
-                    {
-                        "name": "Super Bosses - Dark Magus Sisters (Cindy)",
-                        "ref": "Super Bosses/Dark Magus Sisters/Dark Cindy"
+                        "name": "Super Bosses - Dark Magus Sisters",
+                        "ref": "Mushroom Rock Road/Entrance/Dark Magus Sisters (Superboss)/"
                     }
                 ]
             },
@@ -557,79 +573,79 @@
                 "sections": [
                     {
                         "name": "Highroad - Phoenix Down x2 (Chest)",
-                        "ref": "Djose/Highroad/Phoenix Down x2 (Chest)/"
+                        "ref": "Djose/Highroad/South End, West Side (Chest)/Phoenix Down x2"
                     },
                     {
                         "name": "Highroad - Al Bhed Primer XI",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XI/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer XI/Djose"
                     },
                     {
                         "name": "Highroad - Soft Ring (NPC)",
-                        "ref": "Djose/Highroad/Soft Ring (NPC)/"
+                        "ref": "Djose/Highroad/South End, Purple Armor (NPC)/Soft Ring"
                     },
                     {
                         "name": "Highroad - Ether x1 (NPC)",
-                        "ref": "Djose/Highroad/Ether x1 (NPC)/"
+                        "ref": "Djose/Highroad/Midway, Yellow Armor (NPC)/Ether x1"
                     },
                     {
                         "name": "Highroad - Hi-Potion x1 (NPC)",
-                        "ref": "Djose/Highroad/Hi-Potion x1 (NPC)/"
+                        "ref": "Djose/Highroad/Monk Pacing Between Crusaders (NPC)/Hi-Potion x1"
                     },
                     {
                         "name": "Highroad - Mega-Potion x1 (NPC)",
-                        "ref": "Djose/Highroad/Mega-Potion x1 (NPC)/"
+                        "ref": "Djose/Highroad/North End, Purple Armor (NPC)/Mega-Potion x1"
                     },
                     {
                         "name": "Highroad - Variable Steel (NPC)",
-                        "ref": "Djose/Highroad/Variable Steel (NPC)/"
+                        "ref": "Djose/Highroad/South End, Silver/Purple Armor (NPC)/Variable Steel"
                     },
                     {
                         "name": "Highroad - Bright Bangle (Chest)",
-                        "ref": "Djose/Highroad/Bright Bangle (Chest)/"
+                        "ref": "Djose/Highroad/Midway, Hidden in Western Alcove (Chest)/Bright Bangle"
                     },
                     {
                         "name": "Temple - Ability Sphere x4 (Chest)",
-                        "ref": "Djose/Temple/Ability Sphere x4 (Chest)/"
+                        "ref": "Djose/Temple/Northeast Corner (Chest)/Ability Sphere x4"
                     },
                     {
                         "name": "Temple - 4000 gil (Chest)",
-                        "ref": "Djose/Temple/4000 gil (Chest)/"
+                        "ref": "Djose/Temple/West Behind Lucil's Squad (Chest)/4000 gil"
+                    },
+                    {
+                        "name": "Temple - Recruit Kyou",
+                        "ref": "Blitzball Recruits/Kyou"
                     },
                     {
                         "name": "Temple - Ether x1 (Chest)",
-                        "ref": "Djose/Temple/Ether x1 (Chest)/"
+                        "ref": "Djose/Temple/In Front of Nuns' Chamber (Chest)/Ether x1"
                     },
                     {
                         "name": "Temple - Remedy x1 (Chest)",
-                        "ref": "Djose/Temple/Remedy x1 (Chest)/"
+                        "ref": "Djose/Temple/Nuns' Chamber (Chest)/Remedy x1"
                     },
                     {
                         "name": "Temple - Mega Phoenix x1 (Chest)",
-                        "ref": "Djose/Temple/Mega Phoenix x1 (Chest)/"
+                        "ref": "Djose/Temple/Monks' Chamber (Chest)/Mega Phoenix x1"
                     },
                     {
-                        "name": "Cloister - Magic Sphere",
-                        "ref": "Djose/Temple/Destruction Sphere/Magic Sphere"
-                    },
-                    {
-                        "name": "Cloister - Ixion",
-                        "ref": "Party Member/Aeon/Ixion/"
+                        "name": "Temple - Cloister of Trials",
+                        "ref": "Djose/Temple/Cloister/"
                     },
                     {
                         "name": "Temple - Switch Hitter (Chest)",
-                        "ref": "Djose/Temple/Switch Hitter (Chest)/"
+                        "ref": "Djose/Temple/Behind Desk (Chest)/Switch Hitter"
                     },
                     {
                         "name": "Pilgrimage Road - Halberd (NPC)",
-                        "ref": "Djose/Pilgrimage Road/Halberd (NPC)/"
+                        "ref": "Djose/Pilgrimage Road/North End, Purple Armor (NPC)/Halberd"
                     },
                     {
                         "name": "Pilgrimage Road - Potion x10 (NPC)",
-                        "ref": "Djose/Pilgrimage Road/Potion x10 (NPC)/"
+                        "ref": "Djose/Pilgrimage Road/South End, Silver/Purple Armor (NPC)/Potion x10"
                     },
                     {
                         "name": "Pilgrimage Road - Hi-Potion x2 (NPC)",
-                        "ref": "Djose/Pilgrimage Road/Hi-Potion x2 (NPC)/"
+                        "ref": "Djose/Pilgrimage Road/Monk Pacing Along Bridge (NPC)/Hi-Potion x2"
                     }
                 ]
             },
@@ -639,51 +655,55 @@
                 "sections": [
                     {
                         "name": "South - Lv. 1 Key Sphere x3 (Shelinda Chest)",
-                        "ref": "Moonflow/South/Lv. 1 Key Sphere x3 (Shelinda Chest)/"
+                        "ref": "Moonflow/South/Right of Shelinda (Chest)/Lv. 1 Key Sphere x3"
                     },
                     {
                         "name": "South - X-Potion x1 (Chest)",
-                        "ref": "Moonflow/South/X-Potion x1 (Chest)/"
+                        "ref": "Moonflow/South/West Corner as Path Bends East (Chest)/X-Potion x1"
                     },
                     {
-                        "name": "South - Lv. 1 Key Sphere x3 (Benke and Biran Chest)",
-                        "ref": "Moonflow/South/Lv. 1 Key Sphere x3 (Benke and Biran Chest)/"
+                        "name": "South - Lv. 1 Key Sphere x3 (Chest)",
+                        "ref": "Moonflow/South/East Alcove as Path Bends North (Chest)/Lv. 1 Key Sphere x3"
                     },
                     {
                         "name": "South - Magic Def Sphere x1 (Chest)",
-                        "ref": "Moonflow/South/Magic Def Sphere x1 (Chest)/"
+                        "ref": "Moonflow/South/West Alcove in Forest Past Belgemine (Chest)/Magic Def Sphere x1"
                     },
                     {
                         "name": "South - Phoenix Down x2 (Chest)",
-                        "ref": "Moonflow/South/Phoenix Down x2 (Chest)/"
+                        "ref": "Moonflow/South/Near O'aka XXIII (Chest)/Phoenix Down x2"
                     },
                     {
                         "name": "South - 5000 gil (Chest)",
-                        "ref": "Moonflow/South/5000 gil (Chest)/"
+                        "ref": "Moonflow/South/Behind Lulu (Chest)/5000 gil"
                     },
                     {
                         "name": "South - Extractor",
-                        "ref": "Moonflow/South/Extractor/"
+                        "ref": "Moonflow/South/Defeat Extractor (Boss)/Extractor"
                     },
                     {
                         "name": "North - Al Bhed Primer XII",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XII/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer XII/Moonflow"
+                    },
+                    {
+                        "name": "North - Recruit Miyu",
+                        "ref": "Blitzball Recruits/Miyu"
                     },
                     {
                         "name": "North - Ether x1 (Chest)",
-                        "ref": "Moonflow/North/Ether x1 (Chest)/"
+                        "ref": "Moonflow/North/Near Bench (Chest)/Ether x1"
                     },
                     {
                         "name": "North - Rikku",
-                        "ref": "Party Member/Character/Rikku/"
+                        "ref": "Party Member/Character/Rikku"
                     },
                     {
                         "name": "North - Antidote x4 (Chest)",
-                        "ref": "Moonflow/North/Antidote x4 (Chest)/"
+                        "ref": "Moonflow/North/East Side, Right After the Wooden Bridge (Chest)/Antidote x4"
                     },
                     {
                         "name": "North - Mega-Potion x1 (Chest)",
-                        "ref": "Moonflow/North/Mega-Potion x1 (Chest)/"
+                        "ref": "Moonflow/North/West Side, Before Guadosalam (Chest)/Mega-Potion x1"
                     }
                 ]
             },
@@ -697,7 +717,7 @@
                     },
                     {
                         "name": "Guadosalam - Al Bhed Primer XIII",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XIII/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer XIII/Guadosalam"
                     },
                     {
                         "name": "Guadosalam - 3000 gil (Chest)",
@@ -710,6 +730,10 @@
                     {
                         "name": "Guadosalam - Hi-Potion x2 (Chest)",
                         "ref": "Guadosalam/Guadosalam/Hi-Potion x2 (Chest)/"
+                    },
+                    {
+                        "name": "Guadosalam - Recruit Yuma Guado",
+                        "ref": "Blitzball Recruits/Yuma Guado"
                     },
                     {
                         "name": "Farplane - Lightning Marble x8 (Chest)",
@@ -750,6 +774,10 @@
                         "ref": "Al Bhed Primers/Al Bhed Primer XIV/Thunder Plains"
                     },
                     {
+                        "name": "Airship - Recruit Mifurey",
+                        "ref": "Blitzball Recruits/Mifurey"
+                    },
+                    {
                         "name": "Agency - Yellow Shield (Ground Item)",
                         "ref": "Thunder Plains/Agency/Yellow Shield (Ground Item)/"
                     },
@@ -775,7 +803,7 @@
                     },
                     {
                         "name": "Super Bosses - Dark Ixion",
-                        "ref": "Super Bosses/Dark Ixion/"
+                        "ref": "Super Bosses/Dark Ixion"
                     }
                 ]
             },
@@ -801,7 +829,7 @@
                     },
                     {
                         "name": "Woods - Al Bhed Primer XV",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XV/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer XV/Macalania"
                     },
                     {
                         "name": "Woods - Spherimorph",
@@ -813,7 +841,7 @@
                     },
                     {
                         "name": "Lake Agency - Al Bhed Primer XVI",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XVI/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer XVI/Macalania"
                     },
                     {
                         "name": "Lake Agency - Crawler",
@@ -834,6 +862,10 @@
                     {
                         "name": "Lake Road - Lv. 1 Key Sphere x1 (Chest)",
                         "ref": "Macalania/Lake/Road/Lv. 1 Key Sphere x1 (Chest)/"
+                    },
+                    {
+                        "name": "Temple - Recruit Linna",
+                        "ref": "Blitzball Recruits/Linna"
                     },
                     {
                         "name": "Temple - Shell Targe (Tromell)",
@@ -872,12 +904,8 @@
                         "ref": "Macalania/Lake/Temple/Seymour/"
                     },
                     {
-                        "name": "Temple - Shiva",
-                        "ref": "Party Member/Aeon/Shiva/"
-                    },
-                    {
-                        "name": "Cloister - Luck Sphere",
-                        "ref": "Macalania/Lake/Temple/Destruction Sphere/Luck Sphere"
+                        "name": "Temple - Cloister of Trials",
+                        "ref": "Macalania/Lake/Temple/Cloister/"
                     },
                     {
                         "name": "Lake Agency - Wendigo",
@@ -893,7 +921,7 @@
                     },
                     {
                         "name": "Super Bosses - Dark Shiva",
-                        "ref": "Super Bosses/Dark Shiva/"
+                        "ref": "Super Bosses/Dark Shiva"
                     }
                 ]
             },
@@ -903,63 +931,63 @@
                 "sections": [
                     {
                         "name": "Celestial Mirror",
-                        "ref": "Celestial/Celestial Mirror/"
+                        "ref": "Celestial/General/Celestial Mirror"
                     },
                     {
                         "name": "Auron - Masamune Crest Updgrade",
-                        "ref": "Celestial/Auron/Masamune Upgrade/Crest"
+                        "ref": "Celestial/Auron/Masamune Crest Upgrade"
                     },
                     {
                         "name": "Auron - Masamune Sigil Updgrade",
-                        "ref": "Celestial/Auron/Masamune Upgrade/Sigil"
+                        "ref": "Celestial/Auron/Masamune Sigil Upgrade"
                     },
                     {
                         "name": "Kimahri - Spirit Lance Crest Updgrade",
-                        "ref": "Celestial/Kimahri/Spirit Lance Upgrade/Crest"
+                        "ref": "Celestial/Kimahri/Spirit Lance Crest Upgrade"
                     },
                     {
                         "name": "Kimahri - Spirit Lance Sigil Updgrade",
-                        "ref": "Celestial/Kimahri/Spirit Lance Upgrade/Sigil"
+                        "ref": "Celestial/Kimahri/Spirit Lance Sigil Upgrade"
                     },
                     {
                         "name": "Lulu - Onion Knight Crest Updgrade",
-                        "ref": "Celestial/Lulu/Onion Knight Upgrade/Crest"
+                        "ref": "Celestial/Lulu/Onion Knight Crest Upgrade"
                     },
                     {
                         "name": "Lulu - Onion Knight Sigil Updgrade",
-                        "ref": "Celestial/Lulu/Onion Knight Upgrade/Sigil"
+                        "ref": "Celestial/Lulu/Onion Knight Sigil Upgrade"
                     },
                     {
                         "name": "Rikku - Godhand Crest Updgrade",
-                        "ref": "Celestial/Rikku/Godhand Upgrade/Crest"
+                        "ref": "Celestial/Rikku/Godhand Crest Upgrade"
                     },
                     {
                         "name": "Rikku - Godhand Sigil Updgrade",
-                        "ref": "Celestial/Rikku/Godhand Upgrade/Sigil"
+                        "ref": "Celestial/Rikku/Godhand Sigil Upgrade"
                     },
                     {
                         "name": "Tidus - Caladbolg Crest Updgrade",
-                        "ref": "Celestial/Tidus/Caladbolg Upgrade/Crest"
+                        "ref": "Celestial/Tidus/Caladbolg Crest Upgrade"
                     },
                     {
                         "name": "Tidus - Caladbolg Sigil Updgrade",
-                        "ref": "Celestial/Tidus/Caladbolg Upgrade/Sigil"
+                        "ref": "Celestial/Tidus/Caladbolg Sigil Upgrade"
                     },
                     {
                         "name": "Wakka - World Champion Crest Updgrade",
-                        "ref": "Celestial/Wakka/World Champion Upgrade/Crest"
+                        "ref": "Celestial/Wakka/World Champion Crest Upgrade"
                     },
                     {
                         "name": "Wakka - World Champion Sigil Updgrade",
-                        "ref": "Celestial/Wakka/World Champion Upgrade/Sigil"
+                        "ref": "Celestial/Wakka/World Champion Sigil Upgrade"
                     },
                     {
                         "name": "Yuna - Nirvana Crest Updgrade",
-                        "ref": "Celestial/Yuna/Nirvana Upgrade/Crest"
+                        "ref": "Celestial/Yuna/Nirvana Crest Upgrade"
                     },
                     {
                         "name": "Yuna - Nirvana Sigil Updgrade",
-                        "ref": "Celestial/Yuna/Nirvana Upgrade/Sigil"
+                        "ref": "Celestial/Yuna/Nirvana Sigil Upgrade"
                     }
                 ]
             },
@@ -1013,7 +1041,7 @@
                     },
                     {
                         "name": "Bikanel Central - Al Bhed Primer XVIII",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XVIII/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer XVIII/Bikanel"
                     },
                     {
                         "name": "Bikanel Central - Elixir x1 (Chest)",
@@ -1029,7 +1057,7 @@
                     },
                     {
                         "name": "Bikanel Central - Al Bhed Primer XVII",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XVII/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer XVII/Bikanel"
                     },
                     {
                         "name": "Bikanel West - Megalixir x3 (Chest)",
@@ -1045,7 +1073,7 @@
                     },
                     {
                         "name": "Bikanel West - Mercury Crest (Chest)",
-                        "ref": "Celestial/Rikku/Mercury Crest (Chest)/"
+                        "ref": "Celestial/Rikku/Mercury Crest"
                     },
                     {
                         "name": "Bikanel West - Mega-Potion x3 (Chest)",
@@ -1057,11 +1085,11 @@
                     },
                     {
                         "name": "Bikanel West - Mercury Sigil (Cactuar Village)",
-                        "ref": "Celestial/Rikku/Mercury Sigil (Cactuar Village)/"
+                        "ref": "Celestial/Rikku/Mercury Sigil"
                     },
                     {
                         "name": "Super Bosses - Dark Ifrit",
-                        "ref": "Super Bosses/Dark Ifrit/"
+                        "ref": "Super Bosses/Dark Ifrit"
                     }
                 ]
             },
@@ -1075,7 +1103,7 @@
                     },
                     {
                         "name": "Home - Al Bhed Primer XIX",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XIX/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer XIX/Home"
                     },
                     {
                         "name": "Home - Al Bhed Potion x6 (Chest)",
@@ -1083,7 +1111,7 @@
                     },
                     {
                         "name": "Home - Al Bhed Primer XXI",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XXI/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer XXI/Home"
                     },
                     {
                         "name": "Home - Special Sphere x1 (Al Bhed Password Chest)",
@@ -1099,7 +1127,7 @@
                     },
                     {
                         "name": "Home - Al Bhed Primer XX",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XX/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer XX/Home"
                     }, 
                     {
                         "name": "Home - Friend Sphere x1 (Al Bhed Vocabulary Chest)",
@@ -1120,8 +1148,20 @@
                         "ref": "Airship/Al Bhed Potion x4 (NPC)/"
                     },
                     {
+                        "name": "Airship - Recruit Brother",
+                        "ref": "Blitzball Recruits/Brother"
+                    },
+                    {
+                        "name": "Airship - Recruit Rin",
+                        "ref": "Blitzball Recruits/Rin"
+                    },
+                    {
+                        "name": "Airship - Recruit Wakka",
+                        "ref": "Blitzball Recruits/Wakka"
+                    },
+                    {
                         "name": "Airship - Complete Al Bhed Primers",
-                        "ref": "Al Bhed Primers/Complete Al Bhed Primers/"
+                        "ref": "Al Bhed Primers/Complete Al Bhed Primers"
                     },
                     {
                         "name": "Airship - Evrae",
@@ -1145,7 +1185,7 @@
                     },
                     {
                         "name": "Super Bosses - Penance",
-                        "ref": "Super Bosses/Penance/"
+                        "ref": "Super Bosses/Penance"
                     }
                 ]
             },
@@ -1154,20 +1194,12 @@
                 "map_locations": [{ "map": "Spira", "x": 678, "y": 273}],
                 "sections": [
                     {
-                        "name": "Cloister - Al Bhed Primer XXII",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XXII/"
+                        "name": "Temple - Al Bhed Primer XXII",
+                        "ref": "Al Bhed Primers/Al Bhed Primer XXII/Bevelle"
                     },
                     {
-                        "name": "Cloister - HP Sphere",
-                        "ref": "Bevelle/Cloister/Destruction Sphere/HP Sphere"
-                    },
-                    {
-                        "name": "Cloister - Knight Lance (Chest)",
-                        "ref": "Bevelle/Cloister/Knight Lance (Chest)/"
-                    },
-                    {
-                        "name": "Cloister - Bahamut",
-                        "ref": "Party Member/Aeon/Bahamut/"
+                        "name": "Temple - Cloister of Trials",
+                        "ref": "Bevelle/Temple/Cloister/"
                     },
                     {
                         "name": "Via Purifico - Mega-Potion x1 (Chest)",
@@ -1237,15 +1269,27 @@
                     },
                     {
                         "name": "Plains - Al Bhed Primer XXIII",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XXIII/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer XXIII/Calm Lands"
+                    },
+                    {
+                        "name": "Plains - Recruit Naida",
+                        "ref": "Blitzball Recruits/Naida"
+                    },
+                    {
+                        "name": "Plains - Recruit Svanda",
+                        "ref": "Blitzball Recruits/Svanda"
                     },
                     {
                         "name": "Plains - Defender X",
                         "ref": "Calm Lands/Plains/Defender X/"
                     },
                     {
-                        "name": "Plains - Rusty Sword",
-                        "ref": "Celestial/Rusty Sword/"
+                        "name": "Gorge - Recruit Durren",
+                        "ref": "Blitzball Recruits/Durren"
+                    },
+                    {
+                        "name": "Gorge - Rusty Sword",
+                        "ref": "Celestial/General/Rusty Sword"
                     },
                     {
                         "name": "Chocobo - Wobbly Chocobo Minigame Reward",
@@ -1265,11 +1309,11 @@
                     },
                     {
                         "name": "Chocobo - Sun Sigil (Chocobo Catcher 0:00)",
-                        "ref": "Celestial/Tidus/Sun Sigil (Chocobo Catcher 0:00)/"
+                        "ref": "Celestial/Tidus/Sun Sigil"
                     },
                     {
                         "name": "Plains - Caladbolg",
-                        "ref": "Celestial/Tidus/Caladbolg/"
+                        "ref": "Celestial/Tidus/Caladbolg"
                     }
                 ]
             },
@@ -1279,11 +1323,11 @@
                 "sections": [
                     {
                         "name": "Al Bhed Primer XXIV",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XXIV/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer XXIV/Remiem Temple"
                     },
                     {
                         "name": "Cloudy Mirror (Chocobo Race)",
-                        "ref": "Celestial/Cloudy Mirror (Chocobo Race)/"
+                        "ref": "Celestial/General/Cloudy Mirror"
                     },
                     {
                         "name": "Belgemine - Valefor Fight",
@@ -1319,11 +1363,11 @@
                     },
                     {
                         "name": "Belgemine - Moon Sigil (Send Belgemine)",
-                        "ref": "Celestial/Yuna/Moon Sigil (Send Belgemine)/"
+                        "ref": "Celestial/Yuna/Moon Sigil"
                     },
                     {
                         "name": "Magus Sisters",
-                        "ref": "Party Member/Aeon/Magus Sisters/"
+                        "ref": "Party Member/Aeon/Magus Sisters"
                     }
                 ]
             },
@@ -1333,7 +1377,7 @@
                 "sections": [
                     {
                         "name": "Area Conquest (Calm Lands) - Nirvana",
-                        "ref": "Celestial/Yuna/Nirvana/"
+                        "ref": "Celestial/Yuna/Nirvana"
                     },
                     {
                         "name": "Area Conquest (Mt. Gagazet) - Blossom Crown",
@@ -1341,7 +1385,7 @@
                     },
                     {
                         "name": "Monster Creations x10 - Mars Sigil",
-                        "ref": "Celestial/Auron/Mars Sigil (10x Creations)/"
+                        "ref": "Celestial/Auron/Mars Sigil"
                     }
                 ]
             },
@@ -1367,7 +1411,7 @@
                     },
                     {
                         "name": "Al Bhed Primer XXV",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XXV/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer XXV/Cavern of the Stolen Fayth"
                     },
                     {
                         "name": "Flexible Arm (Chest)",
@@ -1383,11 +1427,11 @@
                     },
                     {
                         "name": "Yojimbo",
-                        "ref": "Party Member/Aeon/Yojimbo/"
+                        "ref": "Party Member/Aeon/Yojimbo"
                     },
                     {
                         "name": "Super Bosses - Dark Yojimbo",
-                        "ref": "Super Bosses/Dark Yojimbo/"
+                        "ref": "Super Bosses/Dark Yojimbo"
                     }
                 ]
             },
@@ -1425,7 +1469,7 @@
                     },
                     {
                         "name": "Outside - Saturn Crest (Chest)",
-                        "ref": "Celestial/Kimahri/Saturn Crest (Chest)/"
+                        "ref": "Celestial/Kimahri/Saturn Crest"
                     },
                     {
                         "name": "Inside - Lv. 1 Key Sphere x1 (Chest)",
@@ -1453,7 +1497,7 @@
                     },
                     {
                         "name": "Super Bosses - Dark Anima",
-                        "ref": "Super Bosses/Dark Anima/"
+                        "ref": "Super Bosses/Dark Anima"
                     }
                 ]
             },
@@ -1486,10 +1530,6 @@
                         "ref": "Zanarkand/Dome/Luck Sphere x1 (Chest)/"
                     },
                     {
-                        "name": "Cloister -Magistral Rod ",
-                        "ref": "Zanarkand/Cloister/Destruction Sphere/Magistral Rod"
-                    },
-                    {
                         "name": "Cloister - Spectral Keeper",
                         "ref": "Zanarkand/Cloister/Spectral Keeper/"
                     },
@@ -1499,11 +1539,15 @@
                     },
                     {
                         "name": "Cloister - Sun Crest (Chest)",
-                        "ref": "Celestial/Tidus/Sun Crest (Chest)/"
+                        "ref": "Celestial/Tidus/Sun Crest"
+                    },
+                    {
+                        "name": "Temple - Cloister of Trials ",
+                        "ref": "Zanarkand/Temple/Cloister/Destruction Sphere- Magistral Rod"
                     },
                     {
                         "name": "Super Bosses - Dark Bahamut",
-                        "ref": "Super Bosses/Dark Bahamut/"
+                        "ref": "Super Bosses/Dark Bahamut"
                     }
                 ]
             },
@@ -1591,7 +1635,7 @@
                     },
                     {
                         "name": "Al Bhed Primer XXVI",
-                        "ref": "Al Bhed Primers/Al Bhed Primer XXVI/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer XXVI/Omega Ruins"
                     },
                     {
                         "name": "Ultima Weapon",
@@ -1599,7 +1643,7 @@
                     },
                     {
                         "name": "Omega Weapon",
-                        "ref": "Super Bosses/Omega Weapon/"
+                        "ref": "Super Bosses/Omega Weapon"
                     }
                 ]
             }

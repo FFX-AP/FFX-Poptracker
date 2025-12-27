@@ -134,13 +134,9 @@ function UpdateAccessLevels()
 
     for Index, Region in ipairs(RegionOrder) do
         -- print(Index .. " | " .. Region)
-        -- If you don't have the region item, no access
-        if (Tracker:FindObjectForCode(Region).Active == false) then
-            -- print("REGION OBJECT FALSE: " .. Region)            
-            RegionAccessibility[Region] = ACCESS_NONE
-
-        -- Has region item
-        else
+        -- Check for region item
+        if (Tracker:FindObjectForCode(Region).Active == true or Region == "superbosses") then
+            -- Has region item
             -- Difficulty < 5 --> Always have access
             if (RegionDifficulty[Region] < 5) then
                 -- print("REGION DIFFICULTY < 5: " .. Region)
@@ -158,7 +154,11 @@ function UpdateAccessLevels()
                         RegionAccessibility[Region] = ACCESS_SEQUENCEBREAK
                     end
                 end
-            end            
+            end  
+        else
+            -- No region item
+            -- print("REGION OBJECT FALSE: " .. Region)            
+            RegionAccessibility[Region] = ACCESS_NONE
         end
     end
 end
@@ -182,8 +182,12 @@ function CheckGoalRequirement()
             return ACCESS_NONE
         end
     elseif (goal == 2) then
-        -- Pilgrimage (Unsupported, data not available from apworld for pilgrimage events)
-        return ACCESS_NORMAL
+        -- Pilgrimage
+        if (has("besaidcloister") and has("kilikacloister") and has("djosecloister") and has("macalaniacloister") and has("bevellecloister") and has("yunalesca")) then
+            return ACCESS_NORMAL
+        else
+            return ACCESS_NONE
+        end
     elseif (goal == 3) then
         -- Party Members & Aeons
         if (hasPartyMembersAndAeons(Tracker:ProviderCountForCode("requiredpartymembers"))) then

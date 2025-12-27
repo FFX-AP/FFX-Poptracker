@@ -10,39 +10,39 @@
                 "name": "South",
                 "children": [
                     {
-                        "name": "Hi-Potion (Yellow Shirt NPC)",
+                        "name": "Yellow Man, Looping South to North (NPC)",
                         "map_locations": [{ "map": "Miihen Highroad South Central", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Hi-Potion"}]
                     },
                     {
-                        "name": "Hunters Spear (Blue Shirt NPC)",
+                        "name": "Blue-White Man, Looping North to South (NPC)",
                         "map_locations": [{ "map": "Miihen Highroad South Central", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Hunters Spear"}]
                     },
                     {
-                        "name": "Antidote x2 (Red Skirt NPC)",
+                        "name": "Red Skirt Girl, Pacing Between Maechen and Ruins (NPC)",
                         "map_locations": [{ "map": "Miihen Highroad South Central", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Antidote x2"}]
                     },
                     {
-                        "name": "Ice Brand (Chest)",
+                        "name": "Behind Ruins on Left (Chest)",
                         "map_locations": [{ "map": "Miihen Highroad South Central", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Ice Brand"}]
                     },
                     {
-                        "name": "Remedy x1 (Chest)",
+                        "name": "Behind Elma, North Side (Chest)",
                         "map_locations": [{ "map": "Miihen Highroad South Central", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Remedy x1"}]
                     },
                     {
-                        "name": "Red Ring (Crusader NPC)",
+                        "name": "Crusader Running East then West (NPC)",
                         "map_locations": [{ "map": "Miihen Highroad South Central", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Red Ring"}]
                     },
                     {
-                        "name": "Soft x3 (Boy NPC)",
+                        "name": "Boy Before Kicking the Blitzball (NPC)",
                         "map_locations": [{ "map": "Miihen Highroad South Central", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Soft x3"}]
                     }
                 ]
             },
@@ -50,39 +50,39 @@
                 "name": "Central",
                 "children": [
                     {
-                        "name": "Lv. 1 Key Sphere x1 (Purple Crusader NPC)",
+                        "name": "Purple Crusader, Looping South to North (NPC)",
                         "map_locations": [{ "map": "Miihen Highroad South Central", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Lv. 1 Key Sphere x1"}]
                     },
                     {
-                        "name": "Antidote x4 (Woman in Yellow NPC)",
+                        "name": "Female Yellow Crusader, Looping North to South (NPC)",
                         "map_locations": [{ "map": "Miihen Highroad South Central", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Antidote x4"}]
                     },
                     {
-                        "name": "2000 gil (Chest)",
+                        "name": "East Alcove (Chest)",
                         "map_locations": [{ "map": "Miihen Highroad South Central", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "2000 gil"}]
                     },
                     {
-                        "name": "600 gil (Yellow Crusader NPC)",
+                        "name": "Yellow Crusader, Looping North to South (NPC)",
                         "map_locations": [{ "map": "Miihen Highroad South Central", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "600 gil"}]
                     },
                     {
-                        "name": "Ether x1 (NPC)",
+                        "name": "Purple Crusader Freaking Out, West Side (NPC)",
                         "map_locations": [{ "map": "Miihen Highroad South Central", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Ether x1"}]
                     },
                     {
-                        "name": "Hi-Potion x1 (NPC)",
+                        "name": "Woman on North End, West Side (NPC)",
                         "map_locations": [{ "map": "Miihen Highroad South Central", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Hi-Potion x1"}]
                     },
                     {
-                        "name": "Eye Drops x3 (Chest)",
+                        "name": "North Exit (Chest)",
                         "map_locations": [{ "map": "Miihen Highroad South Central", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Eye Drops x3"}]
                     }
                 ]
             },
@@ -90,21 +90,33 @@
                 "name": "Agency",
                 "children": [
                     {
-                        "name": "Lv. 1 Key Sphere x1 (NPC)",
+                        "name": "Green NPC After Resting (Event)",
                         "map_locations": [{ "map": "Miihen Highroad Agency", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Lv. 1 Key Sphere x1"}]
                     },
                     {
-                        "name": "Mega-Potion (NPC)",
+                        "name": "Exit After Resting (Event)",
                         "map_locations": [{ "map": "Miihen Highroad Agency", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [
+                            {"name": "Mega-Potion"},
+                            {
+                                "name": "Al Bhed Primer VIII",
+                                "ref": "Al Bhed Primers/Al Bhed Primer VIII/Miihen Highroad"
+                            }
+                        ]
                     },
                     {
-                        "name": "Chocobo Eater",
+                        "name": "Blitzball Recruit",
+                        "map_locations": [{ "map": "Miihen Highroad Agency", "x": 0, "y": 0}],
+                        "sections": [{"name": "Ropp", "ref": "Blitzball Recruits/Ropp"}]
+                    },
+                    {
+                        "name": "Defeat Chocobo Eater (Boss)",
                         "map_locations": [{ "map": "Miihen Highroad Agency", "x": 0, "y": 0}],
                         "access_rules": ["[$hasPartyMembers|3]"],
                         "sections": [
                             {
+                                "name": "Chocobo Eater",
                                 "hosted_item": "chocoboeater",
                                 "item_count": 1,
                                 "clear_as_group": true
@@ -118,29 +130,47 @@
                 "access_rules": ["chocoboeater"],
                 "children": [
                     {
-                        "name": "Heat Lance (Chest)",
+                        "name": "Chocobo Jump North Peak of Bend (Chest)",
                         "map_locations": [{ "map": "Miihen Highroad North", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Heat Lance"}]
                     },
                     {
-                        "name": "Hi-Potion x2 (Chest)",
+                        "name": "Peak of South Bend Before Shelinda (Primer)",
                         "map_locations": [{ "map": "Miihen Highroad North", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [
+                            {
+                                "name": "Al Bhed Primer IX",
+                                "ref": "Al Bhed Primers/Al Bhed Primer IX/Miihen Highroad"
+                            }
+                        ]
                     },
                     {
-                        "name": "Thunder Blade (Chest)",
+                        "name": "Left by Child Soldiers (Chest)",
                         "map_locations": [{ "map": "Miihen Highroad North", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Hi-Potion x2"}]
                     },
                     {
-                        "name": "Scout (Chest)",
+                        "name": "Chocobo Jump, Left Side (Chests)",
                         "map_locations": [{ "map": "Miihen Highroad North", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [
+                            {"name": "Thunder Blade"},
+                            {"name": "Scout"}
+                        ]
                     },
                     {
-                        "name": "Fortune Sphere (Chest)",
+                        "name": "Chocobo Jump, Alcove on East Side (Chest)",
                         "map_locations": [{ "map": "Miihen Highroad North", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Fortune Sphere"}]
+                    },
+                    {
+                        "name": "South End (Chest)",
+                        "map_locations": [{ "map": "Miihen Highroad North", "x": 0, "y": 0}],
+                        "sections": [
+                            {
+                                "name": "Mars Crest",
+                                "ref": "Celestial/Auron/Mars Crest"
+                            }
+                        ]
                     }
                 ]
             }

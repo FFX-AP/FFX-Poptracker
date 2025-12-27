@@ -15,8 +15,23 @@
         "codes": "geosgaeno"
     },
     {
+        "name": "Sin Fin",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "sinfin"
+    },
+    {
         "name": "Sinspawn Echuilles",
         "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "echuilles"
@@ -211,18 +226,15 @@
         "initial_active_state": false,
         "codes": "ultimaweapon"
     },
-    {
-        "name": "Omega Weapon",
-        "type": "toggle",
-        "capturable": true,
-        "initial_active_state": false,
-        "codes": "omegaweapon"
-    },
     
-    //Dark Aeons
+    //Super Bosses
     {
         "name": "Dark Anima",
         "type": "toggle",
+        "img": "images/party/aeons/Anima_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/aeons/Anima.png",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "darkanima"
@@ -230,6 +242,10 @@
     {
         "name": "Dark Bahamut",
         "type": "toggle",
+        "img": "images/party/aeons/Bahamut_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/aeons/Bahamut.png",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "darkbahamut"
@@ -237,6 +253,10 @@
     {
         "name": "Dark Cindy",
         "type": "toggle",
+        "img": "images/party/aeons/Cindy_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/aeons/Cindy.png",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "darkcindy"
@@ -244,6 +264,10 @@
     {
         "name": "Dark Ifrit",
         "type": "toggle",
+        "img": "images/party/aeons/Ifrit_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/aeons/Ifrit.png",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "darkifrit"
@@ -251,6 +275,10 @@
     {
         "name": "Dark Ixion",
         "type": "toggle",
+        "img": "images/party/aeons/Ixion_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/aeons/Ixion.png",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "darkixion"
@@ -258,6 +286,10 @@
     {
         "name": "Dark Mindy",
         "type": "toggle",
+        "img": "images/party/aeons/Mindy_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/aeons/Mindy.png",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "darkmindy"
@@ -265,6 +297,10 @@
     {
         "name": "Dark Sandy",
         "type": "toggle",
+        "img": "images/party/aeons/Sandy_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/aeons/Sandy.png",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "darksandy"
@@ -272,6 +308,10 @@
     {
         "name": "Dark Shiva",
         "type": "toggle",
+        "img": "images/party/aeons/Shiva_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/aeons/Shiva.png",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "darkshiva"
@@ -279,6 +319,10 @@
     {
         "name": "Dark Valefor",
         "type": "toggle",
+        "img": "images/party/aeons/Valefor_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/aeons/Valefor.png",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "darkvalefor"
@@ -286,9 +330,35 @@
     {
         "name": "Dark Yojimbo",
         "type": "toggle",
+        "img": "images/party/aeons/Yojimbo_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/aeons/Yojimbo.png",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "darkyojimbo"
+    },
+    {
+        "name": "Omega Weapon",
+        "type": "toggle",
+        "img": "images/party/aeons/Omega Weapon.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/aeons/Omega Weapon.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "omegaweapon"
+    },
+    {
+        "name": "Penance",
+        "type": "toggle",
+        "img": "images/party/aeons/Penance_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/aeons/Penance.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "penance"
     },
 
     //Belgemine
@@ -553,7 +623,7 @@
 
     //Cloisters
     {
-        "name": "Baaj Cloister Complete",
+        "name": "Anima",
         "type": "toggle",
         "img": "images/party/aeons/Anima_BW.png",
         "img_mods": "@disabled",
@@ -564,7 +634,7 @@
         "codes": "baajcloister"
     },
     {
-        "name": "Besaid Cloister Complete",
+        "name": "Valefor",
         "type": "toggle",
         "img": "images/party/aeons/Valefor_BW.png",
         "img_mods": "@disabled",
@@ -575,7 +645,7 @@
         "codes": "besaidcloister"
     },
     {
-        "name": "Bevelle Cloister Complete",
+        "name": "Bahamut",
         "type": "toggle",
         "img": "images/party/aeons/Bahamut_BW.png",
         "img_mods": "@disabled",
@@ -586,7 +656,7 @@
         "codes": "bevellecloister"
     },
     {
-        "name": "Cavern Cloister Complete",
+        "name": "Yojimbo",
         "type": "toggle",
         "img": "images/party/aeons/Yojimbo_BW.png",
         "img_mods": "@disabled",
@@ -597,7 +667,7 @@
         "codes": "caverncloister"
     },
     {
-        "name": "Djose Cloister Complete",
+        "name": "Ixion",
         "type": "toggle",
         "img": "images/party/aeons/Ixion_BW.png",
         "img_mods": "@disabled",
@@ -608,7 +678,7 @@
         "codes": "djosecloister"
     },
     {
-        "name": "Kilika Cloister Complete",
+        "name": "Ifrit",
         "type": "toggle",
         "img": "images/party/aeons/Ifrit_BW.png",
         "img_mods": "@disabled",
@@ -619,7 +689,7 @@
         "codes": "kilikacloister"
     },
     {
-        "name": "Macalania Cloister Complete",
+        "name": "Shiva",
         "type": "toggle",
         "img": "images/party/aeons/Shiva_BW.png",
         "img_mods": "@disabled",
@@ -630,7 +700,7 @@
         "codes": "macalaniacloister"
     },
     {
-        "name": "Remiem Cloister Complete",
+        "name": "Magus Sisters",
         "type": "toggle",
         "img": "images/party/aeons/Magus Sisters_BW.png",
         "img_mods": "@disabled",
@@ -941,7 +1011,7 @@
         "codes": "homecompletion3"
     },
     {
-        "name": "Hi-Potion x1 (Datto NPC)",
+        "name": "Hi-Potion x1 (Datto)",
         "type": "toggle",
         "img": "images/TreasureBW.png",
         "img_mods": "@disabled",
@@ -952,7 +1022,7 @@
         "codes": "aurochs1"
     },
     {
-        "name": "Potion x3 (Jassu NPC)",
+        "name": "Potion x3 (Jassu)",
         "type": "toggle",
         "img": "images/TreasureBW.png",
         "img_mods": "@disabled",
@@ -963,7 +1033,7 @@
         "codes": "aurochs2"
     },
     {
-        "name": "Potion x2 (Botta NPC)",
+        "name": "Potion x2 (Botta)",
         "type": "toggle",
         "img": "images/TreasureBW.png",
         "img_mods": "@disabled",
@@ -974,7 +1044,7 @@
         "codes": "aurochs3"
     },
     {
-        "name": "200 gil (Keepa NPC)",
+        "name": "200 gil (Keepa)",
         "type": "toggle",
         "img": "images/TreasureBW.png",
         "img_mods": "@disabled",
@@ -985,7 +1055,7 @@
         "codes": "aurochs4"
     },
     {
-        "name": "Hi-Potion x1 (Chest)",
+        "name": "Hi-Potion x1",
         "type": "toggle",
         "img": "images/TreasureBW.png",
         "img_mods": "@disabled",
@@ -996,7 +1066,7 @@
         "codes": "behindtheshop1"
     },
     {
-        "name": "400 gil (Chest)",
+        "name": "400 gil",
         "type": "toggle",
         "img": "images/TreasureBW.png",
         "img_mods": "@disabled",
@@ -1007,7 +1077,7 @@
         "codes": "behindtheshop2"
     },
     {
-        "name": "Potion x2 (Chest)",
+        "name": "Potion x2",
         "type": "toggle",
         "img": "images/TreasureBW.png",
         "img_mods": "@disabled",
@@ -1018,7 +1088,7 @@
         "codes": "behindtheshop3"
     },
     {
-        "name": "Remedy x1 (Kid on Dock Bridge NPC)",
+        "name": "Remedy x1 (Kid)",
         "type": "toggle",
         "img": "images/TreasureBW.png",
         "img_mods": "@disabled",
@@ -1029,7 +1099,7 @@
         "codes": "besaiddock1"
     },
     {
-        "name": "Seekers Ring (Priest NPC)",
+        "name": "Seekers Ring (Priest)",
         "type": "toggle",
         "img": "images/TreasureBW.png",
         "img_mods": "@disabled",
@@ -1040,7 +1110,7 @@
         "codes": "besaiddock2"
     },
     {
-        "name": "Phoenix Down x3 (Woman NPC)",
+        "name": "Phoenix Down x3 (Woman)",
         "type": "toggle",
         "img": "images/TreasureBW.png",
         "img_mods": "@disabled",
@@ -1051,7 +1121,7 @@
         "codes": "besaiddock3"
     },
     {
-        "name": "400 gil (Shirtless Man NPC)",
+        "name": "400 gil (Shirtless Man)",
         "type": "toggle",
         "img": "images/TreasureBW.png",
         "img_mods": "@disabled",
@@ -1062,7 +1132,7 @@
         "codes": "besaiddock4"
     },
     {
-        "name": "Ether (Green Shirt NPC)",
+        "name": "Ether (Green Shirt)",
         "type": "toggle",
         "img": "images/TreasureBW.png",
         "img_mods": "@disabled",
@@ -1071,6 +1141,39 @@
         "capturable": true,
         "initial_active_state": false,
         "codes": "besaiddock5"
+    },
+    {
+        "name": "Map",
+        "type": "toggle",
+        "img": "images/items/hd/Key_Item_HD_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/items/hd/Key_Item_HD.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "map"
+    },
+    {
+        "name": "Brotherhood",
+        "type": "toggle",
+        "img": "images/party/weapon/Sword_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/weapon/Sword.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "brotherhood"
+    },
+    {
+        "name": "Knight Lance",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "knightlance"
     },
     
     //RegionAccess misc items

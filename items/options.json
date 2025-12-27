@@ -14,6 +14,13 @@
         "codes": "minigames"
     },
     {
+        "name": "Recruit Sanity",
+        "type": "toggle",
+        "img": "images/items/hd/Blitzball.png",
+        "initial_active_state": false,
+        "codes": "recruitsanity"
+    },
+    {
         "name": "Logic Difficulty",
         "type": "consumable",
         "img": "images/items/hd/Support_use_item_HD.png",

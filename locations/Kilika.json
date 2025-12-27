@@ -10,14 +10,29 @@
                 "name": "Village",
                 "children": [
                     {
-                        "name": "Potion x3 (Chest)",
+                        "name": "Right of Collapsing House (Chest)",
                         "map_locations": [{ "map": "Kilika Village", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Potion x3"}]
                     },
                     {
-                        "name": "Ether x1 (Chest)",
+                        "name": "After Rescuing Kulukan's Sister from Collapsing House (Chest)",
                         "map_locations": [{ "map": "Kilika Village", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Ether x1"}]
+                    },
+                    {
+                        "name": "On Counter (Primer)",
+                        "map_locations": [{ "map": "Kilika Village", "x": 0, "y": 0}],
+                        "sections": [
+                            {
+                                "name": "Al Bhed Primer IV",
+                                "ref": "Al Bhed Primers/Al Bhed Primer IV/Kilika"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blitzball Recruit",
+                        "map_locations": [{ "map": "Kilika Village", "x": 0, "y": 0}],
+                        "sections": [{"name": "Tatts", "ref": "Blitzball Recruits/Tatts"}]
                     }
                 ]
             },
@@ -25,55 +40,56 @@
                 "name": "Woods",
                 "children": [
                     {
-                        "name": "Mana Sphere x2 (Chest)",
+                        "name": "East of First Intersection (Chest)",
                         "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Mana Sphere x2"}]
                     },
                     {
-                        "name": "Scout (Chest)",
+                        "name": "West of First Intersection, First North Fork (Chest)",
                         "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Scout"}]
                     },
                     {
-                        "name": "Remedy x1 (Leader NPC)",
+                        "name": "Crusader Commander West of Lord Ochu (NPC)",
                         "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Remedy x1"}]
                     },
                     {
-                        "name": "High Potion x1 (Guard NPC)",
+                        "name": "Crusader Commander North of Lord Ochu (NPC)",
                         "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "High Potion x1"}]
                     },
                     {
-                        "name": "Luck Sphere x1 (Chest)",
+                        "name": "Path North of Lord Ochu, Curving West (Chest)",
                         "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
-                        "sections": [{}]
+                        "sections": [{"name": "Luck Sphere x1"}]
                     },
                     {
-                        "name": "Lord Ochu",
+                        "name": "Defeat Lord Ochu (Boss)",
                         "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
-                        "sections": [{}]
-                    },
-                    {
-                        "name": "Sinspawn Geneaux",
-                        "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
-                        "access_rules": ["[$hasPartyMembers|3]"],
-                        "sections": [
-                            {
-                                "hosted_item": "geneaux",
-                                "item_count": 1,
-                                "clear_as_group": true
-                            }
-                        ]
+                        "sections": [{"name": "Lord Ochu"}]
                     },
                     {
                         "name": "Luzu (NPC)",
                         "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
                         "sections": [
-                            {"name": "Antidote x4 (Before Ochu)"},
-                            {"name": "Elixir x1 (After Ochu)"}
+                            {"name": "Antidote x4 (Before Defeating Ochu)"},
+                            {"name": "Elixir x1 (After Defeating Ochu)"}
                         ]
-                    }
+                    },
+                    {
+                        "name": "Defeat Sinspawn Geneaux (Boss)",
+                        "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
+                        "access_rules": ["[$hasPartyMembers|3]"],
+                        "sections": [
+                            {
+                                "name": "Sinspawn Geneaux",
+                                "hosted_item": "geneaux",
+                                "item_count": 1,
+                                "clear_as_group": true
+                            }
+                        ]
+                    }                    
                 ]
             },
             {
@@ -81,14 +97,27 @@
                 "access_rules": ["geneaux"],
                 "children": [
                     {
-                        "name": "Destruction Sphere",
+                        "name": "Blitzball Recruit",
+                        "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
+                        "sections": [{"name": "Mep", "ref": "Blitzball Recruits/Mep"}]
+                    },
+                    {
+                        "name": "Cloister",
                         "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
                         "sections": [
-                            { 
-                                "name": "Red Armlet", 
+                            {
+                                "hosted_item": "kilikadestructionsphere, kilikacloister",
+                                "clear_as_group": false
+                            },
+                            {
+                                "name": "Destruction Sphere - Red Armlet",
                                 "hosted_item": "kilikadestructionsphere",
                                 "item_count": 1,
                                 "clear_as_group": true
+                            },
+                            {
+                                "name": "Ifrit",
+                                "ref": "Party Member/Aeon/Ifrit"
                             }
                         ]
                     }
