@@ -1175,6 +1175,28 @@
         "initial_active_state": false,
         "codes": "knightlance"
     },
+    {
+        "name": "Before Ochu",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "luzupreochu"
+    },
+    {
+        "name": "After Ochu",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "luzupostochu"
+    },
     
     //RegionAccess misc items
     {

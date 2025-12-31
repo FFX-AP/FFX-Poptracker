@@ -5,7 +5,9 @@
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.3/FFX.zip",
             "sha256": "",
             "changelog": [
-                " - Reordered locations in Omega ruins to match accessibility"
+                " - Reordered locations in Omega ruins to match accessibility",
+                " - Fixed logic accessibility for Dark Magus Sisters",
+                " - Fixed Luzu checks not showing in Kilika"
             ]
         },
         {
