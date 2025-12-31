@@ -1626,14 +1626,6 @@
                         "ref": "Omega Ruins/Teleport Sphere x1 (Chest)/"
                     },
                     {
-                        "name": "Friend Sphere x1 (Chest)",
-                        "ref": "Omega Ruins/Friend Sphere x1 (Chest)/"
-                    },
-                    {
-                        "name": "Magic Sphere x1 (Chest)",
-                        "ref": "Omega Ruins/Magic Sphere x1 (Chest)/"
-                    },
-                    {
                         "name": "Al Bhed Primer XXVI",
                         "ref": "Al Bhed Primers/Al Bhed Primer XXVI/Omega Ruins"
                     },
@@ -1642,8 +1634,16 @@
                         "ref": "Omega Ruins/Ultima Weapon/"
                     },
                     {
+                        "name": "Friend Sphere x1 (Chest)",
+                        "ref": "Omega Ruins/Friend Sphere x1 (Chest)/"
+                    },
+                    {
                         "name": "Omega Weapon",
                         "ref": "Super Bosses/Omega Weapon"
+                    },
+                    {
+                        "name": "Magic Sphere x1 (Chest)",
+                        "ref": "Omega Ruins/Magic Sphere x1 (Chest)/"
                     }
                 ]
             }

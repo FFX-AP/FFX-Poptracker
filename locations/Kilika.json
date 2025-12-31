@@ -73,6 +73,7 @@
                         "name": "Luzu (NPC)",
                         "map_locations": [{ "map": "Kilika Woods", "x": 0, "y": 0}],
                         "sections": [
+                            {"hosted_item": "luzupreochu, luzupostochu", "clear_as_group": false},
                             {"name": "Antidote x4 (Before Defeating Ochu)"},
                             {"name": "Elixir x1 (After Defeating Ochu)"}
                         ]
