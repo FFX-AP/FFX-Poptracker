@@ -37,6 +37,7 @@
                     {
                         "name": "Dark Magus Sisters (Superboss)",
                         "map_locations": [{ "map": "Mushroom Rock Road Entrance", "x": 0, "y": 0}],
+                        "access_rules": ["@Super Bosses/Dark Cindy", "@Super Bosses/Dark Mindy", "@Super Bosses/Dark Sandy"],
                         "sections": [
                             {"hosted_item": "darkcindy, darkmindy, darksandy", "clear_as_group": false},
                             {"name": "Dark Cindy", "ref": "Super Bosses/Dark Cindy"},

@@ -12,16 +12,6 @@
                 "sections": [{}]
             },
             {
-                "name": "Friend Sphere x1 (Chest)",
-                "map_locations": [{ "map": "Omega Ruins", "x": 0, "y": 0}],
-                "sections": [{}]
-            },
-            {
-                "name": "Magic Sphere x1 (Chest)",
-                "map_locations": [{ "map": "Omega Ruins", "x": 0, "y": 0}],
-                "sections": [{}]
-            },
-            {
                 "name": "Ultima Weapon",
                 "map_locations": [{ "map": "Omega Ruins", "x": 0, "y": 0}],
                 "access_rules": ["[$hasPartyMembers|3]"],
@@ -32,6 +22,18 @@
                         "clear_as_group": true
                     }
                 ]
+            },
+            {
+                "name": "Friend Sphere x1 (Chest)",
+                "map_locations": [{ "map": "Omega Ruins", "x": 0, "y": 0}],
+                "access_rules": ["ultimaweapon"],
+                "sections": [{}]
+            },
+            {
+                "name": "Magic Sphere x1 (Chest)",
+                "map_locations": [{ "map": "Omega Ruins", "x": 0, "y": 0}],
+                "access_rules": ["omegaweapon"],
+                "sections": [{}]
             }
         ]
     }
