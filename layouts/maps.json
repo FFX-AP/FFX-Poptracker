@@ -3,28 +3,6 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Mt. Gagazet",
-                "content": {
-                    "type": "tabbed",
-                    "tabs": [
-                        {
-                            "title": "Outside",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Gagazet Cave"]
-                            }
-                        },
-                        {
-                            "title": "Cave",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Gagazet Cave"]
-                            }
-                        }
-                    ]
-                }
-            },
-            {
                 "title": "World Map",
                 "content": {
                     "type": "map",
