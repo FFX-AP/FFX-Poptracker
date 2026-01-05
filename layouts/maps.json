@@ -133,13 +133,6 @@
                             }
                         },
                         {
-                            "title": "Monster Arena",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Monster Arena"]
-                            }
-                        },
-                        {
                             "title": "Cavern of the Stolen Fayth",
                             "content": {
                                 "type": "map",

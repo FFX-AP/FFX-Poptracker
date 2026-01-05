@@ -42,7 +42,7 @@
                         ]
                     },
                     {
-                        "name": "Blitzball Recruit",
+                        "name": "Blitzball Recruit - Biggs & Wedge",
                         "map_locations": [{"map": "Luca Stadium", "x": 0, "y": 0}],
                         "sections": [
                             {"name": "Biggs", "ref": "Blitzball Recruits/Biggs"},
@@ -100,12 +100,12 @@
                         ]
                     },
                     {
-                        "name": "Blitzball Recruit",
+                        "name": "Blitzball Recruit - Nedus",
                         "map_locations": [{"map": "Luca Dock", "x": 0, "y": 0}],
                         "sections": [{"name": "Nedus", "ref": "Blitzball Recruits/Nedus"}]
                     },
                     {
-                        "name": "Blitzball Recruit",
+                        "name": "Blitzball Recruit - Zev Ronso",
                         "map_locations": [{"map": "Luca Dock", "x": 0, "y": 0}],
                         "sections": [{"name": "Zev Ronso", "ref": "Blitzball Recruits/Zev Ronso"}]
                     },
@@ -143,22 +143,22 @@
                         "sections": [{"name": "1000 Gil"}]
                     },
                     {
-                        "name": "Blitzball Recruit",
+                        "name": "Blitzball Recruit - Jumal",
                         "map_locations": [{"map": "Luca City", "x": 0, "y": 0}],
                         "sections": [{"name": "Jumal", "ref": "Blitzball Recruits/Jumal"}]
                     },
                     {
-                        "name": "Blitzball Recruit",
+                        "name": "Blitzball Recruit - Shaami",
                         "map_locations": [{"map": "Luca City", "x": 0, "y": 0}],
                         "sections": [{"name": "Shaami", "ref": "Blitzball Recruits/Shaami"}]
                     },
                     {
-                        "name": "Blitzball Recruit",
+                        "name": "Blitzball Recruit - Shuu",
                         "map_locations": [{"map": "Luca City", "x": 0, "y": 0}],
                         "sections": [{"name": "Shuu", "ref": "Blitzball Recruits/Shuu"}]
                     },
                     {
-                        "name": "Blitzball Recruit",
+                        "name": "Blitzball Recruit - Zalitz",
                         "map_locations": [{"map": "Luca City", "x": 0, "y": 0}],
                         "sections": [{"name": "Zalitz", "ref": "Blitzball Recruits/Zalitz"}]
                     },

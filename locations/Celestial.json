@@ -1,8 +1,6 @@
 [
     {
         "name": "Celestial",
-        "chest_unopened_img": "/images/items/hd/Key_Item_HD.png",
-        "chest_opened_img": "/images/items/hd/Key_Item_HD_BW.png",
         "overlay_background": "#000000",
         "children": [
             {
@@ -146,7 +144,7 @@
                     },
                     {
                         "name": "Sun Sigil",
-                        "access_rules": ["@Calm Lands, chocobocatcher, [minigames]"]
+                        "access_rules": ["@Calm Lands, chocobocatcher, [minigames]"],
                     },
                     {
                         "name": "Brotherhood",
@@ -237,6 +235,8 @@
             },
             {
                 "name": "General",
+                "chest_unopened_img": "/images/items/hd/Key_Item_HD.png",
+                "chest_opened_img": "/images/items/hd/Key_Item_HD_BW.png",
                 "sections": [
                     {
                         "name": "Cloudy Mirror",
