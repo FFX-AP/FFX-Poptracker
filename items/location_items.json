@@ -485,6 +485,10 @@
     {
         "name": "Chocobo Catcher",
         "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "chocobocatcher"
@@ -1243,6 +1247,17 @@
         "capturable": true,
         "initial_active_state": false,
         "codes": "jechtsphere"
+    },
+    {
+        "name": "Sun Sigil",
+        "type": "toggle",
+        "img": "images/party/weapon/Sword_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/party/weapon/Sword.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "sunsigil"
     },
     
     //RegionAccess misc items

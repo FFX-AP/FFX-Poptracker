@@ -1013,7 +1013,7 @@
                     },
                     {
                         "name": "Bikanel Oasis - Al Bhed Potion x8",
-                        "ref": "Bikanel/Desert/Oasis/Next to Tent (Chest)/Al Bhed Potion x8"
+                        "ref": "Bikanel/Desert/Oasis/Next to Tent (Chest & Primer)/Al Bhed Potion x8"
                     },
                     {
                         "name": "Bikanel Oasis - Al Bhed Primer III",
@@ -1025,11 +1025,11 @@
                     },
                     {
                         "name": "Bikanel East - Ether x2 (Chest)",
-                        "ref": "Bikanel/Desert/East/Near First Tent, Right (Chest)/Ether x2"
+                        "ref": "Bikanel/Desert/East/Near First Tent (Chests)/Ether x2"
                     },
                     {
                         "name": "Bikanel East - Al Bhed Potion x8",
-                        "ref": "Bikanel/Desert/East/Near First Tent, Left (Chest)/Al Bhed Potion x8"
+                        "ref": "Bikanel/Desert/East/Near First Tent (Chests)/Al Bhed Potion x8"
                     },
                     {
                         "name": "Bikanel East - Al Bhed Primer XIV",
@@ -1065,11 +1065,11 @@
                     },
                     {
                         "name": "Bikanel Central - Lv. 2 Key Sphere x1 (Chest)",
-                        "ref": "Bikanel/Desert/Central/Central Structure of Northwest Zone, Top (Chest)/Lv. 2 Key Sphere x1"
+                        "ref": "Bikanel/Desert/Central/Central Structure of Northwest Zone (Chests)/Lv. 2 Key Sphere x1"
                     },
                     {
                         "name": "Bikanel Central - 10000 gil (Chest)",
-                        "ref": "Bikanel/Desert/Central/Central Structure of Northwest Zone, Bottom (Chest)/10000 gil"
+                        "ref": "Bikanel/Desert/Central/Central Structure of Northwest Zone (Chests)/10000 gil"
                     },
                     {
                         "name": "Bikanel Central - Al Bhed Primer XVII",
@@ -1081,11 +1081,11 @@
                     },
                     {
                         "name": "Bikanel West - Teleport Sphere x2 (Chest)",
-                        "ref": "Bikanel/Desert/West/Right Sinkhole on  Main Path (Chest)/Teleport Sphere x2"
+                        "ref": "Bikanel/Desert/West/Right Sinkhole on Main Path (Chest)/Teleport Sphere x2"
                     },
                     {
                         "name": "Bikanel West - Hi-Potion x8 (Chest)",
-                        "ref": "Bikanel/Desert/West/First Western Alcove, Between Rocks (Chest)/Hi-Potion x8"
+                        "ref": "Bikanel/Desert/West/First Western Alcove (Chests)/Hi-Potion x8"
                     },
                     {
                         "name": "Bikanel West - Mercury Crest (Chest)",
@@ -1115,7 +1115,7 @@
                 "sections": [
                     {
                         "name": "Home - Hi-Potion x2 (NPC on Ground)",
-                        "ref": "Bikanel/Home/Hi-Potion x2 (NPC on Ground)/"
+                        "ref": "Bikanel/Home/Keyakku, on Ground (NPC)/Hi-Potion x2"
                     },
                     {
                         "name": "Home - Al Bhed Primer XIX",
@@ -1123,7 +1123,7 @@
                     },
                     {
                         "name": "Home - Al Bhed Potion x6 (Chest)",
-                        "ref": "Bikanel/Home/Al Bhed Potion x6 (Chest)/"
+                        "ref": "Bikanel/Home/North Hall, Left (Chest)/Al Bhed Potion x6"
                     },
                     {
                         "name": "Home - Al Bhed Primer XXI",
@@ -1131,15 +1131,15 @@
                     },
                     {
                         "name": "Home - Special Sphere x1 (Al Bhed Password Chest)",
-                        "ref": "Bikanel/Home/Special Sphere x1 (Al Bhed Password Chest)/"
+                        "ref": "Bikanel/Home/East of Main Corridor (Chests)/Special Sphere x1"
                     },
                     {
                         "name": "Home - Skill Sphere x1 (Al Bhed Quiz Chest)",
-                        "ref": "Bikanel/Home/Skill Sphere x1 (Al Bhed Quiz Chest)/"
+                        "ref": "Bikanel/Home/East of Main Corridor (Chests)/Skill Sphere x1"
                     },
                     {
                         "name": "Home - Al Bhed Potion x4 (Chest)",
-                        "ref": "Bikanel/Home/Al Bhed Potion x4 (Chest)/"
+                        "ref": "Bikanel/Home/Hidden Behind Left Smoke (Chest)/Al Bhed Potion x4"
                     },
                     {
                         "name": "Home - Al Bhed Primer XX",
@@ -1147,11 +1147,19 @@
                     }, 
                     {
                         "name": "Home - Friend Sphere x1 (Al Bhed Vocabulary Chest)",
-                        "ref": "Bikanel/Home/Friend Sphere x1 (Al Bhed Vocabulary Chest)/"
+                        "ref": "Bikanel/Home/South of Main Corridor (Chests)/Friend Sphere x1"
                     },
                     {
                         "name": "Home - Area Completion",
-                        "ref": "Bikanel/Home/Area Completion/"
+                        "ref": "Bikanel/Home/Area Completion/Lv. 2 Key Sphere x1"
+                    },
+                    {
+                        "name": "Home - Area Completion",
+                        "ref": "Bikanel/Home/Area Completion/Lv. 4 Key Sphere x4"
+                    },
+                    {
+                        "name": "Home - Area Completion",
+                        "ref": "Bikanel/Home/Area Completion/10000 gil"
                     }
                 ]
             },
@@ -1214,8 +1222,16 @@
                         "ref": "Al Bhed Primers/Al Bhed Primer XXII/Bevelle"
                     },
                     {
-                        "name": "Temple - Cloister of Trials",
-                        "ref": "Bevelle/Temple/Cloister/"
+                        "name": "Temple - Cloister of Trials - Knight Lance",
+                        "ref": "Bevelle/Temple/Cloister of Trials/Knight Lance"
+                    },
+                    {
+                        "name": "Temple - Cloister of Trials - Destruction Sphere",
+                        "ref": "Bevelle/Temple/Cloister of Trials/Destruction Sphere - HP Sphere"
+                    },
+                    {
+                        "name": "Temple - Cloister of Trials - Bahamut",
+                        "ref": "Party Member/Aeon/Bahamut"
                     },
                     {
                         "name": "Via Purifico - Mega-Potion x1 (Chest)",
@@ -1273,11 +1289,11 @@
                 "sections": [
                     {
                         "name": "Plains - 5000 gil (Chest)",
-                        "ref": "Calm Lands/Plains/Southeast Corner, Right (Chest)/5000 gil"
+                        "ref": "Calm Lands/Plains/Southeast Corner (Chests)/5000 gil"
                     },
                     {
                         "name": "Plains - 10000 gil (Chest)",
-                        "ref": "Calm Lands/Plains/Southeast Corner, Left (Chest)/10000 gil"
+                        "ref": "Calm Lands/Plains/Southeast Corner (Chests)/10000 gil"
                     },
                     {
                         "name": "Plains - Lv. 2 Key Sphere x1 (Chest)",
@@ -1309,19 +1325,19 @@
                     },
                     {
                         "name": "Chocobo - Wobbly Chocobo Minigame (Event)",
-                        "ref": "Calm Lands/Chocobo/Wobbly Chocobo Minigame (Event)/Elixir x1"
+                        "ref": "Calm Lands/Chocobo/Chocobo Training/Wobbly Chocobo Minigame (Event)"
                     },
                     {
                         "name": "Chocobo - Dodger Chocobo Minigame (Event)",
-                        "ref": "Calm Lands/Chocobo/Dodger Chocobo Minigame (Event)/Lv. 1 Key Sphere x1"
+                        "ref": "Calm Lands/Chocobo/Chocobo Training/Dodger Chocobo Minigame (Event)"
                     },
                     {
                         "name": "Chocobo - Hyper Dodger Chocobo Minigame (Event)",
-                        "ref": "Calm Lands/Chocobo/Hyper Dodger Chocobo Minigame (Event)/Lv. 2 Key Sphere x1"
+                        "ref": "Calm Lands/Chocobo/Chocobo Training/Hyper Dodger Chocobo Minigame (Event)"
                     },
                     {
                         "name": "Chocobo - Catcher Chocobo Minigame (Event)",
-                        "ref": "Calm Lands/Chocobo/Catcher Chocobo Minigame (Event)/Lv. 3 Key Sphere x1"
+                        "ref": "Calm Lands/Chocobo/Chocobo Training/Catcher Chocobo Minigame (Event)"
                     },
                     {
                         "name": "Chocobo - Sun Sigil (Chocobo Catcher 0:00)",

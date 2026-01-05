@@ -11,7 +11,7 @@
                 "children": [
                     {
                         "name": "Corner South of Save Point (Primer)",
-                        "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
+                        "map_locations": [{ "map": "Bevelle", "x": 230, "y": 520}],
                         "sections": [
                             {
                                 "name": "Al Bhed Primer XXII",
@@ -20,23 +20,17 @@
                         ]
                     },
                     {
-                        "name": "Cloister",
-                        "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
+                        "name": "Cloister of Trials",
+                        "map_locations": [{ "map": "Bevelle", "x": 1020, "y": 545}],
                         "sections": [
-                            {
-                                "hosted_item": "knightlance, bevelledestructionsphere, bevellecloister",
-                                "clear_as_group": false
-                            },
                             {
                                 "name": "Knight Lance",
                                 "hosted_item": "knightlance",
-                                "item_count": 1,
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Destruction Sphere - HP Sphere",
                                 "hosted_item": "bevelledestructionsphere",
-                                "item_count": 1,
                                 "clear_as_group": true
                             },
                             {
@@ -52,27 +46,27 @@
                 "children": [
                     {
                         "name": "East Room With Kimahri (Chest)",
-                        "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
+                        "map_locations": [{ "map": "Via Purifico", "x": 745, "y": 590}],
                         "sections": [{"name": "Mega-Potion x1"}]
                     },
                     {
                         "name": "West Room With Lulu (Chest)",
-                        "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
+                        "map_locations": [{ "map": "Via Purifico", "x": 350, "y": 590}],
                         "sections": [{"name": "Wht Magic Sphere x1"}]
                     },
                     {
                         "name": "Southwest Room Near Glyph (Chest)",
-                        "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
+                        "map_locations": [{ "map": "Via Purifico", "x": 235, "y": 735}],
                         "sections": [{"name": "Elixir x1"}]
                     },
                     {
                         "name": "Room Northeast of Central Teleporter (Chest)",
-                        "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
+                        "map_locations": [{ "map": "Via Purifico", "x": 640, "y": 595}],
                         "sections": [{"name": "Blk Magic Sphere x1"}]
                     },
                     {
                         "name": "Puzzle Room (Chests)",
-                        "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
+                        "map_locations": [{ "map": "Via Purifico", "x": 50, "y": 350}],
                         "sections": [
                             {"name": "Skill Sphere x1"},
                             {"name": "10000 gil"},
@@ -81,7 +75,7 @@
                     },
                     {
                         "name": "Defeat Isaaru (Boss)",
-                        "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
+                        "map_locations": [{ "map": "Via Purifico", "x": 502, "y": 100}],
                         "access_rules": ["$hasYuna, $hasAeons|1, [$hasAeons|2]"],
                         "sections": [
                             {
@@ -100,7 +94,7 @@
                 "children": [
                     {
                         "name": "Defeat Evrae Altana (Boss)",
-                        "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
+                        "map_locations": [{ "map": "Via Purifico", "x": 905, "y": 690, "shape": "trapezoid", "size": 32}],
                         "access_rules": ["[$hasSwimmers|3]"],
                         "sections": [
                             {
@@ -113,13 +107,13 @@
                     },
                     {
                         "name": "Right Side Before First Turn (Chest)",
-                        "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
+                        "map_locations": [{ "map": "Via Purifico", "x": 905, "y": 555}],
                         "access_rules": ["evraealtana"],
                         "sections": [{"name": "Rematch"}]
                     },
                     {
                         "name": "Right Side After First Turn (Chest)",
-                        "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
+                        "map_locations": [{ "map": "Via Purifico", "x": 965, "y": 500}],
                         "access_rules": ["evraealtana"],
                         "sections": [{"name": "Avenger"}]
                     }
@@ -131,7 +125,7 @@
                 "children": [
                     {
                         "name": "Defeat Seymour Natus (Boss)",
-                        "map_locations": [{ "map": "Bevelle", "x": 0, "y": 0}],
+                        "map_locations": [{ "map": "Via Purifico", "x": 1145, "y": 80, "shape": "trapezoid", "size": 32}],
                         "access_rules": ["[$hasPartyMembers|3]"],
                         "sections": [
                             {

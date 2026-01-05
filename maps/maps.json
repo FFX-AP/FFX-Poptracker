@@ -61,15 +61,15 @@
     },
     {
         "name": "Bevelle",
-        "location_size": 16,
+        "location_size": 24,
         "location_border_thickness": 1,
         "img": "images/maps/regions/bevelle/Bevelle.png"
     },
     {
         "name": "Bikanel",
-        "location_size": 16,
+        "location_size": 24,
         "location_border_thickness": 1,
-        "img": "images/maps/Bikanel.png"
+        "img": "images/maps/regions/bikanel/Sanubia Desert.png"
     },
     {
         "name": "Blitzball",
@@ -79,15 +79,15 @@
     },
     {
         "name": "Calm Lands",
-        "location_size": 16,
+        "location_size": 20,
         "location_border_thickness": 1,
-        "img": "images/maps/Calm Lands.png"
+        "img": "images/maps/regions/calm lands/Calm Lands.png"
     },
     {
         "name": "Cavern of the Stolen Fayth",
         "location_size": 16,
         "location_border_thickness": 1,
-        "img": "images/maps/Cavern of the Stolen Fayth.png"
+        "img": "images/maps/regions/cotsf/Cavern of the Stolen Fayth.png"
     },
     {
         "name": "Celestial Upgrade",
@@ -129,7 +129,7 @@
         "name": "Home",
         "location_size": 16,
         "location_border_thickness": 1,
-        "img": "images/maps/Home.png"
+        "img": "images/maps/regions/bikanel/Home.png"
     },
     {
         "name": "Inside Sin",
@@ -303,7 +303,7 @@
         "name": "Remiem Temple",
         "location_size": 16,
         "location_border_thickness": 1,
-        "img": "images/maps/regions/remiem/Remiem_Temple_Staff_Map.png"
+        "img": "images/maps/regions/calm lands/Remiem Temple.png"
     },
     {
         "name": "S.S. Liki",
@@ -355,7 +355,7 @@
     },
     {
         "name": "Via Purifico",
-        "location_size": 16,
+        "location_size": 24,
         "location_border_thickness": 1,
         "img": "images/maps/regions/bevelle/Via Purifico.png"
     },

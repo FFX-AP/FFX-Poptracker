@@ -8,7 +8,7 @@
         "children": [
             {
                 "name": "Northwest Corner (Primer)",
-                "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
+                "map_locations": [{ "map": "Remiem Temple", "x": 30, "y": 80}],
                 "sections": [
                     {
                         "name": "Al Bhed Primer XXIV",
@@ -18,7 +18,7 @@
             },
             {
                 "name": "Win Chocobo Race (Event)",
-                "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
+                "map_locations": [{ "map": "Remiem Temple", "x": 195, "y": 60}],
                 "sections": [
                     {
                         "name": "Cloudy Mirror",
@@ -28,8 +28,8 @@
             },
             {
                 "name": "Belgemine",
-                "map_locations": [{ "map": "Remiem Temple", "x": 0, "y": 0}],
-                "access_rules": ["$hasYuna, $hasAeons|1"],
+                "map_locations": [{ "map": "Remiem Temple", "x": 445, "y": 270, "shape": "trapezoid", "size": 24}],
+                "access_rules": ["$hasYuna, $hasAeons|1, [$hasAeons|2]"],
                 "sections": [
                     {
                         "name": "Valefor Fight",
@@ -78,7 +78,7 @@
             },
             {
                 "name": "Defeat All Aeons and Send Belgemine (Event)",
-                "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
+                "map_locations": [{ "map": "Remiem Temple", "x": 445, "y": 220}],
                 "sections": [
                     {
                         "name": "Moon Sigil",
@@ -88,7 +88,7 @@
             },
             {
                 "name": "Chamber of the Fayth",
-                "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
+                "map_locations": [{ "map": "Remiem Temple", "x": 445, "y": 100}],
                 "sections": [
                     {
                         "name": "Magus Sisters",
