@@ -50,5 +50,5 @@ Primers = {
 }
 for _, code in ipairs(Primers) do
     print("WATCH FOR: " .. code)
-    ScriptHost:AddWatchForCode("Primer Increment for Al Bhed Primers", code, PrimerIncrement)
+    ScriptHost:AddWatchForCode("Primer Increment for " .. code, code, PrimerIncrement)
 end
