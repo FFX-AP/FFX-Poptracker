@@ -103,7 +103,7 @@
             },
             {
                 "name": "Temple",
-                "access_rules": ["geneaux"],
+                "access_rules": ["geneaux, [$hasMinimumParty|3]"],
                 "children": [
                     {
                         "name": "Blitzball Recruit",

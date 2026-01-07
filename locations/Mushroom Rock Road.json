@@ -155,7 +155,7 @@
             },
             {
                 "name": "Aftermath",
-                "access_rules": ["sinspawngui"],
+                "access_rules": ["sinspawngui, [$hasMinimumParty|3]"],
                 "children": [
                     {
                         "name": "Under Overhang, West Side (Chest)",

@@ -45,11 +45,11 @@
                     },
                     {
                         "name": "Saturn Crest",
-                        "access_rules": ["@Mt. Gagazet, seymourflux"]
+                        "access_rules": ["@Mt. Gagazet, seymourflux, [$hasMinimumParty|3]"]
                     },
                     {
                         "name": "Saturn Sigil",
-                        "access_rules": ["@Macalania, wendigo, [minigames]"]
+                        "access_rules": ["@Macalania, wendigo, [$hasMinimumParty|3], [minigames]"]
                     },
                     {
                         "name": "Spirit Lance Crest Upgrade",
@@ -136,15 +136,15 @@
                 "sections": [
                     {
                         "name": "Caladbolg",
-                        "access_rules": ["@Calm Lands, celestialmirror, chocobocatcher, [minigames]"]
+                        "access_rules": ["@Calm Lands, celestialmirror, chocobocatcher, [$hasMinimumParty|3], [minigames]"]
                     },
                     {
                         "name": "Sun Crest",
-                        "access_rules": ["@Zanarkand/Temple/Cloister, yunalesca"]
+                        "access_rules": ["@Zanarkand/Temple/Cloister, yunalesca, [$hasMinimumParty|3]"]
                     },
                     {
                         "name": "Sun Sigil",
-                        "access_rules": ["@Calm Lands, chocobocatcher, [minigames]"],
+                        "access_rules": ["@Calm Lands, chocobocatcher, [minigames]"]
                     },
                     {
                         "name": "Brotherhood",
@@ -177,15 +177,15 @@
                 "sections": [
                     {
                         "name": "World Champion",
-                        "access_rules": ["@Luca/City, oblitzerator, [minigames]"]
+                        "access_rules": ["@Luca/City, oblitzerator, [$hasMinimumParty|3], [minigames]"]
                     },
                     {
                         "name": "Jupiter Crest",
-                        "access_rules": ["@Luca/Stadium, oblitzerator"]
+                        "access_rules": ["@Luca/Stadium, oblitzerator, [$hasMinimumParty|3]"]
                     },
                     {
                         "name": "Jupiter Sigil",
-                        "access_rules": ["@Luca, oblitzerator, [minigames]"]
+                        "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3], [minigames]"]
                     },
                     {
                         "name": "World Champion Crest Upgrade",
@@ -216,7 +216,7 @@
                     },
                     {
                         "name": "Moon Sigil",
-                        "access_rules": ["@Remiem Temple, $hasYuna, belgeminevalefor, belgemineifrit, belgemineixion, belgemineshiva, belgeminebahamut, belgemineyojimbo, belgemineanima, belgeminemagus"]
+                        "access_rules": ["@Remiem Temple, $hasYuna, belgeminevalefor, belgemineifrit, belgemineixion, belgemineshiva, belgeminebahamut, belgemineyojimbo, belgemineanima, belgeminemagus, [$hasAeons|2]"]
                     },
                     {
                         "name": "Nirvana Crest Upgrade",
@@ -247,7 +247,7 @@
                     },
                     {
                         "name": "Rusty Sword",
-                        "access_rules": ["@Calm Lands, defenderx"]
+                        "access_rules": ["@Calm Lands, defenderx, [$hasMinimumParty|3]"]
                     }
                 ]
             }            

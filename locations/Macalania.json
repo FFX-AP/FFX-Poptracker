@@ -65,7 +65,7 @@
                     {
                         "name": "Campsite (Chest)",
                         "map_locations": [{ "map": "Via Purifico", "x": 870, "y": 55}],
-                        "access_rules": ["spherimorph, seymournatus"],
+                        "access_rules": ["spherimorph, seymournatus, [$hasMinimumParty|3]"],
                         "sections": [{"name": "Lucid Ring"}]
                     },
                     {
@@ -82,7 +82,7 @@
             },
             {
                 "name": "Lake",
-                "access_rules": ["spherimorph"],
+                "access_rules": ["spherimorph, [$hasMinimumParty|3]"],
                 "children": [
                     {
                         "name": "Agency",

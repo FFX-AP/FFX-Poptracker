@@ -88,7 +88,7 @@
                     {
                         "name": "Cloister",
                         "map_locations": [{ "map": "Zanarkand Temple", "x": 450, "y": 1390}],
-                        "access_rules": ["yunalesca"],
+                        "access_rules": ["yunalesca, [$hasMinimumParty|3]"],
                         "sections": [
                             { 
                                 "name": "Destruction Sphere- Magistral Rod", 

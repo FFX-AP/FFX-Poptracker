@@ -27,13 +27,13 @@
                     {
                         "name": "Win the Story Blitzball Tournament (Event)",
                         "map_locations": [{"map": "Luca Stadium", "x": 0, "y": 0}],
-                        "access_rules": ["oblitzerator, [minigames]"],
+                        "access_rules": ["oblitzerator, [$hasMinimumParty|3], [minigames]"],
                         "sections": [{"name": "Story Win vs. Luca Goers Reward"}]
                     },
                     {
                         "name": "Post-Blitzball Tournament (Event)",
                         "map_locations": [{"map": "Luca Stadium", "x": 0, "y": 0}],
-                        "access_rules": ["oblitzerator"],
+                        "access_rules": ["oblitzerator, [$hasMinimumParty|3]"],
                         "sections": [
                             {
                                 "name": "Auron",
@@ -52,7 +52,7 @@
                     {
                         "name": "Inside Back Right Locker (Event)",
                         "map_locations": [{"map": "Luca Stadium", "x": 0, "y": 0}],
-                        "access_rules": ["oblitzerator"],
+                        "access_rules": ["oblitzerator, [$hasMinimumParty|3]"],
                         "sections": [
                             {
                                 "name": "Jupiter Crest",
@@ -63,7 +63,7 @@
                     {
                         "name": "Obtain The Jupiter Sigil League Prize (Event)",
                         "map_locations": [{"map": "Luca Stadium", "x": 0, "y": 0}],
-                        "access_rules": ["oblitzerator"],
+                        "access_rules": ["oblitzerator, [$hasMinimumParty|3]"],
                         "sections": [
                             {
                                 "name": "Jupiter Sigil",
@@ -165,7 +165,7 @@
                     {
                         "name": "Talk to Owner After Placing at Least Third in a Tournament (Chest)",
                         "map_locations": [{"map": "Luca City", "x": 0, "y": 0}],
-                        "access_rules": ["oblitzerator"],
+                        "access_rules": ["oblitzerator, [$hasMinimumParty|3]"],
                         "sections": [
                             {
                                 "name": "World Chamnpion",

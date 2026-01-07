@@ -51,7 +51,7 @@
             },
             {
                 "name": "City of Dying Dreams",
-                "access_rules": ["seymouromnis"],
+                "access_rules": ["seymouromnis, [$hasMinimumParty|3]"],
                 "children": [
                     {
                         "name": "East Glyph Near South Exit, Defeat 10/10/15 Fiends (Chest)",

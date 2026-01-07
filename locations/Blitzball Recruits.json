@@ -16,7 +16,7 @@
             },
             {
                 "name": "Durren",
-                "access_rules": ["@Calm Lands, defenderx"]
+                "access_rules": ["@Calm Lands, defenderx, [$hasMinimumParty|3]"]
             },
             {
                 "name": "Jumal",

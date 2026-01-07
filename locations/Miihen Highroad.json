@@ -127,7 +127,7 @@
             },
             {
                 "name": "North",
-                "access_rules": ["chocoboeater"],
+                "access_rules": ["chocoboeater, [$hasMinimumParty|3]"],
                 "children": [
                     {
                         "name": "Chocobo Jump North Peak of Bend (Chest)",

@@ -21,7 +21,7 @@
             },
             {
                 "name": "Outside",
-                "access_rules": ["biranyenke"],
+                "access_rules": ["biranyenke, [$hasMinimumParty|3]"],
                 "children": [
                     {
                         "name": "Top of Right Ridge Near South Exit (Chest)",
@@ -78,7 +78,7 @@
             },
             {
                 "name": "Inside",
-                "access_rules": ["seymourflux"],
+                "access_rules": ["seymourflux, [$hasMinimumParty|3]"],
                 "children": [
                     {
                         "name": "Reward from First Trial (Chest)",
