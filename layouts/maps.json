@@ -3,10 +3,10 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Desert",
+                "title": "S.S. Liki",
                 "content": {
                     "type": "map",
-                    "maps": ["Bikanel"]
+                    "maps": ["S.S. Liki"]
                 }
             },
             {

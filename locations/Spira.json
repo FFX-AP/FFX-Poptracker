@@ -91,15 +91,27 @@
                 "sections": [
                     {
                         "name": "Beach - Antidote x2 (Chest)",
-                        "ref": "Besaid/Beach/West Near Huts (Chest)/Antidote x2"
+                        "ref": "Besaid/Island/Beach/West Near Huts (Chest)/Antidote x2"
                     },
                     {
                         "name": "Beach - Moon Crest (Chest)",
                         "ref": "Celestial/Yuna/Moon Crest"
                     },
                     {
-                        "name": "Beach - Aurochs (NPCs)",
-                        "ref": "Besaid/Beach/Aurochs (NPCs)/"
+                        "name": "Beach - Aurochs (Datto)",
+                        "ref": "Besaid/Island/Beach/Aurochs (NPCs)/Hi-Potion x1 (Datto)"
+                    },
+                    {
+                        "name": "Beach - Aurochs (Jassu)",
+                        "ref": "Besaid/Island/Beach/Aurochs (NPCs)/Potion x3 (Jassu)"
+                    },
+                    {
+                        "name": "Beach - Aurochs (Botta)",
+                        "ref": "Besaid/Island/Beach/Aurochs (NPCs)/Potion x2 (Botta)"
+                    },
+                    {
+                        "name": "Beach - Aurochs (Keepa)",
+                        "ref": "Besaid/Island/Beach/Aurochs (NPCs)/200 gil (Keepa)"
                     },
                     {
                         "name": "Valley - Wakka",
@@ -107,23 +119,31 @@
                     },
                     {
                         "name": "Valley - Phoenix Down x1 (Chest)",
-                        "ref": "Besaid/Valley/South of Spawn, Right Side (Chest)/Phoenix Down x1"
+                        "ref": "Besaid/Island/Valley/South of Spawn, Right Side (Chest)/Phoenix Down x1"
                     },
                     {
                         "name": "Valley - Hi-Potion x1 (Chest)",
-                        "ref": "Besaid/Valley/South Side, Hidden Behind Right Wall (Chest)/Hi-Potion x1"
+                        "ref": "Besaid/Island/Valley/South Side, Hidden Behind Right Wall (Chest)/Hi-Potion x1"
                     },
                     {
                         "name": "Valley - Antidote x2 (Chest)",
-                        "ref": "Besaid/Valley/East Side, Right of Path (Chest)/Antidote x2"
+                        "ref": "Besaid/Island/Valley/East Side, Right of Path (Chest)/Antidote x2"
                     },
                     {
                         "name": "Village - Phoenix Down x1 (Chest)",
                         "ref": "Besaid/Village/Front of Shop (Chest)/Phoenix Down x1"
                     },
                     {
-                        "name": "Village - Behind the Shop (Chests)",
-                        "ref": "Besaid/Village/Behind Shop (Chests)/"
+                        "name": "Village - Behind the Shop (Bottom Chest)",
+                        "ref": "Besaid/Village/Behind Shop (Chests)/Hi-Potion x1"
+                    },
+                    {
+                        "name": "Village - Behind the Shop (Middle Chest)",
+                        "ref": "Besaid/Village/Behind Shop (Chests)/400 gil"
+                    },
+                    {
+                        "name": "Village - Behind the Shop (Top Chest)",
+                        "ref": "Besaid/Village/Behind Shop (Chests)/Potion x2"
                     },
                     {
                         "name": "Village - Al Bhed Primer II",
@@ -134,8 +154,12 @@
                         "ref": "Blitzball Recruits/Vilucha"
                     },
                     {
-                        "name": "Village - Cloister of Trials",
-                        "ref": "Besaid/Village/Cloister/"
+                        "name": "Temple - Cloister of Trials - Destruction Sphere",
+                        "ref": "Besaid/Temple/Cloister/Destruction Sphere - Rod of Wisdom"
+                    },
+                    {
+                        "name": "Village - Cloister of Trials - Valefor",
+                        "ref": "Party Member/Aeon/Valefor"
                     },
                     {
                         "name": "Village - Exit the Village (Event)" ,
@@ -150,8 +174,24 @@
                         "ref": "Party Member/Character/Yuna"
                     },
                     {
-                        "name": "Beach - Dock NPCs",
-                        "ref": "Besaid/Beach/Dock (NPCs)/"
+                        "name": "Beach - Dock (Kid))",
+                        "ref": "Besaid/Island/Beach/Dock (NPCs)/Remedy x1 (Kid)"
+                    },
+                    {
+                        "name": "Beach - Dock (Priest))",
+                        "ref": "Besaid/Island/Beach/Dock (NPCs)/Seekers Ring (Priest)"
+                    },
+                    {
+                        "name": "Beach - Dock (Woman))",
+                        "ref": "Besaid/Island/Beach/Dock (NPCs)/Phoenix Down x3 (Woman)"
+                    },
+                    {
+                        "name": "Beach - Dock (Shirtless Man))",
+                        "ref": "Besaid/Island/Beach/Dock (NPCs)/400 gil (Shirtless Man)"
+                    },
+                    {
+                        "name": "Beach - Dock (Green Shirt))",
+                        "ref": "Besaid/Island/Beach/Dock (NPCs)/Ether (Green Shirt)"
                     },
                     {
                         "name": "Super Bosses - Dark Valefor",
@@ -172,8 +212,16 @@
                         "ref": "Al Bhed Primers/Al Bhed Primer III/S.S. Liki"
                     },
                     {
+                        "name": "Kimahri",
+                        "ref": "Party Member/Character/Kimahri"
+                    },
+                    {
                         "name": "Sin Fin",
-                        "ref": "S.S. Liki/Encounter Sin Fin (Event)/"
+                        "ref": "S.S. Liki/Encounter Sin Fin (Event)/Sin Fin"
+                    },
+                    {
+                        "name": "Sinspawn Echuilles",
+                        "ref": "S.S. Liki/Encounter Sin Fin (Event)/Sinspawn Echuilles"
                     }
                     // {
                     //     "name": "Friend Sphere x1 (Clasko NPC)",

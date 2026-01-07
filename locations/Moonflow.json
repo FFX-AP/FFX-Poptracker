@@ -60,7 +60,7 @@
                 "children": [
                     {
                         "name": "Up Slope Right of Hypello (Primer)",
-                        "map_locations": [{ "map": "Besaid Village", "x": 0, "y": 0}],
+                        "map_locations": [{ "map": "Moonflow North", "x": 0, "y": 0}],
                         "sections": [
                             {
                                 "name": "Al Bhed Primer XII",

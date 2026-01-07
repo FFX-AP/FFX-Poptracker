@@ -150,7 +150,6 @@
                         "name": "Brotherhood",
                         "access_rules": ["@Besaid/Village"],
                         "hosted_item": "brotherhood",
-                        "item_count": 1,
                         "clear_as_group": true
                     },
                     {
@@ -213,7 +212,7 @@
                     },
                     {
                         "name": "Moon Crest",
-                        "access_rules": ["@Besaid/Beach"]
+                        "access_rules": ["@Besaid/Island/Beach"]
                     },
                     {
                         "name": "Moon Sigil",
