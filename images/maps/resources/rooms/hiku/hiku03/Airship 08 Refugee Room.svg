@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Airship 08 Refugee Room.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.50835204"
+     inkscape:cx="473.09734"
+     inkscape:cy="526.21014"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264999"
+       d="M 16.193308,215.66543 27.2342,192.47955 41.587361,16.193308 l 8.832713,-2.208178 3.680298,4.416357 1.840148,4.048327 36.802972,-10.672863 10.304838,10.672863 h 83.54275 v 12.51301 l 3.68029,6.992565 7.3606,3.312268 -6.99257,23.921934 3.6803,13.249069 8.46468,1.84015 2.20818,2.944236 1.84015,3.680298 v 11.408926 l -17.2974,58.1487 7.72863,23.5539 -6.99257,41.21933 H 10.672862 Z"
+       id="path1" />
+  </g>
+</svg>

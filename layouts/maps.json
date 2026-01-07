@@ -46,10 +46,10 @@
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Beach",
+                            "title": "Island",
                             "content": {
                                 "type": "map",
-                                "maps": ["Besaid Beach"]
+                                "maps": ["Besaid Island"]
                             }
                         },
                         {
@@ -57,6 +57,13 @@
                             "content": {
                                 "type": "map",
                                 "maps": ["Besaid Village"]
+                            }
+                        },
+                        {
+                            "title": "Temple",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Besaid Temple"]
                             }
                         },
                         {
@@ -172,25 +179,32 @@
                 }
             },
             {
-                "title": "Guadosalam",
+                "title": "Mt. Gagazet",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Guadosalam",
+                            "title": "Outside",
                             "content": {
                                 "type": "map",
-                                "maps": ["Guadosalam"]
+                                "maps": ["Gagazet Outside"]
                             }
                         },
                         {
-                            "title": "Farplane",
+                            "title": "Cave",
                             "content": {
                                 "type": "map",
-                                "maps": ["Farplane"]
+                                "maps": ["Gagazet Cave"]
                             }
                         }
                     ]
+                }
+            },
+            {
+                "title": "Guadosalam",
+                "content": {
+                    "type": "map",
+                    "maps": ["Guadosalam"]
                 }
             },
             {
@@ -206,17 +220,17 @@
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Village",
+                            "title": "Village & Woods",
                             "content": {
                                 "type": "map",
                                 "maps": ["Kilika Village"]
                             }
                         },
                         {
-                            "title": "Woods",
+                            "title": "Temple",
                             "content": {
                                 "type": "map",
-                                "maps": ["Kilika Woods"]
+                                "maps": ["Kilika Temple"]
                             }
                         },
                         {
@@ -224,35 +238,6 @@
                             "content": {
                                 "type": "map",
                                 "maps": ["S.S. Winno"]
-                            }
-                        }
-                    ]
-                }
-            },
-            {
-                "title": "Macalania",
-                "content": {
-                    "type": "tabbed",
-                    "tabs": [
-                        {
-                            "title": "Woods",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Macalania Woods"]
-                            }
-                        },
-                        {
-                            "title": "Lake",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Lake Macalania"]
-                            }
-                        },
-                        {
-                            "title": "Lake Bottom",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Lake Macalania Bottom"]
                             }
                         }
                     ]
@@ -282,6 +267,28 @@
                             "content": {
                                 "type": "map",
                                 "maps": ["Luca City"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Macalania",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Woods",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Macalania Woodsxx"]
+                            }
+                        },
+                        {
+                            "title": "Lake",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Lake Macalaniaxx"]
                             }
                         }
                     ]
@@ -319,45 +326,8 @@
             {
                 "title": "Moonflow",
                 "content": {
-                    "type": "tabbed",
-                    "tabs": [
-                        {
-                            "title": "South",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Moonflow South"]
-                            }
-                        },
-                        {
-                            "title": "North",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Moonflow North"]
-                            }
-                        }
-                    ]
-                }
-            },
-            {
-                "title": "Mt. Gagazet",
-                "content": {
-                    "type": "tabbed",
-                    "tabs": [
-                        {
-                            "title": "Outside",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Gagazet Outside"]
-                            }
-                        },
-                        {
-                            "title": "Cave",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Gagazet Cave"]
-                            }
-                        }
-                    ]
+                    "type": "map",
+                    "maps": ["Moonflow"]
                 }
             },
             {

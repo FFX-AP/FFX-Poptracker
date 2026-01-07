@@ -231,7 +231,7 @@
                             },
                             {
                                 "name": "Defeat Dark Shiva (Superboss)",
-                                "map_locations": [{ "map": "Besaid Village", "x": 0, "y": 0}],
+                                "map_locations": [{ "map": "Lake Macalania", "x": 0, "y": 0}],
                                 "sections": [{"name": "Dark Shiva", "ref": "Super Bosses/Dark Shiva"}]
                             }
                         ]

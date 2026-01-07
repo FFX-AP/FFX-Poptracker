@@ -8,7 +8,7 @@
         "sections": [
             {
                 "name": "Biggs",
-                "access_rules": ["@Luca, oblitzerator"]
+                "access_rules": ["@Luca"]
             },
             {
                 "name": "Brother",
@@ -20,7 +20,7 @@
             },
             {
                 "name": "Jumal",
-                "access_rules": ["@Luca, oblitzerator"]
+                "access_rules": ["@Luca"]
             },
             {
                 "name": "Kiyuri",
@@ -52,7 +52,7 @@
             },
             {
                 "name": "Nedus",
-                "access_rules": ["@Luca, oblitzerator"]
+                "access_rules": ["@Luca"]
             },
             {
                 "name": "Rin",
@@ -64,7 +64,7 @@
             },
             {
                 "name": "Shaami",
-                "access_rules": ["@Luca, oblitzerator"]
+                "access_rules": ["@Luca"]
             },
             {
                 "name": "Shuu",
@@ -88,7 +88,7 @@
             },
             {
                 "name": "Wedge",
-                "access_rules": ["@Luca, oblitzerator"]
+                "access_rules": ["@Luca"]
             },
             {
                 "name": "Yuma Guado",
@@ -96,11 +96,11 @@
             },
             {
                 "name": "Zalitz",
-                "access_rules": ["@Luca, oblitzerator"]
+                "access_rules": ["@Luca"]
             },
             {
                 "name": "Zev Ronso",
-                "access_rules": ["@Luca, oblitzerator"]
+                "access_rules": ["@Luca"]
             }
         ]
     }
