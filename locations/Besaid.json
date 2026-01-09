@@ -82,7 +82,7 @@
                     },
                     {
                         "name": "Village Slope - Element Tutorial (Event)",
-                        "map_locations": [{ "map": "Besaid Island", "x": 90, "y": 180}],
+                        "map_locations": [{ "map": "Besaid Island", "x": 460, "y": 265}],
                         "sections": [{"name": "Lulu", "ref": "Party Member/Character/Lulu"}]
                     },
                     {

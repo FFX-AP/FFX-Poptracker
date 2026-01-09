@@ -234,7 +234,7 @@
                 "map_locations": [{ "map": "Spira", "x": 485, "y": 971}],
                 "sections": [
                     {
-                        "name": "Village - Remedy x1 (Chest)",
+                        "name": "Village - Potion x3 (Chest)",
                         "ref": "Kilika/Village/Right of Collapsing House (Chest)/Potion x3"
                     },
                     {

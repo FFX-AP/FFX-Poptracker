@@ -1,6 +1,15 @@
 {
     "versions": [
         {
+            "package_version": "0.2.10",
+            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.10/FFX.zip",
+            "sha256": "",
+            "changelog": [
+                " - Lulu location moved",
+                " - Added missing Nirvana location to Calm Lands"
+            ]
+        },
+        {
             "package_version": "0.2.9",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.9/FFX.zip",
             "sha256": "d54554875b8a8cc63ef29a971a89bba90c423993e2d316d83c351430fe9b78da",
