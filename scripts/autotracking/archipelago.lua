@@ -158,7 +158,7 @@ function onClear(slot_data)
 
     applySlotData(slot_data)
 
-    ap_autotab = Archipelago.PlayerNumber .. "_FFX_ROOM"
+    ap_autotab = "Slot:" .. Archipelago.PlayerNumber .. ":FFX_ROOM"
 	print("Setting Notify for: "..ap_autotab)
 	Archipelago:SetNotify({ap_autotab})
 	Archipelago:Get({ap_autotab})
@@ -357,7 +357,7 @@ end
 
 function onDataStorageUpdate(key, value, oldValue)
     if (key == ap_autotab and value ~= nil) then
-        autoTab(value)
+        autoTab(tonumber(value))
     end
 end
 
