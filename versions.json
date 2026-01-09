@@ -7,7 +7,8 @@
             "changelog": [
                 " - Adjusted some Calm Lands, Luca, Macalania, MRR & Besaid location positions",
                 " - Added missing Miyu location to Moonflow region map",
-                " - Fixed typos on the Celestial Flower & Luzzu locations"
+                " - Fixed typos on the Celestial Flower & Luzzu locations",
+                " - Updated autotabbing logic to match new DataStorage format"
             ]
         },
         {
