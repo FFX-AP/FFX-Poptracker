@@ -325,10 +325,12 @@ RoomToMap = {
 
 function autoTab(value)
     if (RoomToMap[value] ~= nil) then   -- Map found, activate tab/s for room
-        for _, tab in ipairs(RoomToMap[value]) do
+        for _, tab in pairs(RoomToMap[value]) do
+            print("MAP: " .. tab)    
             Tracker:UiHint("ActivateTab", tab)
         end
     else    -- If map not found, default to world map
+        print("WORLD MAP")
         Tracker:UiHint("ActivateTab", "World Map")
     end
 end
