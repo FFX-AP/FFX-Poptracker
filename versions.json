@@ -3,7 +3,7 @@
         {
             "package_version": "0.2.9",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.9/FFX.zip",
-            "sha256": "",
+            "sha256": "d54554875b8a8cc63ef29a971a89bba90c423993e2d316d83c351430fe9b78da",
             "changelog": [
                 " - Adjusted some Calm Lands, Luca, Macalania, MRR & Besaid location positions",
                 " - Added missing Miyu location to Moonflow region map",
