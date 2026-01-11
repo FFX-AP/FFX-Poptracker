@@ -1,7 +1,8 @@
 
 require("scripts/autotracking/item_mapping")
 require("scripts/autotracking/location_mapping")
-require("scripts/autotabbing")
+require("scripts/autotracking/auto_tabbing")
+require("scripts/autotracking/capture_tracking")
 
 CUR_INDEX = -1
 --SLOT_DATA = nil
@@ -162,6 +163,11 @@ function onClear(slot_data)
 	print("Setting Notify for: "..ap_autotab)
 	Archipelago:SetNotify({ap_autotab})
 	Archipelago:Get({ap_autotab})
+
+    ap_captures = "Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE"
+	print("Setting Notify for: "..ap_captures)
+	Archipelago:SetNotify({ap_captures})
+	Archipelago:Get({ap_captures})
 
 
     PLAYER_ID = Archipelago.PlayerNumber or -1
@@ -358,6 +364,8 @@ end
 function onDataStorageUpdate(key, value, oldValue)
     if (key == ap_autotab and value ~= nil) then
         autoTab(value)
+    elseif (key == ap_captures and value ~= nil) then
+        updateCaptures(value)
     end
 end
 
