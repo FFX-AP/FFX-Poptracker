@@ -3,6 +3,13 @@
         "type": "tabbed",
         "tabs": [
             {
+                "title": "Monster Arena",
+                "content": {
+                    "type": "map",
+                    "maps": ["Monster Arena"]
+                }
+            },
+            {
                 "title": "World Map",
                 "content": {
                     "type": "map",
