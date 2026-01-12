@@ -4,10 +4,15 @@ function updateCaptures(value)
     local captures_table, i, err = json.decode(value)
 
     if captures_table then
-        print("PARSE SUCCESS")
-        print(captures_table.captures[1].arena_idx)
+        print("JSON PARSE SUCCESS")
+        for _, capture in ipairs(captures_table.captures) do
+            print(capture.arena_idx)
+            print(capture.captured)
+        end
+            
+        -- print(captures_table.captures[1].arena_idx)
     else
-        print("PARSE FAILED")
+        print("JSON PARSE FAILED")
     end
 
 end
