@@ -21,6 +21,13 @@
         "codes": "recruitsanity"
     },
     {
+        "name": "Capture Sanity",
+        "type": "toggle",
+        "img": "images/items/hd/Battle_Item_HD.png",
+        "initial_active_state": false,
+        "codes": "capturesanity"
+    },
+    {
         "name": "Logic Difficulty",
         "type": "consumable",
         "img": "images/items/hd/Support_use_item_HD.png",

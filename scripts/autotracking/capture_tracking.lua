@@ -1,20 +1,25 @@
 local json = require("scripts/libraries/dkjson")
+local captures = require("scripts/logic/captures")
 
 function updateCaptures(value)
     local captures_table, i, err = json.decode(value)
+    local capture_updates = {}
 
     if captures_table then
-        print("JSON PARSE SUCCESS")
         for _, capture in ipairs(captures_table.captures) do
-            print(capture.arena_idx)
-            print(capture.captured)
+            local fiend = Tracker:FindObjectForCode(AllCaptures[capture.arena_idx])
+            fiend.AcquiredCount = capture.captured
+            capture_updates[AllCaptures[capture.arena_idx]] = fiend.AcquiredCount
+            -- print("Fiend: " .. AllCaptures[capture.arena_idx] .. "\nCaptured: " .. fiend.AcquiredCount)
         end
-            
-        -- print(captures_table.captures[1].arena_idx)
     else
         print("JSON PARSE FAILED")
+        return
     end
 
+    for fiend, qty in pairs(capture_updates) do
+        print("\nFiend: " .. fiend .. "\nCaptured: " .. qty)
+    end
 end
 
 -- Incoming json format --

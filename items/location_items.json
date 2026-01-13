@@ -345,9 +345,9 @@
     {
         "name": "Omega Weapon",
         "type": "toggle",
-        "img": "images/party/aeons/Omega Weapon.png",
+        "img": "images/bosses/Omega Weapon.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/party/aeons/Omega Weapon.png",
+        "disabled_img": "images/bosses/Omega Weapon.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -356,9 +356,9 @@
     {
         "name": "Penance",
         "type": "toggle",
-        "img": "images/party/aeons/Penance_BW.png",
+        "img": "images/bosses/Penance.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/party/aeons/Penance.png",
+        "disabled_img": "images/bosses/Penance.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -1263,6 +1263,13 @@
         "capturable": true,
         "initial_active_state": false,
         "codes": "baajtemple2"
+    },
+    {
+        "name": "Creation Bosses",
+        "type": "toggle",
+        "img": "images/items/hd/Support_use_item_HD.png",
+        "initial_active_state": false,
+        "codes": "creationbosses"
     },
 
     //Primer misc items
