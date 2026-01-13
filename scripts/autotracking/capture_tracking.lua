@@ -13,10 +13,6 @@ function updateCaptures(value)
     end
 end
 
-ArenaIndexToHostedItem = {
-    [13] = "dingo",
-}
-
 -- Incoming json format --
 -- {
 --   "captures": [

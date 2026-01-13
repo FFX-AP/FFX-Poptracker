@@ -7,7 +7,19 @@
         "access_rules": ["^$CheckAccessLevel|calmlands, [capturesanity]"],
         "children": [
             {
-
+                "name": "Dingo",
+                "map_locations": [{ "map": "Monster Arena - Besaid", "x": 752, "y": 128}],
+                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Besaid/Dingo"}]
+            },
+            {
+                "name": "Condor",
+                "map_locations": [{ "map": "Monster Arena - Besaid", "x": 752, "y": 278}],
+                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Besaid/Condor"}]
+            },
+            {
+                "name": "Water Flan",
+                "map_locations": [{ "map": "Monster Arena - Besaid", "x": 752, "y": 428}],
+                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Besaid/Water Flan"}]
             }
         ]
     }

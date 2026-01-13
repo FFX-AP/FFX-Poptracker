@@ -575,7 +575,7 @@
                     {
                         "name": "Omega Ruins",
                         "map_locations": [{ "map": "Monster Arena", "x": 650, "y": 915}],
-                        "access_rules": ["Omega Ruins"],
+                        "access_rules": ["@Omega Ruins"],
                         "sections": [
                             {
                                 "name": "Zaurus",
@@ -734,7 +734,7 @@
                     {
                         "name": "Defeat",
                         "map_locations": [{ "map": "Monster Arena", "x": 1540, "y": 915}],
-                        "access_rules": ["^$CheckAccessLevel|creationbosses, [superbosses]"],
+                        "access_rules": ["^$CheckAccessLevel|creationbosses, [$hasMinimumParty|3], [superbosses]"],
                         "sections": [
                             {
                                 "name": "Stratoavis",
@@ -928,7 +928,7 @@
                     {
                         "name": "Defeat",
                         "map_locations": [{ "map": "Monster Arena", "x": 650, "y": 1045}],
-                        "access_rules": ["^$CheckAccessLevel|creationbosses, [superbosses]"],
+                        "access_rules": ["^$CheckAccessLevel|creationbosses, [$hasMinimumParty|3], [superbosses]"],
                         "sections": [
                             {
                                 "name": "Fenrir",
@@ -1062,7 +1062,7 @@
                     {
                         "name": "Defeat",
                         "map_locations": [{ "map": "Monster Arena", "x": 1540, "y": 1045}],
-                        "access_rules": ["^$CheckAccessLevel|superbosses, [superbosses]"],
+                        "access_rules": ["^$CheckAccessLevel|superbosses, [$hasMinimumParty|3], [superbosses]"],
                         "sections": [
                             {
                                 "name": "Earth Eater",
