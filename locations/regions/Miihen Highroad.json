@@ -172,6 +172,30 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Monster Captures",
+                "map_locations": [{ "map": "Miihen Highroad", "x": 500, "y": 720, "shape": "diamond"}],
+                "sections": [
+                    {
+                        "name": "Miihen Highroad",
+                        "hosted_item": "miihenfang, floatingeye, whiteelement, raldo, bomb, dualhorn",
+                        "access_rules": ["@Monster Arena/Fiend Capture/Miihen Highroad"],
+                        "clear_as_group": false
+                    }
+                ]
+            },
+            {
+                "name": "Monster Captures",
+                "map_locations": [{ "map": "Miihen Highroad", "x": 530, "y": 720, "shape": "diamond"}],
+                "sections": [
+                    {
+                        "name": "Miihen Highroad - Old Road",
+                        "hosted_item": "ipiria, vouivre",
+                        "access_rules": ["@Monster Arena/Fiend Capture/Miihen Highroad, @Miihen Highroad/North"],
+                        "clear_as_group": false
+                    }
+                ]
             }
         ]
     }

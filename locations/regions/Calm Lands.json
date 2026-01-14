@@ -106,7 +106,19 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Monster Captures",
+                "map_locations": [{ "map": "Calm Lands", "x": 180, "y": 860, "shape": "diamond"}],
+                "sections": [
+                    {
+                        "name": "Calm Lands",
+                        "hosted_item": "skoll, nebiros, flameflan, shred, anacondaur, ogre, coeurl, chimerabrain, malboro",
+                        "access_rules": ["@Monster Arena/Fiend Capture/Calm Lands"],
+                        "clear_as_group": false
+                    }
+                ]
             }
-        ]
+        ]       
     }
 ]

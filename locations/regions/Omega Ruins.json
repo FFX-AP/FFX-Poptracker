@@ -49,6 +49,18 @@
                 "map_locations": [{ "map": "Omega Ruins", "x": 1483, "y": 635}],
                 "access_rules": ["omegaweapon, [$hasMinimumParty|3]"],
                 "sections": [{"name": "Magic Sphere x1"}]
+            },
+            {
+                "name": "Monster Captures",
+                "map_locations": [{ "map": "Omega Ruins", "x": 780, "y": 550, "shape": "diamond"}],
+                "sections": [
+                    {
+                        "name": "Omega Ruins",
+                        "hosted_item": "zaurus, floatingdeath, blackelement, halma, puroboros, spirit, machea, mastercoeurl, mastertonberry, varuna",
+                        "access_rules": ["@Monster Arena/Fiend Capture/Omega Ruins"],
+                        "clear_as_group": false
+                    }
+                ]
             }
         ]
     }

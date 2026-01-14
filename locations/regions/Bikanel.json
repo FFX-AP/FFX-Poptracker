@@ -178,6 +178,18 @@
                                 "sections": [{"name": "Dark Ifrit", "ref": "Super Bosses/Dark Ifrit"}]
                             }
                         ]
+                    },
+                    {
+                        "name": "Monster Captures",
+                        "map_locations": [{ "map": "Bikanel", "x": 220, "y": 1070, "shape": "diamond"}],
+                        "sections": [
+                            {
+                                "name": "Bikanel",
+                                "hosted_item": "sandwolf, alcyone, mushussu, zu, sandworm, cactuar",
+                                "access_rules": ["@Monster Arena/Fiend Capture/Bikanel"],
+                                "clear_as_group": false
+                            }
+                        ]
                     }
                 ]
             },

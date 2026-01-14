@@ -1524,7 +1524,7 @@
                     {
                         "name": "Kilika",
                         "hosted_item": "dinonix, killerbee, yellowelement, ragora",
-                        "access_rules": ["@Monster Arena/Fiend Capture/Besaid"],
+                        "access_rules": ["@Monster Arena/Fiend Capture/Kilika"],
                         "clear_as_group": false
                     },
                     {

@@ -112,6 +112,18 @@
                         "sections": [{"name": "Dark Ixion", "ref": "Super Bosses/Dark Ixion"}]
                     }
                 ]
+            },
+            {
+                "name": "Monster Captures",
+                "map_locations": [{ "map": "Thunder Plains", "x": 360, "y": 430, "shape": "diamond"}],
+                "sections": [
+                    {
+                        "name": "Thunder Plains",
+                        "hosted_item": "melusine, aerouge, buer, goldelement, kusariqqu, larva, irongiant, qactuar",
+                        "access_rules": ["@Monster Arena/Fiend Capture/Thunder Plains"],
+                        "clear_as_group": false
+                    }
+                ]
             }
         ]
     }

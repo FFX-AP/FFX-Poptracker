@@ -138,6 +138,18 @@
                                 "ref": "Celestial/Kimahri/Saturn Sigil"
                             }
                         ]
+                    },
+                    {
+                        "name": "Monster Captures",
+                        "map_locations": [{ "map": "Macalania Woods", "x": 620, "y": 230, "shape": "diamond"}],
+                        "sections": [
+                            {
+                                "name": "Macalania Woods",
+                                "hosted_item": "iguion, wasp, blueelement, murussu, xiphos, chimera",
+                                "access_rules": ["@Monster Arena/Fiend Capture/Macalania"],
+                                "clear_as_group": false
+                            }
+                        ]
                     }
                 ]
             },
@@ -231,6 +243,18 @@
                                 "name": "Hidden Left of Auron (Chest)",
                                 "map_locations": [{ "map": "Lake Macalania", "x": 500, "y": 400}],
                                 "sections": [{"name": "Avenger"}]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Monster Captures",
+                        "map_locations": [{ "map": "Lake Macalania", "x": 950, "y": 165, "shape": "diamond"}],
+                        "sections": [
+                            {
+                                "name": "Lake Macalania",
+                                "hosted_item": "snowwolf, evileye, iceflan, mafdet",
+                                "access_rules": ["@Monster Arena/Fiend Capture/Macalania, @Macalania/Lake"],
+                                "clear_as_group": false
                             }
                         ]
                     }

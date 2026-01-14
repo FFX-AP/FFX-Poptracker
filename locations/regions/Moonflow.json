@@ -98,6 +98,18 @@
                         "sections": [{"name": "Mega-Potion x1"}]
                     }
                 ]
+            },
+            {
+                "name": "Monster Captures",
+                "map_locations": [{ "map": "Moonflow", "x": 580, "y": 130, "shape": "diamond"}],
+                "sections": [
+                    {
+                        "name": "Moonflow",
+                        "hosted_item": "ochu",
+                        "access_rules": ["@Monster Arena/Fiend Capture/Djose Road, @Moonflow"],
+                        "clear_as_group": false
+                    }
+                ]
             }
         ]
     }

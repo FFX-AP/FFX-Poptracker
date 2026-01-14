@@ -131,6 +131,18 @@
                         "sections": [{"name": "Hi-Potion x2"}]
                     }
                 ]
+            },
+            {
+                "name": "Monster Captures",
+                "map_locations": [{ "map": "Djose", "x": 90, "y": 105, "shape": "diamond"}],
+                "sections": [
+                    {
+                        "name": "Djose",
+                        "hosted_item": "garm, simurgh, bitebug, snowflan, bunyip, basilisk",
+                        "access_rules": ["@Monster Arena/Fiend Capture/Djose Road, @Djose"],
+                        "clear_as_group": false
+                    }
+                ]
             }
         ]
     }

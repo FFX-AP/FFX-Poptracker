@@ -94,7 +94,7 @@
                     },
                     {
                         "name": "Defeat Braska's Final Aeon (Boss)",
-                        "map_locations": [{ "map": "Inside Sin", "x": 240, "y": 100, "shape": "trapezoid", "size": 24}],
+                        "map_locations": [{ "map": "Inside Sin", "x": 245, "y": 100, "shape": "trapezoid", "size": 24}],
                         "access_rules": ["^$CheckGoalRequirement"],
                         "sections": [
                             {
@@ -103,6 +103,24 @@
                                 "clear_as_group": true
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "name": "Monster Captures",
+                "map_locations": [{ "map": "Inside Sin", "x": 1000, "y": 760, "shape": "diamond"}],
+                "sections": [
+                    {
+                        "name": "Sea of Sorrows",
+                        "hosted_item": "exoray, geminisword, geminiclub, adamantoise, behemothking",
+                        "access_rules": ["@Monster Arena/Fiend Capture/Inside Sin"],
+                        "clear_as_group": false
+                    },
+                    {
+                        "name": "City of Dying Dreams",
+                        "hosted_item": "wraith, demonolith, greatmalboro, barbatos",
+                        "access_rules": ["@Monster Arena/Fiend Capture/Inside Sin, @Inside Sin/City of Dying Dreams"],
+                        "clear_as_group": false
                     }
                 ]
             }

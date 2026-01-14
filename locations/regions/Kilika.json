@@ -97,7 +97,19 @@
                                 "clear_as_group": true
                             }
                         ]
-                    }                    
+                    },
+                    {
+                        "name": "Monster Captures",
+                        "map_locations": [{ "map": "Kilika Village", "x": 780, "y": 425, "shape": "diamond"}],
+                        "sections": [
+                            {
+                                "name": "Kilika",
+                                "hosted_item": "dinonix, killerbee, yellowelement, ragora",
+                                "access_rules": ["@Monster Arena/Fiend Capture/Kilika"],
+                                "clear_as_group": false
+                            }
+                        ]
+                    }                 
                 ]
             },
             {

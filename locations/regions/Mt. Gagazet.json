@@ -71,6 +71,18 @@
                         "name": "Defeat Dark Anima (Superboss)",
                         "map_locations": [{ "map": "Gagazet Outside", "x": 900, "y": 700, "shape": "trapezoid", "size": 24}],
                         "sections": [{"name": "Dark Anima", "ref": "Super Bosses/Dark Anima"}]
+                    },
+                    {
+                        "name": "Monster Captures",
+                        "map_locations": [{ "map": "Gagazet Outside", "x": 650, "y": 580, "shape": "diamond"}],
+                        "sections": [
+                            {
+                                "name": "Gagazet Outside",
+                                "hosted_item": "bandersnatch, grenade, grat, bashura",
+                                "access_rules": ["@Monster Arena/Fiend Capture/Mt. Gagazet"],
+                                "clear_as_group": false
+                            }
+                        ]
                     }
                 ]
             },
@@ -110,6 +122,18 @@
                                 "name": "Sanctuary Keeper",
                                 "hosted_item": "sanctuarykeeper",
                                 "clear_as_group": true
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Monster Captures",
+                        "map_locations": [{ "map": "Gagazet Cave", "x": 750, "y": 510, "shape": "diamond"}],
+                        "sections": [
+                            {
+                                "name": "Gagazet Cave",
+                                "hosted_item": "ahriman, darkflan, grendel, mandragora, behemoth, splasher, achelous, maelspike",
+                                "access_rules": ["@Monster Arena/Fiend Capture/Mt. Gagazet, @Mt. Gagazet/Inside"],
+                                "clear_as_group": false
                             }
                         ]
                     }

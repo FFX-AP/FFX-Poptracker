@@ -41,6 +41,16 @@
         "codes": "echuilles"
     },
     {
+        "name": "Lord Ochu",
+        "type": "toggle",
+        "img": "images/bosses/Lord Ochu.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "lordochu"
+    },
+    {
         "name": "Sinspawn Geneaux",
         "type": "toggle",
         "img": "images/bosses/Sinspawn Genaeux.png",
@@ -1292,23 +1302,12 @@
         "initial_active_state": false,
         "codes": "knightlance"
     },
-    {
-        "name": "Lord Ochu",
-        "type": "toggle",
-        "img": "images/TreasureBW.png",
-        "img_mods": "@disabled",
-        "disabled_img": "images/Treasure.png",
-        "disabled_img_mods": "",
-        "capturable": true,
-        "initial_active_state": false,
-        "codes": "lordochu"
-    },
+    
     {
         "name": "Jecht Sphere",
         "type": "toggle",
-        "img": "images/TreasureBW.png",
+        "img": "images/items/Movie Sphere.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/Treasure.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,

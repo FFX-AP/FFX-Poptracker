@@ -168,6 +168,18 @@
                                 "ref": "Celestial/Auron/Masamune"
                             }
                         ]
+                    },
+                    {
+                        "name": "Monster Captures",
+                        "map_locations": [{ "map": "Mushroom Rock Road", "x": 635, "y": 640, "shape": "diamond"}],
+                        "sections": [
+                            {
+                                "name": "Mushroom Rock Road",
+                                "hosted_item": "raptor, gandarewa, thunderflan, redelement, lamashtu, funguar, garuda",
+                                "access_rules": ["@Monster Arena/Fiend Capture/Mushroom Rock Road"],
+                                "clear_as_group": false
+                            }
+                        ]
                     }
                 ]
             }
