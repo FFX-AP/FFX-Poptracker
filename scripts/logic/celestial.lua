@@ -3,7 +3,7 @@ function hasCaladbolg()
 end
 
 function hasGodhand()
-    return has("weapon(rikku)_godhand")
+    return has("weapon(rikku)godhand")
 end
 
 function hasMasamune()

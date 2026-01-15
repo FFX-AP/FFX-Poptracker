@@ -2563,12 +2563,12 @@
                 "content": [
                     {
                         "type": "itemgrid",
-                        "item_margin": "2, 2",
+                        "item_margin": "0, 2",
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 36,
-                        "item_width": 36,
+                        "item_height": 40,
+                        "item_width": 40,
                         "rows": [
                             [
                                 "cloudymirror",
@@ -2586,7 +2586,7 @@
                             [
                                 "weapon(kimahri)_spiritlance",
                                 "weapon(auron)_masamune",
-                                "weapon(rikku)_godhand",
+                                "weapon(rikku)godhand",
                                 "albhedprimers"
                             ]
                         ]

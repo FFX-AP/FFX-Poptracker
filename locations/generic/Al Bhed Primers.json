@@ -1,8 +1,8 @@
 [
     {
         "name": "Al Bhed Primers",
-        "chest_unopened_img": "/images/items/hd/Al_Bhed_Primer_HD.png",
-        "chest_opened_img": "/images/items/hd/Al_Bhed_Primer_HD_BW.png",
+        "chest_unopened_img": "/images/items/hd/Al Bhed Primer.png",
+        "chest_opened_img": "/images/items/hd/Al Bhed Primer BW.png",
         "overlay_background": "#000000",
         "sections": [
             {

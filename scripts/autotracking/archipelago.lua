@@ -306,7 +306,7 @@ end
 -- end
 
 function onNotify(key, value, oldValue)
-    print("onNotify", key, value, oldValue)
+    print("onNotify", key, "New Value:\n" .. value, "\nOldValue:\n" ..oldValue)
     if value ~= oldValue then
         if key == HINTS_ID then
             Tracker.BulkUpdate = true

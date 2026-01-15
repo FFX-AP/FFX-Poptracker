@@ -118,12 +118,12 @@
                 "children": [
                     {
                         "name": "Blitzball Recruit",
-                        "map_locations": [{ "map": "Kilika Temple", "x": 140, "y": 815}],
+                        "map_locations": [{ "map": "Kilika Temple", "x": 140, "y": 465}],
                         "sections": [{"name": "Mep", "ref": "Blitzball Recruits/Mep"}]
                     },
                     {
                         "name": "Cloister of Trials",
-                        "map_locations": [{ "map": "Kilika Temple", "x": 675, "y": 835}],
+                        "map_locations": [{ "map": "Kilika Temple", "x": 560, "y": 140}],
                         "sections": [
                             {
                                 "name": "Destruction Sphere - Red Armlet",
@@ -135,7 +135,7 @@
                     },
                     {
                         "name": "Chamber of the Fayth",
-                        "map_locations": [{ "map": "Kilika Temple", "x": 588, "y": 415}],
+                        "map_locations": [{ "map": "Kilika Temple", "x": 675, "y": 375}],
                         "sections": [{"name": "Ifrit", "ref": "Party Member/Aeon/Ifrit"}]
                     }
                 ]
