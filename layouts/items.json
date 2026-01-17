@@ -2578,14 +2578,14 @@
                                 "flowerscepter"
                             ],
                             [
-                                "weapon(tidus)_caladbolg",
-                                "weapon(wakka)_worldchampion",
-                                "weapon(lulu)_onionknight",
-                                "weapon(yuna)_nirvana"
+                                "weapon(tidus)caladbolg",
+                                "weapon(wakka)worldchampion",
+                                "weapon(lulu)onionknight",
+                                "weapon(yuna)nirvana"
                             ],
                             [
-                                "weapon(kimahri)_spiritlance",
-                                "weapon(auron)_masamune",
+                                "weapon(kimahri)spiritlance",
+                                "weapon(auron)masamune",
                                 "weapon(rikku)godhand",
                                 "albhedprimers"
                             ]

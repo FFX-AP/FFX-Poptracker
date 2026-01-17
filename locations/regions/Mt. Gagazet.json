@@ -75,6 +75,7 @@
                     {
                         "name": "Monster Captures",
                         "map_locations": [{ "map": "Gagazet Outside", "x": 650, "y": 580, "shape": "diamond"}],
+                        "visibility_rules": ["capturesanity"],
                         "sections": [
                             {
                                 "name": "Gagazet Outside",
@@ -128,6 +129,7 @@
                     {
                         "name": "Monster Captures",
                         "map_locations": [{ "map": "Gagazet Cave", "x": 750, "y": 510, "shape": "diamond"}],
+                        "visibility_rules": ["capturesanity"],
                         "sections": [
                             {
                                 "name": "Gagazet Cave",

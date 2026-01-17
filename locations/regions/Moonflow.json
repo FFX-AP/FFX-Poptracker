@@ -102,9 +102,10 @@
             {
                 "name": "Monster Captures",
                 "map_locations": [{ "map": "Moonflow", "x": 580, "y": 130, "shape": "diamond"}],
+                "visibility_rules": ["capturesanity"],
                 "sections": [
                     {
-                        "name": "Moonflow",
+                        "name": "Ochu",
                         "hosted_item": "ochu",
                         "access_rules": ["@Monster Arena/Fiend Capture/Djose Road, @Moonflow"],
                         "clear_as_group": false

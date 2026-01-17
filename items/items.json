@@ -3141,7 +3141,7 @@
         "increment": 1,
         "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(lulu)_onionknight"
+        "codes": "weapon(lulu)onionknight"
     },
     {
         "name": "[Clear Sphere] x 10",
@@ -5326,7 +5326,7 @@
         "increment": 1,
         "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(wakka)_worldchampion"
+        "codes": "weapon(wakka)worldchampion"
     },
     {
         "name": "[Warp Sphere] x 60",
@@ -7521,7 +7521,7 @@
         "increment": 1,
         "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(tidus)_caladbolg"
+        "codes": "weapon(tidus)caladbolg"
     },
     {
         "name": "[Winning Formula] x 40",
@@ -8445,7 +8445,7 @@
         "increment": 1,
         "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(yuna)_nirvana"
+        "codes": "weapon(yuna)nirvana"
     },
     {
         "name": "Turbo Ether x 30",
@@ -8579,7 +8579,7 @@
         "increment": 1,
         "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(kimahri)_spiritlance"
+        "codes": "weapon(kimahri)spiritlance"
     },
     {
         "name": "Mana Distiller x 50",
@@ -9283,7 +9283,7 @@
         "increment": 1,
         "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(auron)_masamune"
+        "codes": "weapon(auron)masamune"
     },
     {
         "name": "[Map] x 10",

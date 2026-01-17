@@ -53,6 +53,7 @@
             {
                 "name": "Monster Captures",
                 "map_locations": [{ "map": "Omega Ruins", "x": 780, "y": 550, "shape": "diamond"}],
+                "visibility_rules": ["capturesanity"],
                 "sections": [
                     {
                         "name": "Omega Ruins",

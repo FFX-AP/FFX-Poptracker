@@ -104,7 +104,12 @@
                     {
                         "name": "Behind Desk (Chest)",
                         "map_locations": [{ "map": "Djose", "x": 549, "y": 505}],
-                        "sections": [{"name": "Switch Hitter"}]
+                        "sections": [
+                            {
+                                "name": "Switch Hitter",
+                                "access_rules": ["djosecloister"]
+                            }
+                        ]
                     }
                 ]
             },
@@ -135,10 +140,41 @@
             {
                 "name": "Monster Captures",
                 "map_locations": [{ "map": "Djose", "x": 90, "y": 105, "shape": "diamond"}],
+                "visibility_rules": ["capturesanity"],
                 "sections": [
                     {
-                        "name": "Djose",
-                        "hosted_item": "garm, simurgh, bitebug, snowflan, bunyip, basilisk",
+                        "name": "Garm (3x Wolf)",
+                        "hosted_item": "garm",
+                        "access_rules": ["@Monster Arena/Fiend Capture/Djose Road, @Djose"],
+                        "clear_as_group": false
+                    },
+                    {
+                        "name": "Simurgh (5x Bird)",
+                        "hosted_item": "simurgh",
+                        "access_rules": ["@Monster Arena/Fiend Capture/Djose Road, @Djose"],
+                        "clear_as_group": false
+                    },
+                    {
+                        "name": "Bite Bug (4x Hornet)",
+                        "hosted_item": "bitebug",
+                        "access_rules": ["@Monster Arena/Fiend Capture/Djose Road, @Djose"],
+                        "clear_as_group": false
+                    },
+                    {
+                        "name": "Snow Flan (3x Flan)",
+                        "hosted_item": "snowflan",
+                        "access_rules": ["@Monster Arena/Fiend Capture/Djose Road, @Djose"],
+                        "clear_as_group": false
+                    },
+                    {
+                        "name": "Bunyip (3x Helm)",
+                        "hosted_item": "bunyip",
+                        "access_rules": ["@Monster Arena/Fiend Capture/Djose Road, @Djose"],
+                        "clear_as_group": false
+                    },
+                    {
+                        "name": "Basilisk",
+                        "hosted_item": "basilisk",
                         "access_rules": ["@Monster Arena/Fiend Capture/Djose Road, @Djose"],
                         "clear_as_group": false
                     }

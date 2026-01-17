@@ -161,15 +161,17 @@ function onClear(slot_data)
     applySlotData(slot_data)
 
     ap_autotab = "Slot:" .. Archipelago.PlayerNumber .. ":FFX_ROOM"
-	print("Setting Notify for: "..ap_autotab)
-	Archipelago:SetNotify({ap_autotab})
-	Archipelago:Get({ap_autotab})
+    print("Setting Notify for: "..ap_autotab)
+    Archipelago:SetNotify({ap_autotab})
+    Archipelago:Get({ap_autotab})
 
-    ap_captures = "Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE"
-	print("Setting Notify for: "..ap_captures)
-	Archipelago:SetNotify({ap_captures})
-	Archipelago:Get({ap_captures})
-
+    ap_captures = {}
+    for i = 0, 103 do
+        ap_captures[i] = "Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE:" .. i
+    end
+    print("Setting Notify for: Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE")
+    Archipelago:SetNotify(ap_captures)
+    Archipelago:Get(ap_captures)
 
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
@@ -254,8 +256,10 @@ function onLocation(location_id, location_name)
         if location_obj then
             if location:sub(1, 1) == "@" then
                 location_obj.AvailableChestCount = location_obj.AvailableChestCount - 1
-            else
+            elseif location_obj.Type == "toggle" then
                 location_obj.Active = true
+            elseif location_obj.Type == "consumable" then
+			    location_obj.AcquiredCount = location_obj.AcquiredCount + location_obj.Increment
             end
         else
             print(string.format("onLocation: could not find location_object for code %s", location))
@@ -306,7 +310,10 @@ end
 -- end
 
 function onNotify(key, value, oldValue)
-    print("onNotify", key, "New Value:\n" .. value, "\nOldValue:\n" ..oldValue)
+    if (value ~= nil) then
+        print("onNotify", key, "| " .. value)    
+    end
+
     if value ~= oldValue then
         if key == HINTS_ID then
             Tracker.BulkUpdate = true
@@ -327,6 +334,10 @@ function onNotify(key, value, oldValue)
 end
 
 function onNotifyLaunch(key, value)
+    -- if (value ~= nil) then
+    --     print("onNotifyLaunch", key, "| " .. value)    
+    -- end
+    
     if key == HINTS_ID then
         Tracker.BulkUpdate = true
         for _, hint in ipairs(value) do
@@ -365,8 +376,8 @@ end
 function onDataStorageUpdate(key, value, oldValue)
     if (key == ap_autotab and value ~= nil and Tracker:FindObjectForCode("autotab").Active) then
         autoTab(value)
-    elseif (key == ap_captures and value ~= nil) then
-        updateCaptures(value)
+    elseif (string.match(key, "Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE:.*$") ~= nil and value ~= nil) then
+        updateCaptures(key, value)
     end
 end
 

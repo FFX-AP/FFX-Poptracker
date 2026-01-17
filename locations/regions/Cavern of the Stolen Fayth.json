@@ -67,6 +67,7 @@
             {
                 "name": "Monster Captures",
                 "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 515, "y": 400, "shape": "diamond"}],
+                "visibility_rules": ["capturesanity"],
                 "sections": [
                     {
                         "name": "Cavern of the Stolen Fayth",

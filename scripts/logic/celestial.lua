@@ -1,5 +1,5 @@
 function hasCaladbolg()
-    return has("weapon(tidus)_caladbolg")
+    return has("weapon(tidus)caladbolg")
 end
 
 function hasGodhand()
@@ -7,21 +7,21 @@ function hasGodhand()
 end
 
 function hasMasamune()
-    return has("weapon(auron)_masamune")
+    return has("weapon(auron)masamune")
 end
 
 function hasNirvana()
-    return has("weapon(yuna)_nirvana")
+    return has("weapon(yuna)nirvana")
 end
 
 function hasOnionKnight()
-    return has("weapon(lulu)_onionknight")
+    return has("weapon(lulu)onionknight")
 end
 
 function hasSpiritLance()
-    return has("weapon(kimahri)_spiritlance")
+    return has("weapon(kimahri)spiritlance")
 end
 
 function hasWorldChampion()
-    return has("weapon(wakka)_worldchampion")
+    return has("weapon(wakka)worldchampion")
 end

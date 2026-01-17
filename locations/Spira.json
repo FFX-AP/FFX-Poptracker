@@ -1514,6 +1514,7 @@
             {
                 "name": "Monster Arena - Captures",
                 "map_locations": [{ "map": "Spira", "x": 785, "y": 185, "size": 24, "shape": "diamond"}],
+                "visibility_rules": ["capturesanity"],
                 "sections": [
                     {
                         "name": "Besaid",

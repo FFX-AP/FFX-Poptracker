@@ -94,11 +94,22 @@
                     {
                         "name": "Monster Captures",
                         "map_locations": [{ "map": "Besaid Island", "x": 825, "y": 890, "shape": "diamond"}],
+                        "access_rules": ["@Monster Arena/Fiend Capture/Besaid"],
+                        "visibility_rules": ["capturesanity"],
                         "sections": [
                             {
-                                "name": "Besaid",
-                                "hosted_item": "dingo, condor, waterflan",
-                                "access_rules": ["@Monster Arena/Fiend Capture/Besaid"],
+                                "name": "Dingo (3x Wolf)",
+                                "hosted_item": "dingo",
+                                "clear_as_group": false
+                            },
+                            {
+                                "name": "Condor (5x Bird)",
+                                "hosted_item": "condor",
+                                "clear_as_group": false
+                            },
+                            {
+                                "name": "Water Flan (3x Jumbo Flan)",
+                                "hosted_item": "waterflan",
                                 "clear_as_group": false
                             }
                         ]

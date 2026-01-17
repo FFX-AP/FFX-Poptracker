@@ -109,6 +109,7 @@
             {
                 "name": "Monster Captures",
                 "map_locations": [{ "map": "Inside Sin", "x": 1000, "y": 760, "shape": "diamond"}],
+                "visibility_rules": ["capturesanity"],
                 "sections": [
                     {
                         "name": "Sea of Sorrows",
