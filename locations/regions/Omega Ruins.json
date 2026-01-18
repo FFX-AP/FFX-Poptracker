@@ -42,12 +42,14 @@
             {
                 "name": "Defeat Omega Weapon (Superboss)",
                 "map_locations": [{ "map": "Omega Ruins", "x": 1535, "y": 635, "shape": "trapezoid", "size": 40}],
+                "visibility_rules": ["superbosses"],
                 "sections": [{"name": "Omega Weapon", "ref": "Super Bosses/Omega Weapon"}]
             },
             {
                 "name": "Omega Boss Arena (Chest)",
                 "map_locations": [{ "map": "Omega Ruins", "x": 1483, "y": 635}],
                 "access_rules": ["omegaweapon, [$hasMinimumParty|3]"],
+                "visibility_rules": ["superbosses"],
                 "sections": [{"name": "Magic Sphere x1"}]
             },
             {
