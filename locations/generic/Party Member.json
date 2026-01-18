@@ -63,7 +63,7 @@
                 "sections": [
                     {
                         "name": "Auron",
-                        "access_rules": ["@Luca, oblitzerator"],
+                        "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"],
                         "hosted_item": "auronlocation",
                         "clear_as_group": true
                     },

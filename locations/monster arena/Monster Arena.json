@@ -825,7 +825,7 @@
                                 "clear_as_group": true
                             },
                             {
-                                "name": "Wolf (3x)",
+                                "name": "Reptile (3x)",
                                 "access_rules": ["dinonix:3, ipiria:3, raptor:3, melusine:3, iguion:3, yowie:3, zaurus:3"],
                                 "hosted_item": "speciesconquests",
                                 "clear_as_group": true

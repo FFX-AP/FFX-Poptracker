@@ -153,7 +153,7 @@
                     },
                     {
                         "name": "Brotherhood",
-                        "access_rules": ["@Besaid/Village"],
+                        "access_rules": ["@Besaid/Village, besaidcloister"],
                         "hosted_item": "brotherhood",
                         "clear_as_group": true
                     },
