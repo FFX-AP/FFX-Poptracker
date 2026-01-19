@@ -1579,7 +1579,7 @@
                     {
                         "name": "Bikanel",
                         "hosted_item": "sandwolf, alcyone, mushussu, zu, sandworm, cactuar",
-                        "access_rules": ["@Monster Arena/Fiend Capture/Bikanel"],
+                        "access_rules": ["@Monster Arena/Fiend Capture/Bikanel, [$hasMinimumParty|3]"],
                         "clear_as_group": false
                     },
                     {

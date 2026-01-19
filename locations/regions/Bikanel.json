@@ -30,6 +30,7 @@
                             {
                                 "name": "Next to Tent (Chest & Primer)",
                                 "map_locations": [{ "map": "Bikanel", "x": 1000, "y": 740}],
+                                "access_rules": ["[$hasMinimumParty|3]"],
                                 "sections": [
                                     {"name": "Al Bhed Potion x8"},
                                     {
@@ -42,6 +43,7 @@
                     },
                     {
                         "name": "East",
+                        "access_rules": ["[$hasMinimumParty|3]"],
                         "children": [
                             {
                                 "name": "Behind Machinery Near Kimahri (Primer)",
@@ -80,6 +82,7 @@
                     },
                     {
                         "name": "Central",
+                        "access_rules": ["[$hasMinimumParty|3]"],
                         "children": [
                             {
                                 "name": "Structure Southeast of Save Sphere (Chest)",
@@ -138,6 +141,7 @@
                     },
                     {
                         "name": "West",
+                        "access_rules": ["[$hasMinimumParty|3]"],
                         "children": [
                             {
                                 "name": "Left Sinkhole on Main Path (Chest)",
@@ -182,7 +186,7 @@
                     {
                         "name": "Monster Captures",
                         "map_locations": [{ "map": "Bikanel", "x": 220, "y": 1070, "shape": "diamond"}],
-                        "access_rules": ["@Monster Arena/Fiend Capture/Bikanel"],
+                        "access_rules": ["@Monster Arena/Fiend Capture/Bikanel, [$hasMinimumParty|3]"],
                         "visibility_rules": ["capturesanity"],
                         "sections": [
                             {
@@ -221,6 +225,7 @@
             },
             {
                 "name": "Home",
+                "access_rules": ["[$hasMinimumParty|3]"],
                 "children": [
                     {
                         "name": "Keyakku, on Ground (NPC)",

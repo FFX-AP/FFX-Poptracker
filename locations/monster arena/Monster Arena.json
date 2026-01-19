@@ -309,7 +309,7 @@
                     {
                         "name": "Bikanel",
                         "map_locations": [{ "map": "Monster Arena", "x": 1540, "y": 520}],
-                        "access_rules": ["@Bikanel"],
+                        "access_rules": ["@Bikanel, [$hasMinimumParty|3]"],
                         "sections": [
                             {
                                 "name": "Sand Wolf (3x Wolf)",
