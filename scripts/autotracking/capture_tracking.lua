@@ -1,6 +1,7 @@
 -- key = Slot:1:FFX_CAPTURE:54
 function updateCaptures(key, value, oldValue)
-    local arena_idx = tonumber(string.match(string.match(string.match(key, ":(.*)"), ":(.*)"), ":(.*)"))
+    local arena_idx = string.match(key, "[^:]*:[^:]*:.*_(.*)")
+    -- local arena_idx = tonumber(string.match(string.match(string.match(key, ":(.*)"), ":(.*)"), ":(.*)"))
     local fiend = Tracker:FindObjectForCode(AllCaptures[arena_idx])
     
     if fiend ~= nil and (value ~= 0 or oldValue ~= 0) then
