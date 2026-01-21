@@ -4,7 +4,7 @@
         "chest_unopened_img": "/images/Treasure.png",
         "chest_opened_img": "/images/TreasureBW.png",
         "overlay_background": "#000000",
-        "access_rules": ["^$CheckAccessLevel|calmlands"],
+        "access_rules": ["^$CheckAccessLevel|monsterarena"],
         "visibility_rules": ["capturesanity"],
         "children": [
             {
@@ -639,7 +639,6 @@
             },
             {
                 "name": "Area Conquest",
-                "access_rules": ["^$CheckAccessLevel|calmlands"],
                 "children": [
                     {
                         "name": "Creation Rewards",
@@ -815,7 +814,6 @@
             },
             {
                 "name": "Species Conquest",
-                "access_rules": ["^$CheckAccessLevel|calmlands"],
                 "children": [
                     {
                         "name": "Creation Rewards",
@@ -1003,7 +1001,6 @@
             },
             {
                 "name": "Original Creation",
-                "access_rules": ["^$CheckAccessLevel|calmlands"],
                 "children": [
                     {
                         "name": "Creation Rewards",

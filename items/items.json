@@ -10456,6 +10456,16 @@
         "codes": "calmlands"
     },
     {
+        "name": "Region: Monster Arena",
+        "type": "toggle",
+        "img": "images/Treasure.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "monsterarena"
+    },
+    {
         "name": "Supreme Gem x 60",
         "type": "toggle",
         "img": "images/items/supremegemx60.png",

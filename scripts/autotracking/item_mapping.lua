@@ -1180,5 +1180,6 @@ ITEM_MAPPING = {
 	[57363] = {{"zanarkand", "toggle"}},
 	[57364] = {{"sin", "toggle"}},
 	[57365] = {{"omegaruins", "toggle"}},
+	[57366] = {{"monsterarena", "toggle"}},
 	[36864] = {{"stayawayfromthesummoner", "toggle"}},
 }
