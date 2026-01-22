@@ -167,13 +167,13 @@ function onClear(slot_data)
     Archipelago:SetNotify({ap_autotab})
     Archipelago:Get({ap_autotab})
 
-    ap_captures = {}
+    -- ap_captures = {}
     for i = 0, 103 do
-        ap_captures[i] = "Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE:" .. i
+        ap_captures = "Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE_" .. i
+        Archipelago:SetNotify({ap_captures})
+        Archipelago:Get({ap_captures})
     end
     print("Setting Notify for: Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE")
-    Archipelago:SetNotify(ap_captures)
-    Archipelago:Get(ap_captures)
 
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
@@ -312,9 +312,9 @@ end
 -- end
 
 function onNotify(key, value, oldValue)
-    if (value ~= nil) then
-        print("onNotify", key, "| " .. value)    
-    end
+    -- if (value ~= nil) then
+    --     print("onNotify", key, "| " .. value)    
+    -- end
 
     if value ~= oldValue then
         if key == HINTS_ID then
@@ -379,7 +379,7 @@ function onDataStorageUpdate(key, value, oldValue)
     oldValue = oldValue or 0
     if (key == ap_autotab and value ~= nil and Tracker:FindObjectForCode("autotab").Active) then
         autoTab(value)
-    elseif (string.match(key, "Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE:.*$") ~= nil and value ~= nil) then
+    elseif (string.match(key, "Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE_.*$") ~= nil and value ~= nil) then
         updateCaptures(key, value, oldValue)
     end
 end
