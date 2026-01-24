@@ -143,8 +143,10 @@ AllCreations = {
 
 function CheckAllCaptures(qty)    
     for _, capture in ipairs(AllCaptures) do
-        if (Tracker:FindObjectForCode(capture).AcquiredCount < tonumber(qty)) then
-            return ACCESS_NONE
+        if (capture ~= "") then
+            if (Tracker:FindObjectForCode(capture).AcquiredCount < tonumber(qty)) then
+                return ACCESS_NONE
+            end    
         end
     end
     return ACCESS_NORMAL
