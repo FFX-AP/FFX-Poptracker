@@ -1676,11 +1676,6 @@
     {
         "name": "Area Conquests",
         "type": "consumable",
-        "img": "images/Treasure.png",
-        "img_mods": "@disabled",
-        "disabled_img_mods": "",
-        "overlay_font_size": 12,
-        "overlay_align": "right",
         "capturable": true,
         "min_quantity": 0,
         "max_quantity": 6,
@@ -1691,11 +1686,6 @@
     {
         "name": "Species Conquests",
         "type": "consumable",
-        "img": "images/Treasure.png",
-        "img_mods": "@disabled",
-        "disabled_img_mods": "",
-        "overlay_font_size": 12,
-        "overlay_align": "right",
         "capturable": true,
         "min_quantity": 0,
         "max_quantity": 6,
