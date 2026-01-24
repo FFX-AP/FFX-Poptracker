@@ -162,11 +162,6 @@
                                 "name": "Barbatos",
                                 "hosted_item": "barbatos",
                                 "clear_as_group": false
-                            },
-                            {
-                                "name": "Varuna",
-                                "hosted_item": "varuna",
-                                "clear_as_group": false
                             }
                         ]
                     }
