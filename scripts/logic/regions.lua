@@ -178,29 +178,31 @@ end
 
 function CheckGoalRequirement()
     local goal = Tracker:FindObjectForCode("goalrequirement").CurrentStage
-    local goal_access = ACCESS_NONE
+    local primers = Tracker:FindObjectForCode("primersrequires").AcquiredCount
+    local goal_condition = false
+    local primer_condition = false
     
     if (goal == 0) then
         -- No Requirements
-        goal_access = ACCESS_NORMAL
+        goal_condition = true
     elseif (goal == 1) then
         -- Party Members
         if (hasPartyMembers(Tracker:ProviderCountForCode("requiredpartymembers"))) then
-            goal_access = ACCESS_NORMAL
+            goal_condition = true
         end
     elseif (goal == 2) then
         -- Pilgrimage
         if (has("besaidcloister") and has("kilikacloister") and has("djosecloister") and has("macalaniacloister") and has("bevellecloister") and has("yunalesca")) then
-            goal_access = ACCESS_NORMAL
+            goal_condition = true
         end
     elseif (goal == 3) then
         -- Party Members & Aeons
         if (hasPartyMembersAndAeons(Tracker:ProviderCountForCode("requiredpartymembers"))) then
-            goal_access = ACCESS_NORMAL
+            goal_condition = true
         end
     elseif (goal == 4) then
         if (has("nemesis")) then
-            goal_access = ACCESS_NORMAL
+            goal_condition = true
         end
     end
 

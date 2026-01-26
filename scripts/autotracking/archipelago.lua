@@ -119,6 +119,7 @@ function applySlotData(slot_data)
     end
 
     
+    Tracker:FindObjectForCode("requiredprimers").AcquiredCount = slot_data["required_primers"]
     Tracker:FindObjectForCode("minigames").Active = slot_data["mini_games"]
     Tracker:FindObjectForCode("recruitsanity").Active = slot_data["recruit_sanity"]
     Tracker:FindObjectForCode("capturesanity").Active = slot_data["capture_sanity"]
