@@ -11,9 +11,9 @@ CUR_INDEX = -1
 ALL_LOCATIONS = {}
 SLOT_DATA = {}
 
-ap_autotab = "Slot:" .. player .. ":FFX_ROOM"
-ap_captures = "Slot:" .. player .. ":FFX_CAPTURE"
-ap_logic_zu = "Slot:" .. player .. ":FFX_LOGIC_ZU"
+ap_autotab = ":FFX_ROOM"
+ap_captures = ":FFX_CAPTURE"
+ap_logic_zu = ":FFX_LOGIC_ZU"
 
 if Highlight then
     HIGHTLIGHT_LEVEL= {
@@ -133,19 +133,21 @@ function applySlotData(slot_data)
 end
 
 function setDataStorageWatches(player)
-    Archipelago:SetNotify({ap_autotab})
-    Archipelago:Get({ap_autotab})
-    print("Setting Notify for: ".. ap_autotab)
+    local prefix = "SLOT:" .. player
+    
+    Archipelago:SetNotify({prefix .. ap_autotab})
+    Archipelago:Get({prefix .. ap_autotab})
+    print("Setting Notify for: ".. prefix .. ap_autotab)
 
     for i = 0, 103 do
-        Archipelago:SetNotify({ap_captures .. "_" .. i})
-        Archipelago:Get({ap_captures .. "_" .. i})
+        Archipelago:SetNotify({prefix .. ap_captures .. "_" .. i})
+        Archipelago:Get({prefix .. ap_captures .. "_" .. i})
     end
-    print("Setting Notify for: Slot:" .. ap_captures)
+    print("Setting Notify for: Slot:" .. prefix .. ap_captures)
 
-    Archipelago:SetNotify({ap_logic_zu})
-    Archipelago:Get({ap_logic_zu})
-    print("Setting Notify for: ".. ap_logic_zu)
+    Archipelago:SetNotify({prefix .. ap_logic_zu})
+    Archipelago:Get({prefix .. ap_logic_zu})
+    print("Setting Notify for: ".. prefix .. ap_logic_zu)
 end
 
 function onClear(slot_data)
@@ -407,11 +409,11 @@ end
 
 function onDataStorageUpdate(key, value, oldValue)
     oldValue = oldValue or 0
-    if (key = ap_autotab and value ~= nil and Tracker:FindObjectForCode("autotab").Active) then
+    if (key == ap_autotab and value ~= nil and Tracker:FindObjectForCode("autotab").Active) then
         autoTab(value)
     elseif (string.match(key, ap_captures + "_.*$") ~= nil and value ~= nil) then
         updateCaptures(key, value)
-    elseif (key = ap_logic_zu and value ~= nil) then
+    elseif (key == ap_logic_zu and value ~= nil) then
         updateBattleLogic("zu", value)
     end
 end

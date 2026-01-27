@@ -1318,10 +1318,6 @@
                     {
                         "name": "Roof - Overdrive Sin",
                         "ref": "Airship/Roof (Bosses)/Overdrive Sin"
-                    },
-                    {
-                        "name": "Super Bosses - Penance",
-                        "ref": "Super Bosses/Penance"
                     }
                 ]
             },
@@ -1578,7 +1574,6 @@
                         "name": "Lake Macalania",
                         "hosted_item": "snowwolf, evileye, iceflan, mafdet",
                         "access_rules": ["@Monster Arena/Fiend Capture, @Macalania/Lake"],
-                        // "access_rules": ["@Monster Arena/Fiend Capture, @Macalania/Lake, ^$CheckCaptures|[snowwolf, evileye, iceflan, mafdet]"],
                         "clear_as_group": false
                     },
                     {

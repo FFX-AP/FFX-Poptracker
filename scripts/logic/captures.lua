@@ -162,23 +162,18 @@ function CheckAllCreations()
 end
 
 function CheckCapture(fiend)
+    print("CHECKCAPTURE: " .. fiend)
     local capture = Tracker:FindObjectForCode(fiend)
-    local access = ACCESS_NONE
 
-    if (capture.AcquiredCount ~= 0) then
-        if (capture.AcquiredCount > 0) then
-            if (capture.AcquiredCount == 10) then
-                print(fiend .. " ACCESS = CLEARED")
-                return ACCESS_CLEARED
-            end
-            print(fiend .. " ACCESS = INSPECT")
-            return ACCESS_INSPECT
-        end
-        print(fiend .. " ACCESS = NONE")
-        return ACCESS_NONE
-    else
-        print(fiend .. " ACCESS = NORMAL")
+    if (capture.AcquiredCount == 0) then
+        print("ACCESS: " .. fiend .. " | NORMAL")
         return ACCESS_NORMAL
+    elseif (capture.AcquiredCount == 10) then
+        print("ACCESS: " .. fiend .. " | CLEARED")
+        return ACCESS_CLEARED
+    else
+        print("ACCESS: " .. fiend .. " | INSPECT")
+        return ACCESS_INSPECT
     end
 end
 

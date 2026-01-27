@@ -17,8 +17,9 @@
                         "sections": [
                             {
                                 "name": "Dingo (3x Wolf)",
+                                "access_rules": ["^$CheckCapture|dingo"],
                                 "hosted_item": "dingo",
-                                "clear_as_group": false
+                                "clear_as_group": true
                             },
                             {
                                 "name": "Condor (5x Bird)",
