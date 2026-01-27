@@ -3,12 +3,17 @@ require("scripts/autotracking/item_mapping")
 require("scripts/autotracking/location_mapping")
 require("scripts/autotracking/auto_tabbing")
 require("scripts/autotracking/capture_tracking")
+require("scripts/autotracking/battle_tracking")
 
 CUR_INDEX = -1
 --SLOT_DATA = nil
 
 ALL_LOCATIONS = {}
 SLOT_DATA = {}
+
+ap_autotab = "Slot:" .. player .. ":FFX_ROOM"
+ap_captures = "Slot:" .. player .. ":FFX_CAPTURE"
+ap_logic_zu = "Slot:" .. player .. ":FFX_LOGIC_ZU"
 
 if Highlight then
     HIGHTLIGHT_LEVEL= {
@@ -127,6 +132,22 @@ function applySlotData(slot_data)
     Tracker:FindObjectForCode("logicdifficulty").AcquiredCount = slot_data["logic_difficulty"]
 end
 
+function setDataStorageWatches(player)
+    Archipelago:SetNotify({ap_autotab})
+    Archipelago:Get({ap_autotab})
+    print("Setting Notify for: ".. ap_autotab)
+
+    for i = 0, 103 do
+        Archipelago:SetNotify({ap_captures .. "_" .. i})
+        Archipelago:Get({ap_captures .. "_" .. i})
+    end
+    print("Setting Notify for: Slot:" .. ap_captures)
+
+    Archipelago:SetNotify({ap_logic_zu})
+    Archipelago:Get({ap_logic_zu})
+    print("Setting Notify for: ".. ap_logic_zu)
+end
+
 function onClear(slot_data)
     print("ON CLEAR CALLED")
     ScriptHost:RemoveWatchForCode("StateChanged")
@@ -184,29 +205,14 @@ function onClear(slot_data)
         end
     end
 
-    applySlotData(slot_data)
-
-    ap_autotab = "Slot:" .. Archipelago.PlayerNumber .. ":FFX_ROOM"
-    print("Setting Notify for: "..ap_autotab)
-    Archipelago:SetNotify({ap_autotab})
-    Archipelago:Get({ap_autotab})
-
-    -- ap_captures = {}
-    for i = 0, 103 do
-        ap_captures = "Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE_" .. i
-        Archipelago:SetNotify({ap_captures})
-        Archipelago:Get({ap_captures})
-    end
-    print("Setting Notify for: Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE")
-
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data
-    -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
-    --     autoFill(slot_data)
-    -- end
-    -- print(PLAYER_ID, TEAM_NUMBER)
+
     if Archipelago.PlayerNumber > -1 then
+        applySlotData(SLOT_DATA)
+        setDataStorageWatches(PLAYER_ID)
+
         if #ALL_LOCATIONS > 0 then
             ALL_LOCATIONS = {}
         end
@@ -401,10 +407,12 @@ end
 
 function onDataStorageUpdate(key, value, oldValue)
     oldValue = oldValue or 0
-    if (key == ap_autotab and value ~= nil and Tracker:FindObjectForCode("autotab").Active) then
+    if (key = ap_autotab and value ~= nil and Tracker:FindObjectForCode("autotab").Active) then
         autoTab(value)
-    elseif (string.match(key, "Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE_.*$") ~= nil and value ~= nil) then
+    elseif (string.match(key, ap_captures + "_.*$") ~= nil and value ~= nil) then
         updateCaptures(key, value)
+    elseif (key = ap_logic_zu and value ~= nil) then
+        updateBattleLogic("zu", value)
     end
 end
 

@@ -161,7 +161,7 @@ function CheckAllCreations()
     return ACCESS_NORMAL
 end
 
-function CheckCaptures(fiend)
+function CheckCapture(fiend)
     local capture = Tracker:FindObjectForCode(fiend)
     local access = ACCESS_NONE
 

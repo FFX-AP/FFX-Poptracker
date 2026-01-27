@@ -56,7 +56,7 @@
     {
         "name": "Minigames",
         "type": "toggle",
-        "img": "images/items/hd/Support_use_item_HD.png",
+        "img": "images/npc/Chocobo.png",
         "initial_active_state": false,
         "codes": "minigames"
     },
