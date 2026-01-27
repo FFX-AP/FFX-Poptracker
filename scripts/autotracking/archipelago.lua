@@ -11,10 +11,6 @@ CUR_INDEX = -1
 ALL_LOCATIONS = {}
 SLOT_DATA = {}
 
-ap_autotab = ":FFX_ROOM"
-ap_captures = ":FFX_CAPTURE"
-ap_logic_zu = ":FFX_LOGIC_ZU"
-
 if Highlight then
     HIGHTLIGHT_LEVEL= {
         [0] = Highlight.Unspecified,
@@ -132,24 +128,6 @@ function applySlotData(slot_data)
     Tracker:FindObjectForCode("logicdifficulty").AcquiredCount = slot_data["logic_difficulty"]
 end
 
-function setDataStorageWatches(player)
-    local prefix = "SLOT:" .. player
-    
-    Archipelago:SetNotify({prefix .. ap_autotab})
-    Archipelago:Get({prefix .. ap_autotab})
-    print("Setting Notify for: ".. prefix .. ap_autotab)
-
-    for i = 0, 103 do
-        Archipelago:SetNotify({prefix .. ap_captures .. "_" .. i})
-        Archipelago:Get({prefix .. ap_captures .. "_" .. i})
-    end
-    print("Setting Notify for: Slot:" .. prefix .. ap_captures)
-
-    Archipelago:SetNotify({prefix .. ap_logic_zu})
-    Archipelago:Get({prefix .. ap_logic_zu})
-    print("Setting Notify for: ".. prefix .. ap_logic_zu)
-end
-
 function onClear(slot_data)
     print("ON CLEAR CALLED")
     ScriptHost:RemoveWatchForCode("StateChanged")
@@ -213,7 +191,23 @@ function onClear(slot_data)
 
     if Archipelago.PlayerNumber > -1 then
         applySlotData(SLOT_DATA)
-        setDataStorageWatches(PLAYER_ID)
+        
+        ap_autotab = "Slot:" .. PLAYER_ID .. ":FFX_ROOM"
+        print("Setting Notify for: "..ap_autotab)
+        Archipelago:SetNotify({ap_autotab})
+        Archipelago:Get({ap_autotab})
+
+        for i = 0, 103 do
+            ap_captures = "Slot:" .. PLAYER_ID .. ":FFX_CAPTURE_" .. i
+            Archipelago:SetNotify({ap_captures})
+            Archipelago:Get({ap_captures})
+        end
+        print("Setting Notify for: Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE")
+        
+        ap_logic_zu = "Slot:" .. PLAYER_ID .. ":FFX_LOGIC_ZU"
+        Archipelago:SetNotify({ap_logic_zu})
+        Archipelago:Get({ap_logic_zu})
+        print("Setting Notify for: " .. ap_logic_zu)
 
         if #ALL_LOCATIONS > 0 then
             ALL_LOCATIONS = {}
@@ -411,7 +405,7 @@ function onDataStorageUpdate(key, value, oldValue)
     oldValue = oldValue or 0
     if (key == ap_autotab and value ~= nil and Tracker:FindObjectForCode("autotab").Active) then
         autoTab(value)
-    elseif (string.match(key, ap_captures + "_.*$") ~= nil and value ~= nil) then
+    elseif (string.match(key, "Slot:" .. Archipelago.PlayerNumber .. ":FFX_CAPTURE_.*$") ~= nil and value ~= nil) then
         updateCaptures(key, value)
     elseif (key == ap_logic_zu and value ~= nil) then
         updateBattleLogic("zu", value)
