@@ -175,58 +175,32 @@
             },
             {
                 "name": "Monster Captures",
-                "map_locations": [{ "map": "Miihen Highroad", "x": 500, "y": 720, "shape": "diamond"}],
-                "access_rules": ["@Monster Arena/Fiend Capture"],
-                "visibility_rules": ["capturesanity"],
+                "map_locations": [{ "map": "Miihen Highroad", "x": 500, "y": 720}],
                 "sections": [
-                    {
-                        "name": "Miihen Fang (3x Wolf)",
-                        "hosted_item": "miihenfang",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "Ipiria (3x Reptile)",
-                        "access_rules": ["@Miihen Highroad/North"],
-                        "hosted_item": "ipiria",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "Floating Eye (4x Eye)",
-                        "hosted_item": "floatingeye",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "White Element (3x Elemental)",
-                        "hosted_item": "whiteelement",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "Raldo (3x Armoured)",
-                        "hosted_item": "raldo",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "Vouivre (5x Drake)",
-                        "access_rules": ["@Miihen Highroad/North"],
-                        "hosted_item": "vouivre",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "Bomb (5x Bomb)",
-                        "hosted_item": "bomb",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "Dual Horn (5x Ruminant)",
-                        "hosted_item": "dualhorn",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "Thunder Flan (3x Flan)",
-                        "access_rules": ["@Miihen Highroad/North"],
-                        "hosted_item": "thunderflan",
-                        "clear_as_group": false
-                    }
+                    {"name": "Miihen Fang (3x Wolf)", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Fiends/Miihen Fang (3x Wolf)"},
+                    {"name": "Ipiria (3x Reptile)", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Fiends/Ipiria (3x Reptile)"},
+                    {"name": "Floating Eye (4x Eye)", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Fiends/Floating Eye (4x Eye)"},
+                    {"name": "White Element (3x Elemental)", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Fiends/White Element (3x Elemental)"},
+                    {"name": "Raldo (3x Armoured)", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Fiends/Raldo (3x Armoured)"},
+                    {"name": "Vouivre (5x Drake)", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Fiends/Vouivre (5x Drake)"},
+                    {"name": "Bomb (5x Bomb)", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Fiends/Bomb (5x Bomb)"},
+                    {"name": "Dual Horn (5x Ruminant)", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Fiends/Dual Horn (5x Ruminant)"},
+                    {"name": "Thunder Flan (3x Flan)", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Fiends/Thunder Flan (3x Flan)"}
+                ]
+            },
+            {
+                "name": "Captures Required for Logic",
+                "map_locations": [{ "map": "Miihen Highroad", "x": 520, "y": 720, "size": 12, "shape": "diamond"}],
+                "sections": [
+                    {"name": "Miihen Fang", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Captures Required for Logic/Miihen Fang"},
+                    {"name": "Ipiria", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Captures Required for Logic/Ipiria"},
+                    {"name": "Floating Eye", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Captures Required for Logic/Floating Eye"},
+                    {"name": "White Element", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Captures Required for Logic/White Element"},
+                    {"name": "Raldo", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Captures Required for Logic/Raldo"},
+                    {"name": "Vouivre", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Captures Required for Logic/Vouivre"},
+                    {"name": "Bomb", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Captures Required for Logic/Bomb"},
+                    {"name": "Dual Horn", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Captures Required for Logic/Dual Horn"},
+                    {"name": "Thunder Flan", "ref": "Monster Arena/Fiend Capture/Miihen Highroad/Captures Required for Logic/Thunder Flan"}
                 ]
             }
         ]

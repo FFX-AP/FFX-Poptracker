@@ -110,13 +110,13 @@ function applySlotData(slot_data)
 
     local arena_bosses = slot_data["arena_bosses"]
     if (arena_bosses == 0) then
-        Tracker:FindObjectForCode("capturebosses").CurrentStage = 0
+        Tracker:FindObjectForCode("creationbosses").CurrentStage = 0
     elseif (arena_bosses == 1) then
-        Tracker:FindObjectForCode("capturebosses").CurrentStage = 1
+        Tracker:FindObjectForCode("creationbosses").CurrentStage = 1
     elseif (arena_bosses == 2) then
-        Tracker:FindObjectForCode("capturebosses").CurrentStage = 2
+        Tracker:FindObjectForCode("creationbosses").CurrentStage = 2
     elseif (arena_bosses == 3) then
-        Tracker:FindObjectForCode("capturebosses").CurrentStage = 3
+        Tracker:FindObjectForCode("creationbosses").CurrentStage = 3
     end
 
     

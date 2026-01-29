@@ -23,6 +23,7 @@
         "initial_active_state": false,
         "codes": "dingocomplete"
     },
+
     {
         "name": "Condor",
         "type": "consumable",
@@ -46,6 +47,7 @@
         "initial_active_state": false,
         "codes": "condorcomplete"
     },
+
     {
         "name": "Water Flan",
         "type": "consumable",
@@ -85,6 +87,17 @@
         "codes": "dinonix"
     },
     {
+        "name": "Dinonix Complete",
+        "type": "toggle",
+        "img": "images/fiends/Dinonix.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "dinonixcomplete"
+    },
+
+    {
         "name": "Killer Bee",
         "type": "consumable",
         "img": "images/fiends/Killer Bee.png",
@@ -97,6 +110,17 @@
         "initial_quantity": 0,
         "codes": "killerbee"
     },
+    {
+        "name": "Killer Bee Complete",
+        "type": "toggle",
+        "img": "images/fiends/Killer Bee.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "killerbeecomplete"
+    },
+
     {
         "name": "Yellow Element",
         "type": "consumable",
@@ -111,6 +135,17 @@
         "codes": "yellowelement"
     },
     {
+        "name": "Yellow Element Complete",
+        "type": "toggle",
+        "img": "images/fiends/Yellow Element.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "yellowelementcomplete"
+    },
+
+    {
         "name": "Ragora",
         "type": "consumable",
         "img": "images/fiends/Ragora.png",
@@ -122,6 +157,16 @@
         "increment": 1,
         "initial_quantity": 0,
         "codes": "ragora"
+    },
+    {
+        "name": "Ragora Complete",
+        "type": "toggle",
+        "img": "images/fiends/Ragora.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ragoracomplete"
     },
 
     //Miihen Highroad
@@ -139,6 +184,17 @@
         "codes": "miihenfang"
     },
     {
+        "name": "Mi'ihen Fang Complete",
+        "type": "toggle",
+        "img": "images/fiends/Mi'ihen Fang.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "miihenfangcomplete"
+    },
+
+    {
         "name": "Ipiria",
         "type": "consumable",
         "img": "images/fiends/Ipiria.png",
@@ -151,6 +207,17 @@
         "initial_quantity": 0,
         "codes": "ipiria"
     },
+    {
+        "name": "Ipiria Complete",
+        "type": "toggle",
+        "img": "images/fiends/Ipiria.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ipiriacomplete"
+    },
+
     {
         "name": "Floating Eye",
         "type": "consumable",
@@ -165,6 +232,17 @@
         "codes": "floatingeye"
     },
     {
+        "name": "Floating Eye Complete",
+        "type": "toggle",
+        "img": "images/fiends/Floating Eye.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "floatingeyecomplete"
+    },
+
+    {
         "name": "White Element",
         "type": "consumable",
         "img": "images/fiends/White Element.png",
@@ -177,6 +255,17 @@
         "initial_quantity": 0,
         "codes": "whiteelement"
     },
+    {
+        "name": "White Element Complete",
+        "type": "toggle",
+        "img": "images/fiends/White Element.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "whiteelementcomplete"
+    },
+
     {
         "name": "Raldo",
         "type": "consumable",
@@ -191,6 +280,17 @@
         "codes": "raldo"
     },
     {
+        "name": "Raldo Complete",
+        "type": "toggle",
+        "img": "images/fiends/Raldo.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "raldocomplete"
+    },
+
+    {
         "name": "Vouivre",
         "type": "consumable",
         "img": "images/fiends/Vouivre.png",
@@ -203,6 +303,17 @@
         "initial_quantity": 0,
         "codes": "vouivre"
     },
+    {
+        "name": "Vouivre Complete",
+        "type": "toggle",
+        "img": "images/fiends/Vouivre.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "vouivrecomplete"
+    },
+
     {
         "name": "Bomb",
         "type": "consumable",
@@ -217,6 +328,17 @@
         "codes": "bomb"
     },
     {
+        "name": "Bomb Complete",
+        "type": "toggle",
+        "img": "images/fiends/Bomb.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "bombcomplete"
+    },
+
+    {
         "name": "Dual Horn",
         "type": "consumable",
         "img": "images/fiends/Dual Horn.png",
@@ -228,6 +350,16 @@
         "increment": 1,
         "initial_quantity": 0,
         "codes": "dualhorn"
+    },
+    {
+        "name": "Dual Horn Complete",
+        "type": "toggle",
+        "img": "images/fiends/Dual Horn.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "dualhorncomplete"
     },
 
     //Mushroom Rock Road
@@ -245,6 +377,17 @@
         "codes": "raptor"
     },
     {
+        "name": "Raptor Complete",
+        "type": "toggle",
+        "img": "images/fiends/Raptor.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "raptorcomplete"
+    },
+
+    {
         "name": "Gandarewa",
         "type": "consumable",
         "img": "images/fiends/Gandarewa.png",
@@ -257,6 +400,17 @@
         "initial_quantity": 0,
         "codes": "gandarewa"
     },
+    {
+        "name": "Gandarewa Complete",
+        "type": "toggle",
+        "img": "images/fiends/Gandarewa.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "gandarewacomplete"
+    },
+
     {
         "name": "Thunder Flan",
         "type": "consumable",
@@ -271,6 +425,17 @@
         "codes": "thunderflan"
     },
     {
+        "name": "Thunder Flan Complete",
+        "type": "toggle",
+        "img": "images/fiends/Thunder Flan.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "thunderflancomplete"
+    },
+
+    {
         "name": "Red Element",
         "type": "consumable",
         "img": "images/fiends/Red Element.png",
@@ -283,6 +448,17 @@
         "initial_quantity": 0,
         "codes": "redelement"
     },
+    {
+        "name": "Red Element Complete",
+        "type": "toggle",
+        "img": "images/fiends/Red Element.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "redelementcomplete"
+    },
+
     {
         "name": "Lamashtu",
         "type": "consumable",
@@ -297,6 +473,17 @@
         "codes": "lamashtu"
     },
     {
+        "name": "Lamashtu Complete",
+        "type": "toggle",
+        "img": "images/fiends/Lamashtu.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "lamashtucomplete"
+    },
+
+    {
         "name": "Funguar",
         "type": "consumable",
         "img": "images/fiends/Funguar.png",
@@ -310,6 +497,17 @@
         "codes": "funguar"
     },
     {
+        "name": "Funguar Complete",
+        "type": "toggle",
+        "img": "images/fiends/Funguar.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "funguarcomplete"
+    },
+
+    {
         "name": "Garuda",
         "type": "consumable",
         "img": "images/fiends/Garuda.png",
@@ -321,6 +519,16 @@
         "increment": 1,
         "initial_quantity": 0,
         "codes": "garuda"
+    },
+    {
+        "name": "Garuda Complete",
+        "type": "toggle",
+        "img": "images/fiends/Garuda.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "garudacomplete"
     },
 
     //Djose Road

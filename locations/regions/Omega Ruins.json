@@ -60,11 +60,13 @@
                 "sections": [
                     {
                         "name": "Gemini (Sword) (10x Iron Giant)",
+                        "visibility_rules": ["superbosses"],
                         "hosted_item": "geminisword",
                         "clear_as_group": false
                     },
                     {
                         "name": "Gemini (Club) (10x Iron Giant)",
+                        "visibility_rules": ["superbosses"],
                         "hosted_item": "geminiclub",
                         "clear_as_group": false
                     },
@@ -76,6 +78,11 @@
                     {
                         "name": "Zaurus (3x Reptile)",
                         "hosted_item": "zaurus",
+                        "clear_as_group": false
+                    },
+                    {
+                        "name": "Wraith",
+                        "hosted_item": "wraith",
                         "clear_as_group": false
                     },
                     {

@@ -107,28 +107,28 @@
         "name": "Arena Bosses",
         "type": "progressive",
         "allow_disabled": false,
-        "codes": "capturebosses",
+        "codes": "creationbosses",
         "stages": [
             {
                 "name": "No Arena Bosses",
                 "img": "images/items/hd/Battle_Item_HD.png",
                 "img_mods": "@disabled",
-                "codes": "capturebossesnone"
+                "codes": "creationbossesnone"
             },
             {
                 "name": "Area Conquest Bosses",
                 "img": "images/items/hd/Battle_Item_HD.png",
-                "codes": "capturebossesarea"
+                "codes": "creationbossesarea"
             },
             {
                 "name": "Area & Species Conquest Bosses",
                 "img": "images/items/hd/Battle_Item_HD.png",
-                "codes": "capturebossesspecies"
+                "codes": "creationbossesspecies"
             },
             {
                 "name": "Area, Species & Original Creations Bosses",
                 "img": "images/items/hd/Battle_Item_HD.png",
-                "codes": "capturebossesriginal"
+                "codes": "creationbossesriginal"
             }
         ]    
     },

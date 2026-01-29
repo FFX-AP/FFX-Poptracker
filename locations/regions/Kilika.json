@@ -100,32 +100,24 @@
                     },
                     {
                         "name": "Monster Captures",
-                        "map_locations": [{ "map": "Kilika Village", "x": 780, "y": 425, "shape": "diamond"}],
-                        "access_rules": ["@Monster Arena/Fiend Capture"],
-                        "visibility_rules": ["capturesanity"],
+                        "map_locations": [{ "map": "Kilika Village", "x": 780, "y": 425}],
                         "sections": [
-                            {
-                                "name": "Dinonix (3x Reptile)",
-                                "hosted_item": "dinonix",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Killer Bee (5x Wasp)",
-                                "hosted_item": "killerbee",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Yellow Element (3x Elemental)",
-                                "hosted_item": "yellowelement",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Ragora",
-                                "hosted_item": "ragora",
-                                "clear_as_group": false
-                            }
+                            {"name": "Dinonix (3x Reptile)", "ref": "Monster Arena/Fiend Capture/Kilika/Fiends/Dinonix (3x Reptile)"},
+                            {"name": "Killer Bee (5x Wasp)", "ref": "Monster Arena/Fiend Capture/Kilika/Fiends/Killer Bee (5x Wasp)"},
+                            {"name": "Yellow Element (3x Elemental)", "ref": "Monster Arena/Fiend Capture/Kilika/Fiends/Yellow Element (3x Elemental)"},
+                            {"name": "Ragora", "ref": "Monster Arena/Fiend Capture/Kilika/Fiends/Ragora"},
                         ]
-                    }                 
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Kilika Village", "x": 800, "y": 425, "size": 12, "shape": "diamond"}],
+                        "sections": [
+                            {"name": "Dinonix", "ref": "Monster Arena/Fiend Capture/Kilika/Captures Required for Logic/Dinonix"},
+                            {"name": "Killer Bee", "ref": "Monster Arena/Fiend Capture/Kilika/Captures Required for Logic/Killer Bee"},
+                            {"name": "Yellow Element", "ref": "Monster Arena/Fiend Capture/Kilika/Captures Required for Logic/Yellow Element"},
+                            {"name": "Ragora", "ref": "Monster Arena/Fiend Capture/Kilika/Captures Required for Logic/Ragora"}
+                        ]
+                    }
                 ]
             },
             {

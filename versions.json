@@ -12,6 +12,7 @@
                 " - - Access logic for Monster Arena rewards and boss fights",
                 " - - Custom logic for Original Creations",
                 " - - Capture auto-tracking from AP DataStorage",
+                " - - Tracks captures required for logic separately from the unique capture locations (for conquest rewards / bosses)",
                 " - Nemesis goal support",
                 " - Al Bhed Primer goal support",
                 " - World Map updates for Monster Arena",

@@ -106,108 +106,108 @@ AllCaptures = {
 }
 
 CaptureSpecies = {
-    "raldo" = 1,
-    "bunyip" = 1,
-    "murussu" = 1,
-    "mafdet" = 1,
-    "shred" = 1,
-    "gandarewa" = 1,
-    "aerouge" = 1,
-    "imp" = 1,
-    "dingo" = 3,
-    "miihenfang" = 1,
-    "garm" = 1,
-    "snowwolf" = 1,
-    "sandwolf" = 1,
-    "skoll" = 1,
-    "bandersnatch" = 1,
-    "waterflan" = 3,
-    "thunderflan" = 1,
-    "snowflan" = 1,
-    "iceflan" = 1,
-    "flameflan" = 1,
-    "darkflan" = 1,
-    "dinonix" = 1,
-    "ipiria" = 1,
-    "raptor" = 1,
-    "melusine" = 1,
-    "iguion" = 1,
-    "yowie" = 1,
-    "condor" = 5,
-    "simurgh" = 1,
-    "alcyone" = 1,
-    "killerbee" = 1,
-    "bitebug" = 1,
-    "wasp" = 1,
-    "nebiros" = 1,
-    "floatingeye" = 1,
-    "buer" = 1,
-    "evileye" = 1,
-    "ahriman" = 1,
-    "ragora" = 1,
-    "grat" = 1,
-    "garuda" = 1,
-    "zu" = 1,
-    "sandworm" = 1,
-    "ghost" = 1,
-    "achelous" = 1,
-    "maelspike" = 1,
-    "dualhorn" = 1,
-    "valaha" = 1,
-    "grendel" = 1,
-    "vouivre" = 1,
-    "lamashtu" = 1,
-    "kusariqqu" = 1,
-    "mushussu" = 1,
-    "nidhogg" = 1,
-    "malboro" = 1,
-    "greatmalboro" = 1,
-    "ogre" = 1,
-    "bashura" = 1,
-    "splasher" = 1,
-    "yellowelement" = 1,
-    "whiteelement" = 1,
-    "redelement" = 1,
-    "goldelement" = 1,
-    "blueelement" = 1,
-    "darkelement" = 1,
-    "blackelement" = 1,
-    "epaaj" = 1,
-    "behemoth" = 1,
-    "behemothking" = 1,
-    "chimera" = 1,
-    "chimerabrain" = 1,
-    "coeurl" = 1,
-    "mastercoeurl" = 1,
-    "demonolith" = 1,
-    "irongiant" = 1,
-    "geminisword" = 1,
-    "geminiclub" = 1,
-    "basilisk" = 1,
-    "anacondaur" = 1,
-    "adamantoise" = 1,
-    "varuna" = 1,
-    "ochu" = 1,
-    "mandragora" = 1,
-    "bomb" = 1,
-    "grenade" = 1,
-    "qactuar" = 1,
-    "cactuar" = 1,
-    "larva" = 1,
-    "barbatos" = 1,
-    "funguar" = 1,
-    "thorn" = 1,
-    "exoray" = 1,
-    "xiphos" = 1,
-    "puroboros" = 1,
-    "spirit" = 1,
-    "wraith" = 1,
-    "tonberry" = 1,
-    "mastertonberry" = 1,
-    "zaurus" = 1,
-    "halma" = 1,
-    "floatingdeath" = 1,
-    "machea" = 1,
+    ["raldo"] = 3,
+    ["bunyip"] = 3,
+    ["murussu"] = 3,
+    ["mafdet"] = 3,
+    ["shred"] = 3,
+    ["gandarewa"] = 4,
+    ["aerouge"] = 4,
+    ["imp"] = 4,
+    ["dingo"] = 3,
+    ["miihenfang"] = 3,
+    ["garm"] = 3,
+    ["snowwolf"] = 3,
+    ["sandwolf"] = 3,
+    ["skoll"] = 3,
+    ["bandersnatch"] = 3,
+    ["waterflan"] = 3,
+    ["thunderflan"] = 3,
+    ["snowflan"] = 3,
+    ["iceflan"] = 3,
+    ["flameflan"] = 3,
+    ["darkflan"] = 3,
+    ["dinonix"] = 3,
+    ["ipiria"] = 3,
+    ["raptor"] = 3,
+    ["melusine"] = 3,
+    ["iguion"] = 3,
+    ["yowie"] = 3,
+    ["condor"] = 5,
+    ["simurgh"] = 5,
+    ["alcyone"] = 5,
+    ["killerbee"] = 5,
+    ["bitebug"] = 5,
+    ["wasp"] = 5,
+    ["nebiros"] = 5,
+    ["floatingeye"] = 4,
+    ["buer"] = 4,
+    ["evileye"] = 4,
+    ["ahriman"] = 4,
+    ["ragora"] = 1,
+    ["grat"] = 1,
+    ["garuda"] = 1,
+    ["zu"] = 1,
+    ["sandworm"] = 1,
+    ["ghost"] = 1,
+    ["achelous"] = 1,
+    ["maelspike"] = 1,
+    ["dualhorn"] = 5,
+    ["valaha"] = 5,
+    ["grendel"] = 5,
+    ["vouivre"] = 5,
+    ["lamashtu"] = 5,
+    ["kusariqqu"] = 5,
+    ["mushussu"] = 5,
+    ["nidhogg"] = 5,
+    ["malboro"] = 1,
+    ["greatmalboro"] = 1,
+    ["ogre"] = 1,
+    ["bashura"] = 1,
+    ["splasher"] = 1,
+    ["yellowelement"] = 3,
+    ["whiteelement"] = 3,
+    ["redelement"] = 3,
+    ["goldelement"] = 3,
+    ["blueelement"] = 3,
+    ["darkelement"] = 3,
+    ["blackelement"] = 3,
+    ["epaaj"] = 1,
+    ["behemoth"] = 1,
+    ["behemothking"] = 1,
+    ["chimera"] = 1,
+    ["chimerabrain"] = 1,
+    ["coeurl"] = 1,
+    ["mastercoeurl"] = 1,
+    ["demonolith"] = 1,
+    ["irongiant"] = 10,
+    ["geminisword"] = 10,
+    ["geminiclub"] = 10,
+    ["basilisk"] = 1,
+    ["anacondaur"] = 1,
+    ["adamantoise"] = 1,
+    ["varuna"] = 1,
+    ["ochu"] = 1,
+    ["mandragora"] = 1,
+    ["bomb"] = 5,
+    ["grenade"] = 5,
+    ["qactuar"] = 1,
+    ["cactuar"] = 1,
+    ["larva"] = 1,
+    ["barbatos"] = 1,
+    ["funguar"] = 5,
+    ["thorn"] = 5,
+    ["exoray"] = 5,
+    ["xiphos"] = 1,
+    ["puroboros"] = 5,
+    ["spirit"] = 1,
+    ["wraith"] = 1,
+    ["tonberry"] = 1,
+    ["mastertonberry"] = 1,
+    ["zaurus"] = 3,
+    ["halma"] = 3,
+    ["floatingdeath"] = 4,
+    ["machea"] = 1,
 }
 
 AllCreations = {
@@ -266,43 +266,41 @@ function CheckAllCreations()
     return ACCESS_NORMAL
 end
 
-function CheckCaptures(...)
-    local fiends = { ... }
-    local return_access = ACCESS_CLEARED
-    
-    for _, fiend in ipairs(fiends) do
-        local capture = Tracker:FindObjectForCode(fiend)
-        local capture_access
-
-        if (capture.AcquiredCount < 10) then
-            print("ACCESS: " .. fiend .. " | NORMAL")
-            capture_access = ACCESS_NORMAL
-        else
-            print("ACCESS: " .. fiend .. " | CLEARED")
-            capture_access = ACCESS_CLEARED
-        end
-
-        if (capture_access > return_access) then
-            return_access = capture_access
-            print("RETURN ACCESS FOR " .. fiend .. " | " .. return_access)
+function RecalcCaptureCompletion()
+    for _, capture in ipairs(AllCaptures) do
+        if (capture ~= "") then
+            OnCapture(capture)
         end
     end
-    print("FINAL RETURN ACCESS: " .. return_access)
-    return return_access
 end
 
 function OnCapture(capture)
     print("ONCAPTURE: " .. capture)
     local fiend = Tracker:FindObjectForCode(capture)
     local complete = Tracker:FindObjectForCode(capture .. "complete")
+    local capturerewards = Tracker:FindObjectForCode("capturerewards").CurrentStage
+    local creationbosses = Tracker:FindObjectForCode("creationbosses").CurrentStage
     
-    if (fiend.AcquiredCount >= CaptureSpecies[capture]) then
-        complete.Active = true
+    if (capturerewards == 3 or creationbosses == 3) then
+        -- Original Creations
+        if (fiend.AcquiredCount == 1) then
+            complete.Active = true
+        else
+            complete.Active = false
+        end
+    elseif (capturerewards == 2 or creationbosses == 2) then
+        -- Species Conquest
+        if (fiend.AcquiredCount >= CaptureSpecies[capture]) then
+            complete.Active = true
+        else
+            complete.Active = false
+        end
     else
-        complete.Active = false
+        -- Area Conquest
+        if (fiend.AcquiredCount >= 1) then
+            complete.Active = true
+        else
+            complete.Active = false
+        end
     end
-    
-    
-
-    -- print("COMPLETE: " .. complete)
 end

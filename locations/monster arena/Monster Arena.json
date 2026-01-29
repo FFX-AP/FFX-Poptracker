@@ -12,7 +12,7 @@
                 "children": [
                     {
                         "name": "Besaid",
-                        "access_rules": ["@Besaid"],
+                        "access_rules": ["@Besaid/Island/Post-Village"],
                         "children": [
                             {
                                 "name": "Fiends",
@@ -21,7 +21,7 @@
                                     {
                                         "name": "Dingo (3x Wolf)",
                                         "hosted_item": "dingo",
-                                        "clear_as_group": true
+                                        "clear_as_group": false
                                     },
                                     {
                                         "name": "Condor (5x Bird)",
@@ -36,8 +36,8 @@
                                 ]
                             },
                             {
-                                "name": "More captures required for logic",
-                                "map_locations": [{ "map": "Monster Arena", "x": 670, "y": 150, "shape": "diamond", "size": 28}],
+                                "name": "Captures Required for Logic",
+                                "map_locations": [{ "map": "Monster Arena", "x": 706, "y": 130, "shape": "diamond", "size": 28}],
                                 "sections": [
                                     {
                                         "name": "Dingo",
@@ -55,133 +55,256 @@
                             }
                         ]
                     },
-                    
                     {
                         "name": "Kilika",
-                        "map_locations": [{ "map": "Monster Arena", "x": 1540, "y": 130}],
                         "access_rules": ["@Kilika"],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "Dinonix (3x Reptile)",
-                                "hosted_item": "dinonix",
-                                "clear_as_group": false
+                                "name": "Fiends",
+                                "map_locations": [{ "map": "Monster Arena", "x": 1540, "y": 130}],
+                                "sections": [
+                                    {
+                                        "name": "Dinonix (3x Reptile)",
+                                        "hosted_item": "dinonix",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Killer Bee (5x Wasp)",
+                                        "hosted_item": "killerbee",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Yellow Element (3x Elemental)",
+                                        "hosted_item": "yellowelement",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Ragora",
+                                        "hosted_item": "ragora",
+                                        "clear_as_group": false
+                                    }
+                                ]
                             },
                             {
-                                "name": "Killer Bee (5x Wasp)",
-                                "hosted_item": "killerbee",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Yellow Element (3x Elemental)",
-                                "hosted_item": "yellowelement",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Ragora",
-                                "hosted_item": "ragora",
-                                "clear_as_group": false
+                                "name": "Captures Required for Logic",
+                                "map_locations": [{ "map": "Monster Arena", "x": 1596, "y": 130, "shape": "diamond", "size": 28}],
+                                "sections": [
+                                    {
+                                        "name": "Dinonix",
+                                        "hosted_item": "dinonixcomplete"
+                                    },
+                                    {
+                                        "name": "Killer Bee",
+                                        "hosted_item": "killerbeecomplete"
+                                    },
+                                    {
+                                        "name": "Yellow Element",
+                                        "hosted_item": "yellowelementcomplete"
+                                    },
+                                    {
+                                        "name": "Ragora",
+                                        "hosted_item": "ragoracomplete"
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
                         "name": "Miihen Highroad",
-                        "map_locations": [{ "map": "Monster Arena", "x": 650, "y": 260}],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "Miihen Fang (3x Wolf)",
-                                "access_rules": ["@Miihen Highroad"],
-                                "hosted_item": "miihenfang",
-                                "clear_as_group": false
+                                "name": "Fiends",
+                                "map_locations": [{ "map": "Monster Arena", "x": 650, "y": 260}],
+                                "sections": [
+                                    {
+                                        "name": "Miihen Fang (3x Wolf)",
+                                        "access_rules": ["@Miihen Highroad"],
+                                        "hosted_item": "miihenfang",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Ipiria (3x Reptile)",
+                                        "access_rules": ["@Miihen Highroad/North", "@Mushroom Rock Road"],
+                                        "hosted_item": "ipiria",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Floating Eye (4x Eye)",
+                                        "access_rules": ["@Miihen Highroad", "@Mushroom Rock Road"],
+                                        "hosted_item": "floatingeye",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "White Element (3x Elemental)",
+                                        "access_rules": ["@Miihen Highroad"],
+                                        "hosted_item": "whiteelement",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Raldo (3x Armoured)",
+                                        "access_rules": ["@Miihen Highroad"],
+                                        "hosted_item": "raldo",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Vouivre (5x Drake)",
+                                        "access_rules": ["@Miihen Highroad/North", "@Mushroom Rock Road"],
+                                        "hosted_item": "vouivre",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Bomb (5x Bomb)",
+                                        "access_rules": ["@Miihen Highroad", "@Mushroom Rock Road"],
+                                        "hosted_item": "bomb",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Dual Horn (5x Ruminant)",
+                                        "access_rules": ["@Miihen Highroad", "@Mushroom Rock Road"],
+                                        "hosted_item": "dualhorn",
+                                        "clear_as_group": false
+                                    }
+                                ]
                             },
                             {
-                                "name": "Ipiria (3x Reptile)",
-                                "access_rules": ["@Miihen Highroad/North", "@Mushroom Rock Road"],
-                                "hosted_item": "ipiria",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Floating Eye (4x Eye)",
-                                "access_rules": ["@Miihen Highroad"],
-                                "hosted_item": "floatingeye",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "White Element (3x Elemental)",
-                                "access_rules": ["@Miihen Highroad"],
-                                "hosted_item": "whiteelement",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Raldo (3x Armoured)",
-                                "access_rules": ["@Miihen Highroad"],
-                                "hosted_item": "raldo",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Vouivre (5x Drake)",
-                                "access_rules": ["@Miihen Highroad/North", "@Mushroom Rock Road"],
-                                "hosted_item": "vouivre",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Bomb (5x Bomb)",
-                                "access_rules": ["@Miihen Highroad", "@Mushroom Rock Road"],
-                                "hosted_item": "bomb",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Dual Horn (5x Ruminant)",
-                                "access_rules": ["@Miihen Highroad"],
-                                "hosted_item": "dualhorn",
-                                "clear_as_group": false
+                                "name": "Captures Required for Logic",
+                                "map_locations": [{ "map": "Monster Arena", "x": 706, "y": 260, "shape": "diamond", "size": 28}],
+                                "sections": [
+                                    {
+                                        "name": "Miihen Fang",
+                                        "access_rules": ["@Miihen Highroad"],
+                                        "hosted_item": "miihenfangcomplete"
+                                    },
+                                    {
+                                        "name": "Ipiria",
+                                        "access_rules": ["@Miihen Highroad/North", "@Mushroom Rock Road"],
+                                        "hosted_item": "ipiriacomplete"
+                                    },
+                                    {
+                                        "name": "Floating Eye",
+                                        "access_rules": ["@Miihen Highroad", "@Mushroom Rock Road"],
+                                        "hosted_item": "floatingeyecomplete"
+                                    },
+                                    {
+                                        "name": "White Element",
+                                        "access_rules": ["@Miihen Highroad"],
+                                        "hosted_item": "whiteelementcomplete"
+                                    },
+                                    {
+                                        "name": "Raldo",
+                                        "access_rules": ["@Miihen Highroad"],
+                                        "hosted_item": "raldocomplete"
+                                    },
+                                    {
+                                        "name": "Vouivre",
+                                        "access_rules": ["@Miihen Highroad/North", "@Mushroom Rock Road"],
+                                        "hosted_item": "vouivrecomplete"
+                                    },
+                                    {
+                                        "name": "Bomb",
+                                        "access_rules": ["@Miihen Highroad", "@Mushroom Rock Road"],
+                                        "hosted_item": "bombcomplete"
+                                    },
+                                    {
+                                        "name": "Dual Horn",
+                                        "access_rules": ["@Miihen Highroad", "@Mushroom Rock Road"],
+                                        "hosted_item": "dualhorncomplete"
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
                         "name": "Mushroom Rock Road",
-                        "map_locations": [{ "map": "Monster Arena", "x": 1540, "y": 260}],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "Raptor (3x Reptile)",
-                                "access_rules": ["@Mushroom Rock Road", "@Djose"],
-                                "hosted_item": "raptor",
-                                "clear_as_group": false
+                                "name": "Fiends",
+                                "map_locations": [{ "map": "Monster Arena", "x": 1540, "y": 260}],
+                                "sections": [
+                                    {
+                                        "name": "Raptor (3x Reptile)",
+                                        "access_rules": ["@Mushroom Rock Road", "@Djose"],
+                                        "hosted_item": "raptor",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Gandarewa (5x Imp)",
+                                        "access_rules": ["@Mushroom Rock Road", "@Djose", "@Moonflow"],
+                                        "hosted_item": "gandarewa",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Thunder Flan (3x Flan)",
+                                        "access_rules": ["@Miihen Highroad/North", "@Mushroom Rock Road"],
+                                        "hosted_item": "thunderflan",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Red Element (3x Elemental)",
+                                        "access_rules": ["@Mushroom Rock Road"],
+                                        "hosted_item": "redelement",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Lamashtu (5x Drake)",
+                                        "access_rules": ["@Mushroom Rock Road", "@Djose"],
+                                        "hosted_item": "lamashtu",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Funguar (5x Fungus)",
+                                        "access_rules": ["@Mushroom Rock Road", "@Djose"],
+                                        "hosted_item": "funguar",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Garuda",
+                                        "access_rules": ["@Mushroom Rock Road"],
+                                        "hosted_item": "garuda",
+                                        "clear_as_group": false
+                                    }
+                                ]
                             },
                             {
-                                "name": "Gandarewa (5x Imp)",
-                                "access_rules": ["@Mushroom Rock Road", "@Djose", "@Moonflow"],
-                                "hosted_item": "gandarewa",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Thunder Flan (3x Flan)",
-                                "access_rules": ["@Miihen Highroad/North", "@Mushroom Rock Road"],
-                                "hosted_item": "thunderflan",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Red Element (3x Elemental)",
-                                "access_rules": ["@Mushroom Rock Road"],
-                                "hosted_item": "redelement",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Lamashtu (5x Drake)",
-                                "access_rules": ["@Mushroom Rock Road", "@Djose"],
-                                "hosted_item": "lamashtu",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Funguar (5x Fungus)",
-                                "access_rules": ["@Mushroom Rock Road", "@Djose"],
-                                "hosted_item": "funguar",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Garuda",
-                                "access_rules": ["@Mushroom Rock Road"],
-                                "hosted_item": "garuda",
-                                "clear_as_group": false
+                                "name": "Captures Required for Logic",
+                                "map_locations": [{ "map": "Monster Arena", "x": 1596, "y": 260, "shape": "diamond", "size": 28}],
+                                "sections": [
+                                    {
+                                        "name": "Raptor",
+                                        "access_rules": ["@Mushroom Rock Road", "@Djose"],
+                                        "hosted_item": "raptorcomplete"
+                                    },
+                                    {
+                                        "name": "Gandarewa",
+                                        "access_rules": ["@Mushroom Rock Road", "@Djose", "@Moonflow"],
+                                        "hosted_item": "gandarewacomplete"
+                                    },
+                                    {
+                                        "name": "Thunder Flan",
+                                        "access_rules": ["@Miihen Highroad/North", "@Mushroom Rock Road"],
+                                        "hosted_item": "thunderflancomplete"
+                                    },
+                                    {
+                                        "name": "Red Element",
+                                        "access_rules": ["@Mushroom Rock Road"],
+                                        "hosted_item": "redelementcomplete"
+                                    },
+                                    {
+                                        "name": "Lamashtu",
+                                        "access_rules": ["@Mushroom Rock Road", "@Djose"],
+                                        "hosted_item": "lamashtucomplete"
+                                    },
+                                    {
+                                        "name": "Funguar",
+                                        "access_rules": ["@Mushroom Rock Road", "@Djose"],
+                                        "hosted_item": "funguarcomplete"
+                                    },
+                                    {
+                                        "name": "Garuda",
+                                        "access_rules": ["@Mushroom Rock Road"],
+                                        "hosted_item": "garudacomplete"
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -800,7 +923,7 @@
                         "name": "Defeat",
                         "map_locations": [{ "map": "Monster Arena", "x": 1540, "y": 915}],
                         "access_rules": ["^$CheckAccessLevel|arenabosses, [$hasMinimumParty|3]"],
-                        "visibility_rules": ["capturebossesarea", "capturebossesspecies", "capturebossesriginal"],
+                        "visibility_rules": ["creationbossesarea", "creationbossesspecies", "creationbossesriginal"],
                         "sections": [
                             {
                                 "name": "Stratoavis",
@@ -996,7 +1119,7 @@
                         "name": "Defeat",
                         "map_locations": [{ "map": "Monster Arena", "x": 650, "y": 1045}],
                         "access_rules": ["^$CheckAccessLevel|arenabosses, [$hasMinimumParty|3]"],
-                        "visibility_rules": ["capturebossesspecies", "capturebossesriginal"],
+                        "visibility_rules": ["creationbossesspecies", "creationbossesriginal"],
                         "sections": [
                             {
                                 "name": "Fenrir",
@@ -1132,7 +1255,7 @@
                         "name": "Defeat",
                         "map_locations": [{ "map": "Monster Arena", "x": 1540, "y": 1045}],
                         "access_rules": ["^$CheckAccessLevel|superbosses, [$hasMinimumParty|3]"],
-                        "visibility_rules": ["capturebossesriginal"],
+                        "visibility_rules": ["creationbossesriginal"],
                         "sections": [
                             {
                                 "name": "Earth Eater",

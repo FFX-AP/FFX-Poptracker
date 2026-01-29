@@ -40,9 +40,10 @@ ScriptHost:AddWatchForCode("Update Region Access Table", "logicdifficulty", Upda
 ScriptHost:AddWatchForCode("Update Al Bhed Primer Total", "albhedprimer", UpdatePrimerTotal)
 
 -- Capture Watches
-for i = 0, 103 do
-    capture = AllCaptures[i]
+for _, capture in ipairs(AllCaptures) do
     if (capture ~= "") then
         ScriptHost:AddWatchForCode("Capture: " .. capture, capture, OnCapture)
     end
 end
+ScriptHost:AddWatchForCode("Recalculate Capture Rewards Logic", "capturerewards", RecalcCaptureCompletion)
+ScriptHost:AddWatchForCode("Recalculate Arena Bosses Logic", "creationbosses", RecalcCaptureCompletion)
