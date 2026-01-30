@@ -228,12 +228,12 @@
                         "children": [
                             {
                                 "name": "South End of Narrow Path (Chest)",
-                                "map_locations": [{ "map": "Lake Macalania", "x": 300, "y": 290}],
+                                "map_locations": [{ "map": "Lake Macalania", "x": 298, "y": 290}],
                                 "sections": [{"name": "Lv. 1 Key Sphere x1"}]
                             },
                             {
                                 "name": "Near North Exit (Chest)",
-                                "map_locations": [{ "map": "Lake Macalania", "x": 280, "y": 50}],
+                                "map_locations": [{ "map": "Lake Macalania", "x": 275, "y": 55}],
                                 "sections": [{"name": "Mega-Potion x1"}]
                             },
                             {

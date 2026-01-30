@@ -118,7 +118,7 @@
                     },
                     {
                         "name": "Cloister of Trials",
-                        "map_locations": [{ "map": "Zanarkand Temple", "x": 380, "y": 420}],
+                        "map_locations": [{ "map": "Zanarkand Temple", "x": 381, "y": 420}],
                         "access_rules": ["yunalesca, [$hasMinimumParty|3]"],
                         "sections": [
                             { 
