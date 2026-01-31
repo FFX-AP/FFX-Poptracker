@@ -120,12 +120,24 @@ function applySlotData(slot_data)
     end
 
     
-    Tracker:FindObjectForCode("requiredprimers").AcquiredCount = slot_data["required_primers"]
-    Tracker:FindObjectForCode("minigames").Active = slot_data["mini_games"]
-    Tracker:FindObjectForCode("recruitsanity").Active = slot_data["recruit_sanity"]
-    Tracker:FindObjectForCode("capturesanity").Active = slot_data["capture_sanity"]
-    Tracker:FindObjectForCode("superbosses").Active = slot_data["super_bosses"]
-    Tracker:FindObjectForCode("logicdifficulty").AcquiredCount = slot_data["logic_difficulty"]
+    if (slot_data["required_primers"] ~= nil) then
+        Tracker:FindObjectForCode("requiredprimers").AcquiredCount = slot_data["required_primers"]    
+    end
+    if (slot_data["capture_sanity"] ~= nil) then
+        Tracker:FindObjectForCode("capturesanity").Active = slot_data["capture_sanity"]
+    end
+    if (slot_data["mini_games"] ~= nil) then
+        Tracker:FindObjectForCode("minigames").Active = slot_data["mini_games"]
+    end
+    if (slot_data["recruit_sanity"] ~= nil) then
+        Tracker:FindObjectForCode("recruitsanity").Active = slot_data["recruit_sanity"]
+    end
+    if (slot_data["super_bosses"] ~= nil) then
+        Tracker:FindObjectForCode("superbosses").Active = slot_data["super_bosses"]
+    end
+    if (slot_data["logic_difficulty"] ~= nil) then
+        Tracker:FindObjectForCode("logicdifficulty").AcquiredCount = slot_data["logic_difficulty"]
+    end
 end
 
 function onClear(slot_data)

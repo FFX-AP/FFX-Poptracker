@@ -310,194 +310,373 @@
                     },
                     {
                         "name": "Djose Road",
-                        "map_locations": [{ "map": "Monster Arena", "x": 650, "y": 390}],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "Garm (3x Wolf)",
-                                "access_rules": ["@Djose", "@Moonflow"],
-                                "hosted_item": "garm",
-                                "clear_as_group": false
+                                "name": "Fiends",
+                                "map_locations": [{ "map": "Monster Arena", "x": 650, "y": 390}],
+                                "sections": [
+                                    {
+                                        "name": "Garm (3x Wolf)",
+                                        "access_rules": ["@Djose", "@Moonflow"],
+                                        "hosted_item": "garm",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Simurgh (5x Bird)",
+                                        "access_rules": ["@Djose"],
+                                        "hosted_item": "simurgh",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Bite Bug (4x Hornet)",
+                                        "access_rules": ["@Djose", "@Moonflow"],
+                                        "hosted_item": "bitebug",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Snow Flan (3x Flan)",
+                                        "access_rules": ["@Djose"],
+                                        "hosted_item": "snowflan",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Bunyip (3x Helm)",
+                                        "access_rules": ["@Djose", "@Moonflow"],
+                                        "hosted_item": "bunyip",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Basilisk",
+                                        "access_rules": ["@Djose"],
+                                        "hosted_item": "basilisk",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Ochu",
+                                        "access_rules": ["@Moonflow"],
+                                        "hosted_item": "ochu",
+                                        "clear_as_group": false
+                                    }
+                                ]
                             },
                             {
-                                "name": "Simurgh (5x Bird)",
-                                "access_rules": ["@Djose"],
-                                "hosted_item": "simurgh",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Bite Bug (4x Hornet)",
-                                "access_rules": ["@Djose", "@Moonflow"],
-                                "hosted_item": "bitebug",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Snow Flan (3x Flan)",
-                                "access_rules": ["@Djose"],
-                                "hosted_item": "snowflan",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Bunyip (3x Helm)",
-                                "access_rules": ["@Djose", "@Moonflow"],
-                                "hosted_item": "bunyip",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Basilisk",
-                                "access_rules": ["@Djose"],
-                                "hosted_item": "basilisk",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Ochu",
-                                "access_rules": ["@Moonflow"],
-                                "hosted_item": "ochu",
-                                "clear_as_group": false
+                                "name": "Captures Required for Logic",
+                                "map_locations": [{ "map": "Monster Arena", "x": 706, "y": 390, "shape": "diamond", "size": 28}],
+                                "sections": [
+                                    {
+                                        "name": "Garm",
+                                        "access_rules": ["@Djose", "@Moonflow"],
+                                        "hosted_item": "garmcomplete"
+                                    },
+                                    {
+                                        "name": "Simurgh",
+                                        "access_rules": ["@Djose"],
+                                        "hosted_item": "simurghcomplete"
+                                    },
+                                    {
+                                        "name": "Bite Bug",
+                                        "access_rules": ["@Djose", "@Moonflow"],
+                                        "hosted_item": "bitebugcomplete"
+                                    },
+                                    {
+                                        "name": "Snow Flan",
+                                        "access_rules": ["@Djose"],
+                                        "hosted_item": "snowflancomplete"
+                                    },
+                                    {
+                                        "name": "Bunyip",
+                                        "access_rules": ["@Djose", "@Moonflow"],
+                                        "hosted_item": "bunyipcomplete"
+                                    },
+                                    {
+                                        "name": "Basilisk",
+                                        "access_rules": ["@Djose"],
+                                        "hosted_item": "basiliskcomplete"
+                                    },
+                                    {
+                                        "name": "Ochu",
+                                        "access_rules": ["@Moonflow"],
+                                        "hosted_item": "ochucomplete"
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
                         "name": "Thunder Plains",
-                        "map_locations": [{ "map": "Monster Arena", "x": 1540, "y": 390}],
                         "access_rules": ["@Thunder Plains"],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "Melusine (3x Reptile)",
-                                "hosted_item": "melusine",
-                                "clear_as_group": false
+                                "name": "Fiends",
+                                "map_locations": [{ "map": "Monster Arena", "x": 1540, "y": 390}],
+                                "sections": [
+                                    {
+                                        "name": "Melusine (3x Reptile)",
+                                        "hosted_item": "melusine",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Aerouge (4x Imp)",
+                                        "hosted_item": "aerouge",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Buer (4x Eye)",
+                                        "hosted_item": "buer",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Gold Element (3x Elemental)",
+                                        "hosted_item": "goldelement",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Kusariqqu (5x Drake)",
+                                        "hosted_item": "kusariqqu",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Larva",
+                                        "hosted_item": "larva",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Iron Giant (10x Iron Clad)",
+                                        "hosted_item": "irongiant",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Qactuar",
+                                        "hosted_item": "qactuar",
+                                        "clear_as_group": false
+                                    }
+                                ]
                             },
                             {
-                                "name": "Aerouge (4x Imp)",
-                                "hosted_item": "aerouge",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Buer (4x Eye)",
-                                "hosted_item": "buer",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Gold Element (3x Elemental)",
-                                "hosted_item": "goldelement",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Kusariqqu (5x Drake)",
-                                "hosted_item": "kusariqqu",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Larva",
-                                "hosted_item": "larva",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Iron Giant (10x Iron Clad)",
-                                "hosted_item": "irongiant",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Qactuar",
-                                "hosted_item": "qactuar",
-                                "clear_as_group": false
+                                "name": "Captures Required for Logic",
+                                "map_locations": [{ "map": "Monster Arena", "x": 1596, "y": 390, "shape": "diamond", "size": 28}],
+                                "sections": [
+                                    {
+                                        "name": "Melusine",
+                                        "hosted_item": "melusine"
+                                    },
+                                    {
+                                        "name": "Aerouge",
+                                        "hosted_item": "aerouge"
+                                    },
+                                    {
+                                        "name": "Buer",
+                                        "hosted_item": "buer"
+                                    },
+                                    {
+                                        "name": "Gold Element",
+                                        "hosted_item": "goldelement"
+                                    },
+                                    {
+                                        "name": "Kusariqqu",
+                                        "hosted_item": "kusariqqu"
+                                    },
+                                    {
+                                        "name": "Larva",
+                                        "hosted_item": "larva"
+                                    },
+                                    {
+                                        "name": "Iron Giant",
+                                        "hosted_item": "irongiant"
+                                    },
+                                    {
+                                        "name": "Qactuar",
+                                        "hosted_item": "qactuar"
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
                         "name": "Macalania",
-                        "map_locations": [{ "map": "Monster Arena", "x": 650, "y": 520}],
                         "access_rules": ["@Macalania"],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "Snow Wolf (3x Wolf)",
-                                "access_rules": ["@Macalania/Lake"],
-                                "hosted_item": "snowwolf",
-                                "clear_as_group": false
+                                "name": "Fiends",
+                                "map_locations": [{ "map": "Monster Arena", "x": 650, "y": 520}],
+                                "sections": [
+                                    {
+                                        "name": "Snow Wolf (3x Wolf)",
+                                        "access_rules": ["@Macalania/Lake"],
+                                        "hosted_item": "snowwolf",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Iguion (3x Reptile)",
+                                        "hosted_item": "iguion",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Wasp (4x Wasp)",
+                                        "hosted_item": "wasp",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Evil Eye (4x Eye)",
+                                        "access_rules": ["@Macalania/Lake"],
+                                        "hosted_item": "evileye",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Ice Flan (3x Flan)",
+                                        "access_rules": ["@Macalania/Lake"],
+                                        "hosted_item": "iceflan",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Blue Element (3x Elemental)",
+                                        "hosted_item": "blueelement",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Murussu (3x Helm)",
+                                        "hosted_item": "murussu",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Mafdet (3x Helm)",
+                                        "access_rules": ["@Macalania/Lake"],
+                                        "hosted_item": "mafdet",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Xiphos",
+                                        "hosted_item": "xiphos",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Chimera",
+                                        "hosted_item": "chimera",
+                                        "clear_as_group": false
+                                    }
+                                ]
                             },
                             {
-                                "name": "Iguion (3x Reptile)",
-                                "hosted_item": "iguion",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Wasp (4x Wasp)",
-                                "hosted_item": "wasp",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Evil Eye (4x Eye)",
-                                "access_rules": ["@Macalania/Lake"],
-                                "hosted_item": "evileye",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Ice Flan (3x Flan)",
-                                "access_rules": ["@Macalania/Lake"],
-                                "hosted_item": "iceflan",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Blue Element (3x Elemental)",
-                                "hosted_item": "blueelement",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Murussu (3x Helm)",
-                                "hosted_item": "murussu",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Mafdet (3x Helm)",
-                                "access_rules": ["@Macalania/Lake"],
-                                "hosted_item": "mafdet",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Xiphos",
-                                "hosted_item": "xiphos",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Chimera",
-                                "hosted_item": "chimera",
-                                "clear_as_group": false
+                                "name": "Captures Required for Logic",
+                                "map_locations": [{ "map": "Monster Arena", "x": 706, "y": 520, "shape": "diamond", "size": 28}],
+                                "sections": [
+                                    {
+                                        "name": "Snow Wolf",
+                                        "access_rules": ["@Macalania/Lake"],
+                                        "hosted_item": "snowwolf"
+                                    },
+                                    {
+                                        "name": "Iguion",
+                                        "hosted_item": "iguion"
+                                    },
+                                    {
+                                        "name": "Wasp",
+                                        "hosted_item": "wasp"
+                                    },
+                                    {
+                                        "name": "Evil Eye",
+                                        "access_rules": ["@Macalania/Lake"],
+                                        "hosted_item": "evileye"
+                                    },
+                                    {
+                                        "name": "Ice Flan",
+                                        "access_rules": ["@Macalania/Lake"],
+                                        "hosted_item": "iceflan"
+                                    },
+                                    {
+                                        "name": "Blue Element",
+                                        "hosted_item": "blueelement"
+                                    },
+                                    {
+                                        "name": "Murussu",
+                                        "hosted_item": "murussu"
+                                    },
+                                    {
+                                        "name": "Mafdet",
+                                        "access_rules": ["@Macalania/Lake"],
+                                        "hosted_item": "mafdet"
+                                    },
+                                    {
+                                        "name": "Xiphos",
+                                        "hosted_item": "xiphos"
+                                    },
+                                    {
+                                        "name": "Chimera",
+                                        "hosted_item": "chimera"
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
                         "name": "Bikanel",
-                        "map_locations": [{ "map": "Monster Arena", "x": 1540, "y": 520}],
                         "access_rules": ["@Bikanel, zuboss, [$hasMinimumParty|3]"],
                         "sections": [
                             {
-                                "name": "Sand Wolf (3x Wolf)",
-                                "hosted_item": "sandwolf",
-                                "clear_as_group": false
+                                "name": "Fiends",
+                                "map_locations": [{ "map": "Monster Arena", "x": 1540, "y": 520}],
+                                "sections": [
+                                    {
+                                        "name": "Sand Wolf (3x Wolf)",
+                                        "hosted_item": "sandwolf",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Alcyone (5x Bird)",
+                                        "hosted_item": "alcyone",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Mushussu (5x Drake)",
+                                        "hosted_item": "mushussu",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Zu",
+                                        "hosted_item": "zu",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Sand Worm",
+                                        "hosted_item": "sandworm",
+                                        "clear_as_group": false
+                                    },
+                                    {
+                                        "name": "Cactuar",
+                                        "hosted_item": "cactuar",
+                                        "clear_as_group": false
+                                    }
+                                ]
                             },
                             {
-                                "name": "Alcyone (5x Bird)",
-                                "hosted_item": "alcyone",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Mushussu (5x Drake)",
-                                "hosted_item": "mushussu",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Zu",
-                                "hosted_item": "zu",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Sand Worm",
-                                "hosted_item": "sandworm",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Cactuar",
-                                "hosted_item": "cactuar",
-                                "clear_as_group": false
+                                "name": "Captures Required for Logic",
+                                "map_locations": [{ "map": "Monster Arena", "x": 1596, "y": 520, "shape": "diamond", "size": 28}],
+                                "sections": [
+                                    {
+                                        "name": "Sand Wolf",
+                                        "hosted_item": "sandwolf"
+                                    },
+                                    {
+                                        "name": "Alcyone",
+                                        "hosted_item": "alcyone"
+                                    },
+                                    {
+                                        "name": "Mushussu",
+                                        "hosted_item": "mushussu"
+                                    },
+                                    {
+                                        "name": "Zu",
+                                        "hosted_item": "zu"
+                                    },
+                                    {
+                                        "name": "Sand Worm",
+                                        "hosted_item": "sandworm"
+                                    },
+                                    {
+                                        "name": "Cactuar",
+                                        "hosted_item": "cactuar"
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -633,7 +812,7 @@
                             },
                             {
                                 "name": "Ahriman (4x Eye)",
-                                "access_rules": ["@Mt. Gagazet/Inside"],
+                                "access_rules": ["@Mt. Gagazet/Inside", "@Zanarkand"],
                                 "hosted_item": "ahriman",
                                 "clear_as_group": false
                             },

@@ -275,7 +275,6 @@ function RecalcCaptureCompletion()
 end
 
 function OnCapture(capture)
-    print("ONCAPTURE: " .. capture)
     local fiend = Tracker:FindObjectForCode(capture)
     local complete = Tracker:FindObjectForCode(capture .. "complete")
     local capturerewards = Tracker:FindObjectForCode("capturerewards").CurrentStage
@@ -283,7 +282,7 @@ function OnCapture(capture)
     
     if (capturerewards == 3 or creationbosses == 3) then
         -- Original Creations
-        if (fiend.AcquiredCount == 1) then
+        if (fiend.AcquiredCount == 10) then
             complete.Active = true
         else
             complete.Active = false
