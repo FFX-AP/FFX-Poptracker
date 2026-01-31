@@ -3,39 +3,109 @@
         "name": "Monster Arena - Djose Road",
         "children": [
             {
-                "name": "Garm (3x Wolf)",
-                "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 752, "y": 128}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Djose Road/Garm (3x Wolf)"}]
+                "name": "Garm",
+                "children": [
+                    {
+                        "name": "Garm (3x Wolf)",
+                        "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 752, "y": 128}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Djose Road/Fiends/Garm (3x Wolf)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 688, "y": 128, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Garm", "ref": "Monster Arena/Fiend Capture/Djose Road/Captures Required for Logic/Garm"}]
+                    }
+                ]
             },
             {
-                "name": "Simurgh (5x Bird)",
-                "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 752, "y": 278}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Djose Road/Simurgh (5x Bird)"}]
+                "name": "Simurgh",
+                "children": [
+                    {
+                        "name": "Simurgh (5x Bird)",
+                        "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 752, "y": 278}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Djose Road/Fiends/Simurgh (5x Bird)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 688, "y": 278, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Simurgh", "ref": "Monster Arena/Fiend Capture/Djose Road/Captures Required for Logic/Simurgh"}]
+                    }
+                ]
             },
             {
-                "name": "Bite Bug (4x Hornet)",
-                "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 752, "y": 428}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Djose Road/Bite Bug (4x Hornet)"}]
+                "name": "Bite Bug",
+                "children": [
+                    {
+                        "name": "Bite Bug (4x Hornet)",
+                        "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 752, "y": 428}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Djose Road/Fiends/Bite Bug (4x Hornet)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 688, "y": 428, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Bite Bug", "ref": "Monster Arena/Fiend Capture/Djose Road/Captures Required for Logic/Bite Bug"}]
+                    }
+                ]
             },
             {
-                "name": "Snow Flan (3x Flan)",
-                "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 752, "y": 578}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Djose Road/Snow Flan (3x Flan)"}]
+                "name": "Snow Flan",
+                "children": [
+                    {
+                        "name": "Snow Flan (3x Flan)",
+                        "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 752, "y": 578}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Djose Road/Fiends/Snow Flan (3x Flan)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 688, "y": 578, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Snow Flan", "ref": "Monster Arena/Fiend Capture/Djose Road/Captures Required for Logic/Snow Flan"}]
+                    }
+                ]
             },
             {
-                "name": "Bunyip (3x Helm)",
-                "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 752, "y": 728}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Djose Road/Bunyip (3x Helm)"}]
+                "name": "Bunyip",
+                "children": [
+                    {
+                        "name": "Bunyip (3x Helm)",
+                        "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 752, "y": 728}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Djose Road/Fiends/Bunyip (3x Helm)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 688, "y": 728, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Bunyip", "ref": "Monster Arena/Fiend Capture/Djose Road/Captures Required for Logic/Bunyip"}]
+                    }
+                ]
             },
             {
                 "name": "Basilisk",
-                "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 752, "y": 878}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Djose Road/Basilisk"}]
+                "children": [
+                    {
+                        "name": "Basilisk",
+                        "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 752, "y": 878}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Djose Road/Fiends/Basilisk"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 688, "y": 878, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Basilisk", "ref": "Monster Arena/Fiend Capture/Djose Road/Captures Required for Logic/Basilisk"}]
+                    }
+                ]
             },
             {
                 "name": "Ochu",
-                "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 752, "y": 1028}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Djose Road/Ochu"}]
+                "children": [
+                    {
+                        "name": "Ochu",
+                        "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 752, "y": 1028}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Djose Road/Fiends/Ochu"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Djose Road", "x": 688, "y": 1028, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Ochu", "ref": "Monster Arena/Fiend Capture/Djose Road/Captures Required for Logic/Ochu"}]
+                    }
+                ]
             }
         ]
     }

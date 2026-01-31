@@ -3,44 +3,124 @@
         "name": "Monster Arena - Thunder Plains",
         "children": [
             {
-                "name": "Melusine (3x Reptile)",
-                "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 752, "y": 128}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Melusine (3x Reptile)"}]
+                "name": "Melusine",
+                "children": [
+                    {
+                        "name": "Melusine (3x Reptile)",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 752, "y": 128}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Melusine (3x Reptile)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 688, "y": 128, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Melusine", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Melusine"}]
+                    }
+                ]
             },
             {
-                "name": "Aerouge (4x Imp)",
-                "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 752, "y": 278}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Aerouge (4x Imp)"}]
+                "name": "Aerouge",
+                "children": [
+                    {
+                        "name": "Aerouge (4x Imp)",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 752, "y": 278}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Aerouge (4x Imp)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 688, "y": 278, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Aerouge", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Aerouge"}]
+                    }
+                ]
             },
             {
-                "name": "Buer (4x Eye)",
-                "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 752, "y": 428}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Buer (4x Eye)"}]
+                "name": "Buer",
+                "children": [
+                    {
+                        "name": "Buer (4x Eye)",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 752, "y": 428}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Buer (4x Eye)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 688, "y": 428, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Buer", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Buer"}]
+                    }
+                ]
             },
             {
-                "name": "Gold Element (3x Elemental)",
-                "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 752, "y": 578}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Gold Element (3x Elemental)"}]
+                "name": "Gold Element",
+                "children": [
+                    {
+                        "name": "Gold Element (3x Elemental)",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 752, "y": 578}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Gold Element (3x Elemental)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 688, "y": 578, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Gold Element", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Gold Element"}]
+                    }
+                ]
             },
             {
-                "name": "Kusariqqu (5x Drake)",
-                "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 752, "y": 728}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Kusariqqu (5x Drake)"}]
+                "name": "Kusariqqu",
+                "children": [
+                    {
+                        "name": "Kusariqqu (5x Drake)",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 752, "y": 728}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Kusariqqu (5x Drake)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 688, "y": 728, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Kusariqqu", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Kusariqqu"}]
+                    }
+                ]
             },
             {
                 "name": "Larva",
-                "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 752, "y": 878}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Larva"}]
+                "children": [
+                    {
+                        "name": "Larva",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 752, "y": 878}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Larva"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 688, "y": 878, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Larva", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Larva"}]
+                    }
+                ]
             },
             {
-                "name": "Iron Giant (10x Iron Clad)",
-                "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 752, "y": 1028}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Iron Giant (10x Iron Clad)"}]
+                "name": "Iron Giant",
+                "children": [
+                    {
+                        "name": "Iron Giant (10x Iron Clad)",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 752, "y": 1028}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Iron Giant (10x Iron Clad)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 688, "y": 1028, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Iron Giant", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Iron Giant"}]
+                    }
+                ]
             },
             {
                 "name": "Qactuar",
-                "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 1522, "y": 128}],
-                "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Qactuar"}]
+                "children": [
+                    {
+                        "name": "Qactuar",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 1522, "y": 128}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Qactuar"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Thunder Plains", "x": 1458, "y": 128, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Qactuar", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Qactuar"}]
+                    }
+                ]
             }
         ]
     }

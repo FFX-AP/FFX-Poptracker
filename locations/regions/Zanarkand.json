@@ -31,6 +31,11 @@
                                 "clear_as_group": false
                             },
                             {
+                                "name": "Ahriman (4x Eye)",
+                                "hosted_item": "ahriman",
+                                "clear_as_group": false
+                            },
+                            {
                                 "name": "Dark Flan (3x Flan)",
                                 "hosted_item": "darkflan",
                                 "clear_as_group": false

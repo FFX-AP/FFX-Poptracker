@@ -237,7 +237,7 @@
             },
             {
                 "name": "Home",
-                "access_rules": ["[$hasMinimumParty|3]"],
+                "access_rules": ["zuboss, [$hasMinimumParty|3]"],
                 "children": [
                     {
                         "name": "Keyakku, on Ground (NPC)",
