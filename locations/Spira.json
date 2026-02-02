@@ -644,83 +644,83 @@
                 "map_locations": [{ "map": "Spira", "x": 736, "y": 687}],
                 "sections": [
                     {
-                        "name": "Highroad - Phoenix Down x2 (Chest)",
-                        "ref": "Djose/Highroad/South End, West Side (Chest)/Phoenix Down x2"
+                        "name": "Highroad - South End, West Side (Chest)",
+                        "ref": "Djose/Highroad/Highroad - South End, West Side (Chest)/Phoenix Down x2"
                     },
                     {
-                        "name": "Highroad - Al Bhed Primer XI",
+                        "name": "Highroad - South End, Silver/Purple Armor (NPC)",
+                        "ref": "Djose/Highroad/Highroad - South End, Silver/Purple Armor (NPC)/Variable Steel"
+                    },
+                    {
+                        "name": "Highroad - South End, Behind Left Pillar (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XI/Djose"
                     },
                     {
-                        "name": "Highroad - Soft Ring (NPC)",
-                        "ref": "Djose/Highroad/South End, Purple Armor (NPC)/Soft Ring"
+                        "name": "Highroad - South End, Purple Armor (NPC)",
+                        "ref": "Djose/Highroad/Highroad - South End, Purple Armor (NPC)/Soft Ring"
                     },
                     {
-                        "name": "Highroad - Ether x1 (NPC)",
-                        "ref": "Djose/Highroad/Midway, Yellow Armor (NPC)/Ether x1"
+                        "name": "Highroad - Midway, Yellow Armor (NPC)",
+                        "ref": "Djose/Highroad/Highroad - Midway, Yellow Armor (NPC)/Ether x1"
                     },
                     {
-                        "name": "Highroad - Hi-Potion x1 (NPC)",
-                        "ref": "Djose/Highroad/Monk Pacing Between Crusaders (NPC)/Hi-Potion x1"
+                        "name": "Highroad - Monk Pacing Between Crusaders (NPC)",
+                        "ref": "Djose/Highroad/Highroad - Monk Pacing Between Crusaders (NPC)/Hi-Potion x1"
                     },
                     {
-                        "name": "Highroad - Mega-Potion x1 (NPC)",
-                        "ref": "Djose/Highroad/North End, Purple Armor (NPC)/Mega-Potion x1"
+                        "name": "Highroad - North End, Purple Armor (NPC)",
+                        "ref": "Djose/Highroad/Highroad - North End, Purple Armor (NPC)/Mega-Potion x1"
                     },
                     {
-                        "name": "Highroad - Variable Steel (NPC)",
-                        "ref": "Djose/Highroad/South End, Silver & Purple Armor (NPC)/Variable Steel"
+                        "name": "Highroad - Midway, Hidden in Western Alcove (Chest)",
+                        "ref": "Djose/Highroad/Highroad - Midway, Hidden in Western Alcove (Chest)/Bright Bangle"
                     },
                     {
-                        "name": "Highroad - Bright Bangle (Chest)",
-                        "ref": "Djose/Highroad/Midway, Hidden in Western Alcove (Chest)/Bright Bangle"
+                        "name": "Temple - Northeast Corner (Chest)",
+                        "ref": "Djose/Temple/Temple - Northeast Corner (Chest)/Ability Sphere x4"
                     },
                     {
-                        "name": "Temple - Ability Sphere x4 (Chest)",
-                        "ref": "Djose/Temple/Northeast Corner (Chest)/Ability Sphere x4"
+                        "name": "Temple - West Behind Lucil's Squad (Chest)",
+                        "ref": "Djose/Temple/Temple - West Behind Lucil's Squad (Chest)/4000 gil"
                     },
                     {
-                        "name": "Temple - 4000 gil (Chest)",
-                        "ref": "Djose/Temple/West Behind Lucil's Squad (Chest)/4000 gil"
+                        "name": "Great Hall - In Front of Nuns' Chamber (Chest)",
+                        "ref": "Djose/Temple/Great Hall - In Front of Nuns' Chamber (Chest)/Ether x1"
                     },
                     {
-                        "name": "Temple - Ether x1 (Chest)",
-                        "ref": "Djose/Temple/In Front of Nuns' Chamber (Chest)/Ether x1"
-                    },
-                    {
-                        "name": "Temple - Remedy x1 (Chest)",
+                        "name": "Nuns' Chamber (Chest)",
                         "ref": "Djose/Temple/Nuns' Chamber (Chest)/Remedy x1"
                     },
                     {
-                        "name": "Temple - Mega Phoenix x1 (Chest)",
+                        "name": "Monks' Chamber (Chest)",
                         "ref": "Djose/Temple/Monks' Chamber (Chest)/Mega Phoenix x1"
                     },
                     {
-                        "name": "Temple - Cloister of Trials",
-                        "ref": "Djose/Temple/Cloister of Trials/Destruction Sphere - Magic Sphere"
+                        "name": "Trial - Destruction Sphere (Chest)",
+                        "ref": "Djose/Temple/Trial - Destruction Sphere (Chest)/Destruction Sphere - Magic Sphere"
                     },
                     {
-                        "name": "Temple - Ixion",
+                        "name": "Name Ixion (Event)",
                         "ref": "Party Member/Aeon/Ixion"
                     },
                     {
-                        "name": "Temple - Switch Hitter (Chest)",
-                        "ref": "Djose/Temple/Behind Desk (Chest)/Switch Hitter"
+                        "name": "Inn - Behind Desk (Chest)",
+                        "ref": "Djose/Temple/Inn - Behind Desk (Chest)/Switch Hitter"
                     },
                     {
-                        "name": "Pilgrimage Road - Halberd (NPC)",
-                        "ref": "Djose/Pilgrimage Road/North End, Purple Armor (NPC)/Halberd"
+                        "name": "Pilgrimage Road - North End, Purple Armor (NPC)",
+                        "ref": "Djose/Pilgrimage Road/Pilgrimage Road - North End, Purple Armor (NPC)/Halberd"
                     },
                     {
-                        "name": "Pilgrimage Road - Potion x10 (NPC)",
-                        "ref": "Djose/Pilgrimage Road/South End, Silver & Purple Armor (NPC)/Potion x10"
+                        "name": "Pilgrimage Road - South End, Silver/Purple Armor (NPC)",
+                        "ref": "Djose/Pilgrimage Road/Pilgrimage Road - South End, Silver/Purple Armor (NPC)/Potion x10"
                     },
                     {
-                        "name": "Pilgrimage Road - Hi-Potion x2 (NPC)",
-                        "ref": "Djose/Pilgrimage Road/Monk Pacing Along Bridge (NPC)/Hi-Potion x2"
+                        "name": "Pilgrimage Road - Monk Pacing Along Bridge (NPC)",
+                        "ref": "Djose/Pilgrimage Road/Pilgrimage Road - Monk Pacing Along Bridge (NPC)/Hi-Potion x2"
                     },
                     {
-                        "name": "Pilgrimage Road - Recruit Kyou",
+                        "name": "Recruit: Kyou",
                         "ref": "Blitzball Recruits/Kyou"
                     }
                 ]
@@ -730,56 +730,56 @@
                 "map_locations": [{ "map": "Spira", "x": 766, "y": 533}],
                 "sections": [
                     {
-                        "name": "South - Lv. 1 Key Sphere x3 (Shelinda Chest)",
-                        "ref": "Moonflow/South/Right of Shelinda (Chest)/Lv. 1 Key Sphere x3"
+                        "name": "South Bank Road - Right of Shelinda (Chest)",
+                        "ref": "Moonflow/South/South Bank Road - Right of Shelinda (Chest)/Lv. 1 Key Sphere x3"
                     },
                     {
-                        "name": "South - X-Potion x1 (Chest)",
-                        "ref": "Moonflow/South/West Corner as Path Bends East (Chest)/X-Potion x1"
+                        "name": "South Bank Road - X-Potion x1 (Chest)",
+                        "ref": "Moonflow/South/South Bank Road - West Corner as Path Bends East (Chest)/X-Potion x1"
                     },
                     {
-                        "name": "South - Lv. 1 Key Sphere x3 (Chest)",
-                        "ref": "Moonflow/South/East Alcove as Path Bends North (Chest)/Lv. 1 Key Sphere x3"
+                        "name": "South Bank Road - Lv. 1 Key Sphere x3 (Chest)",
+                        "ref": "Moonflow/South/South Bank Road - East Alcove as Path Bends North (Chest)/Lv. 1 Key Sphere x3"
                     },
                     {
-                        "name": "South - Magic Def Sphere x1 (Chest)",
-                        "ref": "Moonflow/South/West Alcove in Forest Past Belgemine (Chest)/Magic Def Sphere x1"
+                        "name": "South Bank Road - Magic Def Sphere x1 (Chest)",
+                        "ref": "Moonflow/South/South Bank Road - West Alcove in Forest Past Belgemine (Chest)/Magic Def Sphere x1"
                     },
                     {
-                        "name": "South - Phoenix Down x2 (Chest)",
-                        "ref": "Moonflow/South/Near O'aka XXIII (Chest)/Phoenix Down x2"
+                        "name": "South Wharf - Near O'aka XXIII (Chest)",
+                        "ref": "Moonflow/South/South Wharf - Near O'aka XXIII (Chest)/Phoenix Down x2"
                     },
                     {
-                        "name": "South - 5000 gil (Chest)",
-                        "ref": "Moonflow/South/Behind Lulu (Chest)/5000 gil"
+                        "name": "South Wharf - Behind Lulu (Chest)",
+                        "ref": "Moonflow/South/South Wharf - Behind Lulu (Chest)/5000 gil"
                     },
                     {
-                        "name": "South - Extractor",
-                        "ref": "Moonflow/South/Defeat Extractor (Boss)/Extractor"
+                        "name": "Defeat Extractor (Boss)",
+                        "ref": "Moonflow/South/Defeat Extractor (Boss)/Defeat Extractor (Boss)"
                     },
                     {
-                        "name": "North - Al Bhed Primer XII",
+                        "name": "North Wharf - Up Slope Right of Hypello (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XII/Moonflow"
                     },
                     {
-                        "name": "North - Recruit Miyu",
+                        "name": "Recruit: Miyu",
                         "ref": "Blitzball Recruits/Miyu"
                     },
                     {
-                        "name": "North - Ether x1 (Chest)",
-                        "ref": "Moonflow/North/Near Bench (Chest)/Ether x1"
+                        "name": "North Wharf: Near Bench (Chest)",
+                        "ref": "Moonflow/North/North Wharf: Near Bench (Chest)/Ether x1"
                     },
                     {
-                        "name": "North - Rikku",
+                        "name": "North Bank - Mix Tutorial (Event)",
                         "ref": "Party Member/Character/Rikku"
                     },
                     {
-                        "name": "North - Antidote x4 (Chest)",
-                        "ref": "Moonflow/North/East Side, Right After the Wooden Bridge (Chest)/Antidote x4"
+                        "name": "North Bank - East Side, Right After the Wooden Bridge (Chest)",
+                        "ref": "Moonflow/North/North Bank - East Side, Right After the Wooden Bridge (Chest)/Antidote x4"
                     },
                     {
-                        "name": "North - Mega-Potion x1 (Chest)",
-                        "ref": "Moonflow/North/West Side, Before Guadosalam (Chest)/Mega-Potion x1"
+                        "name": "North Bank Road - West Side, Before Guadosalam (Chest)",
+                        "ref": "Moonflow/North/North Bank Road - West Side, Before Guadosalam (Chest)/Mega-Potion x1"
                     }
                 ]
             },
