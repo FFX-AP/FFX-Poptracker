@@ -10,7 +10,7 @@
                 "name": "South",
                 "children": [
                     {
-                        "name": "Right of Shelinda (Chest)",
+                        "name": "South Bank Road - Right of Shelinda (Chest)",
                         "map_locations": [{ "map": "Moonflow", "x": 795, "y": 377}],
                         "sections": [{"name": "Lv. 1 Key Sphere x3"}]
                     },

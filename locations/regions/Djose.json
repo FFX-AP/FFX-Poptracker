@@ -85,7 +85,7 @@
                         "sections": [{"name": "Mega Phoenix x1"}]
                     },
                     {
-                        "name": "Cloister of Trials",
+                        "name": "Trial - Destruction Sphere (Chest)",
                         "map_locations": [{ "map": "Djose", "x": 630, "y": 157}],
                         "sections": [
                             {
@@ -97,7 +97,7 @@
                         ]
                     },
                     {
-                        "name": "Chamber of the Fayth",
+                        "name": "Name Ixion (Event)",
                         "map_locations": [{ "map": "Djose", "x": 380, "y": 150}],
                         "sections": [{"name": "Ixion", "ref": "Party Member/Aeon/Ixion"}]
                     },

@@ -216,7 +216,7 @@
                         "ref": "Al Bhed Primers/Al Bhed Primer III/S.S. Liki"
                     },
                     {
-                        "name": "Kimahri",
+                        "name": "Encounter Sin Fin (Event)",
                         "ref": "Party Member/Character/Kimahri"
                     },
                     {
@@ -610,7 +610,7 @@
                         "ref": "Mushroom Rock Road/Ridge/Defeat Sinspawn Gui (Boss)/Defeat Sinspawn Gui Second Phase (Boss)"
                     },
                     {
-                        "name": "Party Member: Seymour",
+                        "name": "Encounter Sinspawn Gui Second Phase (Boss)",
                         "ref": "Party Member/Character/Seymour"
                     },
                     {
@@ -648,7 +648,7 @@
                         "ref": "Djose/Highroad/South End, West Side (Chest)/Phoenix Down x2"
                     },
                     {
-                        "name": "Highroad - Al Bhed Primer XI",
+                        "name": "South End, Behind Left Pillar (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XI/Djose"
                     },
                     {
@@ -696,11 +696,11 @@
                         "ref": "Djose/Temple/Monks' Chamber (Chest)/Mega Phoenix x1"
                     },
                     {
-                        "name": "Temple - Cloister of Trials",
+                        "name": "Trial - Destruction Sphere (Chest)",
                         "ref": "Djose/Temple/Cloister of Trials/Destruction Sphere - Magic Sphere"
                     },
                     {
-                        "name": "Temple - Ixion",
+                        "name": "Temple - Name Ixion (Event)",
                         "ref": "Party Member/Aeon/Ixion"
                     },
                     {
@@ -730,35 +730,35 @@
                 "map_locations": [{ "map": "Spira", "x": 766, "y": 533}],
                 "sections": [
                     {
-                        "name": "South - Lv. 1 Key Sphere x3 (Shelinda Chest)",
+                        "name": "South Bank Road - Right of Shelinda (Chest)",
                         "ref": "Moonflow/South/Right of Shelinda (Chest)/Lv. 1 Key Sphere x3"
                     },
                     {
-                        "name": "South - X-Potion x1 (Chest)",
+                        "name": "South Bank Road - West Corner as Path Bends East (Chest)",
                         "ref": "Moonflow/South/West Corner as Path Bends East (Chest)/X-Potion x1"
                     },
                     {
-                        "name": "South - Lv. 1 Key Sphere x3 (Chest)",
+                        "name": "South Bank Road - East Alcove as Path Bends North (Chest)",
                         "ref": "Moonflow/South/East Alcove as Path Bends North (Chest)/Lv. 1 Key Sphere x3"
                     },
                     {
-                        "name": "South - Magic Def Sphere x1 (Chest)",
+                        "name": "South Bank Road - West Alcove in Forest Past Belgemine (Chest)",
                         "ref": "Moonflow/South/West Alcove in Forest Past Belgemine (Chest)/Magic Def Sphere x1"
                     },
                     {
-                        "name": "South - Phoenix Down x2 (Chest)",
+                        "name": "South Wharf - Near O'aka XXIII (Chest)",
                         "ref": "Moonflow/South/Near O'aka XXIII (Chest)/Phoenix Down x2"
                     },
                     {
-                        "name": "South - 5000 gil (Chest)",
+                        "name": "South Wharf - Behind Lulu (Chest)",
                         "ref": "Moonflow/South/Behind Lulu (Chest)/5000 gil"
                     },
                     {
-                        "name": "South - Extractor",
+                        "name": "Defeat Extractor (Boss)",
                         "ref": "Moonflow/South/Defeat Extractor (Boss)/Extractor"
                     },
                     {
-                        "name": "North - Al Bhed Primer XII",
+                        "name": "North Wharf - Up Slope Right of Hypello (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XII/Moonflow"
                     },
                     {
@@ -766,19 +766,19 @@
                         "ref": "Blitzball Recruits/Miyu"
                     },
                     {
-                        "name": "North - Ether x1 (Chest)",
+                        "name": "North Wharf - Near Bench (Chest)",
                         "ref": "Moonflow/North/Near Bench (Chest)/Ether x1"
                     },
                     {
-                        "name": "North - Rikku",
+                        "name": "North Bank - Mix Tutorial (Event)",
                         "ref": "Party Member/Character/Rikku"
                     },
                     {
-                        "name": "North - Antidote x4 (Chest)",
+                        "name": "North Bank - East Side, Right After the Wooden Bridge (Chest)",
                         "ref": "Moonflow/North/East Side, Right After the Wooden Bridge (Chest)/Antidote x4"
                     },
                     {
-                        "name": "North - Mega-Potion x1 (Chest)",
+                        "name": "North Bank Road - West Side, Before Guadosalam (Chest)",
                         "ref": "Moonflow/North/West Side, Before Guadosalam (Chest)/Mega-Potion x1"
                     }
                 ]
@@ -788,39 +788,39 @@
                 "map_locations": [{ "map": "Spira", "x": 709, "y": 483}],
                 "sections": [
                     {
-                        "name": "Guadosalam - Mega-Potion x1 (Chest)",
+                        "name": "East of Mansion (Chest)",
                         "ref": "Guadosalam/Guadosalam/East of Mansion (Chest)/Mega-Potion x1"
                     },
                     {
-                        "name": "Guadosalam - Al Bhed Primer XIII",
+                        "name": "House - On Floor (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XIII/Guadosalam"
                     },
                     {
-                        "name": "Guadosalam - 3000 gil (Chest)",
+                        "name": "House - Back Wall (Chest)",
                         "ref": "Guadosalam/Guadosalam/House - Back Wall (Chest)/3000 gil"
                     },
                     {
-                        "name": "Guadosalam - Elixir x1 (Chest)",
+                        "name": "Upper Level, South Side (Chest)",
                         "ref": "Guadosalam/Guadosalam/Upper Level, South Side (Chest)/Elixir x1"
                     },
                     {
-                        "name": "Guadosalam - Hi-Potion x2 (Chest)",
+                        "name": "Mansion, Entrance - Upper Level (Chest)",
                         "ref": "Guadosalam/Guadosalam/Mansion, Entrance - Upper Level (Chest)/Hi-Potion x2"
                     },
                     {
-                        "name": "Guadosalam - Recruit Yuma Guado",
+                        "name": "Recruit Yuma Guado",
                         "ref": "Blitzball Recruits/Yuma Guado"
                     },
                     {
-                        "name": "Farplane - Lightning Marble x8 (Chest)",
+                        "name": "Road to Farplane - Left Side Behind Wall (Chest)",
                         "ref": "Guadosalam/Farplane/Road to Farplane - Left Side Behind Wall (Chest)/Lightning Marble x8"
                     },
                     {
-                        "name": "Farplane - Brotherhood Upgrade",
+                        "name": "Automatic Upon Leaving Farplane (Event)",
                         "ref": "Celestial/Tidus/Brotherhood Upgrade"
                     },
                     {
-                        "name": "Farplane - Venus Crest (Chest)",
+                        "name": "Second Visit, Farplane - West Side (Chest)",
                         "ref": "Celestial/Lulu/Venus Crest"
                     }
                 ]
