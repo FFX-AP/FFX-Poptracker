@@ -1,0 +1,157 @@
+[
+    {
+        "name": "Monster Arena - Macalania",
+        "children": [
+            {
+                "name": "Snow Wolf",
+                "children": [
+                    {
+                        "name": "Snow Wolf (3x Wolf)",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 752, "y": 128}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Snow Wolf (3x Wolf)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 688, "y": 128, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Snow Wolf", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Snow Wolf"}]
+                    }
+                ]
+            },
+            {
+                "name": "Iguion",
+                "children": [
+                    {
+                        "name": "Iguion (3x Reptile)",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 752, "y": 278}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Iguion (3x Reptile)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 688, "y": 278, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Iguion", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Iguion"}]
+                    }
+                ]
+            },
+            {
+                "name": "Wasp",
+                "children": [
+                    {
+                        "name": "Wasp (4x Wasp)",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 752, "y": 428}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Wasp (4x Wasp)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 688, "y": 428, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Wasp", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Wasp"}]
+                    }
+                ]
+            },
+            {
+                "name": "Evil Eye",
+                "children": [
+                    {
+                        "name": "Evil Eye (4x Eye)",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 752, "y": 578}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Evil Eye (4x Eye)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 688, "y": 578, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Evil Eye", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Evil Eye"}]
+                    }
+                ]
+            },
+            {
+                "name": "Ice Flan",
+                "children": [
+                    {
+                        "name": "Ice Flan (3x Flan)",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 752, "y": 728}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Ice Flan (3x Flan)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 688, "y": 728, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Ice Flan", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Ice Flan"}]
+                    }
+                ]
+            },
+            {
+                "name": "Blue Element",
+                "children": [
+                    {
+                        "name": "Blue Element (3x Elemental)",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 752, "y": 878}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Blue Element (3x Elemental)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 688, "y": 878, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Blue Element", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Blue Element"}]
+                    }
+                ]
+            },
+            {
+                "name": "Murussu",
+                "children": [
+                    {
+                        "name": "Murussu (3x Helm)",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 752, "y": 1028}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Murussu (3x Helm)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 688, "y": 1028, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Murussu", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Murussu"}]
+                    }
+                ]
+            },
+            {
+                "name": "Mafdet",
+                "children": [
+                    {
+                        "name": "Mafdet (3x Helm)",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 1522, "y": 128}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Mafdet (3x Helm)"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 1458, "y": 128, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Mafdet", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Mafdet"}]
+                    }
+                ]
+            },
+            {
+                "name": "Xiphos",
+                "children": [
+                    {
+                        "name": "Xiphos",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 1522, "y": 278}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Xiphos"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 1458, "y": 278, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Xiphos", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Xiphos"}]
+                    }
+                ]
+            },
+            {
+                "name": "Chimera",
+                "children": [
+                    {
+                        "name": "Chimera",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 1522, "y": 428}],
+                        "sections": [{"name": "Captured", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Chimera"}]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                        "map_locations": [{ "map": "Monster Arena - Macalania", "x": 1458, "y": 428, "shape": "diamond", "size": 24}],
+                        "sections": [{"name": "Chimera", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Chimera"}]
+                    }
+                ]
+            }
+        ]
+    }
+]

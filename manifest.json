@@ -1,9 +1,9 @@
 {
     "name": "Final Fantasy X",
     "game_name": "Final Fantasy X",
-    "package_version": "0.2.10",
+    "package_version": "0.3.0",
     "package_uid": "final_fantasy_X_andrewki",
-    "author": "Andrewki",
+    "author": "Created by Andrewki - Contributions from Omnises & Revlanth",
     "variants": {
         "Map Tracker": {
             "display_name": "Map Tracker",
