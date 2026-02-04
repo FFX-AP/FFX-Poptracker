@@ -1012,12 +1012,12 @@
                         "ref": "Macalania/Temple/Defeat Seymour (Boss)/Seymour"
                     },
                     {
-                        "name": "Temple - Cloister of Trials",
-                        "ref": "Macalania/Temple/Cloister of Trials/Destruction Sphere - Luck Sphere"
-                    },
-                    {
                         "name": "Fight Seymour (Boss)",
                         "ref": "Party Member/Aeon/Shiva"
+                    },
+                    {
+                        "name": "Temple - Cloister of Trials",
+                        "ref": "Macalania/Temple/Cloister of Trials/Destruction Sphere - Luck Sphere"
                     },
                     {
                         "name": "Defeat Wendigo (Boss)",
