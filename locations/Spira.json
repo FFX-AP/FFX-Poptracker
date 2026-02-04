@@ -2093,43 +2093,43 @@
                 "map_locations": [{ "map": "Spira", "x": 930, "y": 100}],
                 "sections": [
                     {
-                        "name": "Sea of Sorrow - Phantom Ring (Chest)",
+                        "name": "Sea of Sorrow - West Alcove (Chest)",
                         "ref": "Inside Sin/Sea of Sorrow/West Alcove (Chest)/Phantom Ring"
                     },
                     {
-                        "name": "Sea of Sorrow - Special Sphere x1 (Chest)",
+                        "name": "Sea of Sorrow - Atop Western Falls (Chest)",
                         "ref": "Inside Sin/Sea of Sorrow/Atop Western Falls (Chest)/Special Sphere x1"
                     },
                     {
-                        "name": "Sea of Sorrow - Elixir x1 (Chest)",
+                        "name": "Sea of Sorrow - Northwestern Alcove (Chest)",
                         "ref": "Inside Sin/Sea of Sorrow/Northwestern Alcove (Chest)/Elixir x1"
                     },
                     {
-                        "name": "Sea of Sorrow - Wizard Lance (Chest)",
+                        "name": "Sea of Sorrow - Atop Eastern Falls (Chest)",
                         "ref": "Inside Sin/Sea of Sorrow/Atop Eastern Falls (Chest)/Wizard Lance"
                     },
                     {
-                        "name": "Sea of Sorrow - Lv. 3 Key Sphere x1 (Chest)",
+                        "name": "Sea of Sorrow - Eastern Alcove, Near Final North Branch (Chest)",
                         "ref": "Inside Sin/Sea of Sorrow/Eastern Alcove, Near Final North Branch (Chest)/Lv. 3 Key Sphere x1"
                     },
                     {
-                        "name": "Sea of Sorrow - Seymour Omnis",
+                        "name": "Sea of Sorrow - Defeat Seymour Omnis (Boss)",
                         "ref": "Inside Sin/Sea of Sorrow/Defeat Seymour Omnis (Boss)/Seymour Omnis"
                     },
                     {
-                        "name": "City of Dying Dreams - Lv. 4 Key Sphere x1 (Chest)",
+                        "name": "City of Dying Dreams - East Glyph Near South Exit, Defeat 10-10-15 Fiends (Chest)",
                         "ref": "Inside Sin/City of Dying Dreams/East Glyph Near South Exit, Defeat 10-10-15 Fiends (Chest)/Lv. 4 Key Sphere x1"
                     },
                     {
-                        "name": "City of Dying Dreams - Four-on-One (Chest)",
+                        "name": "City of Dying Dreams - South Side, Lift on Small Bridge (Chest)",
                         "ref": "Inside Sin/City of Dying Dreams/South Side, Lift on Small Bridge (Chest)/Four-on-One"
                     },
                     {
-                        "name": "City of Dying Dreams - Defending Bracer (Chest)",
+                        "name": "City of Dying Dreams - South of First Open Area, Push North Wall Down (Chest)",
                         "ref": "Inside Sin/City of Dying Dreams/South of First Open Area, Push North Wall Down (Chest)/Defending Bracer"
                     },
                     {
-                        "name": "City of Dying Dreams - 20000 gil (Chest)",
+                        "name": "City of Dying Dreams - First Open Area, Ramp Down in Center (Chest)",
                         "ref": "Inside Sin/City of Dying Dreams/First Open Area, Ramp Down in Center (Chest)/20000 gil"
                     },
                     {
@@ -2137,19 +2137,19 @@
                         "ref": "Inside Sin/City of Dying Dreams/First Open Area, Glyph in Northwest Corner (Chest)/Megalixir x1"
                     },
                     {
-                        "name": "City of Dying Dreams - HP Sphere x1 (Chest)",
+                        "name": "City of Dying Dreams - Lift Up in Center of First Open Area (Chest)",
                         "ref": "Inside Sin/City of Dying Dreams/Lift Up in Center of First Open Area (Chest)/HP Sphere x1"
                     },
                     {
-                        "name": "City of Dying Dreams - Defense Sphere x1 (Chest)",
+                        "name": "City of Dying Dreams - Lift Up in Center of First Area, Just Before Lift Down (Chest)",
                         "ref": "Inside Sin/City of Dying Dreams/Lift Up in Center of First Area, Just Before Lift Down (Chest)/Defense Sphere x1"
                     },
                     {
-                        "name": "City of Dying Dreams - Laevatein (Chest)",
+                        "name": "City of Dying Dreams - Secret Slide South of Rising Block Area (Chest)",
                         "ref": "Inside Sin/City of Dying Dreams/Secret Slide South of Rising Block Area (Chest)/Laevatein"
                     },
                     {
-                        "name": "City of Dying Dreams - Braska's Final Aeon",
+                        "name": "Defeat Braska's Final Aeon (Boss)",
                         "ref": "Inside Sin/City of Dying Dreams/Defeat Braska's Final Aeon (Boss)/Braska's Final Aeon"
                     }
                 ]
