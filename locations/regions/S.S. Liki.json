@@ -26,7 +26,7 @@
                 "map_locations": [{ "map": "S.S. Liki", "x": 193, "y": 180, "shape": "trapezoid", "size": 28}],
                 "sections": [
                     {
-                        "name": "Kimahri",
+                        "name": "Encounter Sin Fin (Event)",
                         "ref": "Party Member/Character/Kimahri"
                     },
                     {

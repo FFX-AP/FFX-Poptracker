@@ -216,7 +216,7 @@
                         "ref": "Al Bhed Primers/Al Bhed Primer III/S.S. Liki"
                     },
                     {
-                        "name": "Kimahri",
+                        "name": "Encounter Sin Fin (Event)",
                         "ref": "Party Member/Character/Kimahri"
                     },
                     {
@@ -610,7 +610,7 @@
                         "ref": "Mushroom Rock Road/Ridge/Defeat Sinspawn Gui (Boss)/Defeat Sinspawn Gui Second Phase (Boss)"
                     },
                     {
-                        "name": "Party Member: Seymour",
+                        "name": "Encounter Sinspawn Gui Second Phase (Boss)",
                         "ref": "Party Member/Character/Seymour"
                     },
                     {
@@ -697,10 +697,10 @@
                     },
                     {
                         "name": "Trial - Destruction Sphere (Chest)",
-                        "ref": "Djose/Temple/Trial - Destruction Sphere (Chest)/Destruction Sphere - Magic Sphere"
+                        "ref": "Djose/Temple/Cloister of Trials/Destruction Sphere - Magic Sphere"
                     },
                     {
-                        "name": "Name Ixion (Event)",
+                        "name": "Temple - Name Ixion (Event)",
                         "ref": "Party Member/Aeon/Ixion"
                     },
                     {
@@ -731,31 +731,31 @@
                 "sections": [
                     {
                         "name": "South Bank Road - Right of Shelinda (Chest)",
-                        "ref": "Moonflow/South/South Bank Road - Right of Shelinda (Chest)/Lv. 1 Key Sphere x3"
+                        "ref": "Moonflow/South/Right of Shelinda (Chest)/Lv. 1 Key Sphere x3"
                     },
                     {
-                        "name": "South Bank Road - X-Potion x1 (Chest)",
-                        "ref": "Moonflow/South/South Bank Road - West Corner as Path Bends East (Chest)/X-Potion x1"
+                        "name": "South Bank Road - West Corner as Path Bends East (Chest)",
+                        "ref": "Moonflow/South/West Corner as Path Bends East (Chest)/X-Potion x1"
                     },
                     {
-                        "name": "South Bank Road - Lv. 1 Key Sphere x3 (Chest)",
-                        "ref": "Moonflow/South/South Bank Road - East Alcove as Path Bends North (Chest)/Lv. 1 Key Sphere x3"
+                        "name": "South Bank Road - East Alcove as Path Bends North (Chest)",
+                        "ref": "Moonflow/South/East Alcove as Path Bends North (Chest)/Lv. 1 Key Sphere x3"
                     },
                     {
-                        "name": "South Bank Road - Magic Def Sphere x1 (Chest)",
-                        "ref": "Moonflow/South/South Bank Road - West Alcove in Forest Past Belgemine (Chest)/Magic Def Sphere x1"
+                        "name": "South Bank Road - West Alcove in Forest Past Belgemine (Chest)",
+                        "ref": "Moonflow/South/West Alcove in Forest Past Belgemine (Chest)/Magic Def Sphere x1"
                     },
                     {
                         "name": "South Wharf - Near O'aka XXIII (Chest)",
-                        "ref": "Moonflow/South/South Wharf - Near O'aka XXIII (Chest)/Phoenix Down x2"
+                        "ref": "Moonflow/South/Near O'aka XXIII (Chest)/Phoenix Down x2"
                     },
                     {
                         "name": "South Wharf - Behind Lulu (Chest)",
-                        "ref": "Moonflow/South/South Wharf - Behind Lulu (Chest)/5000 gil"
+                        "ref": "Moonflow/South/Behind Lulu (Chest)/5000 gil"
                     },
                     {
                         "name": "Defeat Extractor (Boss)",
-                        "ref": "Moonflow/South/Defeat Extractor (Boss)/Defeat Extractor (Boss)"
+                        "ref": "Moonflow/South/Defeat Extractor (Boss)/Extractor"
                     },
                     {
                         "name": "North Wharf - Up Slope Right of Hypello (Primer)",
@@ -766,8 +766,8 @@
                         "ref": "Blitzball Recruits/Miyu"
                     },
                     {
-                        "name": "North Wharf: Near Bench (Chest)",
-                        "ref": "Moonflow/North/North Wharf: Near Bench (Chest)/Ether x1"
+                        "name": "North Wharf - Near Bench (Chest)",
+                        "ref": "Moonflow/North/Near Bench (Chest)/Ether x1"
                     },
                     {
                         "name": "North Bank - Mix Tutorial (Event)",
@@ -2043,47 +2043,47 @@
                 "map_locations": [{ "map": "Spira", "x": 785, "y": 50}],
                 "sections": [
                     {
-                        "name": "Overpass - Fortune Sphere x1 (Chest)",
+                        "name": "Overpass - South Side, West Bend (Chest)",
                         "ref": "Zanarkand/Overpass/South Side, West Bend (Chest)/Fortune Sphere x1"
                     },
                     {
-                        "name": "Overpass - Spiritual Targe (Chest)",
+                        "name": "Overpass - North Side, Left Alcove (Chest)",
                         "ref": "Zanarkand/Overpass/North Side, Left Alcove (Chest)/Spiritual Targe"
                     },
                     {
-                        "name": "Dome - 10000 gil (Chest)",
+                        "name": "Dome - Road Above Underpass (Chest)",
                         "ref": "Zanarkand/Dome/Road Above Underpass (Chest)/10000 gil"
                     },
                     {
-                        "name": "Dome - Friend Sphere x1 (Chest)",
+                        "name": "Dome - West From 4-Way Intersection (Chest)",
                         "ref": "Zanarkand/Dome/West From 4-Way Intersection (Chest)/Friend Sphere x1"
                     },
                     {
-                        "name": "Dome - Lv. 3 Key Sphere x1 (Chest)",
+                        "name": "Dome - Rubble Path Down Before Circular Doorway (Chest)",
                         "ref": "Zanarkand/Dome/Rubble Path Down Before Circular Doorway (Chest)/Lv. 3 Key Sphere x1"
                     },
                     {
-                        "name": "Dome - Luck Sphere x1 (Chest)",
+                        "name": "Dome - Right Side (Chest)",
                         "ref": "Zanarkand/Dome/Right Side (Chest)/Luck Sphere x1"
                     },
                     {
-                        "name": "Temple - Spectral Keeper",
+                        "name": "Temple - Defeat Spectral Keeper (Boss)",
                         "ref": "Zanarkand/Temple/Defeat Spectral Keeper (Boss)/Spectral Keeper"
                     },
                     {
-                        "name": "Temple - Yunalesca",
+                        "name": "Temple - Defeat Yunalesca (Boss)",
                         "ref": "Zanarkand/Temple/Defeat Yunalesca (Boss)/Yunalesca"
                     },
                     {
-                        "name": "Temple - Sun Crest (Chest)",
+                        "name": "Temple - Chest After Taking Left/Right in Yunalesca Arena (Chest)",
                         "ref": "Celestial/Tidus/Sun Crest"
                     },
                     {
-                        "name": "Temple - Cloister of Trials ",
-                        "ref": "Zanarkand/Temple/Cloister of Trials/Destruction Sphere- Magistral Rod"
+                        "name": "Temple - Destruction Sphere (Chest)",
+                        "ref": "Zanarkand/Temple/Cloister of Trials/Destruction Sphere (Chest)"
                     },
                     {
-                        "name": "Super Bosses - Dark Bahamut",
+                        "name": "Defeat Dark Bahamut (Superboss)",
                         "ref": "Super Bosses/Dark Bahamut"
                     }
                 ]
@@ -2093,43 +2093,43 @@
                 "map_locations": [{ "map": "Spira", "x": 930, "y": 100}],
                 "sections": [
                     {
-                        "name": "Sea of Sorrow - Phantom Ring (Chest)",
+                        "name": "Sea of Sorrow - West Alcove (Chest)",
                         "ref": "Inside Sin/Sea of Sorrow/West Alcove (Chest)/Phantom Ring"
                     },
                     {
-                        "name": "Sea of Sorrow - Special Sphere x1 (Chest)",
+                        "name": "Sea of Sorrow - Atop Western Falls (Chest)",
                         "ref": "Inside Sin/Sea of Sorrow/Atop Western Falls (Chest)/Special Sphere x1"
                     },
                     {
-                        "name": "Sea of Sorrow - Elixir x1 (Chest)",
+                        "name": "Sea of Sorrow - Northwestern Alcove (Chest)",
                         "ref": "Inside Sin/Sea of Sorrow/Northwestern Alcove (Chest)/Elixir x1"
                     },
                     {
-                        "name": "Sea of Sorrow - Wizard Lance (Chest)",
+                        "name": "Sea of Sorrow - Atop Eastern Falls (Chest)",
                         "ref": "Inside Sin/Sea of Sorrow/Atop Eastern Falls (Chest)/Wizard Lance"
                     },
                     {
-                        "name": "Sea of Sorrow - Lv. 3 Key Sphere x1 (Chest)",
+                        "name": "Sea of Sorrow - Eastern Alcove, Near Final North Branch (Chest)",
                         "ref": "Inside Sin/Sea of Sorrow/Eastern Alcove, Near Final North Branch (Chest)/Lv. 3 Key Sphere x1"
                     },
                     {
-                        "name": "Sea of Sorrow - Seymour Omnis",
+                        "name": "Sea of Sorrow - Defeat Seymour Omnis (Boss)",
                         "ref": "Inside Sin/Sea of Sorrow/Defeat Seymour Omnis (Boss)/Seymour Omnis"
                     },
                     {
-                        "name": "City of Dying Dreams - Lv. 4 Key Sphere x1 (Chest)",
+                        "name": "City of Dying Dreams - East Glyph Near South Exit, Defeat 10-10-15 Fiends (Chest)",
                         "ref": "Inside Sin/City of Dying Dreams/East Glyph Near South Exit, Defeat 10-10-15 Fiends (Chest)/Lv. 4 Key Sphere x1"
                     },
                     {
-                        "name": "City of Dying Dreams - Four-on-One (Chest)",
+                        "name": "City of Dying Dreams - South Side, Lift on Small Bridge (Chest)",
                         "ref": "Inside Sin/City of Dying Dreams/South Side, Lift on Small Bridge (Chest)/Four-on-One"
                     },
                     {
-                        "name": "City of Dying Dreams - Defending Bracer (Chest)",
+                        "name": "City of Dying Dreams - South of First Open Area, Push North Wall Down (Chest)",
                         "ref": "Inside Sin/City of Dying Dreams/South of First Open Area, Push North Wall Down (Chest)/Defending Bracer"
                     },
                     {
-                        "name": "City of Dying Dreams - 20000 gil (Chest)",
+                        "name": "City of Dying Dreams - First Open Area, Ramp Down in Center (Chest)",
                         "ref": "Inside Sin/City of Dying Dreams/First Open Area, Ramp Down in Center (Chest)/20000 gil"
                     },
                     {
@@ -2137,19 +2137,19 @@
                         "ref": "Inside Sin/City of Dying Dreams/First Open Area, Glyph in Northwest Corner (Chest)/Megalixir x1"
                     },
                     {
-                        "name": "City of Dying Dreams - HP Sphere x1 (Chest)",
+                        "name": "City of Dying Dreams - Lift Up in Center of First Open Area (Chest)",
                         "ref": "Inside Sin/City of Dying Dreams/Lift Up in Center of First Open Area (Chest)/HP Sphere x1"
                     },
                     {
-                        "name": "City of Dying Dreams - Defense Sphere x1 (Chest)",
+                        "name": "City of Dying Dreams - Lift Up in Center of First Area, Just Before Lift Down (Chest)",
                         "ref": "Inside Sin/City of Dying Dreams/Lift Up in Center of First Area, Just Before Lift Down (Chest)/Defense Sphere x1"
                     },
                     {
-                        "name": "City of Dying Dreams - Laevatein (Chest)",
+                        "name": "City of Dying Dreams - Secret Slide South of Rising Block Area (Chest)",
                         "ref": "Inside Sin/City of Dying Dreams/Secret Slide South of Rising Block Area (Chest)/Laevatein"
                     },
                     {
-                        "name": "City of Dying Dreams - Braska's Final Aeon",
+                        "name": "Defeat Braska's Final Aeon (Boss)",
                         "ref": "Inside Sin/City of Dying Dreams/Defeat Braska's Final Aeon (Boss)/Braska's Final Aeon"
                     }
                 ]
@@ -2159,27 +2159,27 @@
                 "map_locations": [{ "map": "Spira", "x": 1245, "y": 472}],
                 "sections": [
                     {
-                        "name": "Teleport Sphere x1 (Chest)",
+                        "name": "Press Both Glyphs, Then Take Narrow Central Path (Chest)",
                         "ref": "Omega Ruins/Press Both Glyphs, Then Take Narrow Central Path (Chest)/Teleport Sphere x1"
                     },
                     {
-                        "name": "Al Bhed Primer XXVI",
+                        "name": "North Side of Four Chest Intersection (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XXVI/Omega Ruins"
                     },
                     {
-                        "name": "Ultima Weapon",
+                        "name": "Defeat Ultima Weapon (Boss)",
                         "ref": "Omega Ruins/Defeat Ultima Weapon (Boss)/Ultima Weapon"
                     },
                     {
-                        "name": "Friend Sphere x1 (Chest)",
+                        "name": "West Path (Chest)",
                         "ref": "Omega Ruins/West Path (Chest)/Friend Sphere x1"
                     },
                     {
-                        "name": "Omega Weapon",
+                        "name": "Defeat Omega Weapon (Superboss)",
                         "ref": "Super Bosses/Omega Weapon"
                     },
                     {
-                        "name": "Magic Sphere x1 (Chest)",
+                        "name": "Omega Boss Arena (Chest)",
                         "ref": "Omega Ruins/Omega Boss Arena (Chest)/Magic Sphere x1"
                     }
                 ]
