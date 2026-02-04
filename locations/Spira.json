@@ -644,55 +644,55 @@
                 "map_locations": [{ "map": "Spira", "x": 736, "y": 687}],
                 "sections": [
                     {
-                        "name": "Highroad - Phoenix Down x2 (Chest)",
-                        "ref": "Djose/Highroad/South End, West Side (Chest)/Phoenix Down x2"
+                        "name": "Highroad - South End, West Side (Chest)",
+                        "ref": "Djose/Highroad/Highroad - South End, West Side (Chest)/Phoenix Down x2"
                     },
                     {
-                        "name": "South End, Behind Left Pillar (Primer)",
+                        "name": "Highroad - South End, Silver/Purple Armor (NPC)",
+                        "ref": "Djose/Highroad/Highroad - South End, Silver/Purple Armor (NPC)/Variable Steel"
+                    },
+                    {
+                        "name": "Highroad - South End, Behind Left Pillar (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XI/Djose"
                     },
                     {
-                        "name": "Highroad - Soft Ring (NPC)",
-                        "ref": "Djose/Highroad/South End, Purple Armor (NPC)/Soft Ring"
+                        "name": "Highroad - South End, Purple Armor (NPC)",
+                        "ref": "Djose/Highroad/Highroad - South End, Purple Armor (NPC)/Soft Ring"
                     },
                     {
-                        "name": "Highroad - Ether x1 (NPC)",
-                        "ref": "Djose/Highroad/Midway, Yellow Armor (NPC)/Ether x1"
+                        "name": "Highroad - Midway, Yellow Armor (NPC)",
+                        "ref": "Djose/Highroad/Highroad - Midway, Yellow Armor (NPC)/Ether x1"
                     },
                     {
-                        "name": "Highroad - Hi-Potion x1 (NPC)",
-                        "ref": "Djose/Highroad/Monk Pacing Between Crusaders (NPC)/Hi-Potion x1"
+                        "name": "Highroad - Monk Pacing Between Crusaders (NPC)",
+                        "ref": "Djose/Highroad/Highroad - Monk Pacing Between Crusaders (NPC)/Hi-Potion x1"
                     },
                     {
-                        "name": "Highroad - Mega-Potion x1 (NPC)",
-                        "ref": "Djose/Highroad/North End, Purple Armor (NPC)/Mega-Potion x1"
+                        "name": "Highroad - North End, Purple Armor (NPC)",
+                        "ref": "Djose/Highroad/Highroad - North End, Purple Armor (NPC)/Mega-Potion x1"
                     },
                     {
-                        "name": "Highroad - Variable Steel (NPC)",
-                        "ref": "Djose/Highroad/South End, Silver & Purple Armor (NPC)/Variable Steel"
+                        "name": "Highroad - Midway, Hidden in Western Alcove (Chest)",
+                        "ref": "Djose/Highroad/Highroad - Midway, Hidden in Western Alcove (Chest)/Bright Bangle"
                     },
                     {
-                        "name": "Highroad - Bright Bangle (Chest)",
-                        "ref": "Djose/Highroad/Midway, Hidden in Western Alcove (Chest)/Bright Bangle"
+                        "name": "Temple - Northeast Corner (Chest)",
+                        "ref": "Djose/Temple/Temple - Northeast Corner (Chest)/Ability Sphere x4"
                     },
                     {
-                        "name": "Temple - Ability Sphere x4 (Chest)",
-                        "ref": "Djose/Temple/Northeast Corner (Chest)/Ability Sphere x4"
+                        "name": "Temple - West Behind Lucil's Squad (Chest)",
+                        "ref": "Djose/Temple/Temple - West Behind Lucil's Squad (Chest)/4000 gil"
                     },
                     {
-                        "name": "Temple - 4000 gil (Chest)",
-                        "ref": "Djose/Temple/West Behind Lucil's Squad (Chest)/4000 gil"
+                        "name": "Great Hall - In Front of Nuns' Chamber (Chest)",
+                        "ref": "Djose/Temple/Great Hall - In Front of Nuns' Chamber (Chest)/Ether x1"
                     },
                     {
-                        "name": "Temple - Ether x1 (Chest)",
-                        "ref": "Djose/Temple/In Front of Nuns' Chamber (Chest)/Ether x1"
-                    },
-                    {
-                        "name": "Temple - Remedy x1 (Chest)",
+                        "name": "Nuns' Chamber (Chest)",
                         "ref": "Djose/Temple/Nuns' Chamber (Chest)/Remedy x1"
                     },
                     {
-                        "name": "Temple - Mega Phoenix x1 (Chest)",
+                        "name": "Monks' Chamber (Chest)",
                         "ref": "Djose/Temple/Monks' Chamber (Chest)/Mega Phoenix x1"
                     },
                     {
@@ -704,23 +704,23 @@
                         "ref": "Party Member/Aeon/Ixion"
                     },
                     {
-                        "name": "Temple - Switch Hitter (Chest)",
-                        "ref": "Djose/Temple/Behind Desk (Chest)/Switch Hitter"
+                        "name": "Inn - Behind Desk (Chest)",
+                        "ref": "Djose/Temple/Inn - Behind Desk (Chest)/Switch Hitter"
                     },
                     {
-                        "name": "Pilgrimage Road - Halberd (NPC)",
-                        "ref": "Djose/Pilgrimage Road/North End, Purple Armor (NPC)/Halberd"
+                        "name": "Pilgrimage Road - North End, Purple Armor (NPC)",
+                        "ref": "Djose/Pilgrimage Road/Pilgrimage Road - North End, Purple Armor (NPC)/Halberd"
                     },
                     {
-                        "name": "Pilgrimage Road - Potion x10 (NPC)",
-                        "ref": "Djose/Pilgrimage Road/South End, Silver & Purple Armor (NPC)/Potion x10"
+                        "name": "Pilgrimage Road - South End, Silver/Purple Armor (NPC)",
+                        "ref": "Djose/Pilgrimage Road/Pilgrimage Road - South End, Silver/Purple Armor (NPC)/Potion x10"
                     },
                     {
-                        "name": "Pilgrimage Road - Hi-Potion x2 (NPC)",
-                        "ref": "Djose/Pilgrimage Road/Monk Pacing Along Bridge (NPC)/Hi-Potion x2"
+                        "name": "Pilgrimage Road - Monk Pacing Along Bridge (NPC)",
+                        "ref": "Djose/Pilgrimage Road/Pilgrimage Road - Monk Pacing Along Bridge (NPC)/Hi-Potion x2"
                     },
                     {
-                        "name": "Pilgrimage Road - Recruit Kyou",
+                        "name": "Recruit: Kyou",
                         "ref": "Blitzball Recruits/Kyou"
                     }
                 ]
@@ -762,7 +762,7 @@
                         "ref": "Al Bhed Primers/Al Bhed Primer XII/Moonflow"
                     },
                     {
-                        "name": "North - Recruit Miyu",
+                        "name": "Recruit: Miyu",
                         "ref": "Blitzball Recruits/Miyu"
                     },
                     {
@@ -775,11 +775,11 @@
                     },
                     {
                         "name": "North Bank - East Side, Right After the Wooden Bridge (Chest)",
-                        "ref": "Moonflow/North/East Side, Right After the Wooden Bridge (Chest)/Antidote x4"
+                        "ref": "Moonflow/North/North Bank - East Side, Right After the Wooden Bridge (Chest)/Antidote x4"
                     },
                     {
                         "name": "North Bank Road - West Side, Before Guadosalam (Chest)",
-                        "ref": "Moonflow/North/West Side, Before Guadosalam (Chest)/Mega-Potion x1"
+                        "ref": "Moonflow/North/North Bank Road - West Side, Before Guadosalam (Chest)/Mega-Potion x1"
                     }
                 ]
             },
@@ -808,7 +808,7 @@
                         "ref": "Guadosalam/Guadosalam/Mansion, Entrance - Upper Level (Chest)/Hi-Potion x2"
                     },
                     {
-                        "name": "Recruit Yuma Guado",
+                        "name": "Recruit: Yuma Guado",
                         "ref": "Blitzball Recruits/Yuma Guado"
                     },
                     {
@@ -830,83 +830,83 @@
                 "map_locations": [{ "map": "Spira", "x": 808, "y": 383}],
                 "sections": [
                     {
-                        "name": "South - Phoenix Down x2 (Chest)",
-                        "ref": "Thunder Plains/South/West Side, South of Save Sphere (Chest)/Phoenix Down x2"
+                        "name": "South - West Side, South of Save Sphere (Chest)",
+                        "ref": "Thunder Plains/South/South - West Side, South of Save Sphere (Chest)/Phoenix Down x2"
                     },
                     {
-                        "name": "South - Hi-Potion x2 (Chest)",
-                        "ref": "Thunder Plains/South/West Side, North of Save Sphere (Chest)/Hi-Potion x2"
+                        "name": "South - West Side, North of Save Sphere (Chest)",
+                        "ref": "Thunder Plains/South/South - West Side, North of Save Sphere (Chest)/Hi-Potion x2"
                     },
                     {
-                        "name": "South - 5000 gil (Chest)",
-                        "ref": "Thunder Plains/South/West Side, Behind First Cactuar Statue (Chest)/5000 gil"
+                        "name": "South - West Side, Behind First Cactuar Statue (Chest)",
+                        "ref": "Thunder Plains/South/South - West Side, Behind First Cactuar Statue (Chest)/5000 gil"
                     },
                     {
-                        "name": "South - Water Ball (Chest)",
-                        "ref": "Thunder Plains/South/East Side, Alcove With Second Cactuar Statue (Chest)/Water Ball"
+                        "name": "South - East Side, Alcove With Second Cactuar Statue (Chest)",
+                        "ref": "Thunder Plains/South/South - East Side, Alcove With Second Cactuar Statue (Chest)/Water Ball"
                     },
                     {
-                        "name": "Agency - Recruit Mifurey",
+                        "name": "Recruit: Mifurey",
                         "ref": "Blitzball Recruits/Mifurey"
                     },
                     {
-                        "name": "Agency - Al Bhed Primer XIV",
+                        "name": "Agency & Bikanel: Desert, East (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XIV/Thunder Plains"
                     },
                     {
-                        "name": "Agency - Yellow Shield (Ground Item)",
+                        "name": "Agency Front (Ground Item)",
                         "ref": "Thunder Plains/Agency/Agency Front (Ground Item)/Yellow Shield"
                     },
                     {
-                        "name": "North - X-Potion x1 (Chest)",
-                        "ref": "Thunder Plains/North/East Side, Near Southeast Exit (Chest)/X-Potion x1"
+                        "name": "North - East Side, Near Southeast Exit (Chest)",
+                        "ref": "Thunder Plains/North/North - East Side, Near Southeast Exit (Chest)/X-Potion x1"
                     },
                     {
-                        "name": "North - Ether x1 (Chest)",
-                        "ref": "Thunder Plains/North/West Side, Behind Sheltered Lightning Rod (Chest)/Ether x1"
+                        "name": "North - West Side, Behind Sheltered Lightning Rod (Chest)",
+                        "ref": "Thunder Plains/North/North - West Side, Behind Sheltered Lightning Rod (Chest)/Ether x1"
                     },
                     {
-                        "name": "North - 2000 gil (Chest)",
-                        "ref": "Thunder Plains/North/East of Final Lightning Rod (Chest)/2000 gil"
+                        "name": "North - East of Final Lightning Rod (Chest)",
+                        "ref": "Thunder Plains/North/North - East of Final Lightning Rod (Chest)/2000 gil"
                     },
                     {
-                        "name": "North - Remedy x1 (Chest)",
-                        "ref": "Thunder Plains/North/West Side, Near North Exit (Chest)/Remedy x1"
+                        "name": "North - West Side, Near North Exit (Chest)",
+                        "ref": "Thunder Plains/North/North - West Side, Near North Exit (Chest)/Remedy x1"
                     },
                     {
-                        "name": "South - Spirit Lance (Cactuar Statues)",
+                        "name": "Cactuar Statue Minigame (Event)",
                         "ref": "Celestial/Kimahri/Spirit Lance"
                     },
                     {
-                        "name": "Agency - 5x Lightning Dodging",
-                        "ref": "Thunder Plains/Agency/Lightning Dodging/X-Potion x2 (5x Dodges)"
+                        "name": "Lightning Dodger - 5 Consecutive Dodges (Event)",
+                        "ref": "Thunder Plains/Agency/Lightning Dodging/Lightning Dodger - 5 Consecutive Dodges (Event)"
                     },
                     {
-                        "name": "Agency - 10x Lightning Dodging",
-                        "ref": "Thunder Plains/Agency/Lightning Dodging/Mega-Potion x2 (10x Dodges)"
+                        "name": "Lightning Dodger - 10 Consecutive Dodges (Event)",
+                        "ref": "Thunder Plains/Agency/Lightning Dodging/Lightning Dodger - 10 Consecutive Dodges (Event)"
                     },
                     {
-                        "name": "Agency - 20x Lightning Dodging",
-                        "ref": "Thunder Plains/Agency/Lightning Dodging/MP Sphere x2 (20x Dodges)"
+                        "name": "Lightning Dodger - 20 Consecutive Dodges (Event)",
+                        "ref": "Thunder Plains/Agency/Lightning Dodging/Lightning Dodger - 20 Consecutive Dodges (Event)"
                     },
                     {
-                        "name": "Agency - 50x Lightning Dodging",
-                        "ref": "Thunder Plains/Agency/Lightning Dodging/Strength Sphere x3 (50x Dodges)"
+                        "name": "Lightning Dodger - 50 Consecutive Dodges (Event)",
+                        "ref": "Thunder Plains/Agency/Lightning Dodging/Lightning Dodger - 50 Consecutive Dodges (Event)"
                     },
                     {
-                        "name": "Agency - 100x Lightning Dodging",
-                        "ref": "Thunder Plains/Agency/Lightning Dodging/HP Sphere x3 (100x Dodges)"
+                        "name": "Lightning Dodger - 100 Consecutive Dodges (Event)",
+                        "ref": "Thunder Plains/Agency/Lightning Dodging/Lightning Dodger - 100 Consecutive Dodges (Event)"
                     },
                     {
-                        "name": "Agency - 150x Lightning Dodging",
-                        "ref": "Thunder Plains/Agency/Lightning Dodging/Megalixir x4 (150x Dodges)"
+                        "name": "Lightning Dodger - 150 Consecutive Dodges (Event)",
+                        "ref": "Thunder Plains/Agency/Lightning Dodging/Lightning Dodger - 150 Consecutive Dodges (Event)"
                     },
                     {
-                        "name": "Agency - 200x Lightning Dodging",
+                        "name": "Lightning Dodger - 200 Consecutive Dodges (Event)",
                         "ref": "Celestial/Lulu/Venus Sigil"
                     },
                     {
-                        "name": "Super Bosses - Dark Ixion",
+                        "name": "Defeat Dark Ixion (Superboss)",
                         "ref": "Super Bosses/Dark Ixion"
                     }
                 ]
@@ -1513,7 +1513,7 @@
             },
             {
                 "name": "Monster Arena - Captures",
-                "map_locations": [{ "map": "Spira", "x": 785, "y": 185, "size": 24, "shape": "diamond"}],
+                "map_locations": [{ "map": "Spira", "x": 790, "y": 175, "size": 24, "shape": "diamond"}],
                 "visibility_rules": ["capturesanity"],
                 "sections": [
                     {
@@ -1628,10 +1628,10 @@
             },
             {
                 "name": "Monster Arena - Rewards",
-                "map_locations": [{ "map": "Spira", "x": 770, "y": 215, "size": 24, "shape": "diamond"}],
+                "map_locations": [{ "map": "Spira", "x": 770, "y": 207, "size": 24, "shape": "diamond"}],
                 "sections": [
                     {
-                        "name": "Nirvana (Area Conquest - Calm Lands)",
+                        "name": "Nirvana",
                         "ref": "Celestial/Yuna/Nirvana"
                     },
                     {
@@ -1782,7 +1782,7 @@
             },
             {
                 "name": "Monster Arena - Bosses",
-                "map_locations": [{ "map": "Spira", "x": 800, "y": 215, "size": 24, "shape": "diamond"}],
+                "map_locations": [{ "map": "Spira", "x": 810, "y": 207, "size": 24, "shape": "diamond"}],
                 "sections": [
                     {
                         "name": "Arena Conquest - Stratoavis",
