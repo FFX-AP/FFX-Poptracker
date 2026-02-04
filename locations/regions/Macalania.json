@@ -332,7 +332,7 @@
                         ]
                     },
                     {
-                        "name": "Macalania: Cloister - Destruction Sphere (Chest)",
+                        "name": "Cloister - Destruction Sphere (Chest)",
                         "map_locations": [{ "map": "Macalania Temple", "x": 395, "y": 230}],
                         "sections": [
                             {

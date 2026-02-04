@@ -290,8 +290,8 @@
                         "ref": "Blitzball Recruits/Mep"
                     },
                     {
-                        "name": "Trials - Destruction Sphere (Chest)",
-                        "ref": "Kilika/Temple/Trials - Destruction Sphere (Chest)/Destruction Sphere - Red Armlet"
+                        "name": "Cloister - Destruction Sphere (Chest)",
+                        "ref": "Kilika/Temple/Cloister - Destruction Sphere (Chest)/Destruction Sphere - Red Armlet"
                     },
                     {
                         "name": "Name Ifrit (Event)",
@@ -696,8 +696,8 @@
                         "ref": "Djose/Temple/Monks' Chamber (Chest)/Mega Phoenix x1"
                     },
                     {
-                        "name": "Trial - Destruction Sphere (Chest)",
-                        "ref": "Djose/Temple/Trial - Destruction Sphere (Chest)/Destruction Sphere - Magic Sphere"
+                        "name": "Cloister - Destruction Sphere (Chest)",
+                        "ref": "Djose/Temple/Cloister - Destruction Sphere (Chest)/Destruction Sphere - Magic Sphere"
                     },
                     {
                         "name": "Name Ixion (Event)",
@@ -1012,8 +1012,8 @@
                         "ref": "Party Member/Aeon/Shiva"
                     },
                     {
-                        "name": "Temple - Cloister of Trials",
-                        "ref": "Macalania/Temple/Cloister of Trials/Destruction Sphere - Luck Sphere"
+                        "name": "Cloister - Destruction Sphere (Chest)",
+                        "ref": "Macalania/Temple/Cloister - Destruction Sphere (Chest)/Destruction Sphere - Luck Sphere"
                     },
                     {
                         "name": "Defeat Wendigo (Boss)",
@@ -1392,39 +1392,39 @@
                 "map_locations": [{ "map": "Spira", "x": 641, "y": 207}],
                 "sections": [
                     {
-                        "name": "Plains - 5000 gil (Chest)",
-                        "ref": "Calm Lands/Plains/Southeast Corner (Chests)/5000 gil"
+                        "name": "South - Southeast Corner, Right (Chest)",
+                        "ref": "Calm Lands/Plains/Southeast Corner (Chests)/South - Southeast Corner, Right (Chest)"
                     },
                     {
-                        "name": "Plains - 10000 gil (Chest)",
-                        "ref": "Calm Lands/Plains/Southeast Corner (Chests)/10000 gil"
+                        "name": "South - Southeast Corner, Left (Chest)",
+                        "ref": "Calm Lands/Plains/Southeast Corner (Chests)/South - Southeast Corner, Left (Chest)"
                     },
                     {
-                        "name": "Plains - Lv. 2 Key Sphere x1 (Chest)",
-                        "ref": "Calm Lands/Plains/Behind Agency Tent (Chest)/Lv. 2 Key Sphere x1"
+                        "name": "Central - Behind Agency Tent (Chest)",
+                        "ref": "Calm Lands/Plains/Central - Behind Agency Tent (Chest)/Lv. 2 Key Sphere x1"
                     },
                     {
-                        "name": "Plains - Al Bhed Primer XXIII",
+                        "name": "North - Northwest Corner (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XXIII/Calm Lands"
                     },
                     {
-                        "name": "Plains - Recruit Naida",
+                        "name": "Recruit: Naida",
                         "ref": "Blitzball Recruits/Naida"
                     },
                     {
-                        "name": "Plains - Recruit Svanda",
+                        "name": "Recruit: Svanda",
                         "ref": "Blitzball Recruits/Svanda"
                     },
                     {
-                        "name": "Plains - Defender X",
+                        "name": "Defeat Defender X (Boss)",
                         "ref": "Calm Lands/Plains/Defeat Defender X (Boss)/Defender X"
                     },
                     {
-                        "name": "Gorge - Recruit Durren",
+                        "name": "Recruit: Durren",
                         "ref": "Blitzball Recruits/Durren"
                     },
                     {
-                        "name": "Gorge - Rusty Sword",
+                        "name": "Gorge Bottom - Rusty Sword Between Two Rocks, East End (Event)",
                         "ref": "Celestial/General/Rusty Sword"
                     },
                     {
@@ -1444,11 +1444,11 @@
                         "ref": "Calm Lands/Chocobo/Chocobo Training/Catcher Chocobo Minigame (Event)"
                     },
                     {
-                        "name": "Chocobo - Sun Sigil (Chocobo Catcher 0:00)",
+                        "name": "Catcher Chocobo Minigame, Time Under 0.00 (Event)",
                         "ref": "Celestial/Tidus/Sun Sigil"
                     },
                     {
-                        "name": "Plains - Caladbolg",
+                        "name": "North - NW Corner, Blocked Until Winning Catcher Chocobo (Event)",
                         "ref": "Celestial/Tidus/Caladbolg"
                     }
                 ]
@@ -1458,51 +1458,51 @@
                 "map_locations": [{ "map": "Spira", "x": 718, "y": 207, "size": 24}],
                 "sections": [
                     {
-                        "name": "Al Bhed Primer XXIV",
+                        "name": "Remiem Temple - Northwest Corner (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XXIV/Remiem Temple"
                     },
                     {
-                        "name": "Cloudy Mirror (Chocobo Race)",
+                        "name": "Remiem Temple - Win Chocobo Race (Event)",
                         "ref": "Celestial/General/Cloudy Mirror"
                     },
                     {
-                        "name": "Belgemine - Valefor Fight",
-                        "ref": "Remiem Temple/Belgemine/Valefor Fight"
+                        "name": "Remiem Temple - Defeat Valefor (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Valefor (Boss)"
                     },
                     {
-                        "name": "Belgemine - Ifrit Fight",
-                        "ref": "Remiem Temple/Belgemine/Ifrit Fight"
+                        "name": "Remiem Temple - Defeat Ifrit (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Ifrit (Boss)"
                     },
                     {
-                        "name": "Belgemine - Ixion Fight",
-                        "ref": "Remiem Temple/Belgemine/Ixion Fight"
+                        "name": "Remiem Temple - Defeat Ixion (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Ixion (Boss)"
                     },
                     {
-                        "name": "Belgemine - Shiva Fight",
-                        "ref": "Remiem Temple/Belgemine/Shiva Fight"
+                        "name": "Remiem Temple - Defeat Shiva (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Shiva (Boss)"
                     },
                     {
-                        "name": "Belgemine - Bahamut Fight",
-                        "ref": "Remiem Temple/Belgemine/Bahamut Fight"
+                        "name": "Remiem Temple - Defeat Bahamut (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Bahamut (Boss)"
                     },
                     {
-                        "name": "Belgemine - Yojimbo Fight",
-                        "ref": "Remiem Temple/Belgemine/Yojimbo Fight"
+                        "name": "Remiem Temple - Defeat Yojimbo (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Yojimbo (Boss)"
                     },
                     {
-                        "name": "Belgemine - Anima Fight",
-                        "ref": "Remiem Temple/Belgemine/Anima Fight"
+                        "name": "Remiem Temple - Defeat Anima (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Anima (Boss)"
                     },
                     {
-                        "name": "Belgemine - Magus Sisters Fight",
-                        "ref": "Remiem Temple/Belgemine/Magus Sisters Fight"
+                        "name": "Remiem Temple - Defeat Magus Sisters (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Magus Sisters (Boss)"
                     },
                     {
-                        "name": "Belgemine - Moon Sigil (Send Belgemine)",
+                        "name": "Remiem Temple - Defeat All Aeons and Send Belgemine (Event)",
                         "ref": "Celestial/Yuna/Moon Sigil"
                     },
                     {
-                        "name": "Magus Sisters",
+                        "name": "Name the Magus Sisters (Event)",
                         "ref": "Party Member/Aeon/Magus Sisters"
                     }
                 ]
