@@ -130,7 +130,7 @@
                         "sections": [{"name": "Mep", "ref": "Blitzball Recruits/Mep"}]
                     },
                     {
-                        "name": "Kilika: Cloister - Destruction Sphere (Chest)",
+                        "name": "Cloister - Destruction Sphere (Chest)",
                         "map_locations": [{ "map": "Kilika Temple", "x": 560, "y": 140}],
                         "sections": [
                             {
