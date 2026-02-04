@@ -697,10 +697,10 @@
                     },
                     {
                         "name": "Trial - Destruction Sphere (Chest)",
-                        "ref": "Djose/Temple/Cloister of Trials/Destruction Sphere - Magic Sphere"
+                        "ref": "Djose/Temple/Trial - Destruction Sphere (Chest)/Destruction Sphere - Magic Sphere"
                     },
                     {
-                        "name": "Temple - Name Ixion (Event)",
+                        "name": "Name Ixion (Event)",
                         "ref": "Party Member/Aeon/Ixion"
                     },
                     {
@@ -731,31 +731,31 @@
                 "sections": [
                     {
                         "name": "South Bank Road - Right of Shelinda (Chest)",
-                        "ref": "Moonflow/South/Right of Shelinda (Chest)/Lv. 1 Key Sphere x3"
+                        "ref": "Moonflow/South/South Bank Road - Right of Shelinda (Chest)/Lv. 1 Key Sphere x3"
                     },
                     {
-                        "name": "South Bank Road - West Corner as Path Bends East (Chest)",
-                        "ref": "Moonflow/South/West Corner as Path Bends East (Chest)/X-Potion x1"
+                        "name": "South Bank Road - X-Potion x1 (Chest)",
+                        "ref": "Moonflow/South/South Bank Road - West Corner as Path Bends East (Chest)/X-Potion x1"
                     },
                     {
-                        "name": "South Bank Road - East Alcove as Path Bends North (Chest)",
-                        "ref": "Moonflow/South/East Alcove as Path Bends North (Chest)/Lv. 1 Key Sphere x3"
+                        "name": "South Bank Road - Lv. 1 Key Sphere x3 (Chest)",
+                        "ref": "Moonflow/South/South Bank Road - East Alcove as Path Bends North (Chest)/Lv. 1 Key Sphere x3"
                     },
                     {
-                        "name": "South Bank Road - West Alcove in Forest Past Belgemine (Chest)",
-                        "ref": "Moonflow/South/West Alcove in Forest Past Belgemine (Chest)/Magic Def Sphere x1"
+                        "name": "South Bank Road - Magic Def Sphere x1 (Chest)",
+                        "ref": "Moonflow/South/South Bank Road - West Alcove in Forest Past Belgemine (Chest)/Magic Def Sphere x1"
                     },
                     {
                         "name": "South Wharf - Near O'aka XXIII (Chest)",
-                        "ref": "Moonflow/South/Near O'aka XXIII (Chest)/Phoenix Down x2"
+                        "ref": "Moonflow/South/South Wharf - Near O'aka XXIII (Chest)/Phoenix Down x2"
                     },
                     {
                         "name": "South Wharf - Behind Lulu (Chest)",
-                        "ref": "Moonflow/South/Behind Lulu (Chest)/5000 gil"
+                        "ref": "Moonflow/South/South Wharf - Behind Lulu (Chest)/5000 gil"
                     },
                     {
                         "name": "Defeat Extractor (Boss)",
-                        "ref": "Moonflow/South/Defeat Extractor (Boss)/Extractor"
+                        "ref": "Moonflow/South/Defeat Extractor (Boss)/Defeat Extractor (Boss)"
                     },
                     {
                         "name": "North Wharf - Up Slope Right of Hypello (Primer)",
@@ -766,8 +766,8 @@
                         "ref": "Blitzball Recruits/Miyu"
                     },
                     {
-                        "name": "North Wharf - Near Bench (Chest)",
-                        "ref": "Moonflow/North/Near Bench (Chest)/Ether x1"
+                        "name": "North Wharf: Near Bench (Chest)",
+                        "ref": "Moonflow/North/North Wharf: Near Bench (Chest)/Ether x1"
                     },
                     {
                         "name": "North Bank - Mix Tutorial (Event)",
