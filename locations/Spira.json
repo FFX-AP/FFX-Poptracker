@@ -1923,43 +1923,43 @@
                 "map_locations": [{ "map": "Spira", "x": 711, "y": 145}],
                 "sections": [
                     {
-                        "name": "Megalixir x1 (Chest)",
+                        "name": "First Branch East (Chest)",
                         "ref": "Cavern of the Stolen Fayth/First Branch East (Chest)/Megalixir x1"
                     },
                     {
-                        "name": "Lv. 2 Key Sphere x1 (Chest)",
+                        "name": "Chamber East of First Intersection (Chest)",
                         "ref": "Cavern of the Stolen Fayth/Chamber East of First Intersection (Chest)/Lv. 2 Key Sphere x1"
                     },
                     {
-                        "name": "Fortune Sphere x1 (Chest)",
+                        "name": "Dead End North of Second Intersection (Chest)",
                         "ref": "Cavern of the Stolen Fayth/Dead End North of Second Intersection (Chest)/Fortune Sphere x1"
                     },
                     {
-                        "name": "Mega-Potion x1 (Chest)",
+                        "name": "Top of Third Intersection (Chest)",
                         "ref": "Cavern of the Stolen Fayth/Top of Third Intersection (Chest)/Mega-Potion x1"
                     },
                     {
-                        "name": "Al Bhed Primer XXV",
+                        "name": "Dead End West of Third Intersection (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XXV/Cavern of the Stolen Fayth"
                     },
                     {
-                        "name": "Flexible Arm (Chest)",
+                        "name": "Teleport West from Back of Cavern (Chest)",
                         "ref": "Cavern of the Stolen Fayth/Teleport West from Back of Cavern (Chest)/Flexible Arm"
                     },
                     {
-                        "name": "MP Sphere x1 (Chest)",
-                        "ref": "Cavern of the Stolen Fayth/Teleport East from Back of Cavern (Chests)/MP Sphere x1"
+                        "name": "Teleport East from Back of Cavern, Bottom (Chest)",
+                        "ref": "Cavern of the Stolen Fayth/Teleport East from Back of Cavern (Chests)/Bottom (Chest)"
                     },
                     {
-                        "name": "X-Potion x2 (Chest)",
-                        "ref": "Cavern of the Stolen Fayth/Teleport East from Back of Cavern (Chests)/X-Potion x2"
+                        "name": "Teleport East from Back of Cavern, Top (Chest)",
+                        "ref": "Cavern of the Stolen Fayth/Teleport East from Back of Cavern (Chests)/Top (Chest)"
                     },
                     {
-                        "name": "Yojimbo",
+                        "name": "Hire Yojimbo (Event)",
                         "ref": "Party Member/Aeon/Yojimbo"
                     },
                     {
-                        "name": "Super Bosses - Dark Yojimbo",
+                        "name": "Defeat Dark Yojimbo (Superboss)",
                         "ref": "Super Bosses/Dark Yojimbo"
                     }
                 ]
@@ -1969,63 +1969,63 @@
                 "map_locations": [{ "map": "Spira", "x": 711, "y": 70}],
                 "sections": [
                     {
-                        "name": "Outside - Biran and Yenke",
+                        "name": "Defeat Biran and Yenke (Boss)",
                         "ref": "Mt. Gagazet/Defeat Biran and Yenke (Boss)/Biran and Yenke"
                     },
                     {
-                        "name": "Outside - 20000 gil (Chest)",
-                        "ref": "Mt. Gagazet/Outside/Top of Right Ridge Near South Exit (Chest)/20000 gil"
+                        "name": "Trail - Top of Right Ridge Near South Exit (Chest)",
+                        "ref": "Mt. Gagazet/Outside/Trail - Top of Right Ridge Near South Exit (Chest)/20000 gil"
                     },
                     {
-                        "name": "Outside - Mega-Potion x2 (Chest)",
-                        "ref": "Mt. Gagazet/Outside/Left Alcove Near South Exit (Chest)/Mega-Potion x2"
+                        "name": "Trail - Left Alcove Near South Exit (Chest)",
+                        "ref": "Mt. Gagazet/Outside/Trail - Left Alcove Near South Exit (Chest)/Mega-Potion x2"
                     },
                     {
-                        "name": "Outside - Defending Bracer (Chest)",
-                        "ref": "Mt. Gagazet/Outside/West Branch Before Bridge to Wantz (Chest)/Defending Bracer"
+                        "name": "Trail - West Branch Before Bridge to Wantz (Chest)",
+                        "ref": "Mt. Gagazet/Outside/Trail - West Branch Before Bridge to Wantz (Chest)/Defending Bracer"
                     },
                     {
-                        "name": "Outside - Lv. 4 Key Sphere x1 (Chest)",
-                        "ref": "Mt. Gagazet/Outside/Under Bridge After Wantz (Chests)/Lv. 4 Key Sphere x1"
+                        "name": "Trail - Under Bridge After Wantz",
+                        "ref": "Mt. Gagazet/Outside/Under Bridge After Wantz (Chests)/Right (Chest)"
                     },
                     {
-                        "name": "Outside - HP Sphere x1 (Chest)",
-                        "ref": "Mt. Gagazet/Outside/Under Bridge After Wantz (Chests)/HP Sphere x1"
+                        "name": "Trail - Under Bridge After Wantz",
+                        "ref": "Mt. Gagazet/Outside/Under Bridge After Wantz (Chests)/Left (Chest)"
                     },
                     {
-                        "name": "Outside - Seymour Flux",
+                        "name": "Defeat Seymour Flux (Boss)",
                         "ref": "Mt. Gagazet/Outside/Defeat Seymour Flux (Boss)/Seymour Flux"
                     },
                     {
-                        "name": "Outside - Saturn Crest (Chest)",
+                        "name": "Prominence - Hidden Between Left Pillars (Chest)",
                         "ref": "Celestial/Kimahri/Saturn Crest"
                     },
                     {
-                        "name": "Inside - Lv. 1 Key Sphere x1 (Chest)",
-                        "ref": "Mt. Gagazet/Inside/Reward from First Trial (Chest)/Lv. 1 Key Sphere x1"
+                        "name": "Submerged Passage - Reward from First Trial (Chest)",
+                        "ref": "Mt. Gagazet/Inside/Submerged Passage - Reward from First Trial (Chest)/Lv. 1 Key Sphere x1"
                     },
                     {
-                        "name": "Inside - Fortune Sphere x1 (Chest)",
-                        "ref": "Mt. Gagazet/Inside/Reward From Second Trial (Chest)/Fortune Sphere x1"
+                        "name": "Submerged Passage - Reward From Second Trial (Chest)",
+                        "ref": "Mt. Gagazet/Inside/Submerged Passage - Reward From Second Trial (Chest)/Fortune Sphere x1"
                     },
                     {
                         "name": "Inside - Return Sphere x1 (Chest)",
-                        "ref": "Mt. Gagazet/Inside/After Both Trials, East Exit From Save Sphere (Chests)/Return Sphere x1"
+                        "ref": "Mt. Gagazet/Inside/Submerged Passage - After Both Trials, East Exit From Save Sphere/Left (Chest)"
                     },
                     {
                         "name": "Inside - Recovery Ring (Chest)",
-                        "ref": "Mt. Gagazet/Inside/After Both Trials, East Exit From Save Sphere (Chests)/Recovery Ring"
+                        "ref": "Mt. Gagazet/Inside/Submerged Passage - After Both Trials, East Exit From Save Sphere/Right (Chest)"
                     },
                     {
-                        "name": "Inside - Pep Talk (Chest)",
-                        "ref": "Mt. Gagazet/Inside/After Both Trials, Left Alcove, Northwest of Save Sphere (Chest)/Pep Talk"
+                        "name": "Cave - After Both Trials, Left Alcove, Northwest of Save Sphere (Chest)",
+                        "ref": "Mt. Gagazet/Inside/Cave - After Both Trials, Left Alcove, Northwest of Save Sphere (Chest)/Pep Talk"
                     },
                     {
-                        "name": "Inside - Sanctuary Keeper",
+                        "name": "Defeat Sanctuary Keeper (Boss)",
                         "ref": "Mt. Gagazet/Inside/Defeat Sanctuary Keeper (Boss)/Sanctuary Keeper"
                     },
                     {
-                        "name": "Super Bosses - Dark Anima",
+                        "name": "Defeat Dark Anima (Superboss)",
                         "ref": "Super Bosses/Dark Anima"
                     }
                 ]
@@ -2036,27 +2036,27 @@
                 "sections": [
                     {
                         "name": "Overpass - South Side, West Bend (Chest)",
-                        "ref": "Zanarkand/Overpass/South Side, West Bend (Chest)/Fortune Sphere x1"
+                        "ref": "Zanarkand/Overpass/Overpass - South Side, West Bend (Chest)/Fortune Sphere x1"
                     },
                     {
                         "name": "Overpass - North Side, Left Alcove (Chest)",
-                        "ref": "Zanarkand/Overpass/North Side, Left Alcove (Chest)/Spiritual Targe"
+                        "ref": "Zanarkand/Overpass/Overpass - North Side, Left Alcove (Chest)/Spiritual Targe"
                     },
                     {
-                        "name": "Dome - Road Above Underpass (Chest)",
-                        "ref": "Zanarkand/Dome/Road Above Underpass (Chest)/10000 gil"
+                        "name": "Dome Interior - Road Above Underpass (Chest)",
+                        "ref": "Zanarkand/Dome/Dome Interior - Road Above Underpass (Chest)/10000 gil"
                     },
                     {
-                        "name": "Dome - West From 4-Way Intersection (Chest)",
-                        "ref": "Zanarkand/Dome/West From 4-Way Intersection (Chest)/Friend Sphere x1"
+                        "name": "Dome Interior - West From 4-Way Intersection (Chest)",
+                        "ref": "Zanarkand/Dome/Dome Interior - West From 4-Way Intersection (Chest)/Friend Sphere x1"
                     },
                     {
-                        "name": "Dome - Rubble Path Down Before Circular Doorway (Chest)",
-                        "ref": "Zanarkand/Dome/Rubble Path Down Before Circular Doorway (Chest)/Lv. 3 Key Sphere x1"
+                        "name": "Dome Interior - Rubble Path Down Before Circular Doorway (Chest)",
+                        "ref": "Zanarkand/Dome/Dome Interior - Rubble Path Down Before Circular Doorway (Chest)/Lv. 3 Key Sphere x1"
                     },
                     {
-                        "name": "Dome - Right Side (Chest)",
-                        "ref": "Zanarkand/Dome/Right Side (Chest)/Luck Sphere x1"
+                        "name": "Dome Corridor - Right Side (Chest)",
+                        "ref": "Zanarkand/Dome/Dome Corridor - Right Side (Chest)/Luck Sphere x1"
                     },
                     {
                         "name": "Temple - Defeat Spectral Keeper (Boss)",
@@ -2067,7 +2067,7 @@
                         "ref": "Zanarkand/Temple/Defeat Yunalesca (Boss)/Yunalesca"
                     },
                     {
-                        "name": "Temple - Chest After Taking Left/Right in Yunalesca Arena (Chest)",
+                        "name": "Dome Beyond - Chest After Taking Left/Right in Yunalesca Arena (Chest)",
                         "ref": "Celestial/Tidus/Sun Crest"
                     },
                     {
