@@ -290,8 +290,8 @@
                         "ref": "Blitzball Recruits/Mep"
                     },
                     {
-                        "name": "Trials - Destruction Sphere (Chest)",
-                        "ref": "Kilika/Temple/Trials - Destruction Sphere (Chest)/Destruction Sphere - Red Armlet"
+                        "name": "Cloister - Destruction Sphere (Chest)",
+                        "ref": "Kilika/Temple/Cloister - Destruction Sphere (Chest)/Destruction Sphere - Red Armlet"
                     },
                     {
                         "name": "Name Ifrit (Event)",
@@ -696,11 +696,11 @@
                         "ref": "Djose/Temple/Monks' Chamber (Chest)/Mega Phoenix x1"
                     },
                     {
-                        "name": "Trial - Destruction Sphere (Chest)",
-                        "ref": "Djose/Temple/Cloister of Trials/Destruction Sphere - Magic Sphere"
+                        "name": "Cloister - Destruction Sphere (Chest)",
+                        "ref": "Djose/Temple/Cloister - Destruction Sphere (Chest)/Destruction Sphere - Magic Sphere"
                     },
                     {
-                        "name": "Temple - Name Ixion (Event)",
+                        "name": "Name Ixion (Event)",
                         "ref": "Party Member/Aeon/Ixion"
                     },
                     {
@@ -731,31 +731,31 @@
                 "sections": [
                     {
                         "name": "South Bank Road - Right of Shelinda (Chest)",
-                        "ref": "Moonflow/South/Right of Shelinda (Chest)/Lv. 1 Key Sphere x3"
+                        "ref": "Moonflow/South/South Bank Road - Right of Shelinda (Chest)/Lv. 1 Key Sphere x3"
                     },
                     {
-                        "name": "South Bank Road - West Corner as Path Bends East (Chest)",
-                        "ref": "Moonflow/South/West Corner as Path Bends East (Chest)/X-Potion x1"
+                        "name": "South Bank Road - X-Potion x1 (Chest)",
+                        "ref": "Moonflow/South/South Bank Road - West Corner as Path Bends East (Chest)/X-Potion x1"
                     },
                     {
-                        "name": "South Bank Road - East Alcove as Path Bends North (Chest)",
-                        "ref": "Moonflow/South/East Alcove as Path Bends North (Chest)/Lv. 1 Key Sphere x3"
+                        "name": "South Bank Road - Lv. 1 Key Sphere x3 (Chest)",
+                        "ref": "Moonflow/South/South Bank Road - East Alcove as Path Bends North (Chest)/Lv. 1 Key Sphere x3"
                     },
                     {
-                        "name": "South Bank Road - West Alcove in Forest Past Belgemine (Chest)",
-                        "ref": "Moonflow/South/West Alcove in Forest Past Belgemine (Chest)/Magic Def Sphere x1"
+                        "name": "South Bank Road - Magic Def Sphere x1 (Chest)",
+                        "ref": "Moonflow/South/South Bank Road - West Alcove in Forest Past Belgemine (Chest)/Magic Def Sphere x1"
                     },
                     {
                         "name": "South Wharf - Near O'aka XXIII (Chest)",
-                        "ref": "Moonflow/South/Near O'aka XXIII (Chest)/Phoenix Down x2"
+                        "ref": "Moonflow/South/South Wharf - Near O'aka XXIII (Chest)/Phoenix Down x2"
                     },
                     {
                         "name": "South Wharf - Behind Lulu (Chest)",
-                        "ref": "Moonflow/South/Behind Lulu (Chest)/5000 gil"
+                        "ref": "Moonflow/South/South Wharf - Behind Lulu (Chest)/5000 gil"
                     },
                     {
                         "name": "Defeat Extractor (Boss)",
-                        "ref": "Moonflow/South/Defeat Extractor (Boss)/Extractor"
+                        "ref": "Moonflow/South/Defeat Extractor (Boss)/Defeat Extractor (Boss)"
                     },
                     {
                         "name": "North Wharf - Up Slope Right of Hypello (Primer)",
@@ -766,8 +766,8 @@
                         "ref": "Blitzball Recruits/Miyu"
                     },
                     {
-                        "name": "North Wharf - Near Bench (Chest)",
-                        "ref": "Moonflow/North/Near Bench (Chest)/Ether x1"
+                        "name": "North Wharf: Near Bench (Chest)",
+                        "ref": "Moonflow/North/North Wharf: Near Bench (Chest)/Ether x1"
                     },
                     {
                         "name": "North Bank - Mix Tutorial (Event)",
@@ -916,127 +916,123 @@
                 "map_locations": [{ "map": "Spira", "x": 750, "y": 326}],
                 "sections": [
                     {
-                        "name": "Woods - Sleepy Cait Sith (Chest)",
-                        "ref": "Macalania/Woods/Hidden Behind Tree in Middle of S-Bend (Chest)/Sleepy Cait Sith"
+                        "name": "South - Hidden Behind Tree in Middle of S-Bend (Chest)",
+                        "ref": "Macalania/Woods/South - Hidden Behind Tree in Middle of S-Bend (Chest)/Sleepy Cait Sith"
                     },
                     {
-                        "name": "Woods - 2000 gil (Chest)",
-                        "ref": "Macalania/Woods/Near North Exit (Chest)/2000 gil"
+                        "name": "South - Near North Exit (Chest)",
+                        "ref": "Macalania/Woods/South - Near North Exit (Chest)/2000 gil"
                     },
                     {
-                        "name": "Woods - Phoenix Down x3 (Chest)",
-                        "ref": "Macalania/Woods/Hidden Behind Tree Before Spiral Down (Chest)/Phoenix Down x3"
+                        "name": "Central - Hidden Behind Tree Before Spiral Down (Chest)",
+                        "ref": "Macalania/Woods/Central - Hidden Behind Tree Before Spiral Down (Chest)/Phoenix Down x3"
                     },
                     {
-                        "name": "Woods - Remedy x1 (Chest)",
-                        "ref": "Macalania/Woods/Hidden Behind Tree on West Side (Chest)/Remedy x1"
+                        "name": "North - Hidden Behind Tree on West Side (Chest)",
+                        "ref": "Macalania/Woods/North - Hidden Behind Tree on West Side (Chest)/Remedy x1"
                     },
                     {
-                        "name": "Woods - Al Bhed Primer XV",
+                        "name": "Lake Road - Near Southeast Exit (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XV/Macalania"
                     },
                     {
-                        "name": "Woods - Spherimorph",
+                        "name": "Defeat Spherimorph (Boss)",
                         "ref": "Macalania/Woods/Defeat Spherimorph (Boss)/Spherimorph"
                     },
                     {
-                        "name": "Woods - Jecht Sphere",
-                        "ref": "Macalania/Woods/Defeat Spherimorph (Boss)/Jecht Sphere"
+                        "name": "Campsite - (Chest)",
+                        "ref": "Macalania/Woods/Campsite - (Chest)/Lucid Ring"
                     },
                     {
-                        "name": "Woods - Lucid Ring (Chest)",
-                        "ref": "Macalania/Woods/Campsite (Chest)/Lucid Ring"
-                    },
-                    {
-                        "name": "Lake Agency - Al Bhed Primer XVI",
+                        "name": "Agency Front - Left Side (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XVI/Macalania"
                     },
                     {
-                        "name": "Lake Agency - Crawler",
-                        "ref": "Macalania/Lake/Lake/Cross the Lake (Boss)/Crawler"
+                        "name": "Defeat Crawler (Boss)",
+                        "ref": "Macalania/Lake/Lake/Cross the Lake (Boss)/Defeat Crawler (Boss)"
                     },
                     {
-                        "name": "Lake Agency - 4000 gil (Chest)",
+                        "name": "Agency Front - Right Side (Chest)",
                         "ref": "Macalania/Lake/Agency/Right Side (Chest)/4000 gil"
                     },
                     {
-                        "name": "Lake Road - Lv. 1 Key Sphere x1 (Chest)",
-                        "ref": "Macalania/Lake/Road/South End of Narrow Path (Chest)/Lv. 1 Key Sphere x1"
+                        "name": "Crevasse - South End of Narrow Path (Chest)",
+                        "ref": "Macalania/Lake/Road/Crevasse - South End of Narrow Path (Chest)/Lv. 1 Key Sphere x1"
                     },
                     {
-                        "name": "Lake Road - Mega-Potion x1 (Chest)",
+                        "name": "Crevasse - Near North Exit (Chest)",
                         "ref": "Macalania/Lake/Road/Near North Exit (Chest)/Mega-Potion x1"
                     },
                     {
-                        "name": "Temple Road - 400 gil (Linna NPC)",
-                        "ref": "Macalania/Lake/Road/Linna, at Bottom of Stairs (NPC)/400 gil"
+                        "name": "Road - Linna, at Bottom of Stairs (NPC)",
+                        "ref": "Macalania/Lake/Road/Road - Linna, at Bottom of Stairs (NPC)/400 gil"
                     },
                     {
-                        "name": "Temple Road - Recruit Linna",
+                        "name": "Recruit: Linna",
                         "ref": "Blitzball Recruits/Linna"
                     },
                     {
-                        "name": "Temple - Shell Targe (Tromell)",
-                        "ref": "Macalania/Temple/Automatic upon Entering (Event)/Shell Targe"
+                        "name": "Hall - Gift from Tromell upon Entrance (Event)",
+                        "ref": "Macalania/Temple/Hall - Gift from Tromell upon Entrance (Event)/Shell Targe"
                     },
                     {
-                        "name": "Temple - 5000 gil (Chest)",
-                        "ref": "Macalania/Temple/North Side (Chest)/5000 gil"
+                        "name": "Hall - North Side (Chest)",
+                        "ref": "Macalania/Temple/Hall - North Side (Chest)/5000 gil"
                     },
                     {
-                        "name": "Temple - X-Potion x2 (Chest)",
-                        "ref": "Macalania/Temple/South Side (Chest)/X-Potion x2"
+                        "name": "Hall - South Side (Chest)",
+                        "ref": "Macalania/Temple/Hall - South Side (Chest)/X-Potion x2"
                     },
                     {
-                        "name": "Temple - Remedy x2 (Chest)",
+                        "name": "Nuns' Chamber (Chest)",
                         "ref": "Macalania/Temple/Nuns' Chamber (Chest)/Remedy x2"
                     },
                     {
-                        "name": "Temple - Hi-Potion x2 (NPC)",
+                        "name": "Nuns' Chamber - Yellow Nun (NPC)",
                         "ref": "Macalania/Temple/Nuns' Chamber - Yellow Nun (NPC)/Hi-Potion x2"
                     },
                     {
-                        "name": "Temple - Ether x1 (Man Sitting NPC)",
-                        "ref": "Macalania/Temple/Monks' Chamber- Brown Monk (NPC)/Ether x1"
+                        "name": "Monks' Chamber - Brown Monk (NPC)",
+                        "ref": "Macalania/Temple/Monks' Chamber - Brown Monk (NPC)/Ether x1"
                     },
                     {
-                        "name": "Temple - Elixir x1 (Man Sitting NPC)",
-                        "ref": "Macalania/Temple/Monks' Chamber- Purple Monk (NPC)/Elixir x1"
+                        "name": "Monks' Chamber - Purple Monk (NPC)",
+                        "ref": "Macalania/Temple/Monks' Chamber - Purple Monk (NPC)/Elixir x1"
                     },
                     {
-                        "name": "Temple - Phoenix Down x3 (Chest)",
+                        "name": "Monks' Chamber (Chest)",
                         "ref": "Macalania/Temple/Monks' Chamber (Chest)/Phoenix Down x3"
                     },
                     {
-                        "name": "Temple - Seymour & Anima",
+                        "name": "Defeat Seymour (Boss)",
                         "ref": "Macalania/Temple/Defeat Seymour (Boss)/Seymour"
                     },
                     {
-                        "name": "Temple - Cloister of Trials",
-                        "ref": "Macalania/Temple/Cloister of Trials/Destruction Sphere - Luck Sphere"
-                    },
-                    {
-                        "name": "Temple - Chamber of the Fayth",
+                        "name": "Fight Seymour (Boss)",
                         "ref": "Party Member/Aeon/Shiva"
                     },
                     {
-                        "name": "Lake Agency - Wendigo",
-                        "ref": "Macalania/Lake/Lake/Cross the Lake (Boss)/Wendigo"
+                        "name": "Cloister - Destruction Sphere (Chest)",
+                        "ref": "Macalania/Temple/Cloister - Destruction Sphere (Chest)/Destruction Sphere - Luck Sphere"
                     },
                     {
-                        "name": "Lake Bottom - Lv. 2 Key Sphere (Chest)",
-                        "ref": "Macalania/Lake/Bottom/Hidden Behind Kimahri (Chest)/Lv. 2 Key Sphere"
+                        "name": "Defeat Wendigo (Boss)",
+                        "ref": "Macalania/Lake/Lake/Cross the Lake (Boss)/Defeat Wendigo (Boss)"
                     },
                     {
-                        "name": "Lake Bottom - Avenger (Chest)",
-                        "ref": "Macalania/Lake/Bottom/Hidden Left of Auron (Chest)/Avenger"
+                        "name": "Lake Bottom - Hidden Behind Kimahri (Chest)",
+                        "ref": "Macalania/Lake/Bottom/Lake Bottom - Hidden Behind Kimahri (Chest)/Lv. 2 Key Sphere"
                     },
                     {
-                        "name": "Woods - Saturn Sigil (Butterfly Minigame)",
+                        "name": "Lake Bottom - Hidden Left of Auron (Chest)",
+                        "ref": "Macalania/Lake/Bottom/Lake Bottom - Hidden Left of Auron (Chest)/Avenger"
+                    },
+                    {
+                        "name": "Finish Butterfly Minigame (Event)",
                         "ref": "Celestial/Kimahri/Saturn Sigil"
                     },
                     {
-                        "name": "Super Bosses - Dark Shiva",
+                        "name": "Defeat Dark Shiva (Superboss)",
                         "ref": "Super Bosses/Dark Shiva"
                     }
                 ]
@@ -1046,63 +1042,63 @@
                 "map_locations": [{ "map": "Spira", "x": 710, "y": 326, "size": 24, "shape": "diamond"}],
                 "sections": [
                     {
-                        "name": "Celestial Mirror",
+                        "name": "Bring Cloudy Mirror to Celestial Flower (Event)",
                         "ref": "Celestial/General/Celestial Mirror"
                     },
                     {
-                        "name": "Tidus - Caladbolg Crest Upgrade",
+                        "name": "Upgrade Caladbolg Twice (Event)",
                         "ref": "Celestial/Tidus/Caladbolg Crest Upgrade"
                     },
                     {
-                        "name": "Tidus - Caladbolg Sigil Upgrade",
+                        "name": "Upgrade Caladbolg Twice (Event)",
                         "ref": "Celestial/Tidus/Caladbolg Sigil Upgrade"
                     },
                     {
-                        "name": "Yuna - Nirvana Crest Upgrade",
+                        "name": "Upgrade Nirvana Once (Event)",
                         "ref": "Celestial/Yuna/Nirvana Crest Upgrade"
                     },
                     {
-                        "name": "Yuna - Nirvana Sigil Upgrade",
+                        "name": "Upgrade Nirvana Twice (Event)",
                         "ref": "Celestial/Yuna/Nirvana Sigil Upgrade"
                     },
                     {
-                        "name": "Auron - Masamune Crest Upgrade",
+                        "name": "Upgrade Masamune Once (Event)",
                         "ref": "Celestial/Auron/Masamune Crest Upgrade"
                     },
                     {
-                        "name": "Auron - Masamune Sigil Upgrade",
+                        "name": "Upgrade Masamune Twice (Event)",
                         "ref": "Celestial/Auron/Masamune Sigil Upgrade"
                     },
                     {
-                        "name": "Kimahri - Spirit Lance Crest Upgrade",
+                        "name": "Upgrade Spirit Lance Once (Event)",
                         "ref": "Celestial/Kimahri/Spirit Lance Crest Upgrade"
                     },
                     {
-                        "name": "Kimahri - Spirit Lance Sigil Upgrade",
+                        "name": "Upgrade Spirit Lance Twice (Event)",
                         "ref": "Celestial/Kimahri/Spirit Lance Sigil Upgrade"
                     },
                     {
-                        "name": "Wakka - World Champion Crest Upgrade",
+                        "name": "Upgrade World Champion Once (Event)",
                         "ref": "Celestial/Wakka/World Champion Crest Upgrade"
                     },
                     {
-                        "name": "Wakka - World Champion Sigil Upgrade",
+                        "name": "Upgrade World Champion Twice (Event) Upgrade",
                         "ref": "Celestial/Wakka/World Champion Sigil Upgrade"
                     },
                     {
-                        "name": "Lulu - Onion Knight Crest Upgrade",
+                        "name": "Upgrade Onion Knight Once (Event)",
                         "ref": "Celestial/Lulu/Onion Knight Crest Upgrade"
                     },
                     {
-                        "name": "Lulu - Onion Knight Sigil Upgrade",
+                        "name": "Upgrade Onion Knight Twice (Event)",
                         "ref": "Celestial/Lulu/Onion Knight Sigil Upgrade"
                     },
                     {
-                        "name": "Rikku - Godhand Crest Upgrade",
+                        "name": "Upgrade Godhand Once (Event)",
                         "ref": "Celestial/Rikku/Godhand Crest Upgrade"
                     },
                     {
-                        "name": "Rikku - Godhand Sigil Upgrade",
+                        "name": "Upgrade Godhand Twice (Event)",
                         "ref": "Celestial/Rikku/Godhand Sigil Upgrade"
                     }
                 ]
@@ -1112,111 +1108,111 @@
                 "map_locations": [{ "map": "Spira", "x": 343, "y": 400}],
                 "sections": [
                     {
-                        "name": "Bikanel Oasis - Remedy x4 (Chest)",
-                        "ref": "Bikanel/Desert/Oasis/In Southwest Corner of Water (Chest)/Remedy x4"
+                        "name": "Oasis - In Southwest Corner of Water (Chest)",
+                        "ref": "Bikanel/Desert/Oasis/Oasis - In Southwest Corner of Water (Chest)/Remedy x4"
                     },
                     {
-                        "name": "Bikanel Oasis - Al Bhed Primer I",
+                        "name": "Al Bhed Ship: Deck & Oasis (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer I/Bikanel"
                     },
                     {
-                        "name": "Bikanel Oasis - Zu",
-                        "ref": "Bikanel/Desert/Oasis/Defeat Zu/This doesn't send a check"
+                        "name": "Defeat Zu (Boss)",
+                        "ref": "Bikanel/Desert/Oasis/Defeat Zu (Boss)/This doesn't send a check"
                     },
                     {
-                        "name": "Bikanel Oasis - Al Bhed Potion x8",
-                        "ref": "Bikanel/Desert/Oasis/Next to Tent (Chest & Primer)/Al Bhed Potion x8"
+                        "name": "Oasis - Next to Tent (Chest)",
+                        "ref": "Bikanel/Desert/Oasis/Next to Tent (Chest & Primer)/Oasis - Next to Tent (Chest)"
                     },
                     {
-                        "name": "Bikanel Oasis - Al Bhed Primer III",
+                        "name": "S.S. Liki: Power Room & Oasis (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer III/Bikanel"
                     },
                     {
-                        "name": "Bikanel East - Al Bhed Primer V",
+                        "name": "S.S. Winno: Bridge & Desert, East (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer V/Bikanel"
                     },
                     {
-                        "name": "Bikanel East - Ether x2 (Chest)",
-                        "ref": "Bikanel/Desert/East/Near First Tent (Chests)/Ether x2"
+                        "name": "Desert, East - Near First Tent, Right (Chest)",
+                        "ref": "Bikanel/Desert/East/Near First Tent (Chests)/Desert, East - Near First Tent, Right (Chest)"
                     },
                     {
-                        "name": "Bikanel East - Al Bhed Potion x8",
-                        "ref": "Bikanel/Desert/East/Near First Tent (Chests)/Al Bhed Potion x8"
+                        "name": "Desert, East - Near First Tent, Left (Chest)",
+                        "ref": "Bikanel/Desert/East/Near First Tent (Chests)/Desert, East - Near First Tent, Left (Chest)"
                     },
                     {
-                        "name": "Bikanel East - Al Bhed Primer XIV",
+                        "name": "Thunder Plains: Agency & Desert, East (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XIV/Bikanel"
                     },
                     {
-                        "name": "Bikanel East - Hi-Potion x4 (Chest)",
-                        "ref": "Bikanel/Desert/East/Western Alcove, Near Structure (Chest)/Hi-Potion x4"
+                        "name": "Desert, East - Western Alcove, Near Structure (Chest)",
+                        "ref": "Bikanel/Desert/East/Desert, East - Western Alcove, Near Structure (Chest)/Hi-Potion x4"
                     },
                     {
-                        "name": "Bikanel Central - Hi-Potion x4 (Chest)",
-                        "ref": "Bikanel/Desert/Central/Structure Southeast of Save Sphere (Chest)/Hi-Potion x4"
+                        "name": "Desert, Central - Structure Southeast of Save Sphere (Chest)",
+                        "ref": "Bikanel/Desert/Central/Desert, Central - Structure Southeast of Save Sphere (Chest)/Hi-Potion x4"
                     },
                     {
-                        "name": "Bikanel Central - X-Potion x2 (Chest)",
-                        "ref": "Bikanel/Desert/Central/Rock Ridge Southwest of Save Sphere (Chest)/X-Potion x2"
+                        "name": "Desert, Central - Rock Ridge Southwest of Save Sphere (Chest)",
+                        "ref": "Bikanel/Desert/Central/Desert, Central - Rock Ridge Southwest of Save Sphere (Chest)/X-Potion x2"
                     },
                     {
-                        "name": "Bikanel Central - Mega-Potion x2 (Chest)",
-                        "ref": "Bikanel/Desert/Central/Far West Corner (Chest)/Mega-Potion x2"
+                        "name": "Desert, Central - Far West Corner (Chest)",
+                        "ref": "Bikanel/Desert/Central/Desert, Central - Far West Corner (Chest)/Mega-Potion x2"
                     },
                     {
-                        "name": "Bikanel Central - Al Bhed Potion x8",
-                        "ref": "Bikanel/Desert/Central/Right of Save Sphere (Chest)/Al Bhed Potion x8"
+                        "name": "Desert, Central - Right of Save Sphere (Chest)",
+                        "ref": "Bikanel/Desert/Central/Desert, Central - Right of Save Sphere (Chest)/Al Bhed Potion x8"
                     },
                     {
-                        "name": "Bikanel Central - Al Bhed Primer XVIII",
+                        "name": "Desert, Central - Near Sign At Northeast Exit (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XVIII/Bikanel"
                     },
                     {
-                        "name": "Bikanel Central - Elixir x1 (Chest)",
-                        "ref": "Bikanel/Desert/Central/Southwest Corner of Northwest Zone (Chest)/Elixir x1"
+                        "name": "Desert, Central - Southwest Corner of Northwest Zone (Chest)",
+                        "ref": "Bikanel/Desert/Central/Desert, Central - Southwest Corner of Northwest Zone (Chest)/Elixir x1"
                     },
                     {
-                        "name": "Bikanel Central - Lv. 2 Key Sphere x1 (Chest)",
-                        "ref": "Bikanel/Desert/Central/Central Structure of Northwest Zone (Chests)/Lv. 2 Key Sphere x1"
+                        "name": "Desert, Central - Central Structure of Northwest Zone, Top (Chest)",
+                        "ref": "Bikanel/Desert/Central/Central Structure of Northwest Zone (Chests)/Desert, Central - Central Structure of Northwest Zone, Top (Chest)"
                     },
                     {
-                        "name": "Bikanel Central - 10000 gil (Chest)",
-                        "ref": "Bikanel/Desert/Central/Central Structure of Northwest Zone (Chests)/10000 gil"
+                        "name": "Desert, Central - Central Structure of Northwest Zone, Bottom (Chest)",
+                        "ref": "Bikanel/Desert/Central/Central Structure of Northwest Zone (Chests)/Desert, Central - Central Structure of Northwest Zone, Bottom (Chest)"
                     },
                     {
-                        "name": "Bikanel Central - Al Bhed Primer XVII",
+                        "name": "Desert, Central - Northeast Structure of Northwest Zone (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XVII/Bikanel"
                     },
                     {
-                        "name": "Bikanel West - Megalixir x3 (Chest)",
-                        "ref": "Bikanel/Desert/West/Left Sinkhole on Main Path (Chest)/Megalixir x3"
+                        "name": "Desert, West - Left Sinkhole on Main Path (Chest)",
+                        "ref": "Bikanel/Desert/West/Desert, West - Left Sinkhole on Main Path (Chest)/Megalixir x3"
                     },
                     {
-                        "name": "Bikanel West - Teleport Sphere x2 (Chest)",
-                        "ref": "Bikanel/Desert/West/Right Sinkhole on Main Path (Chest)/Teleport Sphere x2"
+                        "name": "Desert, West - Right Sinkhole on Main Path (Chest)",
+                        "ref": "Bikanel/Desert/West/Desert, West - Right Sinkhole on Main Path (Chest)/Teleport Sphere x2"
                     },
                     {
-                        "name": "Bikanel West - Hi-Potion x8 (Chest)",
-                        "ref": "Bikanel/Desert/West/First Western Alcove (Chests)/Hi-Potion x8"
+                        "name": "Desert, West - First Western Alcove, Between Rocks (Chest)",
+                        "ref": "Bikanel/Desert/West/First Western Alcove (Chests)/Desert, West - First Western Alcove, Between Rocks (Chest)"
                     },
                     {
-                        "name": "Bikanel West - Mercury Crest (Chest)",
+                        "name": "Desert, West - First Western Alcove, Sinkhole (Chest)",
                         "ref": "Celestial/Rikku/Mercury Crest"
                     },
                     {
-                        "name": "Bikanel West - Mega-Potion x3 (Chest)",
-                        "ref": "Bikanel/Desert/West/Second Western Alcove, Hidden Behind Rock (Chest)/Mega-Potion x3"
+                        "name": "Desert, West - Second Western Alcove, Hidden Behind Rock (Chest)",
+                        "ref": "Bikanel/Desert/West/Desert, West - Second Western Alcove, Hidden Behind Rock (Chest)/Mega-Potion x3"
                     },
                     {
-                        "name": "Bikanel West - X-Potion x2 (Chest)",
-                        "ref": "Bikanel/Desert/West/Second Western Alcove, North Side (Chest)/X-Potion x2"
+                        "name": "Desert, West - Second Western Alcove, North Side (Chest)",
+                        "ref": "Bikanel/Desert/West/Desert, West - Second Western Alcove, North Side (Chest)/X-Potion x2"
                     },
                     {
-                        "name": "Bikanel West - Mercury Sigil (Cactuar Village)",
+                        "name": "Desert - Complete Cactuar Village Quest (Event)",
                         "ref": "Celestial/Rikku/Mercury Sigil"
                     },
                     {
-                        "name": "Super Bosses - Dark Ifrit",
+                        "name": "Defeat Dark Ifrit (Superboss)",
                         "ref": "Super Bosses/Dark Ifrit"
                     }
                 ]
@@ -1226,52 +1222,52 @@
                 "map_locations": [{ "map": "Spira", "x": 306, "y": 400, "size": 24}],
                 "sections": [
                     {
-                        "name": "Home - Hi-Potion x2 (NPC on Ground)",
-                        "ref": "Bikanel/Home/Keyakku, on Ground (NPC)/Hi-Potion x2"
+                        "name": "Home: Keyakku, on Ground (NPC)",
+                        "ref": "Bikanel/Home/Home: Keyakku, on Ground (NPC)/Hi-Potion x2"
                     },
                     {
-                        "name": "Home - Al Bhed Primer XIX",
+                        "name": "Home: Left of Entrance (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XIX/Home"
                     },
                     {
-                        "name": "Home - Al Bhed Potion x6 (Chest)",
-                        "ref": "Bikanel/Home/North Hall, Left (Chest)/Al Bhed Potion x6"
+                        "name": "Home: Main Corridor - North Hall, Left (Chest)",
+                        "ref": "Bikanel/Home/Home: Main Corridor - North Hall, Left (Chest)/Al Bhed Potion x6"
                     },
                     {
-                        "name": "Home - Al Bhed Primer XXI",
+                        "name": "Home: Main Corridor - Northeast Corner (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XXI/Home"
                     },
                     {
-                        "name": "Home - Special Sphere x1 (Al Bhed Password Chest)",
-                        "ref": "Bikanel/Home/East of Main Corridor (Chests)/Special Sphere x1"
+                        "name": "Home: Living Quarters, East of Main Corridor - Password (Chest)",
+                        "ref": "Bikanel/Home/East of Main Corridor (Chests)/Home: Living Quarters, East of Main Corridor - Password (Chest)"
                     },
                     {
-                        "name": "Home - Skill Sphere x1 (Al Bhed Quiz Chest)",
-                        "ref": "Bikanel/Home/East of Main Corridor (Chests)/Skill Sphere x1"
+                        "name": "Home: Living Quarters, East of Main Corridor - Quiz (Chest)",
+                        "ref": "Bikanel/Home/East of Main Corridor (Chests)/Home: Living Quarters, East of Main Corridor - Quiz (Chest)"
                     },
                     {
-                        "name": "Home - Al Bhed Potion x4 (Chest)",
-                        "ref": "Bikanel/Home/Hidden Behind Left Smoke (Chest)/Al Bhed Potion x4"
+                        "name": "Home: Main Corridor - Bottom of South Stairs, Hidden Behind Left Smoke (Chest)",
+                        "ref": "Bikanel/Home/Home: Main Corridor - Bottom of South Stairs, Hidden Behind Left Smoke (Chest)/Al Bhed Potion x4"
                     },
                     {
-                        "name": "Home - Al Bhed Primer XX",
+                        "name": "Home: Living Quarters, South of Main Corridor - On Bed (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XX/Home"
                     }, 
                     {
-                        "name": "Home - Friend Sphere x1 (Al Bhed Vocabulary Chest)",
-                        "ref": "Bikanel/Home/South of Main Corridor (Chests)/Friend Sphere x1"
+                        "name": "Home: Living Quarters, South of Main Corridor - Vocabulary Test (Chest)",
+                        "ref": "Bikanel/Home/South of Main Corridor (Chests)/Home: Living Quarters, South of Main Corridor - Vocabulary Test (Chest)"
                     },
                     {
-                        "name": "Home - Area Completion - Lv. 2 Key Sphere x1",
-                        "ref": "Bikanel/Home/Area Completion/Lv. 2 Key Sphere x1"
+                        "name": "Home: Outside Summoner's Sanctum - Right (Chest)",
+                        "ref": "Bikanel/Home/Area Completion/Home: Outside Summoner's Sanctum - Right (Chest)"
                     },
                     {
-                        "name": "Home - Area Completion - Lv. 4 Key Sphere x4",
-                        "ref": "Bikanel/Home/Area Completion/Lv. 4 Key Sphere x4"
+                        "name": "Home: Outside Summoner's Sanctum - Left (Chest)",
+                        "ref": "Bikanel/Home/Area Completion/Home: Outside Summoner's Sanctum - Left (Chest)"
                     },
                     {
-                        "name": "Home - Area Completion - 10000 gil",
-                        "ref": "Bikanel/Home/Area Completion/10000 gil"
+                        "name": "Home: Environment Controls (Chest)",
+                        "ref": "Bikanel/Home/Area Completion/Home: Environment Controls (Chest)"
                     }
                 ]
             },
@@ -1280,44 +1276,44 @@
                 "map_locations": [{ "map": "Spira", "x": 460, "y": 520}],
                 "sections": [
                     {
-                        "name": "Bridge - Recruit Brother",
+                        "name": "Recruit: Brother",
                         "ref": "Blitzball Recruits/Brother"
                     },
                     {
-                        "name": "Bridge - Recruit Wakka",
+                        "name": "Recruit: Wakka",
                         "ref": "Blitzball Recruits/Wakka"
                     },
                     {
-                        "name": "Corridor - Recruit Rin",
+                        "name": "Recruit: Rin",
                         "ref": "Blitzball Recruits/Rin"
                     },
                     {
-                        "name": "Corridor - Complete Al Bhed Primers",
+                        "name": "Collect All Primers, Talk to Rin (NPC)",
                         "ref": "Al Bhed Primers/Complete Al Bhed Primers"
                     },
                     {
-                        "name": "Cabin - Al Bhed Potion x4 (NPC)",
-                        "ref": "Airship/Before Evrae, Yellow Al Bhed on Left (NPC)/Al Bhed Potion x4 (NPC)"
+                        "name": "Cabin - Before Evrae, Yellow Al Bhed on Left (NPC)",
+                        "ref": "Airship/Cabin - Before Evrae, Yellow Al Bhed on Left (NPC)/Al Bhed Potion x4 (NPC)"
                     },
                     {
-                        "name": "Roof - Evrae",
-                        "ref": "Airship/Roof (Bosses)/Evrae"
+                        "name": "Defeat Evrae (Boss)",
+                        "ref": "Airship/Roof (Bosses)/Defeat Evrae (Boss)"
                     },
                     {
-                        "name": "Roof - Sin Left Fin",
-                        "ref": "Airship/Roof (Bosses)/Sin Left Fin"
+                        "name": "Defeat Sin Left Fin (Boss)",
+                        "ref": "Airship/Roof (Bosses)/Defeat Sin Left Fin (Boss)"
                     },
                     {
-                        "name": "Roof - Sin Right Fin",
-                        "ref": "Airship/Roof (Bosses)/Sin Right Fin"
+                        "name": "Defeat Sin Right Fin (Boss)",
+                        "ref": "Airship/Roof (Bosses)/Defeat Sin Right Fin (Boss)"
                     },
                     {
-                        "name": "Roof - Sinspawn Genais and Core",
-                        "ref": "Airship/Roof (Bosses)/Sinspawn Genais and Core"
+                        "name": "Defeat Sin Core (Boss)",
+                        "ref": "Airship/Roof (Bosses)/Defeat Sin Core (Boss)"
                     },
                     {
-                        "name": "Roof - Overdrive Sin",
-                        "ref": "Airship/Roof (Bosses)/Overdrive Sin"
+                        "name": "Defeat Overdrive Sin (Boss)",
+                        "ref": "Airship/Roof (Bosses)/Defeat Overdrive Sin (Boss)"
                     }
                 ]
             },
@@ -1326,67 +1322,67 @@
                 "map_locations": [{ "map": "Spira", "x": 678, "y": 273}],
                 "sections": [
                     {
-                        "name": "Temple - Al Bhed Primer XXII",
+                        "name": "Priests' Passage - Corner South of Save Point (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XXII/Bevelle"
                     },
                     {
-                        "name": "Temple - Cloister of Trials - Knight Lance",
-                        "ref": "Bevelle/Temple/Cloister of Trials/Knight Lance"
+                        "name": "Cloister - Left of Exit, 2 Bevelle Spheres Required (Chest)",
+                        "ref": "Bevelle/Temple/Cloister of Trials/Cloister - Left of Exit, 2 Bevelle Spheres Required (Chest)"
                     },
                     {
-                        "name": "Temple - Cloister of Trials - Destruction Sphere",
-                        "ref": "Bevelle/Temple/Cloister of Trials/Destruction Sphere - HP Sphere"
+                        "name": "Cloister - End (Chest)",
+                        "ref": "Bevelle/Temple/Cloister of Trials/Cloister - End (Chest)"
                     },
                     {
-                        "name": "Temple - Cloister of Trials - Bahamut",
+                        "name": "Name Bahamut (Event)",
                         "ref": "Party Member/Aeon/Bahamut"
                     },
                     {
-                        "name": "Via Purifico - Mega-Potion x1 (Chest)",
-                        "ref": "Bevelle/Via Purifico/East Room With Kimahri (Chest)/Mega-Potion x1"
+                        "name": "Via Purifico - East Room With Kimahri (Chest)",
+                        "ref": "Bevelle/Via Purifico/Via Purifico - East Room With Kimahri (Chest)/Mega-Potion x1"
                     },
                     {
-                        "name": "Via Purifico - Wht Magic Sphere x1 (Chest)",
-                        "ref": "Bevelle/Via Purifico/West Room With Lulu (Chest)/Wht Magic Sphere x1"
+                        "name": "Via Purifico - West Room With Lulu (Chest)",
+                        "ref": "Bevelle/Via Purifico/Via Purifico - West Room With Lulu (Chest)/Wht Magic Sphere x1"
                     },
                     {
-                        "name": "Via Purifico - Elixir x1 (Chest)",
-                        "ref": "Bevelle/Via Purifico/Southwest Room Near Glyph (Chest)/Elixir x1"
+                        "name": "Via Purifico - Southwest Room Near Glyph (Chest)",
+                        "ref": "Bevelle/Via Purifico/Via Purifico - Southwest Room Near Glyph (Chest)/Elixir x1"
                     },
                     {
-                        "name": "Via Purifico - Blk Magic Sphere x1 (Chest)",
-                        "ref": "Bevelle/Via Purifico/Room Northeast of Central Teleporter (Chest)/Blk Magic Sphere x1"
+                        "name": "Via Purifico - Room Northeast of Central Teleporter (Chest)",
+                        "ref": "Bevelle/Via Purifico/Via Purifico - Room Northeast of Central Teleporter (Chest)/Blk Magic Sphere x1"
                     },
                     {
-                        "name": "Via Purifico - Skill Sphere x1 (Chest)",
-                        "ref": "Bevelle/Via Purifico/Puzzle Room (Chests)/Skill Sphere x1"
+                        "name": "Via Purifico - Puzzle Room Right (Chest)",
+                        "ref": "Bevelle/Via Purifico/Puzzle Room (Chests)/Via Purifico - Puzzle Room Right (Chest)"
                     },
                     {
-                        "name": "Via Purifico - 10000 gil (Chest)",
-                        "ref": "Bevelle/Via Purifico/Puzzle Room (Chests)/10000 gil"
+                        "name": "Via Purifico - Puzzle Room, Down Near Gate (Chest)",
+                        "ref": "Bevelle/Via Purifico/Puzzle Room (Chests)/Via Purifico - Puzzle Room, Down Near Gate (Chest)"
                     },
                     {
-                        "name": "Via Purifico - Lucid Ring (Chest)",
-                        "ref": "Bevelle/Via Purifico/Puzzle Room (Chests)/Lucid Ring"
+                        "name": "Via Purifico - Puzzle Room Left (Chest)",
+                        "ref": "Bevelle/Via Purifico/Puzzle Room (Chests)/Via Purifico - Puzzle Room Left (Chest)"
                     },
                     {
-                        "name": "Via Purifico - Isaaru",
+                        "name": "Defeat Isaaru (Boss)",
                         "ref": "Bevelle/Via Purifico/Defeat Isaaru (Boss)/Isaaru"
                     },
                     {
-                        "name": "Underwater - Evrae Altana",
+                        "name": "Defeat Evrae Altana (Boss)",
                         "ref": "Bevelle/Underwater/Defeat Evrae Altana (Boss)/Evrae Altana"
                     },
                     {
-                        "name": "Underwater - Rematch (Chest)",
-                        "ref": "Bevelle/Underwater/Right Side Before First Turn (Chest)/Rematch"
+                        "name": "Underwater After Evrae Altana, Right Side Before First Turn (Chest)",
+                        "ref": "Bevelle/Underwater/Underwater After Evrae Altana, Right Side Before First Turn (Chest)/Rematch"
                     },
                     {
-                        "name": "Underwater - Avenger (Chest)",
-                        "ref": "Bevelle/Underwater/Right Side After First Turn (Chest)/Avenger"
+                        "name": "Underwater After Evrae Altana, Right Side After First Turn (Chest)",
+                        "ref": "Bevelle/Underwater/Underwater After Evrae Altana, Right Side After First Turn (Chest)/Avenger"
                     },
                     {
-                        "name": "Highbridge - Seymour Natus",
+                        "name": "Defeat Seymour Natus (Boss)",
                         "ref": "Bevelle/Highbridge/Defeat Seymour Natus (Boss)/Seymour Natus"
                     }
                 ]
@@ -1396,39 +1392,39 @@
                 "map_locations": [{ "map": "Spira", "x": 641, "y": 207}],
                 "sections": [
                     {
-                        "name": "Plains - 5000 gil (Chest)",
-                        "ref": "Calm Lands/Plains/Southeast Corner (Chests)/5000 gil"
+                        "name": "South - Southeast Corner, Right (Chest)",
+                        "ref": "Calm Lands/Plains/Southeast Corner (Chests)/South - Southeast Corner, Right (Chest)"
                     },
                     {
-                        "name": "Plains - 10000 gil (Chest)",
-                        "ref": "Calm Lands/Plains/Southeast Corner (Chests)/10000 gil"
+                        "name": "South - Southeast Corner, Left (Chest)",
+                        "ref": "Calm Lands/Plains/Southeast Corner (Chests)/South - Southeast Corner, Left (Chest)"
                     },
                     {
-                        "name": "Plains - Lv. 2 Key Sphere x1 (Chest)",
-                        "ref": "Calm Lands/Plains/Behind Agency Tent (Chest)/Lv. 2 Key Sphere x1"
+                        "name": "Central - Behind Agency Tent (Chest)",
+                        "ref": "Calm Lands/Plains/Central - Behind Agency Tent (Chest)/Lv. 2 Key Sphere x1"
                     },
                     {
-                        "name": "Plains - Al Bhed Primer XXIII",
+                        "name": "North - Northwest Corner (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XXIII/Calm Lands"
                     },
                     {
-                        "name": "Plains - Recruit Naida",
+                        "name": "Recruit: Naida",
                         "ref": "Blitzball Recruits/Naida"
                     },
                     {
-                        "name": "Plains - Recruit Svanda",
+                        "name": "Recruit: Svanda",
                         "ref": "Blitzball Recruits/Svanda"
                     },
                     {
-                        "name": "Plains - Defender X",
+                        "name": "Defeat Defender X (Boss)",
                         "ref": "Calm Lands/Plains/Defeat Defender X (Boss)/Defender X"
                     },
                     {
-                        "name": "Gorge - Recruit Durren",
+                        "name": "Recruit: Durren",
                         "ref": "Blitzball Recruits/Durren"
                     },
                     {
-                        "name": "Gorge - Rusty Sword",
+                        "name": "Gorge Bottom - Rusty Sword Between Two Rocks, East End (Event)",
                         "ref": "Celestial/General/Rusty Sword"
                     },
                     {
@@ -1448,11 +1444,11 @@
                         "ref": "Calm Lands/Chocobo/Chocobo Training/Catcher Chocobo Minigame (Event)"
                     },
                     {
-                        "name": "Chocobo - Sun Sigil (Chocobo Catcher 0:00)",
+                        "name": "Catcher Chocobo Minigame, Time Under 0.00 (Event)",
                         "ref": "Celestial/Tidus/Sun Sigil"
                     },
                     {
-                        "name": "Plains - Caladbolg",
+                        "name": "North - NW Corner, Blocked Until Winning Catcher Chocobo (Event)",
                         "ref": "Celestial/Tidus/Caladbolg"
                     }
                 ]
@@ -1462,51 +1458,51 @@
                 "map_locations": [{ "map": "Spira", "x": 718, "y": 207, "size": 24}],
                 "sections": [
                     {
-                        "name": "Al Bhed Primer XXIV",
+                        "name": "Remiem Temple - Northwest Corner (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XXIV/Remiem Temple"
                     },
                     {
-                        "name": "Cloudy Mirror (Chocobo Race)",
+                        "name": "Remiem Temple - Win Chocobo Race (Event)",
                         "ref": "Celestial/General/Cloudy Mirror"
                     },
                     {
-                        "name": "Belgemine - Valefor Fight",
-                        "ref": "Remiem Temple/Belgemine/Valefor Fight"
+                        "name": "Remiem Temple - Defeat Valefor (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Valefor (Boss)"
                     },
                     {
-                        "name": "Belgemine - Ifrit Fight",
-                        "ref": "Remiem Temple/Belgemine/Ifrit Fight"
+                        "name": "Remiem Temple - Defeat Ifrit (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Ifrit (Boss)"
                     },
                     {
-                        "name": "Belgemine - Ixion Fight",
-                        "ref": "Remiem Temple/Belgemine/Ixion Fight"
+                        "name": "Remiem Temple - Defeat Ixion (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Ixion (Boss)"
                     },
                     {
-                        "name": "Belgemine - Shiva Fight",
-                        "ref": "Remiem Temple/Belgemine/Shiva Fight"
+                        "name": "Remiem Temple - Defeat Shiva (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Shiva (Boss)"
                     },
                     {
-                        "name": "Belgemine - Bahamut Fight",
-                        "ref": "Remiem Temple/Belgemine/Bahamut Fight"
+                        "name": "Remiem Temple - Defeat Bahamut (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Bahamut (Boss)"
                     },
                     {
-                        "name": "Belgemine - Yojimbo Fight",
-                        "ref": "Remiem Temple/Belgemine/Yojimbo Fight"
+                        "name": "Remiem Temple - Defeat Yojimbo (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Yojimbo (Boss)"
                     },
                     {
-                        "name": "Belgemine - Anima Fight",
-                        "ref": "Remiem Temple/Belgemine/Anima Fight"
+                        "name": "Remiem Temple - Defeat Anima (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Anima (Boss)"
                     },
                     {
-                        "name": "Belgemine - Magus Sisters Fight",
-                        "ref": "Remiem Temple/Belgemine/Magus Sisters Fight"
+                        "name": "Remiem Temple - Defeat Magus Sisters (Boss)",
+                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Magus Sisters (Boss)"
                     },
                     {
-                        "name": "Belgemine - Moon Sigil (Send Belgemine)",
+                        "name": "Remiem Temple - Defeat All Aeons and Send Belgemine (Event)",
                         "ref": "Celestial/Yuna/Moon Sigil"
                     },
                     {
-                        "name": "Magus Sisters",
+                        "name": "Name the Magus Sisters (Event)",
                         "ref": "Party Member/Aeon/Magus Sisters"
                     }
                 ]
@@ -1687,8 +1683,8 @@
                         "ref": "Monster Arena/Area Conquest/Creation Rewards/Omega Dungeon"
                     },
                     {
-                        "name": "Species Conquest - Wolf (x3)",
-                        "ref": "Monster Arena/Species Conquest/Creation Rewards/Wolf (x3)"
+                        "name": "Species Conquest - Wolf (3x)",
+                        "ref": "Monster Arena/Species Conquest/Creation Rewards/Wolf (3x)"
                     },
                     {
                         "name": "Species Conquest - Reptile (3x)",
@@ -1741,10 +1737,6 @@
                     {
                         "name": "Species Conquest - Iron Giant (10x)",
                         "ref": "Monster Arena/Species Conquest/Creation Rewards/Iron Giant (10x)"
-                    },
-                    {
-                        "name": "Species Conquest - Wolf",
-                        "ref": "Monster Arena/Species Conquest/Creation Rewards/Wolf"
                     },
                     {
                         "name": "Original Creation - Area Conquest x2",
