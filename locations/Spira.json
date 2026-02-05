@@ -2044,27 +2044,27 @@
                 "sections": [
                     {
                         "name": "Overpass - South Side, West Bend (Chest)",
-                        "ref": "Zanarkand/Overpass/South Side, West Bend (Chest)/Fortune Sphere x1"
+                        "ref": "Zanarkand/Overpass/Overpass - South Side, West Bend (Chest)/Fortune Sphere x1"
                     },
                     {
                         "name": "Overpass - North Side, Left Alcove (Chest)",
-                        "ref": "Zanarkand/Overpass/North Side, Left Alcove (Chest)/Spiritual Targe"
+                        "ref": "Zanarkand/Overpass/Overpass - North Side, Left Alcove (Chest)/Spiritual Targe"
                     },
                     {
-                        "name": "Dome - Road Above Underpass (Chest)",
-                        "ref": "Zanarkand/Dome/Road Above Underpass (Chest)/10000 gil"
+                        "name": "Dome Interior - Road Above Underpass (Chest)",
+                        "ref": "Zanarkand/Dome/Dome Interior - Road Above Underpass (Chest)/10000 gil"
                     },
                     {
-                        "name": "Dome - West From 4-Way Intersection (Chest)",
-                        "ref": "Zanarkand/Dome/West From 4-Way Intersection (Chest)/Friend Sphere x1"
+                        "name": "Dome Interior - West From 4-Way Intersection (Chest)",
+                        "ref": "Zanarkand/Dome/Dome Interior - West From 4-Way Intersection (Chest)/Friend Sphere x1"
                     },
                     {
-                        "name": "Dome - Rubble Path Down Before Circular Doorway (Chest)",
-                        "ref": "Zanarkand/Dome/Rubble Path Down Before Circular Doorway (Chest)/Lv. 3 Key Sphere x1"
+                        "name": "Dome Interior - Rubble Path Down Before Circular Doorway (Chest)",
+                        "ref": "Zanarkand/Dome/Dome Interior - Rubble Path Down Before Circular Doorway (Chest)/Lv. 3 Key Sphere x1"
                     },
                     {
-                        "name": "Dome - Right Side (Chest)",
-                        "ref": "Zanarkand/Dome/Right Side (Chest)/Luck Sphere x1"
+                        "name": "Dome Corridor - Right Side (Chest)",
+                        "ref": "Zanarkand/Dome/Dome Corridor - Right Side (Chest)/Luck Sphere x1"
                     },
                     {
                         "name": "Temple - Defeat Spectral Keeper (Boss)",
@@ -2075,7 +2075,7 @@
                         "ref": "Zanarkand/Temple/Defeat Yunalesca (Boss)/Yunalesca"
                     },
                     {
-                        "name": "Temple - Chest After Taking Left/Right in Yunalesca Arena (Chest)",
+                        "name": "Dome Beyond - Chest After Taking Left/Right in Yunalesca Arena (Chest)",
                         "ref": "Celestial/Tidus/Sun Crest"
                     },
                     {
