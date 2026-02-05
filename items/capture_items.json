@@ -23,6 +23,7 @@
         "initial_active_state": false,
         "codes": "dingocomplete"
     },
+
     {
         "name": "Condor",
         "type": "consumable",
@@ -46,6 +47,7 @@
         "initial_active_state": false,
         "codes": "condorcomplete"
     },
+
     {
         "name": "Water Flan",
         "type": "consumable",
@@ -85,6 +87,17 @@
         "codes": "dinonix"
     },
     {
+        "name": "Dinonix Complete",
+        "type": "toggle",
+        "img": "images/fiends/Dinonix.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "dinonixcomplete"
+    },
+
+    {
         "name": "Killer Bee",
         "type": "consumable",
         "img": "images/fiends/Killer Bee.png",
@@ -97,6 +110,17 @@
         "initial_quantity": 0,
         "codes": "killerbee"
     },
+    {
+        "name": "Killer Bee Complete",
+        "type": "toggle",
+        "img": "images/fiends/Killer Bee.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "killerbeecomplete"
+    },
+
     {
         "name": "Yellow Element",
         "type": "consumable",
@@ -111,6 +135,17 @@
         "codes": "yellowelement"
     },
     {
+        "name": "Yellow Element Complete",
+        "type": "toggle",
+        "img": "images/fiends/Yellow Element.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "yellowelementcomplete"
+    },
+
+    {
         "name": "Ragora",
         "type": "consumable",
         "img": "images/fiends/Ragora.png",
@@ -122,6 +157,16 @@
         "increment": 1,
         "initial_quantity": 0,
         "codes": "ragora"
+    },
+    {
+        "name": "Ragora Complete",
+        "type": "toggle",
+        "img": "images/fiends/Ragora.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ragoracomplete"
     },
 
     //Miihen Highroad
@@ -139,6 +184,17 @@
         "codes": "miihenfang"
     },
     {
+        "name": "Mi'ihen Fang Complete",
+        "type": "toggle",
+        "img": "images/fiends/Mi'ihen Fang.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "miihenfangcomplete"
+    },
+
+    {
         "name": "Ipiria",
         "type": "consumable",
         "img": "images/fiends/Ipiria.png",
@@ -151,6 +207,17 @@
         "initial_quantity": 0,
         "codes": "ipiria"
     },
+    {
+        "name": "Ipiria Complete",
+        "type": "toggle",
+        "img": "images/fiends/Ipiria.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ipiriacomplete"
+    },
+
     {
         "name": "Floating Eye",
         "type": "consumable",
@@ -165,6 +232,17 @@
         "codes": "floatingeye"
     },
     {
+        "name": "Floating Eye Complete",
+        "type": "toggle",
+        "img": "images/fiends/Floating Eye.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "floatingeyecomplete"
+    },
+
+    {
         "name": "White Element",
         "type": "consumable",
         "img": "images/fiends/White Element.png",
@@ -177,6 +255,17 @@
         "initial_quantity": 0,
         "codes": "whiteelement"
     },
+    {
+        "name": "White Element Complete",
+        "type": "toggle",
+        "img": "images/fiends/White Element.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "whiteelementcomplete"
+    },
+
     {
         "name": "Raldo",
         "type": "consumable",
@@ -191,6 +280,17 @@
         "codes": "raldo"
     },
     {
+        "name": "Raldo Complete",
+        "type": "toggle",
+        "img": "images/fiends/Raldo.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "raldocomplete"
+    },
+
+    {
         "name": "Vouivre",
         "type": "consumable",
         "img": "images/fiends/Vouivre.png",
@@ -203,6 +303,17 @@
         "initial_quantity": 0,
         "codes": "vouivre"
     },
+    {
+        "name": "Vouivre Complete",
+        "type": "toggle",
+        "img": "images/fiends/Vouivre.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "vouivrecomplete"
+    },
+
     {
         "name": "Bomb",
         "type": "consumable",
@@ -217,6 +328,17 @@
         "codes": "bomb"
     },
     {
+        "name": "Bomb Complete",
+        "type": "toggle",
+        "img": "images/fiends/Bomb.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "bombcomplete"
+    },
+
+    {
         "name": "Dual Horn",
         "type": "consumable",
         "img": "images/fiends/Dual Horn.png",
@@ -228,6 +350,16 @@
         "increment": 1,
         "initial_quantity": 0,
         "codes": "dualhorn"
+    },
+    {
+        "name": "Dual Horn Complete",
+        "type": "toggle",
+        "img": "images/fiends/Dual Horn.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "dualhorncomplete"
     },
 
     //Mushroom Rock Road
@@ -245,6 +377,17 @@
         "codes": "raptor"
     },
     {
+        "name": "Raptor Complete",
+        "type": "toggle",
+        "img": "images/fiends/Raptor.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "raptorcomplete"
+    },
+
+    {
         "name": "Gandarewa",
         "type": "consumable",
         "img": "images/fiends/Gandarewa.png",
@@ -257,6 +400,17 @@
         "initial_quantity": 0,
         "codes": "gandarewa"
     },
+    {
+        "name": "Gandarewa Complete",
+        "type": "toggle",
+        "img": "images/fiends/Gandarewa.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "gandarewacomplete"
+    },
+
     {
         "name": "Thunder Flan",
         "type": "consumable",
@@ -271,6 +425,17 @@
         "codes": "thunderflan"
     },
     {
+        "name": "Thunder Flan Complete",
+        "type": "toggle",
+        "img": "images/fiends/Thunder Flan.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "thunderflancomplete"
+    },
+
+    {
         "name": "Red Element",
         "type": "consumable",
         "img": "images/fiends/Red Element.png",
@@ -283,6 +448,17 @@
         "initial_quantity": 0,
         "codes": "redelement"
     },
+    {
+        "name": "Red Element Complete",
+        "type": "toggle",
+        "img": "images/fiends/Red Element.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "redelementcomplete"
+    },
+
     {
         "name": "Lamashtu",
         "type": "consumable",
@@ -297,6 +473,17 @@
         "codes": "lamashtu"
     },
     {
+        "name": "Lamashtu Complete",
+        "type": "toggle",
+        "img": "images/fiends/Lamashtu.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "lamashtucomplete"
+    },
+
+    {
         "name": "Funguar",
         "type": "consumable",
         "img": "images/fiends/Funguar.png",
@@ -310,6 +497,17 @@
         "codes": "funguar"
     },
     {
+        "name": "Funguar Complete",
+        "type": "toggle",
+        "img": "images/fiends/Funguar.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "funguarcomplete"
+    },
+
+    {
         "name": "Garuda",
         "type": "consumable",
         "img": "images/fiends/Garuda.png",
@@ -321,6 +519,16 @@
         "increment": 1,
         "initial_quantity": 0,
         "codes": "garuda"
+    },
+    {
+        "name": "Garuda Complete",
+        "type": "toggle",
+        "img": "images/fiends/Garuda.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "garudacomplete"
     },
 
     //Djose Road
@@ -338,6 +546,17 @@
         "codes": "garm"
     },
     {
+        "name": "Garm Complete",
+        "type": "toggle",
+        "img": "images/fiends/Garm.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "garmcomplete"
+    },
+    
+    {
         "name": "Simurgh",
         "type": "consumable",
         "img": "images/fiends/Simurgh.png",
@@ -350,6 +569,17 @@
         "initial_quantity": 0,
         "codes": "simurgh"
     },
+    {
+        "name": "Simurgh Complete",
+        "type": "toggle",
+        "img": "images/fiends/Simurgh.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "simurghcomplete"
+    },
+
     {
         "name": "Bite Bug",
         "type": "consumable",
@@ -364,6 +594,17 @@
         "codes": "bitebug"
     },
     {
+        "name": "Bite Bug Complete",
+        "type": "toggle",
+        "img": "images/fiends/Bite Bug.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "bitebugcomplete"
+    },
+
+    {
         "name": "Snow Flan",
         "type": "consumable",
         "img": "images/fiends/Snow Flan.png",
@@ -376,6 +617,17 @@
         "initial_quantity": 0,
         "codes": "snowflan"
     },
+    {
+        "name": "Snow Flan Complete",
+        "type": "toggle",
+        "img": "images/fiends/Snow Flan.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "snowflancomplete"
+    },
+
     {
         "name": "Bunyip",
         "type": "consumable",
@@ -390,6 +642,17 @@
         "codes": "bunyip"
     },
     {
+        "name": "Bunyip Complete",
+        "type": "toggle",
+        "img": "images/fiends/Bunyip.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "bunyipcomplete"
+    },
+
+    {
         "name": "Basilisk",
         "type": "consumable",
         "img": "images/fiends/Basilisk.png",
@@ -403,6 +666,17 @@
         "codes": "basilisk"
     },
     {
+        "name": "Basilisk Complete",
+        "type": "toggle",
+        "img": "images/fiends/Basilisk.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "basiliskcomplete"
+    },
+
+    {
         "name": "Ochu",
         "type": "consumable",
         "img": "images/fiends/Ochu.png",
@@ -414,6 +688,16 @@
         "increment": 1,
         "initial_quantity": 0,
         "codes": "ochu"
+    },
+    {
+        "name": "Ochu Complete",
+        "type": "toggle",
+        "img": "images/fiends/Ochu.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ochucomplete"
     },
 
     //Thunder Plains
@@ -431,6 +715,17 @@
         "codes": "melusine"
     },
     {
+        "name": "Melusine Complete",
+        "type": "toggle",
+        "img": "images/fiends/Melusine.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "melusinecomplete"
+    },
+
+    {
         "name": "Aerouge",
         "type": "consumable",
         "img": "images/fiends/Aerouge.png",
@@ -443,6 +738,17 @@
         "initial_quantity": 0,
         "codes": "aerouge"
     },
+    {
+        "name": "Aerouge Complete",
+        "type": "toggle",
+        "img": "images/fiends/Aerouge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "aerougecomplete"
+    },
+
     {
         "name": "Buer",
         "type": "consumable",
@@ -457,6 +763,17 @@
         "codes": "buer"
     },
     {
+        "name": "Buer Complete",
+        "type": "toggle",
+        "img": "images/fiends/Buer.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "buercomplete"
+    },
+    
+    {
         "name": "Gold Element",
         "type": "consumable",
         "img": "images/fiends/Gold Element.png",
@@ -469,6 +786,17 @@
         "initial_quantity": 0,
         "codes": "goldelement"
     },
+    {
+        "name": "Gold Element Complete",
+        "type": "toggle",
+        "img": "images/fiends/Gold Element.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "goldelementcomplete"
+    },
+
     {
         "name": "Kusariqqu",
         "type": "consumable",
@@ -483,6 +811,17 @@
         "codes": "kusariqqu"
     },
     {
+        "name": "Kusariqqu Complete",
+        "type": "toggle",
+        "img": "images/fiends/Kusariqqu.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "kusariqqucomplete"
+    },
+
+    {
         "name": "Larva",
         "type": "consumable",
         "img": "images/fiends/Larva.png",
@@ -495,6 +834,17 @@
         "initial_quantity": 0,
         "codes": "larva"
     },
+    {
+        "name": "Larva Complete",
+        "type": "toggle",
+        "img": "images/fiends/Larva.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "larvacomplete"
+    },
+
     {
         "name": "Iron Giant",
         "type": "consumable",
@@ -509,6 +859,17 @@
         "codes": "irongiant"
     },
     {
+        "name": "Iron Giant Complete",
+        "type": "toggle",
+        "img": "images/fiends/Iron Giant.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "irongiantcomplete"
+    },
+
+    {
         "name": "Qactuar",
         "type": "consumable",
         "img": "images/fiends/Qactuar.png",
@@ -520,6 +881,16 @@
         "increment": 1,
         "initial_quantity": 0,
         "codes": "qactuar"
+    },
+    {
+        "name": "Qactuar Complete",
+        "type": "toggle",
+        "img": "images/fiends/Qactuar.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "qactuarcomplete"
     },
 
     //Macalania
@@ -537,6 +908,17 @@
         "codes": "snowwolf"
     },
     {
+        "name": "Snow Wolf Complete",
+        "type": "toggle",
+        "img": "images/fiends/Snow Wolf.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "snowwolfcomplete"
+    },
+
+    {
         "name": "Iguion",
         "type": "consumable",
         "img": "images/fiends/Iguion.png",
@@ -549,6 +931,17 @@
         "initial_quantity": 0,
         "codes": "iguion"
     },
+    {
+        "name": "Iguion Complete",
+        "type": "toggle",
+        "img": "images/fiends/Iguion.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "iguioncomplete"
+    },
+
     {
         "name": "Wasp",
         "type": "consumable",
@@ -563,6 +956,17 @@
         "codes": "wasp"
     },
     {
+        "name": "Wasp Complete",
+        "type": "toggle",
+        "img": "images/fiends/Wasp.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "waspcomplete"
+    },
+
+    {
         "name": "Evil Eye",
         "type": "consumable",
         "img": "images/fiends/Evil Eye.png",
@@ -575,6 +979,17 @@
         "initial_quantity": 0,
         "codes": "evileye"
     },
+    {
+        "name": "Evil Eye Complete",
+        "type": "toggle",
+        "img": "images/fiends/Evil Eye.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "evileyecomplete"
+    },
+
     {
         "name": "Ice Flan",
         "type": "consumable",
@@ -589,6 +1004,17 @@
         "codes": "iceflan"
     },
     {
+        "name": "Ice Flan Complete",
+        "type": "toggle",
+        "img": "images/fiends/Ice Flan.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "iceflancomplete"
+    },
+
+    {
         "name": "Blue Element",
         "type": "consumable",
         "img": "images/fiends/Blue Element.png",
@@ -601,6 +1027,17 @@
         "initial_quantity": 0,
         "codes": "blueelement"
     },
+    {
+        "name": "Blue Element Complete",
+        "type": "toggle",
+        "img": "images/fiends/Blue Element.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "blueelementcomplete"
+    },
+
     {
         "name": "Murussu",
         "type": "consumable",
@@ -615,6 +1052,17 @@
         "codes": "murussu"
     },
     {
+        "name": "Murussu Complete",
+        "type": "toggle",
+        "img": "images/fiends/Murussu.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "murussucomplete"
+    },
+
+    {
         "name": "Mafdet",
         "type": "consumable",
         "img": "images/fiends/Mafdet.png",
@@ -627,6 +1075,17 @@
         "initial_quantity": 0,
         "codes": "mafdet"
     },
+    {
+        "name": "Mafdet Complete",
+        "type": "toggle",
+        "img": "images/fiends/Mafdet.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "mafdetcomplete"
+    },
+
     {
         "name": "Xiphos",
         "type": "consumable",
@@ -641,6 +1100,17 @@
         "codes": "xiphos"
     },
     {
+        "name": "Xiphos Complete",
+        "type": "toggle",
+        "img": "images/fiends/Xiphos.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "xiphoscomplete"
+    },
+
+    {
         "name": "Chimera",
         "type": "consumable",
         "img": "images/fiends/Chimera.png",
@@ -652,6 +1122,16 @@
         "increment": 1,
         "initial_quantity": 0,
         "codes": "chimera"
+    },
+    {
+        "name": "Chimera Complete",
+        "type": "toggle",
+        "img": "images/fiends/Chimera.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "chimeracomplete"
     },
 
     //Bikanel
@@ -669,6 +1149,17 @@
         "codes": "sandwolf"
     },
     {
+        "name": "Sand Wolf Complete",
+        "type": "toggle",
+        "img": "images/fiends/Sand Wolf.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "sandwolfcomplete"
+    },
+
+    {
         "name": "Alcyone",
         "type": "consumable",
         "img": "images/fiends/Alcyone.png",
@@ -681,6 +1172,17 @@
         "initial_quantity": 0,
         "codes": "alcyone"
     },
+    {
+        "name": "Alcyone Complete",
+        "type": "toggle",
+        "img": "images/fiends/Alcyone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "alcyonecomplete"
+    },
+
     {
         "name": "Mushussu",
         "type": "consumable",
@@ -695,6 +1197,17 @@
         "codes": "mushussu"
     },
     {
+        "name": "Mushussu Complete",
+        "type": "toggle",
+        "img": "images/fiends/Mushussu.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "mushussucomplete"
+    },
+
+    {
         "name": "Zu",
         "type": "consumable",
         "img": "images/fiends/Zu.png",
@@ -707,6 +1220,17 @@
         "initial_quantity": 0,
         "codes": "zu"
     },
+    {
+        "name": "Zu Complete",
+        "type": "toggle",
+        "img": "images/fiends/Zu.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "zucomplete"
+    },
+
     {
         "name": "Sand Worm",
         "type": "consumable",
@@ -721,6 +1245,17 @@
         "codes": "sandworm"
     },
     {
+        "name": "Sand Worm Complete",
+        "type": "toggle",
+        "img": "images/fiends/Sand Worm.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "sandwormcomplete"
+    },
+    
+    {
         "name": "Cactuar",
         "type": "consumable",
         "img": "images/fiends/Cactuar.png",
@@ -732,6 +1267,16 @@
         "increment": 1,
         "initial_quantity": 0,
         "codes": "cactuar"
+    },
+    {
+        "name": "Cactuar Complete",
+        "type": "toggle",
+        "img": "images/fiends/Cactuar.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "cactuarcomplete"
     },
 
     //Calm Lands
@@ -749,6 +1294,17 @@
         "codes": "skoll"
     },
     {
+        "name": "Skoll Complete",
+        "type": "toggle",
+        "img": "images/fiends/Skoll.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "skollcomplete"
+    },
+
+    {
         "name": "Nebiros",
         "type": "consumable",
         "img": "images/fiends/Nebiros.png",
@@ -761,6 +1317,17 @@
         "initial_quantity": 0,
         "codes": "nebiros"
     },
+    {
+        "name": "Nebiros Complete",
+        "type": "toggle",
+        "img": "images/fiends/Nebiros.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "nebiroscomplete"
+    },
+
     {
         "name": "Flame Flan",
         "type": "consumable",
@@ -775,6 +1342,17 @@
         "codes": "flameflan"
     },
     {
+        "name": "Flame Flan Complete",
+        "type": "toggle",
+        "img": "images/fiends/Flame Flan.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "flameflancomplete"
+    },
+
+    {
         "name": "Shred",
         "type": "consumable",
         "img": "images/fiends/Shred.png",
@@ -787,6 +1365,17 @@
         "initial_quantity": 0,
         "codes": "shred"
     },
+    {
+        "name": "Shred Complete",
+        "type": "toggle",
+        "img": "images/fiends/Shred.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "shredcomplete"
+    },
+
     {
         "name": "Anacondaur",
         "type": "consumable",
@@ -801,6 +1390,17 @@
         "codes": "anacondaur"
     },
     {
+        "name": "Anacondaur Complete",
+        "type": "toggle",
+        "img": "images/fiends/Anacondaur.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "anacondaurcomplete"
+    },
+
+    {
         "name": "Ogre",
         "type": "consumable",
         "img": "images/fiends/Ogre.png",
@@ -813,6 +1413,17 @@
         "initial_quantity": 0,
         "codes": "ogre"
     },
+    {
+        "name": "Ogre Complete",
+        "type": "toggle",
+        "img": "images/fiends/Ogre.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ogrecomplete"
+    },
+
     {
         "name": "Coeurl",
         "type": "consumable",
@@ -827,6 +1438,17 @@
         "codes": "coeurl"
     },
     {
+        "name": "Coeurl Complete",
+        "type": "toggle",
+        "img": "images/fiends/Coeurl.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "coeurlcomplete"
+    },
+
+    {
         "name": "Chimera Brain",
         "type": "consumable",
         "img": "images/fiends/Chimera Brain.png",
@@ -840,6 +1462,17 @@
         "codes": "chimerabrain"
     },
     {
+        "name": "Chimera Brain Complete",
+        "type": "toggle",
+        "img": "images/fiends/Chimera Brain.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "chimerabraincomplete"
+    },
+
+    {
         "name": "Malboro",
         "type": "consumable",
         "img": "images/fiends/Malboro.png",
@@ -852,6 +1485,17 @@
         "initial_quantity": 0,
         "codes": "malboro"
     },
+    {
+        "name": "Malboro Complete",
+        "type": "toggle",
+        "img": "images/fiends/Malboro.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "malborocomplete"
+    },
+
 
     //Cavern of the Stolen Fayth
     {
@@ -868,6 +1512,17 @@
         "codes": "yowie"
     },
     {
+        "name": "Yowie Complete",
+        "type": "toggle",
+        "img": "images/fiends/Yowie.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "yowiecomplete"
+    },
+
+    {
         "name": "Imp",
         "type": "consumable",
         "img": "images/fiends/Imp.png",
@@ -880,6 +1535,17 @@
         "initial_quantity": 0,
         "codes": "imp"
     },
+    {
+        "name": "Imp Complete",
+        "type": "toggle",
+        "img": "images/fiends/Imp.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "impcomplete"
+    },
+
     {
         "name": "Dark Element",
         "type": "consumable",
@@ -894,6 +1560,17 @@
         "codes": "darkelement"
     },
     {
+        "name": "Dark Element Complete",
+        "type": "toggle",
+        "img": "images/fiends/Dark Element.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "darkelementcomplete"
+    },
+
+    {
         "name": "Nidhogg",
         "type": "consumable",
         "img": "images/fiends/Nidhogg.png",
@@ -906,6 +1583,17 @@
         "initial_quantity": 0,
         "codes": "nidhogg"
     },
+    {
+        "name": "Nidhogg Complete",
+        "type": "toggle",
+        "img": "images/fiends/Nidhogg.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "nidhoggcomplete"
+    },
+
     {
         "name": "Thorn",
         "type": "consumable",
@@ -920,6 +1608,17 @@
         "codes": "thorn"
     },
     {
+        "name": "Thorn Complete",
+        "type": "toggle",
+        "img": "images/fiends/Thorn.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "thorncomplete"
+    },
+
+    {
         "name": "Valaha",
         "type": "consumable",
         "img": "images/fiends/Valaha.png",
@@ -932,6 +1631,17 @@
         "initial_quantity": 0,
         "codes": "valaha"
     },
+    {
+        "name": "Valaha Complete",
+        "type": "toggle",
+        "img": "images/fiends/Valaha.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "valahacomplete"
+    },
+
     {
         "name": "Epaaj",
         "type": "consumable",
@@ -946,6 +1656,17 @@
         "codes": "epaaj"
     },
     {
+        "name": "Epaaj Complete",
+        "type": "toggle",
+        "img": "images/fiends/Epaaj.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "epaajcomplete"
+    },
+
+    {
         "name": "Ghost",
         "type": "consumable",
         "img": "images/fiends/Ghost.png",
@@ -959,6 +1680,17 @@
         "codes": "ghost"
     },
     {
+        "name": "Ghost Complete",
+        "type": "toggle",
+        "img": "images/fiends/Ghost.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ghostcomplete"
+    },
+
+    {
         "name": "Tonberry",
         "type": "consumable",
         "img": "images/fiends/Tonberry.png",
@@ -970,6 +1702,16 @@
         "increment": 1,
         "initial_quantity": 0,
         "codes": "tonberry"
+    },
+    {
+        "name": "Tonberry Complete",
+        "type": "toggle",
+        "img": "images/fiends/Tonberry.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "tonberrycomplete"
     },
 
     //Mt. Gagazet
@@ -987,6 +1729,17 @@
         "codes": "bandersnatch"
     },
     {
+        "name": "Bandersnatch Complete",
+        "type": "toggle",
+        "img": "images/fiends/Bandersnatch.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "bandersnatchcomplete"
+    },
+
+    {
         "name": "Ahriman",
         "type": "consumable",
         "img": "images/fiends/Ahriman.png",
@@ -999,6 +1752,17 @@
         "initial_quantity": 0,
         "codes": "ahriman"
     },
+    {
+        "name": "Ahriman Complete",
+        "type": "toggle",
+        "img": "images/fiends/Ahriman.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ahrimancomplete"
+    },
+
     {
         "name": "Dark Flan",
         "type": "consumable",
@@ -1013,6 +1777,17 @@
         "codes": "darkflan"
     },
     {
+        "name": "Dark Flan Complete",
+        "type": "toggle",
+        "img": "images/fiends/Dark Flan.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "darkflancomplete"
+    },
+
+    {
         "name": "Grenade",
         "type": "consumable",
         "img": "images/fiends/Grenade.png",
@@ -1025,6 +1800,17 @@
         "initial_quantity": 0,
         "codes": "grenade"
     },
+    {
+        "name": "Grenade Complete",
+        "type": "toggle",
+        "img": "images/fiends/Grenade.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "grenadecomplete"
+    },
+
     {
         "name": "Grat",
         "type": "consumable",
@@ -1039,6 +1825,17 @@
         "codes": "grat"
     },
     {
+        "name": "Grat Complete",
+        "type": "toggle",
+        "img": "images/fiends/Grat.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "gratcomplete"
+    },
+
+    {
         "name": "Grendel",
         "type": "consumable",
         "img": "images/fiends/Grendel.png",
@@ -1051,6 +1848,17 @@
         "initial_quantity": 0,
         "codes": "grendel"
     },
+    {
+        "name": "Grendel Complete",
+        "type": "toggle",
+        "img": "images/fiends/Grendel.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "grendelcomplete"
+    },
+
     {
         "name": "Bashura",
         "type": "consumable",
@@ -1065,6 +1873,17 @@
         "codes": "bashura"
     },
     {
+        "name": "Bashura Complete",
+        "type": "toggle",
+        "img": "images/fiends/Bashura.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "bashuracomplete"
+    },
+
+    {
         "name": "Mandragora",
         "type": "consumable",
         "img": "images/fiends/Mandragora.png",
@@ -1077,6 +1896,17 @@
         "initial_quantity": 0,
         "codes": "mandragora"
     },
+    {
+        "name": "Mandragora Complete",
+        "type": "toggle",
+        "img": "images/fiends/Mandragora.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "mandragoracomplete"
+    },
+
     {
         "name": "Behemoth",
         "type": "consumable",
@@ -1091,6 +1921,17 @@
         "codes": "behemoth"
     },
     {
+        "name": "Behemoth Complete",
+        "type": "toggle",
+        "img": "images/fiends/Behemoth.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "behemothcomplete"
+    },
+
+    {
         "name": "Splasher",
         "type": "consumable",
         "img": "images/fiends/Splasher.png",
@@ -1103,6 +1944,17 @@
         "initial_quantity": 0,
         "codes": "splasher"
     },
+    {
+        "name": "Splasher Complete",
+        "type": "toggle",
+        "img": "images/fiends/Splasher.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "splashercomplete"
+    },
+
     {
         "name": "Achelous",
         "type": "consumable",
@@ -1117,6 +1969,17 @@
         "codes": "achelous"
     },
     {
+        "name": "Achelous Complete",
+        "type": "toggle",
+        "img": "images/fiends/Achelous.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "achelouscomplete"
+    },
+
+    {
         "name": "Maelspike",
         "type": "consumable",
         "img": "images/fiends/Maelspike.png",
@@ -1128,6 +1991,16 @@
         "increment": 1,
         "initial_quantity": 0,
         "codes": "maelspike"
+    },
+    {
+        "name": "Maelspike Complete",
+        "type": "toggle",
+        "img": "images/fiends/Maelspike.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "maelspikecomplete"
     },
 
     //Inside Sin
@@ -1145,6 +2018,17 @@
         "codes": "exoray"
     },
     {
+        "name": "Exoray Complete",
+        "type": "toggle",
+        "img": "images/fiends/Exoray.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "exoraycomplete"
+    },
+
+    {
         "name": "Wraith",
         "type": "consumable",
         "img": "images/fiends/Wraith.png",
@@ -1157,6 +2041,17 @@
         "initial_quantity": 0,
         "codes": "wraith"
     },
+    {
+        "name": "Wraith Complete",
+        "type": "toggle",
+        "img": "images/fiends/Wraith.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "wraithcomplete"
+    },
+
     {
         "name": "Gemini (Sword)",
         "type": "consumable",
@@ -1171,6 +2066,17 @@
         "codes": "geminisword"
     },
     {
+        "name": "Gemini (Sword) Complete",
+        "type": "toggle",
+        "img": "images/fiends/Gemini (Sword).png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "geminiswordcomplete"
+    },
+
+    {
         "name": "Gemini (Club)",
         "type": "consumable",
         "img": "images/fiends/Gemini (Club).png",
@@ -1183,6 +2089,17 @@
         "initial_quantity": 0,
         "codes": "geminiclub"
     },
+    {
+        "name": "Gemini (Club) Complete",
+        "type": "toggle",
+        "img": "images/fiends/Gemini (Club).png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "geminiclubcomplete"
+    },
+
     {
         "name": "Demonolith",
         "type": "consumable",
@@ -1197,6 +2114,17 @@
         "codes": "demonolith"
     },
     {
+        "name": "Demonolith Complete",
+        "type": "toggle",
+        "img": "images/fiends/Demonolith.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "demonolithcomplete"
+    },
+
+    {
         "name": "Great Malboro",
         "type": "consumable",
         "img": "images/fiends/Great Malboro.png",
@@ -1209,6 +2137,17 @@
         "initial_quantity": 0,
         "codes": "greatmalboro"
     },
+    {
+        "name": "Great Malboro Complete",
+        "type": "toggle",
+        "img": "images/fiends/Great Malboro.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "greatmalborocomplete"
+    },
+
     {
         "name": "Barbatos",
         "type": "consumable",
@@ -1223,6 +2162,17 @@
         "codes": "barbatos"
     },
     {
+        "name": "Barbatos Complete",
+        "type": "toggle",
+        "img": "images/fiends/Barbatos.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "barbatoscomplete"
+    },
+
+    {
         "name": "Adamantoise",
         "type": "consumable",
         "img": "images/fiends/Adamantoise.png",
@@ -1236,6 +2186,17 @@
         "codes": "adamantoise"
     },
     {
+        "name": "Adamantoise Complete",
+        "type": "toggle",
+        "img": "images/fiends/Adamantoise.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "adamantoisecomplete"
+    },
+
+    {
         "name": "Behemoth King",
         "type": "consumable",
         "img": "images/fiends/Behemoth King.png",
@@ -1247,6 +2208,16 @@
         "increment": 1,
         "initial_quantity": 0,
         "codes": "behemothking"
+    },
+    {
+        "name": "Behemoth King Complete",
+        "type": "toggle",
+        "img": "images/fiends/Behemoth King.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "behemothkingcomplete"
     },
 
     //Omega Ruins
@@ -1264,6 +2235,17 @@
         "codes": "zaurus"
     },
     {
+        "name": "Zaurus Complete",
+        "type": "toggle",
+        "img": "images/fiends/Zaurus.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "zauruscomplete"
+    },
+
+    {
         "name": "Floating Death",
         "type": "consumable",
         "img": "images/fiends/Floating Death.png",
@@ -1276,6 +2258,17 @@
         "initial_quantity": 0,
         "codes": "floatingdeath"
     },
+    {
+        "name": "Floating Death Complete",
+        "type": "toggle",
+        "img": "images/fiends/Floating Death.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "floatingdeathcomplete"
+    },
+    
     {
         "name": "Black Element",
         "type": "consumable",
@@ -1290,6 +2283,17 @@
         "codes": "blackelement"
     },
     {
+        "name": "Black Element Complete",
+        "type": "toggle",
+        "img": "images/fiends/Black Element.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "blackelementcomplete"
+    },
+    
+    {
         "name": "Halma",
         "type": "consumable",
         "img": "images/fiends/Halma.png",
@@ -1302,6 +2306,17 @@
         "initial_quantity": 0,
         "codes": "halma"
     },
+    {
+        "name": "Halma Complete",
+        "type": "toggle",
+        "img": "images/fiends/Halma.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "halmacomplete"
+    },
+
     {
         "name": "Puroboros",
         "type": "consumable",
@@ -1316,6 +2331,17 @@
         "codes": "puroboros"
     },
     {
+        "name": "Puroboros Complete",
+        "type": "toggle",
+        "img": "images/fiends/Puroboros.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "puroboroscomplete"
+    },
+
+    {
         "name": "Spirit",
         "type": "consumable",
         "img": "images/fiends/Spirit.png",
@@ -1328,6 +2354,17 @@
         "initial_quantity": 0,
         "codes": "spirit"
     },
+    {
+        "name": "Spirit Complete",
+        "type": "toggle",
+        "img": "images/fiends/Spirit.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "spiritcomplete"
+    },
+
     {
         "name": "Machea",
         "type": "consumable",
@@ -1342,6 +2379,17 @@
         "codes": "machea"
     },
     {
+        "name": "Machea Complete",
+        "type": "toggle",
+        "img": "images/fiends/Machea.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "macheacomplete"
+    },
+
+    {
         "name": "Master Coeurl",
         "type": "consumable",
         "img": "images/fiends/Master Coeurl.png",
@@ -1354,6 +2402,17 @@
         "initial_quantity": 0,
         "codes": "mastercoeurl"
     },
+    {
+        "name": "Master Coeurl Complete",
+        "type": "toggle",
+        "img": "images/fiends/Master Coeurl.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "mastercoeurlcomplete"
+    },
+
     {
         "name": "Master Tonberry",
         "type": "consumable",
@@ -1368,6 +2427,17 @@
         "codes": "mastertonberry"
     },
     {
+        "name": "Master Tonberry Complete",
+        "type": "toggle",
+        "img": "images/fiends/Master Tonberry.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "mastertonberrycomplete"
+    },
+
+    {
         "name": "Varuna",
         "type": "consumable",
         "img": "images/fiends/Varuna.png",
@@ -1380,6 +2450,17 @@
         "initial_quantity": 0,
         "codes": "varuna"
     },
+    {
+        "name": "Varuna Complete",
+        "type": "toggle",
+        "img": "images/fiends/Varuna.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "varunacomplete"
+    },
+
 
     //Area Conquests
     {

@@ -115,50 +115,30 @@
             },
             {
                 "name": "Monster Captures",
-                "map_locations": [{ "map": "Thunder Plains", "x": 360, "y": 430, "shape": "diamond"}],
-                "access_rules": ["@Monster Arena/Fiend Capture"],
-                "visibility_rules": ["capturesanity"],
+                "map_locations": [{ "map": "Thunder Plains", "x": 360, "y": 430}],
                 "sections": [
-                    {
-                        "name": "Melusine (3x Reptile)",
-                        "hosted_item": "melusine",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "Aerouge (4x Imp)",
-                        "hosted_item": "aerouge",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "Buer (4x Eye)",
-                        "hosted_item": "buer",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "Gold Element (3x Elemental)",
-                        "hosted_item": "goldelement",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "Kusariqqu (5x Drake)",
-                        "hosted_item": "kusariqqu",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "Larva",
-                        "hosted_item": "larva",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "Iron Giant (10x Iron Clad)",
-                        "hosted_item": "irongiant",
-                        "clear_as_group": false
-                    },
-                    {
-                        "name": "Qactuar",
-                        "hosted_item": "qactuar",
-                        "clear_as_group": false
-                    }
+                    {"name": "Melusine (3x Reptile)", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Melusine (3x Reptile)"},
+                    {"name": "Aerouge (4x Imp)", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Aerouge (4x Imp)"},
+                    {"name": "Buer (4x Eye)", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Buer (4x Eye)"},
+                    {"name": "Gold Element (3x Elemental)", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Gold Element (3x Elemental)"},
+                    {"name": "Kusariqqu (5x Drake)", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Kusariqqu (5x Drake)"},
+                    {"name": "Larva", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Larva"},
+                    {"name": "Iron Giant (10x Iron Clad)", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Iron Giant (10x Iron Clad)"},
+                    {"name": "Qactuar", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Fiends/Qactuar"}
+                ]
+            },
+            {
+                "name": "Captures Required for Logic",
+                "map_locations": [{ "map": "Thunder Plains", "x": 380, "y": 430, "shape": "diamond"}],
+                "sections": [
+                    {"name": "Melusine", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Melusine"},
+                    {"name": "Aerouge", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Aerouge"},
+                    {"name": "Buer", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Buer"},
+                    {"name": "Gold Element", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Gold Element"},
+                    {"name": "Kusariqqu", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Kusariqqu"},
+                    {"name": "Larva", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Larva"},
+                    {"name": "Iron Giant", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Iron Giant"},
+                    {"name": "Qactuar", "ref": "Monster Arena/Fiend Capture/Thunder Plains/Captures Required for Logic/Qactuar"}
                 ]
             }
         ]

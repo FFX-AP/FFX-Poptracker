@@ -115,7 +115,7 @@
                     },
                     {
                         "name": "Mercury Sigil",
-                        "access_rules": ["@Bikanel/Desert, homecompletion3"],
+                        "access_rules": ["@Bikanel/Desert, homecompletion3, evrae, [$hasMinimumParty|3]"],
                         "visibility_rules": ["minigames"]
                     },
                     {
@@ -148,7 +148,7 @@
                     },
                     {
                         "name": "Sun Sigil",
-                        "access_rules": ["@Calm Lands, chocobocatcher"],
+                        "access_rules": ["@Calm Lands, hyperdodgerchocobo"],
                         "visibility_rules": ["minigames"]
                     },
                     {
@@ -216,8 +216,7 @@
                 "sections": [
                     {
                         "name": "Nirvana",
-                        "access_rules": ["@Calm Lands, @Monster Arena/Area Conquest/Creation Rewards/Calm Lands, celestialmirror"],
-                        "visibility_rules": ["capturesanity, capturerewardsarea", "capturesanity, capturerewardsspecies", "capturesanity, capturerewardsoriginal"]
+                        "access_rules": ["^$CheckAccessLevel|monsterarena, celestialmirror"]
                     },
                     {
                         "name": "Moon Crest",

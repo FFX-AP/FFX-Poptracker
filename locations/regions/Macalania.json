@@ -108,7 +108,7 @@
                     },
                     {
                         "name": "Defeat Spherimorph (Boss)",
-                        "map_locations": [{ "map": "Macalania Woods", "x": 715, "y": 300, "shape": "trapezoid", "size": 24}],
+                        "map_locations": [{ "map": "Macalania Woods", "x": 555, "y": 290, "shape": "trapezoid", "size": 24}],
                         "access_rules": ["[$hasMinimumParty|3]"],
                         "sections": [
                             {
@@ -120,7 +120,7 @@
                     },
                     {
                         "name": "Campsite (Chest)",
-                        "map_locations": [{ "map": "Via Purifico", "x": 870, "y": 55}],
+                        "map_locations": [{ "map": "Via Purifico", "x": 860, "y": 85}],
                         "access_rules": ["spherimorph, seymournatus, [$hasMinimumParty|3]"],
                         "sections": [{"name": "Lucid Ring"}]
                     },
@@ -136,40 +136,26 @@
                     },
                     {
                         "name": "Monster Captures",
-                        "map_locations": [{ "map": "Macalania Woods", "x": 620, "y": 230, "shape": "diamond"}],
-                        "access_rules": ["@Monster Arena/Fiend Capture"],
-                        "visibility_rules": ["capturesanity"],
+                        "map_locations": [{ "map": "Macalania Woods", "x": 730, "y": 170}],
                         "sections": [
-                            {
-                                "name": "Iguion (3x Reptile)",
-                                "hosted_item": "iguion",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Wasp (4x Wasp)",
-                                "hosted_item": "wasp",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Blue Element (3x Elemental)",
-                                "hosted_item": "blueelement",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Murussu (3x Helm)",
-                                "hosted_item": "murussu",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Xiphos",
-                                "hosted_item": "xiphos",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Chimera",
-                                "hosted_item": "chimera",
-                                "clear_as_group": false
-                            }
+                            {"name": "Iguion (3x Reptile)", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Iguion (3x Reptile)"},
+                            {"name": "Wasp (4x Wasp)", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Wasp (4x Wasp)"},
+                            {"name": "Blue Element (3x Elemental)", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Blue Element (3x Elemental)"},
+                            {"name": "Murussu (3x Helm)", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Murussu (3x Helm)"},
+                            {"name": "Xiphos", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Xiphos"},
+                            {"name": "Chimera", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Chimera"}
+                        ]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                         "map_locations": [{ "map": "Macalania Woods", "x": 754, "y": 170, "shape": "diamond"}],
+                        "sections": [
+                            {"name": "Iguion", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Iguion"},
+                            {"name": "Wasp", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Wasp"},
+                            {"name": "Blue Element", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Blue Element"},
+                            {"name": "Murussu", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Murussu"},
+                            {"name": "Xiphos", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Xiphos"},
+                            {"name": "Chimera", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Chimera"}
                         ]
                     }
                 ]
@@ -183,7 +169,7 @@
                         "children": [
                             {
                                 "name": "Left Side (Primer)",
-                                "map_locations": [{ "map": "Lake Macalania", "x": 975, "y": 640}],
+                                "map_locations": [{ "map": "Lake Macalania", "x": 710, "y": 520}],
                                 "sections": [
                                     {
                                         "name": "Al Bhed Primer XVI",
@@ -193,7 +179,7 @@
                             },
                             {
                                 "name": "Right Side (Chest)",
-                                "map_locations": [{ "map": "Lake Macalania", "x": 900, "y": 700}],
+                                "map_locations": [{ "map": "Lake Macalania", "x": 680, "y": 540}],
                                 "access_rules": ["crawler"],
                                 "sections": [{"name": "4000 gil"}]
                             }
@@ -204,7 +190,7 @@
                         "children": [
                             {
                                 "name": "Cross the Lake (Boss)",
-                                "map_locations": [{ "map": "Lake Macalania", "x": 800, "y": 280, "shape": "trapezoid", "size": 32}],
+                                "map_locations": [{ "map": "Lake Macalania", "x": 630, "y": 250, "shape": "trapezoid", "size": 24}],
                                 "access_rules": ["[$hasMinimumParty|3]"],
                                 "sections": [
                                     {
@@ -228,17 +214,17 @@
                         "children": [
                             {
                                 "name": "South End of Narrow Path (Chest)",
-                                "map_locations": [{ "map": "Lake Macalania", "x": 400, "y": 340}],
+                                "map_locations": [{ "map": "Lake Macalania", "x": 298, "y": 290}],
                                 "sections": [{"name": "Lv. 1 Key Sphere x1"}]
                             },
                             {
                                 "name": "Near North Exit (Chest)",
-                                "map_locations": [{ "map": "Lake Macalania", "x": 350, "y": 80}],
+                                "map_locations": [{ "map": "Lake Macalania", "x": 275, "y": 55}],
                                 "sections": [{"name": "Mega-Potion x1"}]
                             },
                             {
                                 "name": "Linna, at Bottom of Stairs (NPC)",
-                                "map_locations": [{ "map": "Lake Macalania", "x": 320, "y": 650}],
+                                "map_locations": [{ "map": "Lake Macalania", "x": 250, "y": 600}],
                                 "sections": [
                                     {"name": "400 gil"},
                                     {"name": "Recruit", "ref": "Blitzball Recruits/Linna"}
@@ -246,7 +232,7 @@
                             },
                             {
                                 "name": "Defeat Dark Shiva (Superboss)",
-                                "map_locations": [{ "map": "Lake Macalania", "x": 57, "y": 500}],
+                                "map_locations": [{ "map": "Lake Macalania", "x": 21, "y": 435, "shape": "trapezoid", "size": 24}],
                                 "sections": [{"name": "Dark Shiva", "ref": "Super Bosses/Dark Shiva"}]
                             }
                         ]
@@ -257,42 +243,34 @@
                         "children": [
                             {
                                 "name": "Hidden Behind Kimahri (Chest)",
-                                "map_locations": [{ "map": "Lake Macalania", "x": 620, "y": 570}],
+                                "map_locations": [{ "map": "Lake Macalania", "x": 520, "y": 480}],
                                 "sections": [{"name": "Lv. 2 Key Sphere"}]
                             },
                             {
                                 "name": "Hidden Left of Auron (Chest)",
-                                "map_locations": [{ "map": "Lake Macalania", "x": 500, "y": 400}],
+                                "map_locations": [{ "map": "Lake Macalania", "x": 400, "y": 330}],
                                 "sections": [{"name": "Avenger"}]
                             }
                         ]
                     },
                     {
                         "name": "Monster Captures",
-                        "map_locations": [{ "map": "Lake Macalania", "x": 950, "y": 165, "shape": "diamond"}],
-                        "access_rules": ["@Monster Arena/Fiend Capture"],
-                        "visibility_rules": ["capturesanity"],
+                        "map_locations": [{ "map": "Lake Macalania", "x": 740, "y": 120}],
                         "sections": [
-                            {
-                                "name": "Snow Wolf (3x Wolf)",
-                                "hosted_item": "snowwolf",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Evil Eye (4x Eye)",
-                                "hosted_item": "evileye",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Ice Flan (3x Flan)",
-                                "hosted_item": "iceflan",
-                                "clear_as_group": false
-                            },
-                            {
-                                "name": "Mafdet (3x Helm)",
-                                "hosted_item": "mafdet",
-                                "clear_as_group": false
-                            }
+                            {"name": "Snow Wolf (3x Wolf)", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Snow Wolf (3x Wolf)"},
+                            {"name": "Evil Eye (4x Eye)", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Evil Eye (4x Eye)"},
+                            {"name": "Ice Flan (3x Flan)", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Ice Flan (3x Flan)"},
+                            {"name": "Mafdet (3x Helm)", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Mafdet (3x Helm)"}
+                        ]
+                    },
+                    {
+                        "name": "Captures Required for Logic",
+                         "map_locations": [{ "map": "Lake Macalania", "x": 768, "y": 120, "shape": "diamond"}],
+                        "sections": [
+                            {"name": "Snow Wolf", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Snow Wolf"},
+                            {"name": "Evil Eye", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Evil Eye"},
+                            {"name": "Ice Flan", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Ice Flan"},
+                            {"name": "Mafdet", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Mafdet"}
                         ]
                     }
                 ]
@@ -343,7 +321,7 @@
                     },
                     {
                         "name": "Defeat Seymour (Boss)",
-                        "map_locations": [{ "map": "Macalania Temple", "x": 380, "y": 510, "shape": "trapezoid", "size": 24}],
+                        "map_locations": [{ "map": "Macalania Temple", "x": 378, "y": 600, "shape": "trapezoid", "size": 24}],
                         "access_rules": ["[$hasMinimumParty|3]"],
                         "sections": [
                             {
@@ -355,7 +333,7 @@
                     },
                     {
                         "name": "Cloister of Trials",
-                        "map_locations": [{ "map": "Macalania Temple", "x": 245, "y": 475}],
+                        "map_locations": [{ "map": "Macalania Temple", "x": 395, "y": 230}],
                         "sections": [
                             {
                                 "name": "Destruction Sphere - Luck Sphere",
@@ -367,7 +345,7 @@
                     },
                     {
                         "name": "Chamber of the Fayth",
-                        "map_locations": [{ "map": "Macalania Temple", "x": 380, "y": 560}],
+                        "map_locations": [{ "map": "Macalania Temple", "x": 378, "y": 710}],
                         "sections": [{"name": "Shiva", "ref": "Party Member/Aeon/Shiva"}]
                     }
                 ]

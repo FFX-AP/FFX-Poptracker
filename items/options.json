@@ -71,7 +71,7 @@
         "name": "Capture Sanity",
         "type": "toggle",
         "img": "images/items/hd/Battle_Item_HD.png",
-        "initial_active_state": true,
+        "initial_active_state": false,
         "codes": "capturesanity"
     },
     {
@@ -79,9 +79,10 @@
         "type": "progressive",
         "allow_disabled": false,
         "codes": "capturerewards",
+        "initial_stage_idx": 0,
         "stages": [
             {
-                "name": "No Capture Rewards",
+                "name": "Capture Rewards",
                 "img": "images/items/hd/Battle_Item_Treasure.png",
                 "img_mods": "@disabled",
                 "codes": "capturerewardsnone"
@@ -94,12 +95,12 @@
             {
                 "name": "Area & Species Conquest Rewards",
                 "img": "images/items/hd/Battle_Item_Treasure.png",
-                "codes": "capturerewardsspecies"
+                "codes": "capturerewardsarea, capturerewardsspecies"
             },
             {
                 "name": "Area, Species & Original Creations Rewards",
                 "img": "images/items/hd/Battle_Item_Treasure.png",
-                "codes": "capturerewardsoriginal"
+                "codes": "capturerewardsarea, capturerewardsspecies, capturerewardsoriginal"
             }
         ]
     },
@@ -107,28 +108,29 @@
         "name": "Arena Bosses",
         "type": "progressive",
         "allow_disabled": false,
-        "codes": "capturebosses",
+        "codes": "creationbosses",
+        "initial_stage_idx": 0,
         "stages": [
             {
-                "name": "No Arena Bosses",
+                "name": "Arena Bosses",
                 "img": "images/items/hd/Battle_Item_HD.png",
                 "img_mods": "@disabled",
-                "codes": "capturebossesnone"
+                "codes": "creationbossesnone"
             },
             {
                 "name": "Area Conquest Bosses",
                 "img": "images/items/hd/Battle_Item_HD.png",
-                "codes": "capturebossesarea"
+                "codes": "creationbossesarea"
             },
             {
                 "name": "Area & Species Conquest Bosses",
                 "img": "images/items/hd/Battle_Item_HD.png",
-                "codes": "capturebossesspecies"
+                "codes": "creationbossesarea, creationbossesspecies"
             },
             {
                 "name": "Area, Species & Original Creations Bosses",
                 "img": "images/items/hd/Battle_Item_HD.png",
-                "codes": "capturebossesriginal"
+                "codes": "creationbossesarea, creationbossesspecies, creationbossesriginal"
             }
         ]    
     },
@@ -155,5 +157,12 @@
         "img": "images/settings/Tab.png",
         "initial_active_state": true,
         "codes": "autotab"
+    },
+    {
+        "name": "Always Capture",
+        "type": "toggle",
+        "img": "images/items/hd/Battle_Item_HD.png",
+        "initial_active_state": false,
+        "codes": "alwayscapture"
     }
 ]

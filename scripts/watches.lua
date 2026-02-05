@@ -41,8 +41,9 @@ ScriptHost:AddWatchForCode("Update Al Bhed Primer Total", "albhedprimer", Update
 
 -- Capture Watches
 for i = 0, 103 do
-    capture = AllCaptures[i]
-    if (capture ~= "") then
-        ScriptHost:AddWatchForCode("Capture: " .. capture, capture, OnCapture)
+    if (AllCaptures[i] ~= "") then
+        ScriptHost:AddWatchForCode("OnCapture: " .. AllCaptures[i], AllCaptures[i], OnCapture)
     end
 end
+ScriptHost:AddWatchForCode("Recalculate Capture Rewards Logic", "capturerewards", RecalcCaptureCompletion)
+ScriptHost:AddWatchForCode("Recalculate Arena Bosses Logic", "creationbosses", RecalcCaptureCompletion)

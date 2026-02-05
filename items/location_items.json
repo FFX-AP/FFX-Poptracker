@@ -581,6 +581,39 @@
 
     //Minigames
     {
+        "name": "Wobbly Chocobo",
+        "type": "toggle",
+        "img": "images/npc/Chocobo_BW.png",
+        "img_mods": "",
+        "disabled_img": "images/npc/Chocobo.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "wobblychocobo"
+    },
+    {
+        "name": "Dodger Chocobo",
+        "type": "toggle",
+        "img": "images/npc/Chocobo_BW.png",
+        "img_mods": "",
+        "disabled_img": "images/npc/Chocobo.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "dodgerchocobo"
+    },
+    {
+        "name": "Hyper Dodger Chocobo",
+        "type": "toggle",
+        "img": "images/npc/Chocobo_BW.png",
+        "img_mods": "",
+        "disabled_img": "images/npc/Chocobo.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "hyperdodgerchocobo"
+    },
+    {
         "name": "Chocobo Catcher",
         "type": "toggle",
         "img": "images/npc/Chocobo_BW.png",
@@ -589,7 +622,7 @@
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
-        "codes": "chocobocatcher"
+        "codes": "catcherchocobo"
     },
     {
         "name": "Lightning Dodging 5x - X-Potion x2",
