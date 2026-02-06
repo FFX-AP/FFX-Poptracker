@@ -38,11 +38,11 @@
                         "sections": [{"name": "Defending Bracer"}]
                     },
                     {
-                        "name": "Trail - Under Bridge After Wantz",
+                        "name": "Trail - Under Bridge After Wantz (Chests)",
                         "map_locations": [{ "map": "Gagazet Outside", "x": 630, "y": 494}],
                         "sections": [
-                            {"name": "Right (Chest)"},
-                            {"name": "Left (Chest)"}
+                            {"name": "Trail - Under Bridge After Wantz Right (Chest)"},
+                            {"name": "Trail - Under Bridge After Wantz Left (Chest)"}
                         ]
                     },
                     {
@@ -116,8 +116,8 @@
                         "name": "Submerged Passage - After Both Trials, East Exit From Save Sphere",
                         "map_locations": [{ "map": "Gagazet Cave", "x": 650, "y": 595}],
                         "sections": [
-                            {"name": "Left (Chest)"},
-                            {"name": "Right (Chest)"}
+                            {"name": "Submerged Passage - After Both Trials, East Exit From Save Sphere, Left (Chest)"},
+                            {"name": "Submerged Passage - After Both Trials, East Exit From Save Sphere, Right (Chest)"}
                         ]
                     },
                     {

@@ -42,11 +42,11 @@
                 "sections": [{"name": "Flexible Arm"}]
             },
             {
-                "name": "Teleport East from Back of Cavern",
+                "name": "Teleport East from Back of Cavern (Chests)",
                 "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 370, "y": 138}],
                 "sections": [
-                    {"name": "Bottom (Chest)"},
-                    {"name": "Top (Chest)"}
+                    {"name": "Teleport East from Back of Cavern, Bottom (Chest)"},
+                    {"name": "Teleport East from Back of Cavern, Top (Chest)"}
                 ]
             },
             {
