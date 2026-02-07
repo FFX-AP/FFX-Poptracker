@@ -927,7 +927,7 @@
                                     },
                                     {
                                         "name": "Ahriman (4x Eye)",
-                                        "access_rules": ["@Mt. Gagazet/Inside", "@Zanarkand"],
+                                        "access_rules": ["@Mt. Gagazet/Inside", "@Zanarkand", "@Inside Sin"],
                                         "hosted_item": "ahriman",
                                         "clear_as_group": false
                                     },
