@@ -3,7 +3,7 @@
         {
             "package_version": "0.3.2",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.3.2/FFX.zip",
-            "sha256": "c2de2fd609385cb7ed8261edb00a1d78e183ea951a606e86639407d41d201b38",
+            "sha256": "5cb4fee9f2eb0225c5b0249676df0229a5871a3d6cae518ec8abe5f4a6da197e",
             "changelog": [
                 " - Fixed Sun Sigil logic (again)",
                 " - Reordered region items to be in story order",
