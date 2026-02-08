@@ -208,7 +208,7 @@
                         ]
                     },
                     {
-                        "name": "Monster Captures",
+                        "name": "Captures Required for Logic",
                         "map_locations": [{ "map": "Bikanel", "x": 250, "y": 1070, "shape": "diamond"}],
                         "sections": [
                             {"name": "Sand Wolf", "ref": "Monster Arena/Fiend Capture/Bikanel/Captures Required for Logic/Sand Wolf"},
