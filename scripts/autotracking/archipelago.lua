@@ -200,7 +200,18 @@ function onClear(slot_data)
         end
     end
 
-    -- reset non-mapped items
+    -- reset capture items
+    for _, capture in pairs(AllCaptures) do
+        if capture ~= "" then
+            Tracker:FindObjectForCode(capture).AcquiredCount = 0
+            Tracker:FindObjectForCode(capture .. "complete").Active = false
+        end
+    end
+    for _, creation in pairs(AllCreations) do
+        Tracker:FindObjectForCode(creation).Active = false
+    end
+    Tracker:FindObjectForCode("areaconquests").AcquiredCount = 0
+    Tracker:FindObjectForCode("speciesconquests").AcquiredCount = 0
     
 
     PLAYER_ID = Archipelago.PlayerNumber or -1

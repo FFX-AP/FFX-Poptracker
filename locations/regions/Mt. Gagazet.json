@@ -85,7 +85,7 @@
                         ]
                     },
                     {
-                        "name": "Monster Captures",
+                        "name": "Captures Required for Logic",
                         "map_locations": [{ "map": "Gagazet Outside", "x": 500, "y": 656, "shape": "diamond"}],
                         "sections": [
                             {"name": "Imp", "ref": "Monster Arena/Fiend Capture/Cavern of the Stolen Fayth/Captures Required for Logic/Imp"},
@@ -155,7 +155,7 @@
                         ]
                     },
                     {
-                        "name": "Monster Captures",
+                        "name": "Captures Required for Logic",
                         "map_locations": [{ "map": "Gagazet Cave", "x": 770, "y": 510, "shape": "diamond"}],
                         "sections": [
                             {"name": "Nidhogg", "ref": "Monster Arena/Fiend Capture/Cavern of the Stolen Fayth/Captures Required for Logic/Nidhogg"},
