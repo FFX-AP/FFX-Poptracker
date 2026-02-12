@@ -6,6 +6,7 @@
             "sha256": "b1cbd5b3b24f0d54ac083fcfbd06aad27bd74f2c16c09972d5b673e24fc2a670",
             "changelog": [
                 " - Added unique icons for regions in the item tracker",
+                " - Updated location names to match with new Apworld location names",
                 " - Added missing access rule to Anima location, to check for Bevelle destruction sphere"
             ]
         },
