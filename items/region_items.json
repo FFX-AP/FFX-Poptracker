@@ -2,7 +2,7 @@
     {
         "name": "Region: Baaj Temple",
         "type": "toggle",
-        "img": "images/Region/Baaj.png",
+        "img": "images/region/Baaj.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -12,7 +12,7 @@
     {
         "name": "Region: Besaid",
         "type": "toggle",
-        "img": "images/Region/Besaid.png",
+        "img": "images/region/Besaid.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -22,7 +22,7 @@
     {
         "name": "Region: Kilika",
         "type": "toggle",
-        "img": "images/Region/Kilika.png",
+        "img": "images/region/Kilika.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -32,7 +32,7 @@
     {
         "name": "Region: Luca",
         "type": "toggle",
-        "img": "images/Region/Luca.png",
+        "img": "images/region/Luca.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -42,7 +42,7 @@
     {
         "name": "Region: Miihen Highroad",
         "type": "toggle",
-        "img": "images/Region/Mi'ihen.png",
+        "img": "images/region/Mi'ihen.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -52,7 +52,7 @@
     {
         "name": "Region: Mushroom Rock Road",
         "type": "toggle",
-        "img": "images/Region/MushroomRockRoad.png",
+        "img": "images/region/MushroomRockRoad.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -62,7 +62,7 @@
     {
         "name": "Region: Djose",
         "type": "toggle",
-        "img": "images/Region/Djose.png",
+        "img": "images/region/Djose.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -72,7 +72,7 @@
     {
         "name": "Region: Moonflow",
         "type": "toggle",
-        "img": "images/Region/Moonflow.png",
+        "img": "images/region/Moonflow.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -82,7 +82,7 @@
     {
         "name": "Region: Guadosalam",
         "type": "toggle",
-        "img": "images/Region/Guadosalam.png",
+        "img": "images/region/Guadosalam.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -92,7 +92,7 @@
     {
         "name": "Region: Thunder Plains",
         "type": "toggle",
-        "img": "images/Region/ThunderPlains.png",
+        "img": "images/region/ThunderPlains.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -102,7 +102,7 @@
     {
         "name": "Region: Macalania",
         "type": "toggle",
-        "img": "images/Region/Macalania.png",
+        "img": "images/region/Macalania.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -112,7 +112,7 @@
     {
         "name": "Region: Bikanel",
         "type": "toggle",
-        "img": "images/Region/Bikanel.png",
+        "img": "images/region/Bikanel.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -122,7 +122,7 @@
     {
         "name": "Region: Airship",
         "type": "toggle",
-        "img": "images/Region/Airship.png",
+        "img": "images/region/Airship.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -132,7 +132,7 @@
     {
         "name": "Region: Bevelle",
         "type": "toggle",
-        "img": "images/Region/Bevelle.png",
+        "img": "images/region/Bevelle.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -142,7 +142,7 @@
     {
         "name": "Region: Calm Lands",
         "type": "toggle",
-        "img": "images/Region/CalmLands.png",
+        "img": "images/region/CalmLands.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -152,7 +152,7 @@
     {
         "name": "Region: Cavern of the Stolen Fayth",
         "type": "toggle",
-        "img": "images/Region/CavernOfTheStolenFayth.png",
+        "img": "images/region/CavernOfTheStolenFayth.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -162,7 +162,7 @@
     {
         "name": "Region: Mt. Gagazet",
         "type": "toggle",
-        "img": "images/Region/Gagazet.png",
+        "img": "images/region/Gagazet.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -172,7 +172,7 @@
     {
         "name": "Region: Zanarkand Ruins",
         "type": "toggle",
-        "img": "images/Region/Zanarkand.png",
+        "img": "images/region/Zanarkand.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -182,7 +182,7 @@
     {
         "name": "Region: Sin",
         "type": "toggle",
-        "img": "images/Region/Sin.png",
+        "img": "images/region/Sin.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -192,7 +192,7 @@
     {
         "name": "Region: Omega Ruins",
         "type": "toggle",
-        "img": "images/Region/Omega.png",
+        "img": "images/region/Omega.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -202,7 +202,7 @@
     {
         "name": "Region: Monster Arena",
         "type": "toggle",
-        "img": "images/Region/MonsterArena.png",
+        "img": "images/region/MonsterArena.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
