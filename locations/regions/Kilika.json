@@ -133,7 +133,7 @@
                         "name": "Cloister - Destruction Sphere (Chest)",
                         "map_locations": [
                             { "map": "Kilika Temple", "x": 754, "y": 525},
-                            { "map": "Kilika Cloister", "x": 1060, "y": 425}
+                            { "map": "Kilika Cloister", "x": 1544, "y": 721}
                         ],
                         "sections": [
                             {
