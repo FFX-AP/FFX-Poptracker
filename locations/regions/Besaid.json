@@ -183,8 +183,8 @@
                     {
                         "name": "Cloister - Destruction Sphere (Chest)",
                         "map_locations": [
-                            { "map": "Besaid Temple", "x": 480, "y": 176}, 
-                            { "map": "Besaid Cloister", "x": 555, "y": 528}
+                            { "map": "Besaid Temple", "x": 407, "y": 261}, 
+                            { "map": "Besaid Cloister", "x": 1199, "y": 782}
                         ],
                         "sections": [
                             {

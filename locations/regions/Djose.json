@@ -88,7 +88,7 @@
                         "name": "Cloister - Destruction Sphere (Chest)",
                         "map_locations": [
                             { "map": "Djose", "x": 630, "y": 157},
-                            { "map": "Djose Cloister", "x": 600, "y": 1100}
+                            { "map": "Djose Cloister", "x": 1259, "y": 1162}
                         ],
                         "sections": [
                             {
@@ -103,7 +103,7 @@
                         "name": "Name Ixion (Event)",
                         "map_locations": [
                             { "map": "Djose", "x": 380, "y": 150},
-                            { "map": "Djose Cloister", "x": 85, "y": 1072}
+                            { "map": "Djose Cloister", "x": 970, "y": 1135}
                         ],
                         "sections": [{"name": "Ixion", "ref": "Party Member/Aeon/Ixion"}]
                     },
