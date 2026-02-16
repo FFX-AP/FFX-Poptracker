@@ -21,12 +21,12 @@
                     },
                     {
                         "name": "South - West Side, Behind First Cactuar Statue (Chest)",
-                        "map_locations": [{ "map": "Thunder Plains", "x": 60, "y": 470}],
+                        "map_locations": [{ "map": "Thunder Plains", "x": 54, "y": 470}],
                         "sections": [{"name": "5000 gil"}]
                     },
                     {
                         "name": "South - East Side, Alcove With Second Cactuar Statue (Chest)",
-                        "map_locations": [{ "map": "Thunder Plains", "x": 177, "y": 318}],
+                        "map_locations": [{ "map": "Thunder Plains", "x": 182, "y": 312}],
                         "sections": [{"name": "Water Ball"}]
                     },
                     {
