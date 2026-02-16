@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "0.3.8",
+            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.3.8/FFX.zip",
+            "sha256": "",
+            "changelog": [
+                " - Updated apworld datapackage, resolved ID mismatch with Funguar & Floating Eye"
+            ]
+        },
+        {
             "package_version": "0.3.7",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.3.7/FFX.zip",
             "sha256": "239fc00db81dc950b84222f0957e3e9d46d2fd43c698171bafb510908000fff0",
