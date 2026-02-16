@@ -2,7 +2,7 @@
     "versions": [
         {
             "package_version": "0.3.7",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.3.7/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.3.7/FFX.zip",
             "sha256": "239fc00db81dc950b84222f0957e3e9d46d2fd43c698171bafb510908000fff0",
             "changelog": [
                 " - Update Cloister solution maps, to make the solution instructions more legible",
@@ -13,7 +13,7 @@
         },
         {
             "package_version": "0.3.6",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.3.6/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.3.6/FFX.zip",
             "sha256": "51e81c3043685c935748d36fbb2f056e425573d25c6dae5848679ae4684b3d51",
             "changelog": [
                 " - Nidhogg & Bandersnatch no longer available in Gagazet until after Biran & Yenke",
@@ -28,7 +28,7 @@
         },
         {
             "package_version": "0.3.5",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.3.5/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.3.5/FFX.zip",
             "sha256": "b1cbd5b3b24f0d54ac083fcfbd06aad27bd74f2c16c09972d5b673e24fc2a670",
             "changelog": [
                 " - Added unique icons for regions in the item tracker",
@@ -38,7 +38,7 @@
         },
         {
             "package_version": "0.3.4",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.3.4/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.3.4/FFX.zip",
             "sha256": "acfafabd53729bffb177b5ee995f7400ecf0f8ffbb6830d82845fc621d1b2b81",
             "changelog": [
                 " - Fixed Ahriman to show on Inside Sin region map correctly",
@@ -48,7 +48,7 @@
         },
         {
             "package_version": "0.3.3",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.3.3/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.3.3/FFX.zip",
             "sha256": "2df97051a952daae93b2b25ef2da0ffba6eee079b3f811c6db8542ab145933f5",
             "changelog": [
                 " - Moved Ahriman to pre-Omnis Sin",
@@ -60,7 +60,7 @@
         },
         {
             "package_version": "0.3.2",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.3.2/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.3.2/FFX.zip",
             "sha256": "986528ea23a78ceb7b300c866dbb37e1d95aa3ac738bdfaa93da3d57b41a140b",
             "changelog": [
                 " - Fixed Sun Sigil logic (again)",
@@ -74,7 +74,7 @@
         },
         {
             "package_version": "0.3.1",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.3.1/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.3.1/FFX.zip",
             "sha256": "23850da1b35ae54dd8da29b0c87742db3a407e6f13515d7607ca11b06f9fb8c1",
             "changelog": [
                 " - Remiem Access logic fixed",
@@ -86,7 +86,7 @@
         },
         {
             "package_version": "0.3.0",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.3.0/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.3.0/FFX.zip",
             "sha256": "94e9891d712c64a6a6485a6c3aef695cd3f6448f7fcb42e039d2bf5d6efba6e1",
             "changelog": [
                 " - Full Capture Sanity Support",
@@ -127,7 +127,7 @@
         },
         {
             "package_version": "0.2.10",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.10/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.2.10/FFX.zip",
             "sha256": "317e560b1318bdbf4e8efef5d9fcc084c90a9e79ad5a9775cafd9e12ba8056ed",
             "changelog": [
                 " - Lulu location moved",
@@ -140,7 +140,7 @@
         },
         {
             "package_version": "0.2.9",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.9/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.2.9/FFX.zip",
             "sha256": "d54554875b8a8cc63ef29a971a89bba90c423993e2d316d83c351430fe9b78da",
             "changelog": [
                 " - Adjusted some Calm Lands, Luca, Macalania, MRR & Besaid location positions",
@@ -152,7 +152,7 @@
         },
         {
             "package_version": "0.2.8",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.8/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.2.8/FFX.zip",
             "sha256": "9e5f700414fc5d7cc61a824904d522321c74300962a3786d4f09a02560b21a56",
             "changelog": [
                 " - Added region maps for Djose, Luca, Macalania, Miihen Highroad, Mushroom Rock Road & S.S. Winno",
@@ -164,7 +164,7 @@
         },
         {
             "package_version": "0.2.7",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.7/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.2.7/FFX.zip",
             "sha256": "15c0ce14ed0eaa3fb1c1971331a56c7e31234baeca9117cd275aba1c54e43ff9",
             "changelog": [
                 " - Added region maps for Al Bhed Ship, Airship, Besaid (Island, Temple & Village), S.S. Liki, Kilika, Moonflow, Guadosalam & Thunder Plains",
@@ -177,7 +177,7 @@
         },
         {
             "package_version": "0.2.6",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.6/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.2.6/FFX.zip",
             "sha256": "d2dd04ce029598a83feab512901334d2a9643b6cccfd0ce9c9bc4e0b4cc1a64a",
             "changelog": [
                 " - Added region maps for Calm Lands, CotSF, Remiem Temple, Bevelle, Via Purifico, Bikanel & Home",
@@ -188,7 +188,7 @@
         },
         {
             "package_version": "0.2.5",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.5/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.2.5/FFX.zip",
             "sha256": "80256b841931d7c886f056850f149a1efa9a729d59b3130cebc366d11695423b",
             "changelog": [
                 " - Added region maps for Gagazet, Zanarkand, Inside Sin & Omega Ruins",
@@ -199,7 +199,7 @@
         },
         {
             "package_version": "0.2.4",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.4/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.2.4/FFX.zip",
             "sha256": "e6ddc714526317b535bcf076eb02960e6533e331b03d22b4ebc73ed06847f7d5",
             "changelog": [
                 " - Moved blitz recruit location in Djose from Temple to Pilgrimage Road",
@@ -211,7 +211,7 @@
         },
         {
             "package_version": "0.2.3",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.3/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.2.3/FFX.zip",
             "sha256": "ad61932db75f7949d76cdb13009d7633634bdffed0684d99334d24f5e7433cba",
             "changelog": [
                 " - Reordered locations in Omega ruins to match accessibility",
@@ -221,7 +221,7 @@
         },
         {
             "package_version": "0.2.2",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.2/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.2.2/FFX.zip",
             "sha256": "61b931fff991d361eee3cc58240b451b79b2aed90f97b668da0b2b7b3fc1e565",
             "changelog": [
                 " - Fixed Guadosalam 2nd visit checks not showing",
@@ -230,7 +230,7 @@
         },
         {
             "package_version": "0.2.1",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.1/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.2.1/FFX.zip",
             "sha256": "205c37759703453f6c69c4f1b8c46b8287f96be244e3e3cd5f0711bdac1b4669",
             "changelog": [
                 " - Fixed Superboss location mapping",
@@ -242,7 +242,7 @@
         },
         {
             "package_version": "0.2.0",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.0/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.2.0/FFX.zip",
             "sha256": "96dd33c44a9c10485f740a1ee26f8ddc8c5654c0f196ee3ec84bedabd94a3c57",
             "changelog": [
                 " - Major Refactor for UT compatibility (WIP)",
@@ -254,7 +254,7 @@
         },
         {
             "package_version": "0.1.12",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.12/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.1.12/FFX.zip",
             "sha256": "c597720044ed06ee667f57bab8608985dfd7744264a4f97ce1a2764839db0909",
             "changelog": [
                 " - Added Party Member Locations"
@@ -262,7 +262,7 @@
         },
         {
             "package_version": "0.1.12_Beta",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.12_Beta/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.1.12_Beta/FFX.zip",
             "sha256": "02ea1d5be5702f8666227ca0580bd7209d05005e2e3c68672c4d5d534c96cb96",
             "changelog": [
                 " - Split Bikanel Oasis from Eastern Desert locations",
@@ -277,7 +277,7 @@
         },
         {
             "package_version": "0.1.11",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.11/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.1.11/FFX.zip",
             "sha256": "3646295549dc093b19d6007744b02ab00ce75c6242fb57da9526cc851e10f1e6",
             "changelog": [
                 " - Lua logic Cleanup",
@@ -288,7 +288,7 @@
         },
         {
             "package_version": "0.1.10",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.10/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.1.10/FFX.zip",
             "sha256": "ebecaa6cbd73664b44d37361e1b0ae00e06ac39f3b90d094271a39a25006638c",
             "changelog": [
                 " - S.S. Liki bosses require Wakka to be in logic",
@@ -306,7 +306,7 @@
         },
         {
             "package_version": "0.1.9",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.9/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.1.9/FFX.zip",
             "sha256": "ac261a6bc1da2224aed0915b82d1fd2d597c17eec4d012203cf7ce9928b09f17",
             "changelog": [
                 " - Fixed various malformed references on the world map"
@@ -314,7 +314,7 @@
         },
         {
             "package_version": "0.1.8",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.8/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.1.8/FFX.zip",
             "sha256": "6aad9a97ac67eaecf5fdb2538780d36839afe9a2f18c69d61207ff3367afbbfb",
             "changelog": [
                 " - Fixed mismatched references in Baaj"
@@ -322,7 +322,7 @@
         },
         {
             "package_version": "0.1.7",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.7/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.1.7/FFX.zip",
             "sha256": "79ed3e19c33697371416d704b8bef9a01e8cfbfd0c6cb9c9302db19910d891ba",
             "changelog": [
                 " - Removed Anima check",
@@ -338,7 +338,7 @@
         },
         {
             "package_version": "0.1.6",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.6/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.1.6/FFX.zip",
             "sha256": "31febc37045302dc786712d65c41fe23a24f50e97d5423793193fa1e1bddebeb",
             "changelog": [
                 " - Dark Aeons autotracking fixes",
@@ -349,7 +349,7 @@
         },
         {
             "package_version": "0.1.5",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.5/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.1.5/FFX.zip",
             "sha256": "de60437c77a001b16e98b394b6befff8e18c4a0b57726264083eee9019f2ce99",
             "changelog": [
                 " - Removed unused location mappings",
@@ -358,7 +358,7 @@
         },
         {
             "package_version": "0.1.4",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.4/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.1.4/FFX.zip",
             "sha256": "836e29db998804985d71429db31d6e36abc5c1e2dceaf088fcda3388f99edb47",
             "changelog": [
                 " - Fixed Brotherhood Upgrade location mapping",
@@ -367,7 +367,7 @@
         },
         {
             "package_version": "0.1.3",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.3/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.1.3/FFX.zip",
             "sha256": "f8a9f874c70a64763abab003bd9653cf6bd6248e0c8587c4c662b719ed2360e4",
             "changelog": [
                 " - Fixed Belgemine logic in Remiem"
@@ -375,7 +375,7 @@
         },
         {
             "package_version": "0.1.2",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.2/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.1.2/FFX.zip",
             "sha256": "6116f1f0852e7ecf40e7a143cb16e2399996203ab9a0a696c362ce9d63824288",
             "changelog": [
                 " - Added additional Al Bhed Primer locations to Bikanel"
@@ -383,7 +383,7 @@
         },
         {
             "package_version": "0.1.1",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.1/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.1.1/FFX.zip",
             "sha256": "cb4c06e4cae717d38c643dfac79c1e030e327dd62d9c9a1ffc8022b4ac4b37a8",
             "changelog": [
                 " - Seymour Omnis & Natus locations fixed",
@@ -395,7 +395,7 @@
         },
         {
             "package_version": "0.1.0",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.0/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.1.0/FFX.zip",
             "sha256": "80339ca97cb75e511135c4adf02dba191f7a9c2b6387706e6ffe8cea0fbf7ffc",
             "changelog": [
                 " - Initial Public Release for Testing"
@@ -403,7 +403,7 @@
         },
         {
             "package_version": "0.0.2",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.0.2/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.0.2/FFX.zip",
             "sha256": "1e8948f4609413c53f41b8e9be230dbfe0ea3cb5d17992c548d4616cd536560f",
             "changelog": [
                 " - Auto Updating"
@@ -411,7 +411,7 @@
         },
         {
             "package_version": "0.0.1",
-            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/V0.0.1/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/V0.0.1/FFX.zip",
             "sha256": "0792b50991e15cd126100691c58639420b9fd5b9b62f08cff2d60dcdb028e5f5",
             "changelog": [
                 " - Initial pre-release for testing",
