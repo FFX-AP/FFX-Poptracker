@@ -1619,6 +1619,13 @@
                         "hosted_item": "adamantoise, wraith, demonolith, greatmalboro, zaurus, floatingdeath, blackelement, halma, puroboros, spirit, machea, mastercoeurl, mastertonberry, varuna",
                         "access_rules": ["@Monster Arena/Fiend Capture, @Omega Ruins"],
                         "clear_as_group": false
+                    },
+                    {
+                        "name": "Omega Ruins - Post-Omega Weapon",
+                        "hosted_item": "geminisword, geminiclub",
+                        "access_rules": ["@Monster Arena/Fiend Capture, @Omega Ruins, omegaweapon, [$hasMinimumParty|3]"],
+                        "visibility_rules": ["superbosses"],
+                        "clear_as_group": false
                     }
                 ]
             },
