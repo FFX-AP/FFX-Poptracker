@@ -1082,13 +1082,13 @@
                                     },
                                     {
                                         "name": "Gemini (Sword) (10x Iron Giant)",
-                                        "access_rules": ["@Inside Sin"],
+                                        "access_rules": ["@Inside Sin", "@Omega Ruins, omegaweapon, [$hasMinimumParty|3]"],
                                         "hosted_item": "geminisword",
                                         "clear_as_group": false
                                     },
                                     {
                                         "name": "Gemini (Club) (10x Iron Giant)",
-                                        "access_rules": ["@Inside Sin"],
+                                        "access_rules": ["@Inside Sin", "@Omega Ruins, omegaweapon, [$hasMinimumParty|3]"],
                                         "hosted_item": "geminiclub",
                                         "clear_as_group": false
                                     },
