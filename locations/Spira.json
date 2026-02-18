@@ -1621,7 +1621,7 @@
                         "clear_as_group": false
                     },
                     {
-                        "name": "Omega Ruins - Post-Omega",
+                        "name": "Omega Ruins - Post-Omega Weapon",
                         "hosted_item": "geminisword, geminiclub",
                         "access_rules": ["@Monster Arena/Fiend Capture, @Omega Ruins, omegaweapon, [$hasMinimumParty|3]"],
                         "visibility_rules": ["superbosses"],
