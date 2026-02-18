@@ -48,11 +48,11 @@
                         "ref": "Celestial/Kimahri/Spirit Lance Sigil Upgrade"
                     },
                     {
-                        "name": "Wakka - World Champion Crest Upgrade",
+                        "name": "Upgrade World Champion Once (Event)",
                         "ref": "Celestial/Wakka/World Champion Crest Upgrade"
                     },
                     {
-                        "name": "Upgrade World Champion Twice (Event) Upgrade",
+                        "name": "Upgrade World Champion Twice (Event)",
                         "ref": "Celestial/Wakka/World Champion Sigil Upgrade"
                     },
                     {
@@ -327,6 +327,7 @@
                     },
                     {
                         "name": "Cloister - Destruction Sphere (Chest)",
+                        "access_rules": ["seymouranima"],
                         "map_locations": [
                             { "map": "Macalania Temple", "x": 67, "y": 235},
                             { "map": "Macalania Cloister", "x": 1070, "y": 928}

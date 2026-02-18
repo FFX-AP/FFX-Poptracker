@@ -1,12 +1,24 @@
 {
     "versions": [
         {
+            "package_version": "0.3.8",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.3.8/FFX.zip",
+            "sha256": "ce45a79215f44c40aa1ea60bce1ff4c417a3aee6d7d0a2f749f705b3b17d0f7b",
+            "changelog": [
+                " - Updated apworld datapackage, resolved ID mismatch with Funguar & Floating Eye",
+                " - Thunder Plains map updated to show Cactuar Statue locations",
+                " - Fixed Wakka's Celestial upgrade location names",
+                " - Added Gemini to Omega Ruins Post-Omega Weapon"
+            ]
+            ]
+        },
+        {
             "package_version": "0.3.7",
             "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.3.7/FFX.zip",
             "sha256": "239fc00db81dc950b84222f0957e3e9d46d2fd43c698171bafb510908000fff0",
             "changelog": [
                 " - Update Cloister solution maps, to make the solution instructions more legible",
-                " - Fixed Beasid Destruction Sphere location",
+                " - Fixed Besaid Destruction Sphere location",
                 " - Updated icon for Malboro Menace",
                 " - Updated Celestial Flower to be available post-Spherimorph, instead of post-Wendigo"
             ]
