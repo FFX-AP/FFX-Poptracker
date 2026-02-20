@@ -163,7 +163,7 @@
                     },
                     {
                         "name": "Oldroad, South - South End (Chest)",
-                        "map_locations": [{ "map": "Miihen Highroad", "x": 700, "y": 905}],
+                        "map_locations": [{ "map": "Miihen Highroad", "x": 698, "y": 920}],
                         "sections": [
                             {
                                 "name": "Mars Crest",

@@ -59,7 +59,7 @@
                         "children": [
                             {
                                 "name": "S.S. Winno: Bridge & Desert, East (Primer)",
-                                "map_locations": [{ "map": "Bikanel", "x": 705, "y": 1055}],
+                                "map_locations": [{ "map": "Bikanel", "x": 660, "y": 1060}],
                                 "sections": [
                                     {
                                         "name": "Al Bhed Primer V",

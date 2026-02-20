@@ -26,17 +26,17 @@
                     },
                     {
                         "name": "First Screen - Blue Commander on Left Side (NPC)",
-                        "map_locations": [{ "map": "Mushroom Rock Road", "x": 255, "y": 730}],
+                        "map_locations": [{ "map": "Mushroom Rock Road", "x": 245, "y": 720}],
                         "sections": [{"name": "Hi-Potion x1"}]
                     },
                     {
                         "name": "First Screen - Pacing Between Blue Commander and North Exit (NPC)",
-                        "map_locations": [{ "map": "Mushroom Rock Road", "x": 255, "y": 700}],
+                        "map_locations": [{ "map": "Mushroom Rock Road", "x": 255, "y": 675}],
                         "sections": [{"name": "Phoenix Down x2"}]
                     },
                     {
                         "name": "Dark Magus Sisters (Superboss)",
-                        "map_locations": [{ "map": "Mushroom Rock Road", "x": 260, "y": 620, "shape": "trapezoid", "size": 24}],
+                        "map_locations": [{ "map": "Mushroom Rock Road", "x": 260, "y": 698, "shape": "trapezoid", "size": 24}],
                         "sections": [
                             {"name": "Defeat Dark Cindy (Superboss)", "ref": "Super Bosses/Dark Cindy"},
                             {"name": "Defeat Dark Mindy (Superboss)", "ref": "Super Bosses/Dark Mindy"},
