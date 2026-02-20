@@ -11,7 +11,7 @@
                 "children": [
                     {
                         "name": "Southeast Corner (Chests)",
-                        "map_locations": [{ "map": "Calm Lands", "x": 890, "y": 825}],
+                        "map_locations": [{ "map": "Calm Lands", "x": 630, "y": 825}],
                         "sections": [
                             {"name": "South - Southeast Corner, Right (Chest)"},
                             {"name": "South - Southeast Corner, Left (Chest)"}
@@ -19,12 +19,12 @@
                     },
                     {
                         "name": "Central - Behind Agency Tent (Chest)",
-                        "map_locations": [{ "map": "Calm Lands", "x": 530, "y": 592}],
+                        "map_locations": [{ "map": "Calm Lands", "x": 260, "y": 592}],
                         "sections": [{"name": "Lv. 2 Key Sphere x1"}]
                     },
                     {
                         "name": "North - Northwest Corner (Primer)",
-                        "map_locations": [{ "map": "Calm Lands", "x": 300, "y": 560}],
+                        "map_locations": [{ "map": "Calm Lands", "x": 20, "y": 565}],
                         "sections": [
                             {
                                 "name": "Al Bhed Primer XXIII",
@@ -34,17 +34,17 @@
                     },
                     {
                         "name": "Recruit: Naida",
-                        "map_locations": [{ "map": "Calm Lands", "x": 530, "y": 640}],
+                        "map_locations": [{ "map": "Calm Lands", "x": 260, "y": 620}],
                         "sections": [{"name": "Naida", "ref": "Blitzball Recruits/Naida"}]
                     },
                     {
                         "name": "Recruit: Svanda",
-                        "map_locations": [{ "map": "Calm Lands", "x": 743, "y": 470}],
+                        "map_locations": [{ "map": "Calm Lands", "x": 485, "y": 450}],
                         "sections": [{"name": "Svanda", "ref": "Blitzball Recruits/Svanda"}]
                     },
                     {
                         "name": "Defeat Defender X (Boss)",
-                        "map_locations": [{ "map": "Calm Lands", "x": 925, "y": 200, "shape": "trapezoid", "size": 28}],
+                        "map_locations": [{ "map": "Calm Lands", "x": 680, "y": 200, "shape": "trapezoid", "size": 28}],
                         "access_rules": ["[$hasMinimumParty|3]"],
                         "sections": [
                             {
@@ -55,25 +55,15 @@
                         ]
                     },
                     {
-                        "name": "Recruit: Durren",
-                        "map_locations": [{ "map": "Calm Lands", "x": 735, "y": 305}],
-                        "sections": [{"name": "Durren", "ref": "Blitzball Recruits/Durren"}]
-                    },
-                    {
-                        "name": "Gorge Bottom - Rusty Sword Between Two Rocks, East End (Event)",
-                        "map_locations": [{ "map": "Calm Lands", "x": 695, "y": 280}],
-                        "sections": [{"name": "Rusty Sword", "ref": "Celestial/General/Rusty Sword"}]
-                    },
-                    {
                         "name": "North - NW Corner, Blocked Until Winning Catcher Chocobo (Event)",
-                        "map_locations": [{ "map": "Calm Lands", "x": 475, "y": 475}],
+                        "map_locations": [{ "map": "Calm Lands", "x": 225, "y": 480}],
                         "sections": [{"name": "Caladbolg", "ref": "Celestial/Tidus/Caladbolg"}]
                     }
                 ]
             },
             {
                 "name": "Monster Arena",
-                "map_locations": [{ "map": "Calm Lands", "x": 1058, "y": 610}],
+                "map_locations": [{ "map": "Calm Lands", "x": 800, "y": 610}],
                 "sections": [
                     {
                         "name": "Nirvana",
@@ -88,7 +78,7 @@
                 "children": [
                     {
                         "name": "Chocobo Training",
-                        "map_locations": [{ "map": "Calm Lands", "x": 360, "y": 540}],
+                        "map_locations": [{ "map": "Calm Lands", "x": 100, "y": 530}],
                         "sections": [
                             {
                                 "name": "Wobbly Chocobo Minigame (Event)",
@@ -124,7 +114,7 @@
             },
             {
                 "name": "Monster Captures",
-                "map_locations": [{ "map": "Calm Lands", "x": 160, "y": 860}],
+                "map_locations": [{ "map": "Calm Lands", "x": 190, "y": 220}],
                 "sections": [
                     {"name": "Skoll (3x Wolf)", "ref": "Monster Arena/Fiend Capture/Calm Lands/Fiends/Skoll (3x Wolf)"},
                     {"name": "Nebiros (4x Wasp)", "ref": "Monster Arena/Fiend Capture/Calm Lands/Fiends/Nebiros (4x Wasp)"},
@@ -140,7 +130,7 @@
             },
             {
                 "name": "Captures Required for Logic",
-                "map_locations": [{ "map": "Calm Lands", "x": 200, "y": 860, "shape": "diamond"}],
+                "map_locations": [{ "map": "Calm Lands", "x": 230, "y": 220, "shape": "diamond"}],
                 "sections": [
                     {"name": "Skoll ", "ref": "Monster Arena/Fiend Capture/Calm Lands/Captures Required for Logic/Skoll"},
                     {"name": "Nebiros", "ref": "Monster Arena/Fiend Capture/Calm Lands/Captures Required for Logic/Nebiros"},
