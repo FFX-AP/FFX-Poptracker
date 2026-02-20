@@ -1420,14 +1420,6 @@
                         "ref": "Calm Lands/Plains/Defeat Defender X (Boss)/Defender X"
                     },
                     {
-                        "name": "Recruit: Durren",
-                        "ref": "Blitzball Recruits/Durren"
-                    },
-                    {
-                        "name": "Gorge Bottom - Rusty Sword Between Two Rocks, East End (Event)",
-                        "ref": "Celestial/General/Rusty Sword"
-                    },
-                    {
                         "name": "Chocobo - Wobbly Chocobo Minigame (Event)",
                         "ref": "Calm Lands/Chocobo/Chocobo Training/Wobbly Chocobo Minigame (Event)"
                     },
@@ -1929,6 +1921,14 @@
                 "name": "Cavern of the Stolen Fayth",
                 "map_locations": [{ "map": "Spira", "x": 711, "y": 145}],
                 "sections": [
+                    {
+                        "name": "Recruit: Durren",
+                        "ref": "Blitzball Recruits/Durren"
+                    },
+                    {
+                        "name": "Gorge Bottom - Rusty Sword Between Two Rocks, East End (Event)",
+                        "ref": "Celestial/General/Rusty Sword"
+                    },
                     {
                         "name": "First Branch East (Chest)",
                         "ref": "Cavern of the Stolen Fayth/First Branch East (Chest)/Megalixir x1"
