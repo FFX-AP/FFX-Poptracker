@@ -1420,14 +1420,6 @@
                         "ref": "Calm Lands/Plains/Defeat Defender X (Boss)/Defender X"
                     },
                     {
-                        "name": "Recruit: Durren",
-                        "ref": "Blitzball Recruits/Durren"
-                    },
-                    {
-                        "name": "Gorge Bottom - Rusty Sword Between Two Rocks, East End (Event)",
-                        "ref": "Celestial/General/Rusty Sword"
-                    },
-                    {
                         "name": "Chocobo - Wobbly Chocobo Minigame (Event)",
                         "ref": "Calm Lands/Chocobo/Chocobo Training/Wobbly Chocobo Minigame (Event)"
                     },
@@ -1930,20 +1922,28 @@
                 "map_locations": [{ "map": "Spira", "x": 711, "y": 145}],
                 "sections": [
                     {
+                        "name": "Recruit: Durren",
+                        "ref": "Blitzball Recruits/Durren"
+                    },
+                    {
+                        "name": "Gorge Bottom - Rusty Sword Between Two Rocks, East End (Event)",
+                        "ref": "Celestial/General/Rusty Sword"
+                    },
+                    {
                         "name": "First Branch East (Chest)",
-                        "ref": "Cavern of the Stolen Fayth/First Branch East (Chest)/Megalixir x1"
+                        "ref": "Cavern of the Stolen Fayth/Cavern/First Branch East (Chest)/Megalixir x1"
                     },
                     {
                         "name": "Chamber East of First Intersection (Chest)",
-                        "ref": "Cavern of the Stolen Fayth/Chamber East of First Intersection (Chest)/Lv. 2 Key Sphere x1"
+                        "ref": "Cavern of the Stolen Fayth/Cavern/Chamber East of First Intersection (Chest)/Lv. 2 Key Sphere x1"
                     },
                     {
                         "name": "Dead End North of Second Intersection (Chest)",
-                        "ref": "Cavern of the Stolen Fayth/Dead End North of Second Intersection (Chest)/Fortune Sphere x1"
+                        "ref": "Cavern of the Stolen Fayth/Cavern/Dead End North of Second Intersection (Chest)/Fortune Sphere x1"
                     },
                     {
                         "name": "Top of Third Intersection (Chest)",
-                        "ref": "Cavern of the Stolen Fayth/Top of Third Intersection (Chest)/Mega-Potion x1"
+                        "ref": "Cavern of the Stolen Fayth/Cavern/Top of Third Intersection (Chest)/Mega-Potion x1"
                     },
                     {
                         "name": "Dead End West of Third Intersection (Primer)",
@@ -1951,15 +1951,15 @@
                     },
                     {
                         "name": "Teleport West from Back of Cavern (Chest)",
-                        "ref": "Cavern of the Stolen Fayth/Teleport West from Back of Cavern (Chest)/Flexible Arm"
+                        "ref": "Cavern of the Stolen Fayth/Cavern/Teleport West from Back of Cavern (Chest)/Flexible Arm"
                     },
                     {
                         "name": "Teleport East from Back of Cavern, Bottom (Chest)",
-                        "ref": "Cavern of the Stolen Fayth/Teleport East from Back of Cavern (Chests)/Teleport East from Back of Cavern, Bottom (Chest)"
+                        "ref": "Cavern of the Stolen Fayth/Cavern/Teleport East from Back of Cavern (Chests)/Teleport East from Back of Cavern, Bottom (Chest)"
                     },
                     {
                         "name": "Teleport East from Back of Cavern, Top (Chest)",
-                        "ref": "Cavern of the Stolen Fayth/Teleport East from Back of Cavern (Chests)/Teleport East from Back of Cavern, Top (Chest)"
+                        "ref": "Cavern of the Stolen Fayth/Cavern/Teleport East from Back of Cavern (Chests)/Teleport East from Back of Cavern, Top (Chest)"
                     },
                     {
                         "name": "Hire Yojimbo (Event)",
