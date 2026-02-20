@@ -256,7 +256,7 @@
                     },
                     {
                         "name": "Rusty Sword",
-                        "access_rules": ["@Calm Lands, defenderx, [$hasMinimumParty|3]"]
+                        "access_rules": ["@Cavern of the Stolen Fayth"]
                     }
                 ]
             }            
