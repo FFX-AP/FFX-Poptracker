@@ -242,20 +242,24 @@
             },
             {
                 "name": "General",
-                "chest_unopened_img": "/images/items/hd/Key_Item_HD.png",
-                "chest_opened_img": "/images/items/hd/Key_Item_HD_BW.png",
                 "sections": [
                     {
                         "name": "Cloudy Mirror",
+                        "chest_unopened_img": "/images/items/Cloudy Mirror.png",
+                        "chest_opened_img": "/images/items/Mirror BW.png",
                         "access_rules": ["@Remiem Temple"],
                         "visibility_rules": ["minigames"]
                     },
                     {
                         "name": "Celestial Mirror",
+                        "chest_unopened_img": "/images/items/Celestial Mirror.png",
+                        "chest_opened_img": "/images/items/Mirror BW.png",
                         "access_rules": ["@Macalania/Celestial Flower, cloudymirror"]
                     },
                     {
                         "name": "Rusty Sword",
+                        "chest_unopened_img": "/images/items/Rusty Sword.png",
+                        "chest_opened_img": "/images/items/Rusty Sword BW.png",
                         "access_rules": ["@Cavern of the Stolen Fayth"]
                     }
                 ]

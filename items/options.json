@@ -46,7 +46,7 @@
     {
         "name": "Required Al Bhed Primers",
         "type": "consumable",
-        "img": "images/items/Tiny Al Bhed Primer.png",
+        "img": "images/items/Al Bhed Primer.png",
         "min_quantity": 0,
         "max_quantity": 26,
         "increment": 1,
