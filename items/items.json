@@ -3070,7 +3070,7 @@
         "codes": "[lucksphere]x90"
     },
     {
-        "name": "Weapon (Lulu): Onion Knight",
+        "name": "Progressive Onion Knight",
         "type": "consumable",
         "img": "images/party/weapon/Doll.png",
         "img_mods": "",
@@ -3081,7 +3081,7 @@
         "increment": 1,
         "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(lulu)onionknight"
+        "codes": "progressiveonionknight"
     },
     {
         "name": "[Clear Sphere] x 10",
@@ -5015,12 +5015,14 @@
         "codes": "[doortotomorrow]x40"
     },
     {
-        "name": "Jechts Sphere",
-        "type": "toggle",
-        "img": "images/items/jechtssphere.png",
+        "name": "Progressive Jecht's Sphere",
+        "type": "consumable",
+        "img": "images/items/Movie Sphere.png",
         "img_mods": "",
         "disabled_img": "",
-        "initial_active_state": false,
+        "overlay_background": "#000000",
+        "initial_quantity": 0,
+        "max_quantity": 10,
         "overlay_align": "right",
         "codes": "jechtssphere"
     },
@@ -5205,7 +5207,7 @@
         "codes": "manatabletx50"
     },
     {
-        "name": "Weapon (Wakka): World Champion",
+        "name": "Progressive World Champion",
         "type": "consumable",
         "img": "images/party/weapon/Blitzball.png",
         "img_mods": "",
@@ -5216,7 +5218,7 @@
         "increment": 1,
         "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(wakka)worldchampion"
+        "codes": "progressiveworldchampion"
     },
     {
         "name": "[Warp Sphere] x 60",
@@ -7370,7 +7372,7 @@
         "codes": "[powersphere]x40"
     },
     {
-        "name": "Weapon (Tidus): Caladbolg",
+        "name": "Progressive Caladbolg",
         "type": "consumable",
         "img": "images/party/weapon/Sword.png",
         "img_mods": "",
@@ -7381,7 +7383,7 @@
         "increment": 1,
         "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(tidus)caladbolg"
+        "codes": "progressivecaladbolg"
     },
     {
         "name": "[Winning Formula] x 40",
@@ -8284,7 +8286,7 @@
         "codes": "[hpsphere]x80"
     },
     {
-        "name": "Weapon (Yuna): Nirvana",
+        "name": "Progressive Nirvana",
         "type": "consumable",
         "img": "images/party/weapon/Staff.png",
         "img_mods": "",
@@ -8295,7 +8297,7 @@
         "increment": 1,
         "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(yuna)nirvana"
+        "codes": "progressivenirvana"
     },
     {
         "name": "Turbo Ether x 30",
@@ -8418,7 +8420,7 @@
         "codes": "[map]x40"
     },
     {
-        "name": "Weapon (Kimahri): Spirit Lance",
+        "name": "Progressive Spirit Lance",
         "type": "consumable",
         "img": "images/party/weapon/Spear.png",
         "img_mods": "",
@@ -8429,7 +8431,7 @@
         "increment": 1,
         "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(kimahri)spiritlance"
+        "codes": "progressivespiritlance"
     },
     {
         "name": "Mana Distiller x 50",
@@ -9112,7 +9114,7 @@
         "codes": "manadistillerx20"
     },
     {
-        "name": "Weapon (Auron): Masamune",
+        "name": "Progressive Masamune",
         "type": "consumable",
         "img": "images/party/weapon/Katana.png",
         "img_mods": "",
@@ -9123,7 +9125,7 @@
         "increment": 1,
         "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(auron)masamune"
+        "codes": "progressivemasamune"
     },
     {
         "name": "[Map] x 10",
@@ -11406,7 +11408,7 @@
         "codes": "celestialmirror"
     },
     {
-        "name": "Weapon (Rikku): Godhand",
+        "name": "Progressive Godhand",
         "type": "consumable",
         "img": "images/party/weapon/Claw.png",
         "img_mods": "",
@@ -11417,7 +11419,7 @@
         "increment": 1,
         "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "weapon(rikku)godhand"
+        "codes": "progressivegodhand"
     },
     {
         "name": "Chocobo Wing x 20",

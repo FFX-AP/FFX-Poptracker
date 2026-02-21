@@ -33,6 +33,16 @@
                         "sections": [{"name": "Mega-Potion x2"}]
                     },
                     {
+                        "name": "Trail - Side Road (Braska's Sphere)",
+                        "map_locations": [{ "map": "Gagazet Outside", "x": 555, "y": 10}],
+                        "sections": [
+                            {
+                                "name": "Progressive Jecht's Sphere",
+                                "hosted_item": "jechtsphereX"
+                            }
+                        ]
+                    },
+                    {
                         "name": "Trail - West Branch Before Bridge to Wantz (Chest)",
                         "map_locations": [{ "map": "Gagazet Outside", "x": 248, "y": 224}],
                         "sections": [{"name": "Defending Bracer"}]

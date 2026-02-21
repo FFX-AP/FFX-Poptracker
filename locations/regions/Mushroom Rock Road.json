@@ -105,6 +105,18 @@
                         "name": "Precipice - Near Large Elevator (NPC)",
                         "map_locations": [{ "map": "Mushroom Rock Road", "x": 417, "y": 110}],
                         "sections": [{"name": "Mega-Potion x1"}]
+                    },
+                    {
+                        "name": "Precipice - South of Large Elevator (Auron's Sphere)",
+                        "access_rules": ["sinspawngui, [$hasMinimumParty|3]"],
+                        "map_locations": [{ "map": "Mushroom Rock Road", "x": 375, "y": 200}],
+                        "sections": [
+                            {
+                                "name": "Progressive Jecht's Sphere",
+                                "hosted_item": "jechtsphereVII"
+                            }
+                         ]
+                        
                     }
                 ]
             },
