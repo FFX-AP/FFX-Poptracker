@@ -1,27 +1,27 @@
 function hasCaladbolg()
-    return has("weapon(tidus)caladbolg")
+    return has("progressivecaladbolg")
 end
 
 function hasGodhand()
-    return has("weapon(rikku)godhand")
+    return has("progressivegodhand")
 end
 
 function hasMasamune()
-    return has("weapon(auron)masamune")
+    return has("progressivemasamune")
 end
 
 function hasNirvana()
-    return has("weapon(yuna)nirvana")
+    return has("progressivenirvana")
 end
 
 function hasOnionKnight()
-    return has("weapon(lulu)onionknight")
+    return has("progressiveonionknight")
 end
 
 function hasSpiritLance()
-    return has("weapon(kimahri)spiritlance")
+    return has("progressivespiritlance")
 end
 
 function hasWorldChampion()
-    return has("weapon(wakka)worldchampion")
+    return has("progressiveworldchampion")
 end

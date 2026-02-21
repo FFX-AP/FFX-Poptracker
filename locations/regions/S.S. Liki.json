@@ -40,6 +40,16 @@
                         "clear_as_group": true
                     }
                 ]
+            },
+            {
+                "name": "Captains Room (Jecht's Sphere)",
+                "map_locations": [{ "map": "S.S. Liki", "x": 210, "y": 530}],
+                "sections": [
+                    {
+                        "name": "Progressive Jecht's Sphere",
+                        "hosted_item": "jechtsphereIII"
+                    }
+                ]
             }
         ]
     }

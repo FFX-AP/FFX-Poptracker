@@ -40,6 +40,17 @@
                         "sections": [{"name": "5000 gil"}]
                     },
                     {
+                        "name": "South Warf (Jecht's Sphere)",
+                        "map_locations": [{ "map": "Moonflow", "x": 375, "y": 90}],
+                        "access_rules": ["extractor, [$hasSwimmers|2]"],
+                        "sections": [
+                            {
+                                "name": "Progressive Jecht's Sphere",
+                                "hosted_item": "jechtsphereVII"
+                            }
+                        ]
+                    },
+                    {
                         "name": "Defeat Extractor (Boss)",
                         "map_locations": [{ "map": "Moonflow", "x": 525, "y": 350, "shape": "trapezoid", "size": 20}],
                         "access_rules": ["[$hasSwimmers|2]"],

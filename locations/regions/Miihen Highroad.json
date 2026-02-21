@@ -162,12 +162,16 @@
                         "sections": [{"name": "Fortune Sphere"}]
                     },
                     {
-                        "name": "Oldroad, South - South End (Chest)",
+                        "name": "Oldroad, South - South End",
                         "map_locations": [{ "map": "Miihen Highroad", "x": 698, "y": 920}],
                         "sections": [
                             {
-                                "name": "Mars Crest",
+                                "name": "Oldroad, South - South End (Chest)",
                                 "ref": "Celestial/Auron/Mars Crest"
+                            },
+                            {
+                                "name": "Oldroad, South - South End (Jecht's Sphere)",
+                                "hosted_item": "jechtsphereV"
                             }
                         ]
                     }

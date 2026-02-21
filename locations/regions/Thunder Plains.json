@@ -38,6 +38,16 @@
                                 "ref": "Celestial/Kimahri/Spirit Lance"
                             }
                         ]
+                    },
+                    {
+                        "name": "South - Near Tower (Jecht's Sphere)",
+                        "map_locations": [{ "map": "Thunder Plains", "x": 135, "y": 270}],
+                        "sections": [
+                            {
+                                "name": "Progressive Jecht's Sphere",
+                                "hosted_item": "jechtsphereVIII"
+                            }
+                        ]
                     }
                 ]
             },

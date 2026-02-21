@@ -62,6 +62,17 @@
                         ]
                     },
                     {
+                        "name": "Stadium Basement A - East Locker Hall (Jecht's Sphere)",
+                        "map_locations": [{"map": "Luca", "x": 595, "y": 385}],
+                        "access_rules": ["oblitzerator, [$hasMinimumParty|3]"],
+                        "sections": [
+                            {
+                                "name": "Progressive Jecht's Sphere",
+                                "hosted_item": "jechtsphereIV"
+                            }
+                        ]
+                    },
+                    {
                         "name": "Blitzball: Obtain The Jupiter Sigil League Prize (Event)",
                         "map_locations": [{"map": "Luca", "x": 480, "y": 730}],
                         "access_rules": ["oblitzerator, [$hasMinimumParty|3]"],

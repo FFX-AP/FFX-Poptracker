@@ -115,6 +115,22 @@
                                 "name": "Spherimorph",
                                 "hosted_item": "spherimorph",
                                 "clear_as_group": true
+                            },
+                            {
+                                "name": "After Spherimorph (Jecht's Sphere)",
+                                "hosted_item": "jechtsphereI",
+                                "clear_as_group": true
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South - Near Entrance (Jecht's Sphere)",
+                        "map_locations": [{ "map": "Macalania Woods", "x": 115, "y": 650}],
+                        "access_rules": ["spherimorph, [$hasMinimumParty|3]"],
+                        "sections": [
+                            {
+                                "name": "Progressive Jecht's Sphere", 
+                                "hosted_item": "jechtsphereX"
                             }
                         ]
                     },
