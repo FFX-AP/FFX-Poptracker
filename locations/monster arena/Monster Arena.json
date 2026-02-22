@@ -1723,8 +1723,8 @@
                             },
                             {
                                 "name": "Become 'The One Who Conquered All' (Event)",
-                                "access_rules": ["^$CheckAccessLevel|superbosses, nemesis, [$hasMinimumParty|3]"],
-                                "visibility_rules": ["creationbossesriginal"],
+                                "access_rules": ["^$CheckAllCaptures|10, ^$CheckAllCreations, superbosses, creationbossesoriginal, [$hasMinimumParty|3]"],
+                                "visibility_rules": ["creationbossesoriginal, superbosses"],
                                 "hosted_item": "markofconquest",
                                 "clear_as_group": true
                             }
@@ -1734,7 +1734,7 @@
                         "name": "Defeat",
                         "map_locations": [{ "map": "Monster Arena", "x": 1540, "y": 1045}],
                         "access_rules": ["^$CheckAccessLevel|superbosses, [$hasMinimumParty|3]"],
-                        "visibility_rules": ["creationbossesriginal"],
+                        "visibility_rules": ["creationbossesoriginal"],
                         "sections": [
                             {
                                 "name": "Earth Eater",

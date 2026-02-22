@@ -130,7 +130,7 @@
             {
                 "name": "Area, Species & Original Creations Bosses",
                 "img": "images/items/hd/Battle_Item_HD.png",
-                "codes": "creationbossesarea, creationbossesspecies, creationbossesriginal"
+                "codes": "creationbossesarea, creationbossesspecies, creationbossesoriginal"
             }
         ]    
     },
