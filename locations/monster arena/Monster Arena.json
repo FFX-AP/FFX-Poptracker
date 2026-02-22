@@ -1720,6 +1720,13 @@
                             {
                                 "name": "All Fiends x10",
                                 "access_rules": ["^$CheckAllCaptures|10, ^$CheckAllCreations"]
+                            },
+                            {
+                                "name": "Become 'The One Who Conquered All' (Event)",
+                                "access_rules": ["^$CheckAccessLevel|superbosses, nemesis, [$hasMinimumParty|3]"],
+                                "visibility_rules": ["creationbossesriginal"],
+                                "hosted_item": "markofconquest",
+                                "clear_as_group": true
                             }
                         ]
                     },

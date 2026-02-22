@@ -1804,6 +1804,10 @@
                     {
                         "name": "Original Creation - All Fiends x10",
                         "ref": "Monster Arena/Original Creation/Creation Rewards/All Fiends x10"
+                    },
+                    {
+                        "name": "Become 'The One Who Conquered All' (Event)",
+                        "ref": "Monster Arena/Original Creation/Creation Rewards/Become 'The One Who Conquered All' (Event)"
                     }
                 ]
             },

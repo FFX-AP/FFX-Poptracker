@@ -6112,16 +6112,6 @@
         "codes": "[lv.1keysphere]x80"
     },
     {
-        "name": "Mark of Conquest",
-        "type": "toggle",
-        "img": "images/items/markofconquest.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "markofconquest"
-    },
-    {
         "name": "Dark Matter x 30",
         "type": "toggle",
         "img": "images/items/darkmatterx30.png",
