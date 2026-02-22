@@ -1723,9 +1723,9 @@
                             },
                             {
                                 "name": "Become 'The One Who Conquered All' (Event)",
-                                "access_rules": ["^$CheckAllCaptures|10, ^$CheckAllCreations, superbosses, creationbossesoriginal, [$hasMinimumParty|3]"],
-                                "visibility_rules": ["creationbossesoriginal, superbosses"],
-                                "hosted_item": "markofconquest",
+                                "access_rules": ["@Monster Arena/Original Creation/Defeat/Nemesis"],
+                                "visibility_rules": ["creationbossesoriginal"],
+                                "hosted_item": "markofconquestcheck",
                                 "clear_as_group": true
                             }
                         ]

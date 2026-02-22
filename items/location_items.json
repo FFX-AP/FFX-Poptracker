@@ -1470,7 +1470,6 @@
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "markofconquest"
+        "codes": "markofconquestcheck"
     }
 ]
