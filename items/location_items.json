@@ -552,6 +552,56 @@
         "initial_active_state": false,
         "codes": "belgeminemagus"
     },
+    {
+        "name": "South End - Fight Belgemine (Win) (Event)",
+        "type": "toggle",
+        "img": "images/Treasure.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "belgeminemihn"
+    },
+    {
+        "name": "South Bank Road - Fight Belgemine (Win) (Event)",
+        "type": "toggle",
+        "img": "images/Treasure.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "belgeminemoon"
+    },
+    {
+        "name": "Central - Fight Belgemine (Win) (Event)",
+        "type": "toggle",
+        "img": "images/Treasure.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "belgeminecalm"
+    },
+    {
+        "name": "Defeat Belgemine Once",
+        "type": "toggle",
+        "img": "images/Treasure.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "summonersoul"    
+    },
+    {
+        "name": "Defeat Belgemine Twice",
+        "type": "toggle",
+        "img": "images/Treasure.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "aeonsoul"    
+    },
     
     //Overdrives
     {

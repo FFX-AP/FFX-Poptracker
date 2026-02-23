@@ -34,50 +34,46 @@
             {
                 "name": "Belgemine",
                 "map_locations": [{ "map": "Remiem Temple", "x": 445, "y": 270, "shape": "trapezoid", "size": 24}],
-                "access_rules": ["$hasYuna, $hasAeons|1, [$hasAeons|2]"],
                 "sections": [
                     {
                         "name": "Remiem Temple - Defeat Valefor (Boss)",
-                        "hosted_item": "belgeminevalefor",
-                        "clear_as_group": true
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Valefor (Boss)"
+                    },
+                    {
+                        "name": "Defeat Belgemine Once (Event)",
+                        "ref": "Belgemine/Remiem/Defeat Belgemine Once"
                     },
                     {
                         "name": "Remiem Temple - Defeat Ifrit (Boss)",
-                        "hosted_item": "belgemineifrit",
-                        "clear_as_group": true
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Ifrit (Boss)"
+                    },
+                    {
+                        "name": "Defeat Belgemine Twice (Event)",
+                        "ref": "Belgemine/Remiem/Defeat Belgemine Twice"
                     },
                     {
                         "name": "Remiem Temple - Defeat Ixion (Boss)",
-                        "hosted_item": "belgemineixion",
-                        "clear_as_group": true
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Ixion (Boss)"
                     },
                     {
                         "name": "Remiem Temple - Defeat Shiva (Boss)",
-                        "hosted_item": "belgemineshiva",
-                        "clear_as_group": true
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Shiva (Boss)"
                     },
                     {
                         "name": "Remiem Temple - Defeat Bahamut (Boss)",
-                        "hosted_item": "belgeminebahamut",
-                        "clear_as_group": true
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Bahamut (Boss)"
                     },
                     {
                         "name": "Remiem Temple - Defeat Yojimbo (Boss)",
-                        "access_rules": ["$hasYojimbo"],
-                        "hosted_item": "belgemineyojimbo",
-                        "clear_as_group": true
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Yojimbo (Boss)"
                     },
                     {
                         "name": "Remiem Temple - Defeat Anima (Boss)",
-                        "access_rules": ["$hasYojimbo, $hasAnima"],
-                        "hosted_item": "belgemineanima",
-                        "clear_as_group": true
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Anima (Boss)"
                     },
                     {
                         "name": "Remiem Temple - Defeat Magus Sisters (Boss)",
-                        "access_rules": ["$hasYojimbo, $hasAnima, $hasMagusSisters"],
-                        "hosted_item": "belgeminemagus",
-                        "clear_as_group": true
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Magus Sisters (Boss)"
                     }
                 ]
             },

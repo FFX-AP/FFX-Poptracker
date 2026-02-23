@@ -10,6 +10,20 @@
                 "name": "Plains",
                 "children": [
                     {
+                        "name": "Central - Fight Belgemine (Win) (Event)",
+                        "map_locations": [{ "map": "Calm Lands", "x": 220, "y": 685, "shape": "trapezoid", "size": 24}],
+                        "sections": [
+                            {
+                                "name": "Central - Fight Belgemine (Win) (Event)",
+                                "ref": "Belgemine/Regions/Central - Fight Belgemine (Win) (Event)"
+                            },
+                            {
+                                "name": "Defeat Belgemine Twice",
+                                "ref": "Belgemine/Regions/Defeat Belgemine Twice"
+                            }
+                        ]
+                    },
+                    {
                         "name": "Southeast Corner (Chests)",
                         "map_locations": [{ "map": "Calm Lands", "x": 630, "y": 825}],
                         "sections": [
