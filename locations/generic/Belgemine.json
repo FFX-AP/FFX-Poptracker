@@ -57,13 +57,13 @@
                         "clear_as_group": true
                     },
                     {
-                        "name": "Defeat Belgemine Once",
+                        "name": "Obtain the Summoner's Soul",
                         "access_rules": ["@Belgemine/Remiem/Remiem Temple - Defeat Valefor (Boss)"],
                         "hosted_item": "summonersoul",
                         "clear_as_group": true
                     },
                     {
-                        "name": "Defeat Belgemine Twice",
+                        "name": "Obtain the Aeon's Soul",
                         "access_rules": ["@Belgemine/Remiem/Remiem Temple - Defeat Ifrit (Boss)"],
                         "hosted_item": "aeonsoul",
                         "clear_as_group": true
@@ -92,13 +92,13 @@
                         "clear_as_group": true
                     },
                     {
-                        "name": "Defeat Belgemine Once",
+                        "name": "Obtain the Summoner's Soul",
                         "access_rules": ["^$CheckAccessLevel|moonflow, $hasAeonsExcluding|1|Ixion"],
                         "hosted_item": "summonersoul",
                         "clear_as_group": true
                     },
                     {
-                        "name": "Defeat Belgemine Twice",
+                        "name": "Obtain the Aeon's Soul",
                         "access_rules": ["^$CheckAccessLevel|calmlands, $hasAeonsExcluding|1|Shiva"],
                         "hosted_item": "aeonsoul",
                         "clear_as_group": true
