@@ -6114,11 +6114,10 @@
     {
         "name": "Mark of Conquest",
         "type": "toggle",
-        "img": "images/items/markofconquest.png",
-        "img_mods": "",
-        "disabled_img": "",
+        "img": "images/treasure.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "markofconquest"
     },
     {
