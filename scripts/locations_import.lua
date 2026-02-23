@@ -7,7 +7,6 @@ Tracker:AddLocations("locations/generic/Celestial.json")
 Tracker:AddLocations("locations/generic/Party Member.json")
 Tracker:AddLocations("locations/generic/Super Bosses.json")
 
-
 Tracker:AddLocations("locations/regions/Airship.json")
 Tracker:AddLocations("locations/regions/Al Bhed Ship.json")
 Tracker:AddLocations("locations/regions/Baaj Temple.json")

@@ -6,7 +6,7 @@
         "children": [
             {
                 "name": "Remiem",
-                "access_rules":["^$CheckAccessLevel|calmlands"],
+                "access_rules":["@Remiem Temple"],
                 "sections": [
                     {
                         "name": "Remiem Temple - Defeat Valefor (Boss)",
@@ -46,25 +46,25 @@
                     },
                     {
                         "name": "Remiem Temple - Defeat Anima (Boss)",
-                        "access_rules": ["$hasYojimbo", "$hasAnima"],
+                        "access_rules": ["$hasYojimbo, belgemineyojimbo, $hasAnima"],
                         "hosted_item": "belgemineanima",
                         "clear_as_group": true
                     },
                     {
                         "name": "Remiem Temple - Defeat Magus Sisters (Boss)",
-                        "access_rules": ["$hasYojimbo, $hasAnima, $hasMagusSisters"],
+                        "access_rules": ["$hasYojimbo, $hasAnima, belgemineanima, $hasMagusSisters"],
                         "hosted_item": "belgeminemagus",
                         "clear_as_group": true
                     },
                     {
                         "name": "Defeat Belgemine Once",
-                        "access_rules": "$hasAeonsExcluding|1|Valefor",
+                        "access_rules": ["@Belgemine/Remiem/Remiem Temple - Defeat Valefor (Boss)"],
                         "hosted_item": "summonersoul",
                         "clear_as_group": true
                     },
                     {
                         "name": "Defeat Belgemine Twice",
-                        "access_rules": "belgeminevalefor, $hasAeonsExcluding|1|Ifrit",
+                        "access_rules": ["@Belgemine/Remiem/Remiem Temple - Defeat Ifrit (Boss)"],
                         "hosted_item": "aeonsoul",
                         "clear_as_group": true
                     }
