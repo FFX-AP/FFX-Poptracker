@@ -770,8 +770,8 @@
                         "ref": "Belgemine/Regions/South Bank Road - Fight Belgemine (Win) (Event)"
                     },
                     {
-                        "name": "Obtain the Summoner's Soul",
-                        "ref": "Belgemine/Regions/Obtain the Summoner's Soul"
+                        "name": "Fight Belgemine - Summoner's Soul",
+                        "ref": "Belgemine/Regions/Fight Belgemine - Summoner's Soul"
                     },
                     {
                         "name": "South Bank Road - Magic Def Sphere x1 (Chest)",
@@ -1444,8 +1444,8 @@
                         "ref": "Belgemine/Regions/Central - Fight Belgemine (Win) (Event)"
                     },
                     {
-                        "name": "Obtain the Aeon's Soul",
-                        "ref": "Belgemine/Regions/Obtain the Aeon's Soul"
+                        "name": "Fight Belgemine - Aeon's Soul",
+                        "ref": "Belgemine/Regions/Fight Belgemine - Aeon's Soul"
                     },
                     {
                         "name": "South - Southeast Corner, Right (Chest)",
@@ -1518,16 +1518,16 @@
                         "ref": "Belgemine/Remiem/Remiem Temple - Defeat Valefor (Boss)"
                     },
                     {
-                        "name": "Obtain the Summoner's Soul",
-                        "ref": "Belgemine/Remiem/Obtain the Summoner's Soul"
+                        "name": "Fight Belgemine - Summoner's Soul",
+                        "ref": "Belgemine/Remiem/Fight Belgemine - Summoner's Soul"
                     },
                     {
                         "name": "Remiem Temple - Defeat Ifrit (Boss)",
                         "ref": "Belgemine/Remiem/Remiem Temple - Defeat Ifrit (Boss)"
                     },
                     {
-                        "name": "Obtain the Aeon's Soul",
-                        "ref": "Belgemine/Remiem/Obtain the Aeon's Soul"
+                        "name": "Fight Belgemine - Aeon's Soul",
+                        "ref": "Belgemine/Remiem/Fight Belgemine - Aeon's Soul"
                     },
                     {
                         "name": "Remiem Temple - Defeat Ixion (Boss)",
