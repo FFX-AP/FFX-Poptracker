@@ -10,6 +10,11 @@
                 "name": "Village",
                 "children": [
                     {
+                        "name": "Recruit: Tatts",
+                        "map_locations": [{ "map": "Kilika Village", "x": 740, "y": 720}],
+                        "sections": [{"name": "Tatts", "ref": "Blitzball Recruits/Tatts"}]
+                    },                    
+                    {
                         "name": "House - Right of Collapsing House (Chest)",
                         "map_locations": [{ "map": "Kilika Village", "x": 730, "y": 115}],
                         "sections": [{"name": "Potion x3"}]
@@ -28,11 +33,6 @@
                                 "ref": "Al Bhed Primers/Al Bhed Primer IV/Kilika"
                             }
                         ]
-                    },
-                    {
-                        "name": "Recruit: Tatts",
-                        "map_locations": [{ "map": "Kilika Village", "x": 740, "y": 720}],
-                        "sections": [{"name": "Tatts", "ref": "Blitzball Recruits/Tatts"}]
                     }
                 ]
             },

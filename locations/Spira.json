@@ -242,6 +242,10 @@
                 "map_locations": [{ "map": "Spira", "x": 485, "y": 971}],
                 "sections": [
                     {
+                        "name": "Recruit: Tatts",
+                        "ref": "Blitzball Recruits/Tatts"
+                    },                    
+                    {
                         "name": "House - Right of Collapsing House (Chest)",
                         "ref": "Kilika/Village/House - Right of Collapsing House (Chest)/Potion x3"
                     },
@@ -252,10 +256,6 @@
                     {
                         "name": "Tavern - On Counter (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer IV/Kilika"
-                    },
-                    {
-                        "name": "Recruit: Tatts",
-                        "ref": "Blitzball Recruits/Tatts"
                     },
                     {
                         "name": "Woods - East of First Intersection (Chest)",
