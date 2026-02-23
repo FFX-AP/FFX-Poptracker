@@ -296,3 +296,13 @@ function hasRanged()
         return false
     end
 end
+
+function hasAeonsExcluding(quantity, aeon)
+    local quantity = tonumber(quantity)
+
+    if (hasAeons(quantity) and not has("partymember:" .. aeon)) or (hasAeons(quantity + 1)) then
+        return true
+    else
+        return false
+    end
+end

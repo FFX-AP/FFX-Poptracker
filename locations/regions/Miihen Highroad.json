@@ -11,7 +11,7 @@
                 "children": [
                     {
                         "name": "South End - Yellow Man, Looping South to North (NPC)",
-                        "map_locations": [{ "map": "Miihen Highroad", "x": 130, "y": 880}],
+                        "map_locations": [{ "map": "Miihen Highroad", "x": 135, "y": 860}],
                         "sections": [{"name": "Hi-Potion"}]
                     },
                     {
@@ -21,13 +21,23 @@
                     },
                     {
                         "name": "South End - Red Skirt Girl, Pacing Between Maechen and Ruins (NPC)",
-                        "map_locations": [{ "map": "Miihen Highroad", "x": 125, "y": 850}],
+                        "map_locations": [{ "map": "Miihen Highroad", "x": 130, "y": 650}],
                         "sections": [{"name": "Antidote x2"}]
                     },
                     {
                         "name": "South End - Behind Ruins on Left (Chest)",
-                        "map_locations": [{ "map": "Miihen Highroad", "x": 110, "y": 720}],
+                        "map_locations": [{ "map": "Miihen Highroad", "x": 95, "y": 480}],
                         "sections": [{"name": "Ice Brand"}]
+                    },
+                    {
+                        "name": "South End - Fight Belgemine (Win) (Event)",
+                        "map_locations": [{ "map": "Miihen Highroad", "x": 164, "y": 340, "shape": "trapezoid", "size": 24}],
+                        "sections": [
+                             {
+                                "name": "South End - Fight Belgemine (Win) (Event)",
+                                "ref": "Belgemine/Regions/South End - Fight Belgemine (Win) (Event)"
+                            }
+                        ]
                     },
                     {
                         "name": "South - Behind Elma, North Side (Chest)",

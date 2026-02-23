@@ -467,9 +467,8 @@
     {
         "name": "Belgemine Valefor",
         "type": "toggle",
-        "img": "images/party/aeons/Valefor_BW.png",
+        "img": "images/party/aeons/Valefor.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/party/aeons/Valefor.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -478,9 +477,8 @@
     {
         "name": "Belgemine Ifrit",
         "type": "toggle",
-        "img": "images/party/aeons/Ifrit_BW.png",
+        "img": "images/party/aeons/Ifrit.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/party/aeons/Ifrit.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -489,9 +487,8 @@
     {
         "name": "Belgemine Ixion",
         "type": "toggle",
-        "img": "images/party/aeons/Ixion_BW.png",
+        "img": "images/party/aeons/Ixion.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/party/aeons/Ixion.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -500,9 +497,8 @@
     {
         "name": "Belgemine Shiva",
         "type": "toggle",
-        "img": "images/party/aeons/Shiva_BW.png",
+        "img": "images/party/aeons/Shiva.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/party/aeons/Shiva.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -511,9 +507,8 @@
     {
         "name": "Belgemine Bahamut",
         "type": "toggle",
-        "img": "images/party/aeons/Bahamut_BW.png",
+        "img": "images/party/aeons/Bahamut.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/party/aeons/Bahamut.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -522,9 +517,8 @@
     {
         "name": "Belgemine Yojimbo",
         "type": "toggle",
-        "img": "images/party/aeons/Yojimbo_BW.png",
+        "img": "images/party/aeons/Yojimbo.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/party/aeons/Yojimbo.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -533,9 +527,8 @@
     {
         "name": "Belgemine Anima",
         "type": "toggle",
-        "img": "images/party/aeons/Anima_BW.png",
+        "img": "images/party/aeons/Anima.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/party/aeons/Anima.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -544,13 +537,62 @@
     {
         "name": "Belgemine Magus Sisters",
         "type": "toggle",
-        "img": "images/party/aeons/Magus Sisters_BW.png",
+        "img": "images/party/aeons/Magus Sisters.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/party/aeons/Magus Sisters.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "belgeminemagus"
+    },
+    {
+        "name": "South End - Fight Belgemine (Win) (Event)",
+        "type": "toggle",
+        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "belgeminemihn"
+    },
+    {
+        "name": "South Bank Road - Fight Belgemine (Win) (Event)",
+        "type": "toggle",
+        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "belgeminemoon"
+    },
+    {
+        "name": "Central - Fight Belgemine (Win) (Event)",
+        "type": "toggle",
+        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "belgeminecalm"
+    },
+    {
+        "name": "Obtain the Summoner's Soul",
+        "type": "toggle",
+        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "summonersoul"    
+    },
+    {
+        "name": "Obtain the Aeon's Soul",
+        "type": "toggle",
+        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "aeonsoul"    
     },
     
     //Overdrives

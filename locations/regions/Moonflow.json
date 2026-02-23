@@ -25,6 +25,20 @@
                         "sections": [{"name": "Lv. 1 Key Sphere x3"}]
                     },
                     {
+                        "name": "South Bank Road - Fight Belgemine (Win) (Event)",
+                        "map_locations": [{ "map": "Moonflow", "x": 919, "y": 135, "shape": "trapezoid", "size": 16}],
+                        "sections": [
+                            {
+                                "name": "South Bank Road - Fight Belgemine (Win) (Event)",
+                                "ref": "Belgemine/Regions/South Bank Road - Fight Belgemine (Win) (Event)"
+                            },
+                            {
+                                "name": "Obtain the Summoner's Soul",
+                                "ref": "Belgemine/Regions/Obtain the Summoner's Soul"
+                            }
+                        ]
+                    },
+                    {
                         "name": "South Bank Road - West Alcove in Forest Past Belgemine (Chest)",
                         "map_locations": [{ "map": "Moonflow", "x": 920, "y": 90}],
                         "sections": [{"name": "Magic Def Sphere x1"}]

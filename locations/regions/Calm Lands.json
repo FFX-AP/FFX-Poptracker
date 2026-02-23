@@ -10,6 +10,20 @@
                 "name": "Plains",
                 "children": [
                     {
+                        "name": "Central - Fight Belgemine (Win) (Event)",
+                        "map_locations": [{ "map": "Calm Lands", "x": 220, "y": 685, "shape": "trapezoid", "size": 24}],
+                        "sections": [
+                            {
+                                "name": "Central - Fight Belgemine (Win) (Event)",
+                                "ref": "Belgemine/Regions/Central - Fight Belgemine (Win) (Event)"
+                            },
+                            {
+                                "name": "Obtain the Aeon's Soul",
+                                "ref": "Belgemine/Regions/Obtain the Aeon's Soul"
+                            }
+                        ]
+                    },
+                    {
                         "name": "Southeast Corner (Chests)",
                         "map_locations": [{ "map": "Calm Lands", "x": 630, "y": 825}],
                         "sections": [

@@ -242,6 +242,10 @@
                 "map_locations": [{ "map": "Spira", "x": 485, "y": 971}],
                 "sections": [
                     {
+                        "name": "Recruit: Tatts",
+                        "ref": "Blitzball Recruits/Tatts"
+                    },                    
+                    {
                         "name": "House - Right of Collapsing House (Chest)",
                         "ref": "Kilika/Village/House - Right of Collapsing House (Chest)/Potion x3"
                     },
@@ -252,10 +256,6 @@
                     {
                         "name": "Tavern - On Counter (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer IV/Kilika"
-                    },
-                    {
-                        "name": "Recruit: Tatts",
-                        "ref": "Blitzball Recruits/Tatts"
                     },
                     {
                         "name": "Woods - East of First Intersection (Chest)",
@@ -450,6 +450,10 @@
                     {
                         "name": "South End - Behind Ruins on Left (Chest)",
                         "ref": "Miihen Highroad/South/South End - Behind Ruins on Left (Chest)/Ice Brand"
+                    },
+                    {
+                        "name": "South End - Fight Belgemine (Win) (Event)",
+                        "ref": "Belgemine/Regions/South End - Fight Belgemine (Win) (Event)"
                     },
                     {
                         "name": "South - Behind Elma, North Side (Chest)",
@@ -760,6 +764,14 @@
                     {
                         "name": "South Bank Road - Lv. 1 Key Sphere x3 (Chest)",
                         "ref": "Moonflow/South/South Bank Road - East Alcove as Path Bends North (Chest)/Lv. 1 Key Sphere x3"
+                    },
+                    {
+                        "name": "South Bank Road - Fight Belgemine (Win) (Event)",
+                        "ref": "Belgemine/Regions/South Bank Road - Fight Belgemine (Win) (Event)"
+                    },
+                    {
+                        "name": "Obtain the Summoner's Soul",
+                        "ref": "Belgemine/Regions/Obtain the Summoner's Soul"
                     },
                     {
                         "name": "South Bank Road - Magic Def Sphere x1 (Chest)",
@@ -1428,6 +1440,14 @@
                 "map_locations": [{ "map": "Spira", "x": 641, "y": 207}],
                 "sections": [
                     {
+                        "name": "Central - Fight Belgemine (Win) (Event)",
+                        "ref": "Belgemine/Regions/Central - Fight Belgemine (Win) (Event)"
+                    },
+                    {
+                        "name": "Obtain the Aeon's Soul",
+                        "ref": "Belgemine/Regions/Obtain the Aeon's Soul"
+                    },
+                    {
                         "name": "South - Southeast Corner, Right (Chest)",
                         "ref": "Calm Lands/Plains/Southeast Corner (Chests)/South - Southeast Corner, Right (Chest)"
                     },
@@ -1495,35 +1515,43 @@
                     },
                     {
                         "name": "Remiem Temple - Defeat Valefor (Boss)",
-                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Valefor (Boss)"
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Valefor (Boss)"
+                    },
+                    {
+                        "name": "Obtain the Summoner's Soul",
+                        "ref": "Belgemine/Remiem/Obtain the Summoner's Soul"
                     },
                     {
                         "name": "Remiem Temple - Defeat Ifrit (Boss)",
-                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Ifrit (Boss)"
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Ifrit (Boss)"
+                    },
+                    {
+                        "name": "Obtain the Aeon's Soul",
+                        "ref": "Belgemine/Remiem/Obtain the Aeon's Soul"
                     },
                     {
                         "name": "Remiem Temple - Defeat Ixion (Boss)",
-                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Ixion (Boss)"
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Ixion (Boss)"
                     },
                     {
                         "name": "Remiem Temple - Defeat Shiva (Boss)",
-                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Shiva (Boss)"
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Shiva (Boss)"
                     },
                     {
                         "name": "Remiem Temple - Defeat Bahamut (Boss)",
-                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Bahamut (Boss)"
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Bahamut (Boss)"
                     },
                     {
                         "name": "Remiem Temple - Defeat Yojimbo (Boss)",
-                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Yojimbo (Boss)"
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Yojimbo (Boss)"
                     },
                     {
                         "name": "Remiem Temple - Defeat Anima (Boss)",
-                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Anima (Boss)"
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Anima (Boss)"
                     },
                     {
                         "name": "Remiem Temple - Defeat Magus Sisters (Boss)",
-                        "ref": "Remiem Temple/Belgemine/Remiem Temple - Defeat Magus Sisters (Boss)"
+                        "ref": "Belgemine/Remiem/Remiem Temple - Defeat Magus Sisters (Boss)"
                     },
                     {
                         "name": "Remiem Temple - Defeat All Aeons and Send Belgemine (Event)",
