@@ -575,7 +575,7 @@
         "codes": "belgeminecalm"
     },
     {
-        "name": "Obtain the Summoner's Soul",
+        "name": "Fight Belgemine - Summoner's Soul",
         "type": "toggle",
         "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
         "img_mods": "@disabled",
@@ -585,7 +585,7 @@
         "codes": "summonersoul"    
     },
     {
-        "name": "Obtain the Aeon's Soul",
+        "name": "Fight Belgemine - Aeon's Soul",
         "type": "toggle",
         "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
         "img_mods": "@disabled",
