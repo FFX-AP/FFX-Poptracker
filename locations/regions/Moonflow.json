@@ -54,13 +54,12 @@
                         "sections": [{"name": "5000 gil"}]
                     },
                     {
-                        "name": "South Warf (Jecht's Sphere)",
+                        "name": "South Wharf (Jecht's Sphere)\n2nd Visit",
                         "map_locations": [{ "map": "Moonflow", "x": 375, "y": 90}],
-                        "access_rules": ["extractor, [$hasSwimmers|2]"],
                         "sections": [
                             {
                                 "name": "Progressive Jecht's Sphere",
-                                "hosted_item": "jechtsphereVIII"
+                                "ref": "Jecht's Spheres/South Wharf (Jecht's Sphere)/Progressive Jecht's Sphere"
                             }
                         ]
                     },

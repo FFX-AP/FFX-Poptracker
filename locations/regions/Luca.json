@@ -62,13 +62,12 @@
                         ]
                     },
                     {
-                        "name": "Stadium Basement A - East Locker Hall (Jecht's Sphere)",
+                        "name": "Stadium Basement A - East Locker Hall (Jecht's Sphere)\n2nd Visit",
                         "map_locations": [{"map": "Luca", "x": 595, "y": 385}],
-                        "access_rules": ["oblitzerator, [$hasMinimumParty|3]"],
                         "sections": [
                             {
                                 "name": "Progressive Jecht's Sphere",
-                                "hosted_item": "jechtsphereV"
+                                "ref": "Jecht's Spheres/Stadium Basement A - East Locker Hall (Jecht's Sphere)/Progressive Jecht's Sphere"
                             }
                         ]
                     },

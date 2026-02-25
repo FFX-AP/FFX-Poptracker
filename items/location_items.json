@@ -547,7 +547,7 @@
     {
         "name": "South End - Fight Belgemine (Win) (Event)",
         "type": "toggle",
-        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img": "images/npc/Belgemine.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -557,7 +557,7 @@
     {
         "name": "South Bank Road - Fight Belgemine (Win) (Event)",
         "type": "toggle",
-        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img": "images/npc/Belgemine.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -567,7 +567,7 @@
     {
         "name": "Central - Fight Belgemine (Win) (Event)",
         "type": "toggle",
-        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img": "images/npc/Belgemine.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -577,7 +577,7 @@
     {
         "name": "Fight Belgemine - Summoner's Soul",
         "type": "toggle",
-        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img": "images/npc/Belgemine.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -587,7 +587,7 @@
     {
         "name": "Fight Belgemine - Aeon's Soul",
         "type": "toggle",
-        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img": "images/npc/Belgemine.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1413,17 +1413,7 @@
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
-        "codes": "jechtsphereI"
-    },
-    {
-        "name": "South - Near Entrance (Jecht's Sphere)",
-        "type": "toggle",
-        "img": "images/items/Movie Sphere.png",
-        "img_mods": "@disabled",
-        "disabled_img_mods": "",
-        "capturable": true,
-        "initial_active_state": false,
-        "codes": "jechtsphereII"
+        "codes": "jechtsphere1"
     },
     {
         "name": "Village - East of Temple (Jecht's Sphere)",
@@ -1433,57 +1423,7 @@
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
-        "codes": "jechtsphereIII"
-    },
-    {
-        "name": "Captains Room (Jecht's Sphere)",
-        "type": "toggle",
-        "img": "images/items/Movie Sphere.png",
-        "img_mods": "@disabled",
-        "disabled_img_mods": "",
-        "capturable": true,
-        "initial_active_state": false,
-        "codes": "jechtsphereIV"
-    },
-    {
-        "name": "Stadium Basement A - East Locker Hall (Jecht's Sphere)",
-        "type": "toggle",
-        "img": "images/items/Movie Sphere.png",
-        "img_mods": "@disabled",
-        "disabled_img_mods": "",
-        "capturable": true,
-        "initial_active_state": false,
-        "codes": "jechtsphereV"
-    },
-    {
-        "name": "Oldroad, South - South End (Jecht's Sphere)",
-        "type": "toggle",
-        "img": "images/items/Movie Sphere.png",
-        "img_mods": "@disabled",
-        "disabled_img_mods": "",
-        "capturable": true,
-        "initial_active_state": false,
-        "codes": "jechtsphereVI"
-    },
-    {
-        "name": "Precipice - South of Large Elevator (Auron's Sphere)",
-        "type": "toggle",
-        "img": "images/items/Movie Sphere.png",
-        "img_mods": "@disabled",
-        "disabled_img_mods": "",
-        "capturable": true,
-        "initial_active_state": false,
-        "codes": "jechtsphereVII"
-    },
-    {
-        "name": "South Warf (Jecht's Sphere)",
-        "type": "toggle",
-        "img": "images/items/Movie Sphere.png",
-        "img_mods": "@disabled",
-        "disabled_img_mods": "",
-        "capturable": true,
-        "initial_active_state": false,
-        "codes": "jechtsphereVIII"
+        "codes": "jechtsphere2"
     },
     {
         "name": "South - Near Tower (Jecht's Sphere)",
@@ -1493,7 +1433,67 @@
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
-        "codes": "jechtsphereIX"
+        "codes": "jechtsphere3"
+    },
+    {
+        "name": "South Wharf (Jecht's Sphere)",
+        "type": "toggle",
+        "img": "images/items/Movie Sphere.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "jechtsphere4"
+    },
+    {
+        "name": "Oldroad, South - South End (Jecht's Sphere)",
+        "type": "toggle",
+        "img": "images/items/Movie Sphere.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "jechtsphere5"
+    },
+    {
+        "name": "Stadium Basement A - East Locker Hall (Jecht's Sphere)",
+        "type": "toggle",
+        "img": "images/items/Movie Sphere.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "jechtsphere6"
+    },
+    {
+        "name": "Captain's Room (Jecht's Sphere)",
+        "type": "toggle",
+        "img": "images/items/Movie Sphere.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "jechtsphere7"
+    },
+    {
+        "name": "South - Near Entrance (Jecht's Sphere)",
+        "type": "toggle",
+        "img": "images/items/Movie Sphere.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "jechtsphere8"
+    },
+    {
+        "name": "Precipice - South of Large Elevator (Auron's Sphere)",
+        "type": "toggle",
+        "img": "images/items/Movie Sphere.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "auronsphere"
     },
     {
         "name": "Trail - Side Road (Braska's Sphere)",
@@ -1503,7 +1503,7 @@
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
-        "codes": "jechtsphereX"
+        "codes": "braskasphere"
     },
     {
         "name": "Become 'The One Who Conquered All' (Event)",
