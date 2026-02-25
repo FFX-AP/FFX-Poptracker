@@ -14,13 +14,6 @@
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
-                "name": "South - Near Entrance (Jecht's Sphere)",
-                "access_rules": ["@Macalania, spherimorph, [$hasMinimumParty|3]"],
-                "hosted_item": "jechtsphereeight",
-                "clear_as_group": true,
-                "sections": [{"name": "Progressive Jecht's Sphere"}]
-            },
-            {
                 "name": "Village - East of Temple (Jecht's Sphere)",
                 "access_rules": ["@Besaid, darkvalefor, [$hasMinimumParty|3]"],
                 "visibility_rules": ["superbosses"],
@@ -29,30 +22,9 @@
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
-                "name": "Captain's Room (Jecht's Sphere)",
-                "access_rules": "@S.S. Liki, euchilles",
-                "hosted_item": "jechtsphereseven",
-                "clear_as_group": true,
-                "sections": [{"name": "Progressive Jecht's Sphere"}]
-            },
-            {
-                "name": "Stadium Basement A - East Locker Hall (Jecht's Sphere)",
-                "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"],
-                "hosted_item": "jechtspheresix",
-                "clear_as_group": true,
-                "sections": [{"name": "Progressive Jecht's Sphere"}]
-            },
-            {
-                "name": "Oldroad, South - South End (Jecht's Sphere)",
-                "access_rules": ["@Miihen Highroad, chocoboeater, [$hasMinimumParty|3]"],
-                "hosted_item": "jechtspherefive",
-                "clear_as_group": true,
-                "sections": [{"name": "Progressive Jecht's Sphere"}]
-            },
-            {
-                "name": "Precipice - South of Large Elevator (Auron's Sphere)",
-                "access_rules": ["@Mushroom Rock Road, sinspawngui, [$hasMinimumParty|3]"],
-                "hosted_item": "auronsphere",
+                "name": "South - Near Tower (Jecht's Sphere)",
+                "access_rules": ["@Thunder Plains"],
+                "hosted_item": "jechtspherethree",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
@@ -64,9 +36,37 @@
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
-                "name": "South - Near Tower (Jecht's Sphere)",
-                "access_rules": ["@Thunder Plains"],
-                "hosted_item": "jechtspherethree",
+                "name": "Oldroad, South - South End (Jecht's Sphere)",
+                "access_rules": ["@Miihen Highroad, chocoboeater, [$hasMinimumParty|3]"],
+                "hosted_item": "jechtspherefive",
+                "clear_as_group": true,
+                "sections": [{"name": "Progressive Jecht's Sphere"}]
+            },
+            {
+                "name": "Stadium Basement A - East Locker Hall (Jecht's Sphere)",
+                "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"],
+                "hosted_item": "jechtspheresix",
+                "clear_as_group": true,
+                "sections": [{"name": "Progressive Jecht's Sphere"}]
+            },
+            {
+                "name": "Captain's Room (Jecht's Sphere)",
+                "access_rules": "@S.S. Liki, euchilles",
+                "hosted_item": "jechtsphereseven",
+                "clear_as_group": true,
+                "sections": [{"name": "Progressive Jecht's Sphere"}]
+            },
+            {
+                "name": "South - Near Entrance (Jecht's Sphere)",
+                "access_rules": ["@Macalania, spherimorph, [$hasMinimumParty|3]"],
+                "hosted_item": "jechtsphereeight",
+                "clear_as_group": true,
+                "sections": [{"name": "Progressive Jecht's Sphere"}]
+            },
+            {
+                "name": "Precipice - South of Large Elevator (Auron's Sphere)",
+                "access_rules": ["@Mushroom Rock Road, sinspawngui, [$hasMinimumParty|3]"],
+                "hosted_item": "auronsphere",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
