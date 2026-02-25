@@ -54,12 +54,12 @@
                         "sections": [{"name": "5000 gil"}]
                     },
                     {
-                        "name": "South Warf (Jecht's Sphere)",
+                        "name": "South Wharf (Jecht's Sphere)",
                         "map_locations": [{ "map": "Moonflow", "x": 375, "y": 90}],
                         "sections": [
                             {
                                 "name": "Progressive Jecht's Sphere",
-                                "ref": "Jecht's Spheres/South Warf (Jecht's Sphere)/Progressive Jecht's Sphere"
+                                "ref": "Jecht's Spheres/South Wharf (Jecht's Sphere)/Progressive Jecht's Sphere"
                             }
                         ]
                     },

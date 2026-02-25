@@ -42,12 +42,12 @@
                 ]
             },
             {
-                "name": "Captains Room (Jecht's Sphere)",
+                "name": "Captain's Room (Jecht's Sphere)",
                 "map_locations": [{ "map": "S.S. Liki", "x": 210, "y": 530}],
                 "sections": [
                     {
                         "name": "Progressive Jecht's Sphere",
-                        "ref": "Jecht's Spheres/Captains Room (Jecht's Sphere)/Progressive Jecht's Sphere"
+                        "ref": "Jecht's Spheres/Captain's Room (Jecht's Sphere)/Progressive Jecht's Sphere"
                     }
                 ]
             }

@@ -1436,7 +1436,7 @@
         "codes": "jechtsphereIII"
     },
     {
-        "name": "Captains Room (Jecht's Sphere)",
+        "name": "Captain's Room (Jecht's Sphere)",
         "type": "toggle",
         "img": "images/items/Movie Sphere.png",
         "img_mods": "@disabled",
@@ -1476,7 +1476,7 @@
         "codes": "jechtsphereVII"
     },
     {
-        "name": "South Warf (Jecht's Sphere)",
+        "name": "South Wharf (Jecht's Sphere)",
         "type": "toggle",
         "img": "images/items/Movie Sphere.png",
         "img_mods": "@disabled",
