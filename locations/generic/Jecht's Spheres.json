@@ -4,19 +4,19 @@
         "overlay_background": "#000000",
         "chest_unopened_img": "/images/items/Movie Sphere.png",
         "chest_opened_img": "/images/items/Movie Sphere BW.png",
-        "visibility_rules": "jechtspheres",
+        "visibility_rules": ["jechtspheres"],
         "children": [
             {
                 "name": "After Spherimorph (Jecht's Sphere)",
-                "access_rules": ["@Macalania, spherimorph, [$hasMinimumParty|3]"],
-                "hosted_item": "jechtsphereI",
+                "access_rules": ["@Macalania/Woods/Defeat Spherimorph (Boss)/Spherimorph"],
+                "hosted_item": "jechtsphereone",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
                 "name": "South - Near Entrance (Jecht's Sphere)",
                 "access_rules": ["@Macalania, spherimorph, [$hasMinimumParty|3]"],
-                "hosted_item": "jechtsphereII",
+                "hosted_item": "jechtsphereeight",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
@@ -24,56 +24,56 @@
                 "name": "Village - East of Temple (Jecht's Sphere)",
                 "access_rules": ["@Besaid, darkvalefor, [$hasMinimumParty|3]"],
                 "visibility_rules": ["superbosses"],
-                "hosted_item": "jechtsphereIII",
+                "hosted_item": "jechtspheretwo",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
                 "name": "Captain's Room (Jecht's Sphere)",
-                "access_rules": "@S.S. Liki",
-                "hosted_item": "jechtsphereIV",
+                "access_rules": "@S.S. Liki, euchilles",
+                "hosted_item": "jechtsphereseven",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
                 "name": "Stadium Basement A - East Locker Hall (Jecht's Sphere)",
                 "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"],
-                "hosted_item": "jechtsphereV",
+                "hosted_item": "jechtspheresix",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
                 "name": "Oldroad, South - South End (Jecht's Sphere)",
                 "access_rules": ["@Miihen Highroad, chocoboeater, [$hasMinimumParty|3]"],
-                "hosted_item": "jechtsphereVI",
+                "hosted_item": "jechtspherefive",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
                 "name": "Precipice - South of Large Elevator (Auron's Sphere)",
                 "access_rules": ["@Mushroom Rock Road, sinspawngui, [$hasMinimumParty|3]"],
-                "hosted_item": "jechtsphereVII",
+                "hosted_item": "auronsphere",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
                 "name": "South Wharf (Jecht's Sphere)",
                 "access_rules": ["@Moonflow, extractor, [$hasSwimmers|2]"],
-                "hosted_item": "jechtsphereVIII",
+                "hosted_item": "jechtspherefour",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
                 "name": "South - Near Tower (Jecht's Sphere)",
                 "access_rules": ["@Thunder Plains"],
-                "hosted_item": "jechtsphereIX",
+                "hosted_item": "jechtspherethree",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
                 "name": "Trail - Side Road (Braska's Sphere)",
                 "access_rules": ["@Mt. Gagazet, biranyenke, [$hasMinimumParty|3]"],
-                "hosted_item": "jechtsphereX",
+                "hosted_item": "braskasphere",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             }
