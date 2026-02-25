@@ -202,8 +202,8 @@
                         "ref": "Super Bosses/Dark Valefor"
                     },
                     {
-                        "name": "Village - East of Temple (Jecht's Sphere)",
-                        "ref": "Besaid/Village/Village - East of Temple (Jecht's Sphere)/Progressive Jecht's Sphere"
+                        "name": "Village - East of Temple (Jecht's Sphere)\n2nd Visit",
+                        "ref": "Jecht's Spheres/Village - East of Temple (Jecht's Sphere)/Progressive Jecht's Sphere"
                     }
                 ]
             },
@@ -232,8 +232,8 @@
                         "ref": "S.S. Liki/Encounter Sin Fin (Event)/Defeat Sinspawn Echuilles (Boss)"
                     },
                     {
-                        "name": "Captains Room (Jecht's Sphere)",
-                        "ref": "S.S. Liki/Captains Room (Jecht's Sphere)/Progressive Jecht's Sphere"
+                        "name": "Captains Room (Jecht's Sphere)\n2nd Visit",
+                        "ref": "Jecht's Spheres/Captains Room (Jecht's Sphere)/Progressive Jecht's Sphere"
                     }
                 ]
             },
@@ -414,8 +414,8 @@
                         "ref": "Celestial/Wakka/Jupiter Crest"
                     },
                     {
-                        "name": "Stadium Basement A - East Locker Hall (Jecht's Sphere)",
-                        "ref": "Luca/Stadium/Stadium Basement A - East Locker Hall (Jecht's Sphere)/Progressive Jecht's Sphere"
+                        "name": "Stadium Basement A - East Locker Hall (Jecht's Sphere)\n2nd Visit",
+                        "ref": "Jecht's Spheres/Stadium Basement A - East Locker Hall (Jecht's Sphere)/Progressive Jecht's Sphere"
                     },
                     {
                         "name": "Recruit: Shuu",
@@ -544,8 +544,8 @@
                         "ref": "Celestial/Auron/Mars Crest"
                     },
                     {
-                        "name": "Oldroad, South - South End (Jecht's Sphere)",
-                        "ref": "Miihen Highroad/North/Oldroad, South - South End/Oldroad, South - South End (Jecht's Sphere)"
+                        "name": "Oldroad, South - South End (Jecht's Sphere)\n2nd Visit",
+                        "ref": "Jecht's Spheres/Oldroad, South - South End (Jecht's Sphere)/Progressive Jecht's Sphere"
                     }
                 ]
             },
@@ -646,8 +646,8 @@
                         "ref": "Celestial/Auron/Masamune"
                     },
                     {
-                        "name": "Precipice - South of Large Elevator (Auron's Sphere)",
-                        "ref": "Mushroom Rock Road/Precipice/Precipice - South of Large Elevator (Auron's Sphere)/Progressive Jecht's Sphere"
+                        "name": "Precipice - South of Large Elevator (Auron's Sphere)\n2nd Visit",
+                        "ref": "Jecht's Spheres/Precipice - South of Large Elevator (Auron's Sphere)/Progressive Jecht's Sphere"
                     },
                     {
                         "name": "Defeat Dark Cindy (Superboss)",
@@ -814,8 +814,8 @@
                         "ref": "Moonflow/North/North Bank Road - West Side, Before Guadosalam (Chest)/Mega-Potion x1"
                     },
                     {
-                        "name": "South Warf (Jecht's Sphere)",
-                        "ref": "Moonflow/South/South Warf (Jecht's Sphere)/Progressive Jecht's Sphere"
+                        "name": "South Warf (Jecht's Sphere)\n2nd Visit",
+                        "ref": "Jecht's Spheres/South Warf (Jecht's Sphere)/Progressive Jecht's Sphere"
                     }
                 ]
             },
@@ -942,8 +942,8 @@
                         "ref": "Celestial/Lulu/Venus Sigil"
                     },
                     {
-                        "name": "South - Near Tower (Jecht's Sphere)",
-                        "ref": "Thunder Plains/South/South - Near Tower (Jecht's Sphere)/Progressive Jecht's Sphere"
+                        "name": "South - Near Tower (Jecht's Sphere)\n2nd Visit",
+                        "ref": "Jecht's Spheres/South - Near Tower (Jecht's Sphere)/Progressive Jecht's Sphere"
                     },
                     {
                         "name": "Defeat Dark Ixion (Superboss)",
@@ -981,11 +981,11 @@
                     },
                     {
                         "name": "After Spherimorph (Jecht's Sphere)",
-                        "ref": "Macalania/Woods/Defeat Spherimorph (Boss)/After Spherimorph (Jecht's Sphere)"
+                        "ref": "Jecht's Spheres/After Spherimorph (Jecht's Sphere)/Progressive Jecht's Sphere"
                     },
                     {
                         "name": "South - Near Entrance (Jecht's Sphere)",
-                        "ref": "Macalania/Woods/South - Near Entrance (Jecht's Sphere)/Progressive Jecht's Sphere"
+                        "ref": "Jecht's Spheres/South - Near Entrance (Jecht's Sphere)/Progressive Jecht's Sphere"
                     },
                     {
                         "name": "Agency Front - Left Side (Primer)",

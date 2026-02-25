@@ -118,8 +118,7 @@
                             },
                             {
                                 "name": "After Spherimorph (Jecht's Sphere)",
-                                "hosted_item": "jechtsphereI",
-                                "clear_as_group": true
+                                "ref": "Jecht's Spheres/After Spherimorph (Jecht's Sphere)/Progressive Jecht's Sphere"
                             }
                         ]
                     },
@@ -129,8 +128,8 @@
                         "access_rules": ["spherimorph, [$hasMinimumParty|3]"],
                         "sections": [
                             {
-                                "name": "Progressive Jecht's Sphere", 
-                                "hosted_item": "jechtsphereII"
+                                "name": "Progressive Jecht's Sphere",
+                                "ref": "Jecht's Spheres/South - Near Entrance (Jecht's Sphere)/Progressive Jecht's Sphere"
                             }
                         ]
                     },

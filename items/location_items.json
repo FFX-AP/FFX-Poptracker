@@ -547,7 +547,7 @@
     {
         "name": "South End - Fight Belgemine (Win) (Event)",
         "type": "toggle",
-        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img": "images/npc/Belgemine.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -557,7 +557,7 @@
     {
         "name": "South Bank Road - Fight Belgemine (Win) (Event)",
         "type": "toggle",
-        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img": "images/npc/Belgemine.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -567,7 +567,7 @@
     {
         "name": "Central - Fight Belgemine (Win) (Event)",
         "type": "toggle",
-        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img": "images/npc/Belgemine.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -577,7 +577,7 @@
     {
         "name": "Fight Belgemine - Summoner's Soul",
         "type": "toggle",
-        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img": "images/npc/Belgemine.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -587,7 +587,7 @@
     {
         "name": "Fight Belgemine - Aeon's Soul",
         "type": "toggle",
-        "img": "images/RESOURCES/Models/MODEL DUMP/Belgemine.png",
+        "img": "images/npc/Belgemine.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,

@@ -132,6 +132,9 @@ function applySlotData(slot_data)
     if (slot_data["recruit_sanity"] ~= nil) then
         Tracker:FindObjectForCode("recruitsanity").Active = slot_data["recruit_sanity"]
     end
+    if (slot_data["jecht_spheres"] ~= nil) then
+        Tracker:FindObjectForCode("jechtspheres").Active = slot_data["jecht_spheres"]
+    end
     if (slot_data["super_bosses"] ~= nil) then
         Tracker:FindObjectForCode("superbosses").Active = slot_data["super_bosses"]
     end
