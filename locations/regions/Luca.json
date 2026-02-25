@@ -64,7 +64,6 @@
                     {
                         "name": "Stadium Basement A - East Locker Hall (Jecht's Sphere)",
                         "map_locations": [{"map": "Luca", "x": 595, "y": 385}],
-                        "access_rules": ["oblitzerator, [$hasMinimumParty|3]"],
                         "sections": [
                             {
                                 "name": "Progressive Jecht's Sphere",

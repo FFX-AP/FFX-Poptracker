@@ -178,8 +178,6 @@
                     {
                         "name": "Village - East of Temple (Jecht's Sphere)",
                         "map_locations": [{ "map": "Besaid Village", "x": 600, "y": 300}],
-                        "access_rules": ["darkvalefor, [$hasMinimumParty|3]"],
-                        "visibility_rules": ["superbosses"],
                         "sections": [
                             {
                                 "name": "Progressive Jecht's Sphere",

@@ -125,7 +125,6 @@
                     {
                         "name": "South - Near Entrance (Jecht's Sphere)",
                         "map_locations": [{ "map": "Macalania Woods", "x": 115, "y": 650}],
-                        "access_rules": ["spherimorph, [$hasMinimumParty|3]"],
                         "sections": [
                             {
                                 "name": "Progressive Jecht's Sphere",
