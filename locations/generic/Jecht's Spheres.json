@@ -51,7 +51,7 @@
             },
             {
                 "name": "Captain's Room (Jecht's Sphere)",
-                "access_rules": "@S.S. Liki, euchilles",
+                "access_rules": ["@S.S. Liki, echuilles"],
                 "hosted_item": "jechtsphere7",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
