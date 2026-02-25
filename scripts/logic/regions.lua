@@ -120,7 +120,7 @@ function UpdateAccessRegions()
         if (Level >= 5) then
             RegionAccessRegions[Region] = {}
             for OtherRegion, OtherLevel in pairs(RegionDifficulty) do
-                if (Level > OtherLevel and OtherLevel >= Level - LogicDifficulty) then
+                if (Level > OtherLevel and OtherLevel >= Level - LogicDifficulty and OtherRegion ~= "baajtemple2" and OtherRegion ~= "airshipsin") then
                     table.insert(RegionAccessRegions[Region], OtherRegion)
                 end
             end
@@ -128,9 +128,10 @@ function UpdateAccessRegions()
     end
 
     -- Print table
-    -- for region, value in pairs(RegionAccessRegions) do
-    --     for _, regions in ipairs(value) do
-    --         print(region .. " | " .. regions)
+    -- for region, regions in pairs(RegionAccessRegions) do
+    --     print("REGION ACCESS: " .. region)
+    --     for _, value in ipairs(regions) do
+    --         print(region .. " | " .. value)    
     --     end
     -- end
 
@@ -172,7 +173,7 @@ function UpdateAccessLevels()
 end
 
 function CheckAccessLevel(Region)
-    -- print("CHECK ACCESS: " .. Region .. " | " .. RegionAccessibility[Region])
+    print("CHECK ACCESS: " .. Region .. " | " .. RegionAccessibility[Region])
     return RegionAccessibility[Region]
 end
 
