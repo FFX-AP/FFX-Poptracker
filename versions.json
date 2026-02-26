@@ -1,6 +1,35 @@
 {
     "versions": [
         {
+            "package_version": "0.4.0",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.4.0/FFX.zip",
+            "sha256": "b9b1c896d8ccd1251583b06efb7aa1a16db17f9a7eb53a691659adc1e03feb7b",
+            "changelog": [
+                " - New Additions",
+                " - - Jecht Sphere Locations",
+                " - - Pre-Remiem Belgemine Locations",
+                " - - Mark of Conquest Location",
+                " - Options Updates",
+                " - - Added option for Jecht's Spheres",
+                " - - Slot Data for Jecht's Spheres option",
+                " - Map Updates",
+                " - - Added 2 missing Cactuar Statues to Thunder Plains",
+                " - - Added Belgemine checks to her relevant regions",
+                " - - Added Jecht's Sphere Locations to their regions",
+                " - - Updated Cavern of the Stolen Fayth to include Gorge Bottom",
+                " - - Updated Calm Lands to exclude Gorge Bottom",
+                " - Icon Updates",
+                " - - Added Rusty Sword Icon to it's location",
+                " - - Added Cloudy/Celestial Mirror Icons to their locations",
+                " - - Added Progressive Jecht's Sphere to Key Items",
+                " - Logic and Location Updates",
+                " - - Added visibility rules to Jecht's Spheres",
+                " - - Added Pre-Remiem Temple Belgemine fights to Mi'ihen, Moonflow and Calm Lands",
+                " - - Added Summoner/Aeon Souls as locations in Moonflow/Calm Lands or Remiem Temple",
+                " - - Adjusted positions of some locations"
+            ]
+        },
+        {
             "package_version": "0.3.8",
             "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.3.8/FFX.zip",
             "sha256": "70439f9a79a58045502f0c8ccdf040d0afa81d09ecfbe570f8e00ac63db70f6c",
