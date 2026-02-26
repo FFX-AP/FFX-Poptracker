@@ -841,7 +841,7 @@
                                     },
                                     {
                                         "name": "Epaaj",
-                                        "access_rules": ["@Cavern of the Stolen Fayth", "@Calm Lands/Plains, defenderx"],
+                                        "access_rules": ["@Cavern of the Stolen Fayth"],
                                         "hosted_item": "epaaj",
                                         "clear_as_group": false
                                     },
@@ -895,7 +895,7 @@
                                     },
                                     {
                                         "name": "Epaaj",
-                                        "access_rules": ["@Cavern of the Stolen Fayth", "@Calm Lands/Plains, defenderx"],
+                                        "access_rules": ["@Cavern of the Stolen Fayth"],
                                         "hosted_item": "epaajcomplete"
                                     },
                                     {
