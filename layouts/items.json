@@ -2571,14 +2571,13 @@
                         "item_width": 40,
                         "rows": [
                             [
-                                "cloudymirror",
-                                "celestialmirror",
+                                "progressivemirrors",
                                 "rustysword",
                                 "blossomcrown",
-                                "flowerscepter"
+                                "flowerscepter",
+                                "albhedprimers"
                             ],
                             [
-                                "progressivecaladbolg",
                                 "progressivenirvana",
                                 "progressivemasamune",
                                 "progressivespiritlance",
@@ -2587,7 +2586,6 @@
                             [
                                 "progressiveonionknight",                                
                                 "progressivegodhand",
-                                "albhedprimers",
                                 "jechtssphere"
                             ]
                         ]

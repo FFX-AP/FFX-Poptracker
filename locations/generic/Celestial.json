@@ -248,13 +248,25 @@
                         "chest_unopened_img": "/images/items/Cloudy Mirror.png",
                         "chest_opened_img": "/images/items/Mirror BW.png",
                         "access_rules": ["@Remiem Temple"],
-                        "visibility_rules": ["minigames"]
+                        "visibility_rules": ["minigames"],
+                        "sections": [
+                            {
+                                "name": "Progressive Mirror",
+                                "hosted_item": "cloudymirror"
+                            }
+                        ]
                     },
                     {
                         "name": "Celestial Mirror",
                         "chest_unopened_img": "/images/items/Celestial Mirror.png",
                         "chest_opened_img": "/images/items/Mirror BW.png",
-                        "access_rules": ["@Macalania/Celestial Flower, cloudymirror"]
+                        "access_rules": ["@Macalania/Celestial Flower, cloudymirror"],
+                        "sections": [
+                            {
+                                "name": "Progressive Mirror",
+                                "hosted_item": "celestialmirror"
+                            }
+                        ]
                     },
                     {
                         "name": "Rusty Sword",
