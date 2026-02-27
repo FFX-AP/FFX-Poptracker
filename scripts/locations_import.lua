@@ -4,6 +4,7 @@ Tracker:AddLocations("locations/generic/Al Bhed Primers.json")
 Tracker:AddLocations("locations/generic/Belgemine.json")
 Tracker:AddLocations("locations/generic/Blitzball Recruits.json")
 Tracker:AddLocations("locations/generic/Celestial.json")
+Tracker:AddLocations("locations/generic/Jecht's Spheres.json")
 Tracker:AddLocations("locations/generic/Party Member.json")
 Tracker:AddLocations("locations/generic/Super Bosses.json")
 

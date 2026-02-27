@@ -108,12 +108,11 @@
                     },
                     {
                         "name": "Precipice - South of Large Elevator (Auron's Sphere)",
-                        "access_rules": ["sinspawngui, [$hasMinimumParty|3]"],
                         "map_locations": [{ "map": "Mushroom Rock Road", "x": 375, "y": 200}],
                         "sections": [
                             {
                                 "name": "Progressive Jecht's Sphere",
-                                "hosted_item": "jechtsphereVII"
+                                "ref": "Jecht's Spheres/Precipice - South of Large Elevator (Auron's Sphere)/Progressive Jecht's Sphere"
                             }
                          ]
                         

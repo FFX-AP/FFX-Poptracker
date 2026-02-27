@@ -277,9 +277,9 @@ RoomToMap = {
     [372] = {"Calm Lands", "Remiem Temple"},
     [307] = {"Monster Arena", "Overview"},
     [279] = {"Calm Lands", "Plains"},
-    [266] = {"Calm Lands", "Plains"},
-    [56]  = {"Calm Lands", "Cavern of the Stolen Fayth"},
-    [283] = {"Calm Lands", "Cavern of the Stolen Fayth"},
+    [266] = {"Cavern of the Stolen Fayth"},
+    [56]  = {"Cavern of the Stolen Fayth"},
+    [283] = {"Cavern of the Stolen Fayth"},
 
     [259] = {"Mt. Gagazet", "Outside"},
     [244] = {"Mt. Gagazet", "Outside"},

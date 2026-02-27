@@ -40,12 +40,12 @@
                         ]
                     },
                     {
-                        "name": "South - Near Tower (Jecht's Sphere)",
+                        "name": "South - Near Tower (Jecht's Sphere)\n2nd Visit",
                         "map_locations": [{ "map": "Thunder Plains", "x": 135, "y": 270}],
                         "sections": [
                             {
                                 "name": "Progressive Jecht's Sphere",
-                                "hosted_item": "jechtsphereIX"
+                                "ref": "Jecht's Spheres/South - Near Tower (Jecht's Sphere)/Progressive Jecht's Sphere"
                             }
                         ]
                     }

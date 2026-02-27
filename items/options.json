@@ -164,5 +164,12 @@
         "img": "images/items/hd/Battle_Item_HD.png",
         "initial_active_state": false,
         "codes": "alwayscapture"
+    },
+    {
+        "name": "Jecht's Spheres",
+        "type": "toggle",
+        "img": "images/items/Movie Sphere.png",
+        "initial_active_state": false,
+        "codes": "jechtspheres"
     }
 ]

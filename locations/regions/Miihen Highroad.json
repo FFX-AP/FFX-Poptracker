@@ -11,7 +11,7 @@
                 "children": [
                     {
                         "name": "South End - Yellow Man, Looping South to North (NPC)",
-                        "map_locations": [{ "map": "Miihen Highroad", "x": 135, "y": 860}],
+                        "map_locations": [{ "map": "Miihen Highroad", "x": 135, "y": 840}],
                         "sections": [{"name": "Hi-Potion"}]
                     },
                     {
@@ -180,8 +180,8 @@
                                 "ref": "Celestial/Auron/Mars Crest"
                             },
                             {
-                                "name": "Oldroad, South - South End (Jecht's Sphere)",
-                                "hosted_item": "jechtsphereVI"
+                                "name": "Oldroad, South - South End (Jecht's Sphere)\n2nd Visit",
+                                "ref": "Jecht's Spheres/Oldroad, South - South End (Jecht's Sphere)/Progressive Jecht's Sphere"
                             }
                         ]
                     }
