@@ -26,8 +26,8 @@
                 "visibility_rules": ["minigames"],
                 "sections": [
                     {
-                        "name": "Progressive Mirror",
-                        "ref": "Celestial/General/Cloudy Mirror"
+                        "name": "Cloudy Mirror",
+                        "ref": "Celestial/Cloudy Mirror/Progressive Mirror"
                     }
                 ]
             },

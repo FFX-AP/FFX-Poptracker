@@ -241,21 +241,33 @@
                 ]
             },
             {
-                "name": "General",
+                "name": "Cloudy Mirror",
+                "chest_unopened_img": "/images/items/Cloudy Mirror.png",
+                "chest_opened_img": "/images/items/Mirror BW.png",
+                "access_rules": ["@Remiem Temple"],
+                "visibility_rules": ["minigames"],
                 "sections": [
                     {
-                        "name": "Cloudy Mirror",
-                        "chest_unopened_img": "/images/items/Cloudy Mirror.png",
-                        "chest_opened_img": "/images/items/Mirror BW.png",
-                        "access_rules": ["@Remiem Temple"],
-                        "visibility_rules": ["minigames"]
-                    },
+                        "name": "Progressive Mirror",
+                        "hosted_item": "cloudymirror"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Mirror",
+                "chest_unopened_img": "/images/items/Celestial Mirror.png",
+                "chest_opened_img": "/images/items/Mirror BW.png",
+                "access_rules": ["@Macalania/Celestial Flower, cloudymirror"],
+                "sections": [
                     {
-                        "name": "Celestial Mirror",
-                        "chest_unopened_img": "/images/items/Celestial Mirror.png",
-                        "chest_opened_img": "/images/items/Mirror BW.png",
-                        "access_rules": ["@Macalania/Celestial Flower, cloudymirror"]
-                    },
+                        "name": "Progressive Mirror",
+                        "hosted_item": "celestialmirror"
+                    }
+                ]
+            },
+            {
+                "name": "General",
+                "sections": [
                     {
                         "name": "Rusty Sword",
                         "chest_unopened_img": "/images/items/Rusty Sword.png",

@@ -1136,8 +1136,8 @@
         "name": "Progressive Mirror",
         "type": "toggle",
         "img": "images/items/Celestial Mirror.png",
-        "img_mods": "",
-        "disabled_img": "",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "celestialmirror"
@@ -1146,8 +1146,8 @@
         "name": "Progressive Mirror",
         "type": "toggle",
         "img": "images/items/Cloudy Mirror.png",
-        "img_mods": "",
-        "disabled_img": "",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "cloudymirror"
