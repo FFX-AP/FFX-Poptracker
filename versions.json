@@ -1,6 +1,21 @@
 {
     "versions": [
         {
+            "package_version": "0.4.1",
+            "download_url": "",
+            "sha256": "",
+            "changelog": [
+                " - New Additions",
+                " - - Added a Minigame map for the Bikanel Cactuars",
+                " - Map Updates",
+                " - Added a Minigame map for the Bikanel Cactuar minigame",
+                " - Added a missing step to the Kilika cloister map",
+                " - Updated the maps that lost their save/player icons",
+                " - Logic and Location Updates",
+                " - - Removed Epaaj from Calm Lands"
+            ]
+        },
+        {
             "package_version": "0.4.0",
             "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.4.0/FFX.zip",
             "sha256": "b9b1c896d8ccd1251583b06efb7aa1a16db17f9a7eb53a691659adc1e03feb7b",
