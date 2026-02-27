@@ -512,6 +512,13 @@
                                     }
                                 ]
                             }
+                        },
+                        {
+                            "title": "Cactuar Minigame",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Cactuar Minigame"]
+                            }
                         }
                     ]
                 }
