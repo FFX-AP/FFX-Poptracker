@@ -1,0 +1,13 @@
+name: Documentation
+description: Additions or changes to documentation
+type: Documentation
+labels: "Documentation"
+projects: "FFX-AP/1"
+body:
+  - type: textarea
+    id: documentation
+    attributes:
+      label: Documentation
+      description: What documentation needs to be updated, and what needs to be edited therein?
+    validations:
+      required: true

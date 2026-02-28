@@ -1,0 +1,13 @@
+name: Enhancement Request
+description: Improvements to the player experience
+type: Enhancement
+labels: "Enhancement"
+projects: "FFX-AP/1"
+body:
+  - type: textarea
+    id: requested-enhancement
+    attributes:
+      label: Enhancement
+      description: In as much detail, what is the requested enhancement, and how would this improve the player experience?
+    validations:
+      required: true

@@ -1,0 +1,13 @@
+name: Feature Request
+description: A specific, specified feature requestc
+type: Feature
+labels: "Feature"
+projects: "FFX-AP/1"
+body:
+  - type: textarea
+    id: requested-feature
+    attributes:
+      label: New Feature
+      description: In as much detail, what is the requested feature, and how should it be implemented?
+    validations:
+      required: true
