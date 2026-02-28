@@ -3524,16 +3524,6 @@
         "codes": "potionx50"
     },
     {
-        "name": "Cloudy Mirror",
-        "type": "toggle",
-        "img": "images/items/Cloudy Mirror.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cloudymirror"
-    },
-    {
         "name": "[Power Sphere] x 50",
         "type": "toggle",
         "img": "images/items/[powersphere]x50.png",
@@ -5025,6 +5015,18 @@
         "max_quantity": 10,
         "overlay_align": "right",
         "codes": "jechtssphere"
+    },
+    {
+        "name": "Progressive Mirror",
+        "type": "consumable",
+        "img": "images/items/Celestial Mirror.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "overlay_background": "#000000",
+        "initial_quantity": 0,
+        "max_quantity": 2,
+        "overlay_align": "right",
+        "codes": "progressivemirrors"
     },
     {
         "name": "Purifying Salt x 40",
@@ -11395,16 +11397,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "[fortunesphere]x30"
-    },
-    {
-        "name": "Celestial Mirror",
-        "type": "toggle",
-        "img": "images/items/Celestial Mirror.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "celestialmirror"
     },
     {
         "name": "Progressive Godhand",
