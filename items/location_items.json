@@ -625,9 +625,8 @@
     {
         "name": "Wobbly Chocobo",
         "type": "toggle",
-        "img": "images/npc/Chocobo_BW.png",
-        "img_mods": "",
-        "disabled_img": "images/npc/Chocobo.png",
+        "img": "images/minigames/Red Chocobo.png",
+        "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -636,9 +635,8 @@
     {
         "name": "Dodger Chocobo",
         "type": "toggle",
-        "img": "images/npc/Chocobo_BW.png",
-        "img_mods": "",
-        "disabled_img": "images/npc/Chocobo.png",
+        "img": "images/minigames/Red Chocobo.png",
+        "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -647,9 +645,8 @@
     {
         "name": "Hyper Dodger Chocobo",
         "type": "toggle",
-        "img": "images/npc/Chocobo_BW.png",
-        "img_mods": "",
-        "disabled_img": "images/npc/Chocobo.png",
+        "img": "images/minigames/Red Chocobo.png",
+        "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -658,9 +655,8 @@
     {
         "name": "Chocobo Catcher",
         "type": "toggle",
-        "img": "images/npc/Chocobo_BW.png",
-        "img_mods": "",
-        "disabled_img": "images/npc/Chocobo.png",
+        "img": "images/minigames/Red Chocobo.png",
+        "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -669,9 +665,8 @@
     {
         "name": "Lightning Dodging 5x - X-Potion x2",
         "type": "toggle",
-        "img": "images/TreasureBW.png",
+        "img": "images/minigames/Lightning2.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/Treasure.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -680,9 +675,8 @@
     {
         "name": "Lightning Dodging 10x - Mega-Potion x2",
         "type": "toggle",
-        "img": "images/TreasureBW.png",
+        "img": "images/minigames/Lightning2.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/Treasure.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -691,9 +685,8 @@
     {
         "name": "Lightning Dodging 20x - MP Sphere x2",
         "type": "toggle",
-        "img": "images/TreasureBW.png",
+        "img": "images/minigames/Lightning2.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/Treasure.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -702,9 +695,8 @@
     {
         "name": "Lightning Dodging 50x - Strength Sphere x3",
         "type": "toggle",
-        "img": "images/TreasureBW.png",
+        "img": "images/minigames/Lightning2.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/Treasure.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -713,9 +705,8 @@
     {
         "name": "Lightning Dodging 100x - HP Sphere x3",
         "type": "toggle",
-        "img": "images/TreasureBW.png",
+        "img": "images/minigames/Lightning2.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/Treasure.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -724,9 +715,8 @@
     {
         "name": "Lightning Dodging 150x - Megalixir x4",
         "type": "toggle",
-        "img": "images/TreasureBW.png",
+        "img": "images/minigames/Lightning2.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/Treasure.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
@@ -735,13 +725,122 @@
     {
         "name": "Lightning Dodging 200x - Venus Sigil",
         "type": "toggle",
-        "img": "images/party/weapon/Doll_BW.png",
+        "img": "images/minigames/Lightning2.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/party/weapon/Doll.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "lightning200"
+    },
+    {
+        "name": "Story Blitzball",
+        "type": "toggle",
+        "img": "images/minigames/Blitzball.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "keepasucks"
+    },
+    {
+        "name": "Story Blitzball",
+        "type": "toggle",
+        "img": "images/minigames/Blitzball.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "blitzballjupitersigil"
+    },
+    {
+        "name": "Story Blitzball",
+        "type": "toggle",
+        "img": "images/minigames/Blitzball.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "blitzballworldchamp"
+    },
+    {
+        "name": "Butterfly Minigame",
+        "type": "toggle",
+        "img": "images/minigames/Butterfly.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "butterflies"
+    },
+    {
+        "name": "Cactuar Village",
+        "type": "toggle",
+        "img": "images/minigames/Cactuar.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "cactuarvillage"
+    },
+    {
+        "name": "Chocobo Race 0 Chest",
+        "type": "toggle",
+        "img": "images/minigames/Chocobo.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "chocoborace0chest"
+    },
+    {
+        "name": "Chocobo Race 1 Chest",
+        "type": "toggle",
+        "img": "images/minigames/Chocobo.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "chocoborace1chest"
+    },
+    {
+        "name": "Chocobo Race 2 Chest",
+        "type": "toggle",
+        "img": "images/minigames/Chocobo.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "chocoborace2chest"
+    },
+    {
+        "name": "Chocobo Race 3 Chest",
+        "type": "toggle",
+        "img": "images/minigames/Chocobo.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "chocoborace3chest"
+    },
+    {
+        "name": "Chocobo Race 4 Chest",
+        "type": "toggle",
+        "img": "images/minigames/Chocobo.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "chocoborace4chest"
+    },
+    {
+        "name": "Chocobo Race 5 Chest",
+        "type": "toggle",
+        "img": "images/minigames/Chocobo.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "chocoborace5chest"
     },
 
     //Characters

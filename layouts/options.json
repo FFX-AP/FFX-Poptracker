@@ -47,8 +47,24 @@
                     "item_v_alignment": "center",
                     "item_height": 48,
                     "item_width": 48,
-                    "rows": [["minigames", "recruitsanity", "jechtspheres"],["capturesanity", "capturerewards"]]
+                    "rows": [["recruitsanity", "jechtspheres"],["capturesanity", "capturerewards"]]
                 }
+            },
+            {
+                "type": "group",
+                "header": "Minigames",
+                "dock": "bottom",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "4, 4",
+                    "h_alignment": "left",
+                    "item_h_alignment": "center",
+                    "item_v_alignment": "center",
+                    "item_height": 48,
+                    "item_width": 48,
+                    "rows": [["minigameblitzball", "minigamebutterfly", "minigamelightningdodging"],["minigamecactuar", "chocobotrainingminigames", "minigamechocoborace"]]
+                }
+                
             },
             {
                 "type": "group",
