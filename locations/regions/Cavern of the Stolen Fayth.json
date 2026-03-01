@@ -12,7 +12,7 @@
                                         {
                         "name": "Recruit: Durren",
                         "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 335, "y": 780}],
-                        "sections": [{"name": "Durren", "ref": "Blitzball Recruits/Durren"}]
+                        "sections": [{"name": "Durren", "ref": "Blitzball Recruits/Free Agents/Durren"}]
                     },
                     {
                         "name": "Gorge Bottom - Rusty Sword Between Two Rocks, East End (Event)",

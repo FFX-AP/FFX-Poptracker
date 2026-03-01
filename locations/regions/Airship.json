@@ -9,18 +9,18 @@
             {
                 "name": "Recruit: Brother",
                 "map_locations": [{ "map": "Airship", "x": 490, "y": 15}],
-                "sections": [{"name": "Brother", "ref": "Blitzball Recruits/Brother"}]
+                "sections": [{"name": "Brother", "ref": "Blitzball Recruits/Free Agents/Brother"}]
             },
             {
                 "name": "Recruit: Wakka",
                 "map_locations": [{ "map": "Airship", "x": 455, "y": 145}],
-                "sections": [{"name": "Wakka", "ref": "Blitzball Recruits/Wakka"}]
+                "sections": [{"name": "Wakka", "ref": "Blitzball Recruits/Free Agents/Wakka"}]
             },
             {
                 "name": "Rin",
                 "map_locations": [{ "map": "Airship", "x": 297, "y": 382}],
                 "sections": [
-                    {"name": "Recruit: Rin", "ref": "Blitzball Recruits/Rin"},
+                    {"name": "Recruit: Rin", "ref": "Blitzball Recruits/Free Agents/Rin"},
                     {"name": "Collect All Primers, Talk to Rin (NPC)", "ref": "Al Bhed Primers/Complete Al Bhed Primers"}
                 ]
             },

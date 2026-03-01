@@ -57,7 +57,7 @@
                     {
                         "name": "Blitzball Recruit",
                         "map_locations": [{ "map": "Thunder Plains", "x": 355, "y": 83}],
-                        "sections": [{"name": "Recruit: Mifurey", "ref": "Blitzball Recruits/Mifurey"}]
+                        "sections": [{"name": "Recruit: Mifurey", "ref": "Blitzball Recruits/Free Agents/Mifurey"}]
                     },
                     {
                         "name": "Agency & Bikanel: Desert, East (Primer)",

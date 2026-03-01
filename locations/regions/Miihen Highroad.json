@@ -118,7 +118,7 @@
                     {
                         "name": "Recruit: Ropp",
                         "map_locations": [{ "map": "Miihen Highroad", "x": 365, "y": 270}],
-                        "sections": [{"name": "Ropp", "ref": "Blitzball Recruits/Ropp"}]
+                        "sections": [{"name": "Ropp", "ref": "Blitzball Recruits/Free Agents/Ropp"}]
                     },
                     {
                         "name": "Defeat Chocobo Eater (Boss)",

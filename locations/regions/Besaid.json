@@ -147,7 +147,7 @@
                     {
                         "name": "Recruit: Vilucha",
                         "map_locations": [{ "map": "Besaid Village", "x": 620, "y": 800}],
-                        "sections": [{"name": "Vilucha", "ref": "Blitzball Recruits/Vilucha"}]
+                        "sections": [{"name": "Vilucha", "ref": "Blitzball Recruits/Free Agents/Vilucha"}]
                     },
                     {
                         "name": "Name Valefor (Event)",

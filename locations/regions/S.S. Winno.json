@@ -24,7 +24,7 @@
             {
                 "name": "Recruit: Kiyuri\n2nd Visit",
                 "map_locations": [{ "map": "S.S. Winno", "x": 250, "y": 665}],
-                "sections": [{"name": "Kiyuri", "ref": "Blitzball Recruits/Kiyuri"}]
+                "sections": [{"name": "Kiyuri", "ref": "Blitzball Recruits/Free Agents/Kiyuri"}]
             },
             {
                 "name": "Deck - Top Floor, Counting Gulls (NPC)\n2nd Visit",

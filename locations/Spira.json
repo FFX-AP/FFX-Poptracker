@@ -151,7 +151,7 @@
                     },
                     {
                         "name": "Recruit: Vilucha",
-                        "ref": "Blitzball Recruits/Vilucha"
+                        "ref": "Blitzball Recruits/Free Agents/Vilucha"
                     },
                     {
                         "name": "Cloister - Destruction Sphere (Chest)",
@@ -243,7 +243,7 @@
                 "sections": [
                     {
                         "name": "Recruit: Tatts",
-                        "ref": "Blitzball Recruits/Tatts"
+                        "ref": "Blitzball Recruits/Free Agents/Tatts"
                     },                    
                     {
                         "name": "House - Right of Collapsing House (Chest)",
@@ -295,7 +295,7 @@
                     },
                     {
                         "name": "Recruit: Mep",
-                        "ref": "Blitzball Recruits/Mep"
+                        "ref": "Blitzball Recruits/Free Agents/Mep"
                     },
                     {
                         "name": "Cloister - Destruction Sphere (Chest)",
@@ -321,7 +321,7 @@
                     },
                     {
                         "name": "Recruit: Kiyuri\n2nd Visit",
-                        "ref": "Blitzball Recruits/Kiyuri"
+                        "ref": "Blitzball Recruits/Free Agents/Kiyuri"
                     },
                     {
                         "name": "Deck - Top Floor, Counting Gulls (NPC)\n2nd Visit",
@@ -371,31 +371,31 @@
                     },
                     {
                         "name": "Recruit: Nedus",
-                        "ref": "Blitzball Recruits/Nedus"
+                        "ref": "Blitzball Recruits/Free Agents/Nedus"
                     },
                     {
                         "name": "Recruit: Zev Ronso",
-                        "ref": "Blitzball Recruits/Zev Ronso"
+                        "ref": "Blitzball Recruits/Free Agents/Zev Ronso"
                     },
                     {
                         "name": "Recruit: Biggs",
-                        "ref": "Blitzball Recruits/Biggs"
+                        "ref": "Blitzball Recruits/Free Agents/Biggs"
                     },
                     {
                         "name": "Recruit: Wedge",
-                        "ref": "Blitzball Recruits/Wedge"
+                        "ref": "Blitzball Recruits/Free Agents/Wedge"
                     },
                     {
                         "name": "Recruit: Jumal",
-                        "ref": "Blitzball Recruits/Jumal"
+                        "ref": "Blitzball Recruits/Free Agents/Jumal"
                     },
                     {
                         "name": "Recruit: Shaami",
-                        "ref": "Blitzball Recruits/Shaami"
+                        "ref": "Blitzball Recruits/Free Agents/Shaami"
                     },
                     {
                         "name": "Recruit: Zalitz",
-                        "ref": "Blitzball Recruits/Zalitz"
+                        "ref": "Blitzball Recruits/Free Agents/Zalitz"
                     },
                     {
                         "name": "Defeat Oblitzerator (Boss)",
@@ -419,7 +419,7 @@
                     },
                     {
                         "name": "Recruit: Shuu",
-                        "ref": "Blitzball Recruits/Shuu"
+                        "ref": "Blitzball Recruits/Free Agents/Shuu"
                     },
                     {
                         "name": "Cafe - Talk to Owner After Placing at Least Third in a Tournament (Chest)",
@@ -509,7 +509,7 @@
                     },
                     {
                         "name": "Recruit: Ropp",
-                        "ref": "Blitzball Recruits/Ropp"
+                        "ref": "Blitzball Recruits/Free Agents/Ropp"
                     },
                     {
                         "name": "Defeat Chocobo Eater (Boss)",
@@ -745,7 +745,7 @@
                     },
                     {
                         "name": "Recruit: Kyou",
-                        "ref": "Blitzball Recruits/Kyou"
+                        "ref": "Blitzball Recruits/Free Agents/Kyou"
                     }
                 ]
             },
@@ -795,7 +795,7 @@
                     },
                     {
                         "name": "Recruit: Miyu",
-                        "ref": "Blitzball Recruits/Miyu"
+                        "ref": "Blitzball Recruits/Free Agents/Miyu"
                     },
                     {
                         "name": "North Wharf - Near Bench (Chest)",
@@ -845,7 +845,7 @@
                     },
                     {
                         "name": "Recruit: Yuma Guado",
-                        "ref": "Blitzball Recruits/Yuma Guado"
+                        "ref": "Blitzball Recruits/Free Agents/Yuma Guado"
                     },
                     {
                         "name": "Road to Farplane - Left Side Behind Wall (Chest)",
@@ -883,7 +883,7 @@
                     },
                     {
                         "name": "Recruit: Mifurey",
-                        "ref": "Blitzball Recruits/Mifurey"
+                        "ref": "Blitzball Recruits/Free Agents/Mifurey"
                     },
                     {
                         "name": "Agency & Bikanel: Desert, East (Primer)",
@@ -1013,7 +1013,7 @@
                     },
                     {
                         "name": "Recruit: Linna",
-                        "ref": "Blitzball Recruits/Linna"
+                        "ref": "Blitzball Recruits/Free Agents/Linna"
                     },
                     {
                         "name": "Hall - Gift from Tromell upon Entrance (Event)",
@@ -1321,15 +1321,15 @@
                 "sections": [
                     {
                         "name": "Recruit: Brother",
-                        "ref": "Blitzball Recruits/Brother"
+                        "ref": "Blitzball Recruits/Free Agents/Brother"
                     },
                     {
                         "name": "Recruit: Wakka",
-                        "ref": "Blitzball Recruits/Wakka"
+                        "ref": "Blitzball Recruits/Free Agents/Wakka"
                     },
                     {
                         "name": "Recruit: Rin",
-                        "ref": "Blitzball Recruits/Rin"
+                        "ref": "Blitzball Recruits/Free Agents/Rin"
                     },
                     {
                         "name": "Collect All Primers, Talk to Rin (NPC)",
@@ -1465,11 +1465,11 @@
                     },
                     {
                         "name": "Recruit: Naida",
-                        "ref": "Blitzball Recruits/Naida"
+                        "ref": "Blitzball Recruits/Free Agents/Naida"
                     },
                     {
                         "name": "Recruit: Svanda",
-                        "ref": "Blitzball Recruits/Svanda"
+                        "ref": "Blitzball Recruits/Free Agents/Svanda"
                     },
                     {
                         "name": "Defeat Defender X (Boss)",
@@ -1991,7 +1991,7 @@
                 "sections": [
                     {
                         "name": "Recruit: Durren",
-                        "ref": "Blitzball Recruits/Durren"
+                        "ref": "Blitzball Recruits/Free Agents/Durren"
                     },
                     {
                         "name": "Gorge Bottom - Rusty Sword Between Two Rocks, East End (Event)",

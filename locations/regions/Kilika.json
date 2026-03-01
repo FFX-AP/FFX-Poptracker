@@ -12,7 +12,7 @@
                     {
                         "name": "Recruit: Tatts",
                         "map_locations": [{ "map": "Kilika Village", "x": 740, "y": 720}],
-                        "sections": [{"name": "Tatts", "ref": "Blitzball Recruits/Tatts"}]
+                        "sections": [{"name": "Tatts", "ref": "Blitzball Recruits/Free Agents/Tatts"}]
                     },                    
                     {
                         "name": "House - Right of Collapsing House (Chest)",
@@ -127,7 +127,7 @@
                     {
                         "name": "Recruit: Mep",
                         "map_locations": [{ "map": "Kilika Temple", "x": 120, "y": 355}],
-                        "sections": [{"name": "Mep", "ref": "Blitzball Recruits/Mep"}]
+                        "sections": [{"name": "Mep", "ref": "Blitzball Recruits/Free Agents/Mep"}]
                     },
                     {
                         "name": "Cloister - Destruction Sphere (Chest)",
