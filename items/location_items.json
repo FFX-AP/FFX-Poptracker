@@ -663,6 +663,16 @@
         "codes": "catcherchocobo"
     },
     {
+        "name": "North - NW Corner, Blocked Until Winning Catcher Chocobo (Event)",
+        "type": "toggle",
+        "img": "images/minigames/Red Chocobo.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "caladbolgminigame"
+    },
+    {
         "name": "Lightning Dodging 5x - X-Potion x2",
         "type": "toggle",
         "img": "images/minigames/Lightning2.png",
@@ -1454,9 +1464,8 @@
     {
         "name": "Sun Sigil",
         "type": "toggle",
-        "img": "images/party/weapon/Sword_BW.png",
+        "img": "images/minigames/Red Chocobo.png",
         "img_mods": "@disabled",
-        "disabled_img": "images/party/weapon/Sword.png",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,

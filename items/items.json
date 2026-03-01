@@ -8371,9 +8371,9 @@
     {
         "name": "Sun Sigil",
         "type": "toggle",
-        "img": "images/items/hd/Key_Item_HD.png",
-        "img_mods": "",
-        "disabled_img": "",
+        "img": "images/minigames/Red Chocobo.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sunsigil"
