@@ -186,7 +186,7 @@
                             {
                                 "name": "Desert - Complete Cactuar Village Quest (Event)",
                                 "map_locations": [{ "map": "Bikanel", "x": 1150, "y": 300}],
-                                "sections": [{"name": "Mercury Sigil", "ref": "Celestial/Rikku/Mercury Sigil"}]
+                                "sections": [{"name": "Mercury Sigil", "ref": "Minigames/Cactuar Village/Desert - Complete Cactuar Village Quest (Event)"}]
                             },
                             {
                                 "name": "Defeat Dark Ifrit (Superboss)",

@@ -403,7 +403,7 @@
                     },
                     {
                         "name": "Win the Story Blitzball Tournament (Event)",
-                        "ref": "Luca/Stadium/Win the Story Blitzball Tournament (Event)/Story Win vs. Luca Goers Reward"
+                        "ref": "Minigames/Blitzball/Win the Story Blitzball Tournament (Event)"
                     },
                     {
                         "name": "Post-Blitzball Tournament (Event)",
@@ -423,11 +423,11 @@
                     },
                     {
                         "name": "Cafe - Talk to Owner After Placing at Least Third in a Tournament (Chest)",
-                        "ref": "Celestial/Wakka/World Champion"
+                        "ref": "Minigames/Blitzball/Cafe - Talk to Owner After Placing at Least Third in a Tournament (Chest)"
                     },
                     {
                         "name": "Blitzball: Obtain The Jupiter Sigil League Prize (Event)",
-                        "ref": "Celestial/Wakka/Jupiter Sigil"
+                        "ref": "Minigames/Blitzball/Blitzball: Obtain The Jupiter Sigil League Prize (Event)"
                     }
                 ]
             },
@@ -915,31 +915,31 @@
                     },
                     {
                         "name": "Lightning Dodger - 5 Consecutive Dodges (Event)",
-                        "ref": "Thunder Plains/Agency/Lightning Dodging/Lightning Dodger - 5 Consecutive Dodges (Event)"
+                        "ref": "Minigames/Lightning Dodging/Lightning Dodger - 5 Consecutive Dodges (Event)"
                     },
                     {
                         "name": "Lightning Dodger - 10 Consecutive Dodges (Event)",
-                        "ref": "Thunder Plains/Agency/Lightning Dodging/Lightning Dodger - 10 Consecutive Dodges (Event)"
+                        "ref": "Minigames/Lightning Dodging/Lightning Dodger - 10 Consecutive Dodges (Event)"
                     },
                     {
                         "name": "Lightning Dodger - 20 Consecutive Dodges (Event)",
-                        "ref": "Thunder Plains/Agency/Lightning Dodging/Lightning Dodger - 20 Consecutive Dodges (Event)"
+                        "ref": "Minigames/Lightning Dodging/Lightning Dodger - 20 Consecutive Dodges (Event)"
                     },
                     {
                         "name": "Lightning Dodger - 50 Consecutive Dodges (Event)",
-                        "ref": "Thunder Plains/Agency/Lightning Dodging/Lightning Dodger - 50 Consecutive Dodges (Event)"
+                        "ref": "Minigames/Lightning Dodging/Lightning Dodger - 50 Consecutive Dodges (Event)"
                     },
                     {
                         "name": "Lightning Dodger - 100 Consecutive Dodges (Event)",
-                        "ref": "Thunder Plains/Agency/Lightning Dodging/Lightning Dodger - 100 Consecutive Dodges (Event)"
+                        "ref": "Minigames/Lightning Dodging/Lightning Dodger - 100 Consecutive Dodges (Event)"
                     },
                     {
                         "name": "Lightning Dodger - 150 Consecutive Dodges (Event)",
-                        "ref": "Thunder Plains/Agency/Lightning Dodging/Lightning Dodger - 150 Consecutive Dodges (Event)"
+                        "ref": "Minigames/Lightning Dodging/Lightning Dodger - 150 Consecutive Dodges (Event)"
                     },
                     {
                         "name": "Lightning Dodger - 200 Consecutive Dodges (Event)",
-                        "ref": "Celestial/Lulu/Venus Sigil"
+                        "ref": "Minigames/Lightning Dodging/Lightning Dodger - 200 Consecutive Dodges (Event)"
                     },
                     {
                         "name": "South - Near Tower (Jecht's Sphere)\n2nd Visit",
@@ -1073,7 +1073,7 @@
                     },
                     {
                         "name": "Finish Butterfly Minigame (Event)",
-                        "ref": "Celestial/Kimahri/Saturn Sigil"
+                        "ref": "Minigames/Butterfly/Finish Butterfly Minigame (Event)"
                     },
                     {
                         "name": "Defeat Dark Shiva (Superboss)",
@@ -1253,7 +1253,7 @@
                     },
                     {
                         "name": "Desert - Complete Cactuar Village Quest (Event)",
-                        "ref": "Celestial/Rikku/Mercury Sigil"
+                        "ref": "Minigames/Cactuar Village/Desert - Complete Cactuar Village Quest (Event)"
                     },
                     {
                         "name": "Defeat Dark Ifrit (Superboss)",
@@ -1477,27 +1477,27 @@
                     },
                     {
                         "name": "Chocobo - Wobbly Chocobo Minigame (Event)",
-                        "ref": "Calm Lands/Chocobo/Chocobo Training/Wobbly Chocobo Minigame (Event)"
+                        "ref": "Minigames/Chocobo Training/Wobbly Chocobo Minigame (Event)"
                     },
                     {
                         "name": "Chocobo - Dodger Chocobo Minigame (Event)",
-                        "ref": "Calm Lands/Chocobo/Chocobo Training/Dodger Chocobo Minigame (Event)"
+                        "ref": "Minigames/Chocobo Training/Dodger Chocobo Minigame (Event)"
                     },
                     {
                         "name": "Chocobo - Hyper Dodger Chocobo Minigame (Event)",
-                        "ref": "Calm Lands/Chocobo/Chocobo Training/Hyper Dodger Chocobo Minigame (Event)"
+                        "ref": "Minigames/Chocobo Training/Hyper Dodger Chocobo Minigame (Event)"
                     },
                     {
                         "name": "Chocobo - Catcher Chocobo Minigame (Event)",
-                        "ref": "Calm Lands/Chocobo/Chocobo Training/Catcher Chocobo Minigame (Event)"
+                        "ref": "Minigames/Chocobo Training/Catcher Chocobo Minigame (Event)"
                     },
                     {
                         "name": "Catcher Chocobo Minigame, Time Under 0.00 (Event)",
-                        "ref": "Celestial/Tidus/Sun Sigil"
+                        "ref": "Minigames/Chocobo Training/Catcher Chocobo Minigame, Time Under 0.00 (Event)"
                     },
                     {
                         "name": "North - NW Corner, Blocked Until Winning Catcher Chocobo (Event)",
-                        "ref": "Celestial/Tidus/Caladbolg"
+                        "ref": "Minigames/Chocobo Training/North - NW Corner, Blocked Until Winning Catcher Chocobo (Event)"
                     }
                 ]
             },
@@ -1510,8 +1510,28 @@
                         "ref": "Al Bhed Primers/Al Bhed Primer XXIV/Remiem Temple"
                     },
                     {
-                        "name": "Remiem Temple - Win Chocobo Race (Event)",
-                        "ref": "Celestial/General/Cloudy Mirror"
+                        "name": "Remiem Temple - Win Chocobo Race With at Least 0 Chests (Event)",
+                        "ref": "Minigames/Chocobo Racing/Remiem Temple - Win Chocobo Race With at Least 0 Chests (Event)"
+                    },
+                    {
+                        "name": "Remiem Temple - Win Chocobo Race With at Least 1 Chest (Event)",
+                        "ref": "Minigames/Chocobo Racing/Remiem Temple - Win Chocobo Race With at Least 1 Chest (Event)"
+                    },
+                    {
+                        "name": "Remiem Temple - Win Chocobo Race With at Least 2 Chests (Event)",
+                        "ref": "Minigames/Chocobo Racing/Remiem Temple - Win Chocobo Race With at Least 2 Chests (Event)"
+                    },
+                    {
+                        "name": "Remiem Temple - Win Chocobo Race With at Least 3 Chests (Event)",
+                        "ref": "Minigames/Chocobo Racing/Remiem Temple - Win Chocobo Race With at Least 3 Chests (Event)"
+                    },
+                    {
+                        "name": "Remiem Temple - Win Chocobo Race With at Least 4 Chests (Event)",
+                        "ref": "Minigames/Chocobo Racing/Remiem Temple - Win Chocobo Race With at Least 4 Chests (Event)"
+                    },
+                    {
+                        "name": "Remiem Temple - Win Chocobo Race With 5 Chests (Event)",
+                        "ref": "Minigames/Chocobo Racing/Remiem Temple - Win Chocobo Race With 5 Chests (Event)"
                     },
                     {
                         "name": "Remiem Temple - Defeat Valefor (Boss)",

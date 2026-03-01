@@ -54,11 +54,184 @@
         "codes": "requiredprimers"
     },
     {
-        "name": "Minigames",
+        "name": "Blitzball Minigame",
+        "type": "progressive",
+        "allow_disabled": false,
+        "codes": "minigameblitzball",
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "name": "No Blitzball",
+                "img": "images/minigames/Blitzball.png",
+                "img_mods": "@disabled",
+                "codes": "noblitzball"
+            },
+            {
+                "name": "Story Blitzball",
+                "img": "images/minigames/Blitzball.png",
+                "codes": "storymodeblitzball"
+            },
+            {
+                "name": "Up to World Champion",
+                "img": "images/minigames/Blitzball.png",
+                "codes": "worldchampminigame"
+            },
+            {
+                "name": "Up to Jupiter Sigil",
+                "img": "images/minigames/Blitzball.png",
+                "codes": "jupitersigilminigame"
+            }
+        ]
+    },
+    {
+        "name": "Butterfly Minigame",
         "type": "toggle",
-        "img": "images/npc/Chocobo.png",
+        "img": "images/minigames/Butterfly.png",
         "initial_active_state": false,
-        "codes": "minigames"
+        "codes": "minigamebutterfly"
+    },
+    {
+        "name": "Lightning Dodging Minigame",
+        "type": "progressive",
+        "allow_disabled": false,
+        "codes": "minigamelightningdodging",
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "name": "No Lightning Dodging",
+                "img": "images/minigames/Lightning2.png",
+                "img_mods": "@disabled",
+                "codes": "nolightningdodging"
+            },
+            {
+                "name": "Up to 5 Lightning Dodges",
+                "img": "images/minigames/Lightning2.png",
+                "codes": "5lightningdodging"
+            },
+            {
+                "name": "Up to 10 Lightning Dodges",
+                "img": "images/minigames/Lightning2.png",
+                "codes": "10lightningdodging"
+            },
+            {
+                "name": "Up to 20 Lightning Dodges",
+                "img": "images/minigames/Lightning2.png",
+                "codes": "20lightningdodging"
+            },
+            {
+                "name": "Up to 50 Lightning Dodges",
+                "img": "images/minigames/Lightning2.png",
+                "codes": "50lightningdodging"
+            },
+            {
+                "name": "Up to 100 Lightning Dodges",
+                "img": "images/minigames/Lightning2.png",
+                "codes": "100lightningdodging"
+            },
+            {
+                "name": "Up to 150 Lightning Dodges",
+                "img": "images/minigames/Lightning2.png",
+                "codes": "150lightningdodging"
+            },
+            {
+                "name": "Up to 200 Lightning Dodges",
+                "img": "images/minigames/Lightning2.png",
+                "codes": "200lightningdodging"
+            }
+        ]
+        
+    },
+    {
+        "name": "Cactuar Village Minigame",
+        "type": "toggle",
+        "img": "images/minigames/Cactuar.png",
+        "initial_active_state": false,
+        "codes": "minigamecactuar"
+    },
+    {
+        "name": "Chocobo Training Minigame",
+        "type": "progressive",
+        "allow_disabled": false,
+        "codes": "chocobotrainingminigames",
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "name": "No Chocobo Training",
+                "img": "images/minigames/Red Chocobo.png",
+                "img_mods": "@disabled",
+                "codes": "nochocobotraining"
+            },
+            {
+                "name": "Up to Wobbly Chocobo",
+                "img": "images/minigames/Red Chocobo.png",
+                "codes": "wobblyminigame"
+            },
+            {
+                "name": "Up to Dodger Chocobo",
+                "img": "images/minigames/Red Chocobo.png",
+                "codes": "dodgerminigame"
+            },
+            {
+                "name": "Up to Hyper Dodger Chocobo",
+                "img": "images/minigames/Red Chocobo.png",
+                "codes": "hyperdodgerminigame"
+            },
+            {
+                "name": "Up to Catcher Chocobo",
+                "img": "images/minigames/Red Chocobo.png",
+                "codes": "catcherminigame"
+            },
+            {
+                "name": "Up to Sun Sigil",
+                "img": "images/minigames/Red Chocobo.png",
+                "codes": "sunsigilminigame"
+            }
+        ]
+    },
+    {
+        "name": "Chocobo Racing Minigame",
+        "type": "progressive",
+        "allow_disabled": false,
+        "codes": "minigamechocoborace",
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "name": "No Chocobo Race",
+                "img": "images/minigames/Chocobo.png",
+                "img_mods": "@disabled",
+                "codes": "nochocoborace"
+            },
+            {
+                "name": "No Chests",
+                "img": "images/minigames/Chocobo.png",
+                "codes": "nochestchocoborace"
+            },
+            {
+                "name": "Up to 1 Chest",
+                "img": "images/minigames/Chocobo.png",
+                "codes": "1chestchocoborace"
+            },
+            {
+                "name": "Up to 2 Chests",
+                "img": "images/minigames/Chocobo.png",
+                "codes": "2chestchocoborace"
+            },
+            {
+                "name": "Up to 3 Chests",
+                "img": "images/minigames/Chocobo.png",
+                "codes": "3chestchocoborace"
+            },
+            {
+                "name": "Up to 4 Chests",
+                "img": "images/minigames/Chocobo.png",
+                "codes": "4chestchocoborace"
+            },
+            {
+                "name": "Up to 5 Chests",
+                "img": "images/minigames/Chocobo.png",
+                "codes": "5chestchocoborace"
+            }
+        ]
     },
     {
         "name": "Recruit Sanity",
