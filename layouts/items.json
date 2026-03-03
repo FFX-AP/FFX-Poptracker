@@ -2578,14 +2578,14 @@
                                 "albhedprimers"
                             ],
                             [
+                                "progressivecaladbolg",
                                 "progressivenirvana",
                                 "progressivemasamune",
-                                "progressivespiritlance",
-                                "progressiveonionknight"
+                                "progressivespiritlance"
                             ],
                             [
-                                "progressivecaladbolg",
-                                "progressiveworldchampion",                                
+                                "progressiveworldchampion", 
+                                "progressiveonionknight",                             
                                 "progressivegodhand",
                                 "jechtssphere"
                             ]
