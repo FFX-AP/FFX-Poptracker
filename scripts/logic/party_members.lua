@@ -290,8 +290,18 @@ end
 function hasRanged()
     if hasWakka() or hasLulu() then
         return true
-    elseif hasYuna() and ((hasAeons(1) and not hasYojimbo() and not hasMagusSisters()) or (hasAeons(2) and not hasYojimbo() and not hasMagusSisters())) then
-        return true
+    elseif hasYuna() then
+        local ranged_aeons = {
+            hasAnima(),
+            hasBahamut(),
+            hasIfrit(),
+            hasIxion(),
+            hasShiva(),
+            hasValefor()
+        }
+        for _, func in ipairs(ranged_aeons) do
+            if func then return true end
+        end
     else
         return false
     end
