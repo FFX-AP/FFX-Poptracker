@@ -147,6 +147,7 @@ RoomToMap = {
     [341] = {"Mushroom Rock Road"},
     [289] = {"Mushroom Rock Road"},
     [131] = {"Mushroom Rock Road"},
+    [134] = {"Mushroom Rock Road"},
 
     [93]  = {"Djose", "Highroad"},
     [76]  = {"Djose", "Highroad"},
@@ -287,7 +288,6 @@ RoomToMap = {
     [309] = {"Mt. Gagazet", "Outside"},
     [165] = {"Mt. Gagazet", "Outside"},
     [249] = {"Mt. Gagazet", "Outside"},
-    [134] = {"Mt. Gagazet", "Outside"},
     [272] = {"Mt. Gagazet", "Cave"},
     [310] = {"Mt. Gagazet", "Cave"},
     [311] = {"Mt. Gagazet", "Cave"},
