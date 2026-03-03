@@ -1004,7 +1004,7 @@
                                     },
                                     {
                                         "name": "Ahriman",
-                                        "access_rules": ["@Mt. Gagazet/Inside", "@Zanarkand"],
+                                        "access_rules": ["@Mt. Gagazet/Inside", "@Zanarkand", "@Inside Sin"],
                                         "hosted_item": "ahrimancomplete"
                                     },
                                     {
