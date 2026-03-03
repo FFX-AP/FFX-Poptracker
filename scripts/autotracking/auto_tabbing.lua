@@ -147,7 +147,6 @@ RoomToMap = {
     [341] = {"Mushroom Rock Road"},
     [289] = {"Mushroom Rock Road"},
     [131] = {"Mushroom Rock Road"},
-    [134] = {"Mushroom Rock Road"},
 
     [93]  = {"Djose", "Highroad"},
     [76]  = {"Djose", "Highroad"},
@@ -325,12 +324,18 @@ RoomToMap = {
     [271] = {"Omega Ruins"},
 }
 
+RoomToIgnore = {
+    134
+}
+
 function autoTab(value)
     if (RoomToMap[value] ~= nil) then   -- Map found, activate tab/s for room
         for _, tab in pairs(RoomToMap[value]) do
             print("MAP: " .. tab)    
             Tracker:UiHint("ActivateTab", tab)
         end
+    elseif (RoomToIgnore[value] ~= nil) then  -- Don't tab on these maps
+        return
     else    -- If map not found, default to world map
         print("WORLD MAP")
         Tracker:UiHint("ActivateTab", "World Map")
