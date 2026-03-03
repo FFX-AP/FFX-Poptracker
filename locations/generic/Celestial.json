@@ -256,7 +256,7 @@
                 "name": "Celestial Mirror",
                 "chest_unopened_img": "/images/items/Celestial Mirror.png",
                 "chest_opened_img": "/images/items/Mirror BW.png",
-                "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:1"],
+                "access_rules": ["@Macalania/Celestial Flower, progressivemirrors"],
                 "sections": [
                     {
                         "name": "Progressive Mirror"
