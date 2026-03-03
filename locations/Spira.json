@@ -1087,7 +1087,7 @@
                 "sections": [
                     {
                         "name": "Bring Cloudy Mirror to Celestial Flower (Event)",
-                        "ref": "Celestial/General/Celestial Mirror"
+                        "ref": "Celestial/Celestial Mirror/Progressive Mirror"
                     },
                     {
                         "name": "Upgrade Caladbolg Once (Event)",
@@ -1511,7 +1511,7 @@
                     },
                     {
                         "name": "Remiem Temple - Win Chocobo Race (Event)",
-                        "ref": "Celestial/General/Cloudy Mirror"
+                        "ref": "Celestial/Cloudy Mirror/Progressive Mirror"
                     },
                     {
                         "name": "Remiem Temple - Defeat Valefor (Boss)",

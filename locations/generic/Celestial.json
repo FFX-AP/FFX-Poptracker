@@ -10,7 +10,7 @@
                 "sections": [
                     {
                         "name": "Masamune",
-                        "access_rules": ["@Mushroom Rock Road/Aftermath, celestialmirror, rustysword"]
+                        "access_rules": ["@Mushroom Rock Road/Aftermath, progressivemirrors:2, rustysword"]
                     },
                     {
                         "name": "Mars Crest",
@@ -22,13 +22,13 @@
                     },
                     {
                         "name": "Masamune Crest Upgrade",
-                        "access_rules": ["@Macalania/Celestial Flower, celestialmirror, marscrest, $hasMasamune"],
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, marscrest, $hasMasamune"],
                         "hosted_item": "masamunecrest",
                         "clear_as_group": true
                     },
                     {
                         "name": "Masamune Sigil Upgrade",
-                        "access_rules": ["@Macalania/Celestial Flower, celestialmirror, marscrest, marssigil, $hasMasamune"],
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, marscrest, marssigil, $hasMasamune"],
                         "hosted_item": "masamunesigil",
                         "clear_as_group": true
                     }
@@ -41,7 +41,7 @@
                 "sections": [
                     {
                         "name": "Spirit Lance",
-                        "access_rules": ["@Thunder Plains/South, celestialmirror"]
+                        "access_rules": ["@Thunder Plains/South, progressivemirrors:2"]
                     },
                     {
                         "name": "Saturn Crest",
@@ -54,13 +54,13 @@
                     },
                     {
                         "name": "Spirit Lance Crest Upgrade",
-                        "access_rules": ["@Macalania/Celestial Flower, celestialmirror, saturncrest, $hasSpiritLance"],
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, saturncrest, $hasSpiritLance"],
                         "hosted_item": "spiritlancecrest",
                         "clear_as_group": true
                     },
                     {
                         "name": "Spirit Lance Sigil Upgrade",
-                        "access_rules": ["@Macalania/Celestial Flower, celestialmirror, saturncrest, saturnsigil, $hasSpiritLance"],
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, saturncrest, saturnsigil, $hasSpiritLance"],
                         "hosted_item": "spiritlancesigil",
                         "clear_as_group": true
                     }
@@ -73,7 +73,7 @@
                 "sections": [
                     {
                         "name": "Onion Knight",
-                        "access_rules": ["@Baaj Temple/Temple, geosgaeno, celestialmirror"]
+                        "access_rules": ["@Baaj Temple/Temple, geosgaeno, progressivemirrors:2"]
                     },
                     {
                         "name": "Venus Crest",
@@ -88,13 +88,13 @@
                     },
                     {
                         "name": "Onion Knight Crest Upgrade",
-                        "access_rules": ["@Macalania/Celestial Flower, celestialmirror, venuscrest, $hasOnionKnight"],
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, venuscrest, $hasOnionKnight"],
                         "hosted_item": "onionknightcrest",
                         "clear_as_group": true
                     },
                     {
                         "name": "Onion Knight Sigil Upgrade",
-                        "access_rules": ["@Macalania/Celestial Flower, celestialmirror, venuscrest, venussigil,  $hasOnionKnight"],
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, venuscrest, venussigil,  $hasOnionKnight"],
                         "hosted_item": "onionknightsigil",
                         "clear_as_group": true
                     }
@@ -120,13 +120,13 @@
                     },
                     {
                         "name": "Godhand Crest Upgrade",
-                        "access_rules": ["@Macalania/Celestial Flower, celestialmirror, mercurycrest, $hasGodhand"],
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, mercurycrest, $hasGodhand"],
                         "hosted_item": "godhandcrest",
                         "clear_as_group": true
                     },
                     {
                         "name": "Godhand Sigil Upgrade",
-                        "access_rules": ["@Macalania/Celestial Flower, celestialmirror, mercurycrest, mercurysigil, $hasGodhand"],
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, mercurycrest, mercurysigil, $hasGodhand"],
                         "hosted_item": "godhandsigil",
                         "clear_as_group": true
                     }
@@ -139,7 +139,7 @@
                 "sections": [
                     {
                         "name": "Caladbolg",
-                        "access_rules": ["@Calm Lands, celestialmirror, catcherchocobo"],
+                        "access_rules": ["@Calm Lands, progressivemirrors:2, catcherchocobo"],
                         "visibility_rules": ["minigames"]
                     },
                     {
@@ -163,13 +163,13 @@
                     },
                     {
                         "name": "Caladbolg Crest Upgrade",
-                        "access_rules": ["@Macalania/Celestial Flower, celestialmirror, suncrest, $hasCaladbolg"],
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, suncrest, $hasCaladbolg"],
                         "hosted_item": "caladbolgcrest",
                         "clear_as_group": true
                     },
                     {
                         "name": "Caladbolg Sigil Upgrade",
-                        "access_rules": ["@Macalania/Celestial Flower, celestialmirror, suncrest, sunsigil, $hasCaladbolg"],
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, suncrest, sunsigil, $hasCaladbolg"],
                         "hosted_item": "caladbolgsigil",
                         "clear_as_group": true
                     }
@@ -182,7 +182,7 @@
                 "sections": [
                     {
                         "name": "World Champion",
-                        "access_rules": ["@Luca/City, oblitzerator, celestialmirror, [$hasMinimumParty|3]"],
+                        "access_rules": ["@Luca/City, oblitzerator, progressivemirrors:2, [$hasMinimumParty|3]"],
                         "visibility_rules": ["minigames"]
                     },
                     {
@@ -196,13 +196,13 @@
                     },
                     {
                         "name": "World Champion Crest Upgrade",
-                        "access_rules": ["@Macalania/Celestial Flower, celestialmirror, jupitercrest, $hasWorldChampion"],
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, jupitercrest, $hasWorldChampion"],
                         "hosted_item": "worldchampioncrest",
                         "clear_as_group": true
                     },
                     {
                         "name": "World Champion Sigil Upgrade",
-                        "access_rules": ["@Macalania/Celestial Flower, celestialmirror, jupitercrest, jupitersigil, $hasWorldChampion"],
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, jupitercrest, jupitersigil, $hasWorldChampion"],
                         "hosted_item": "worldchampionsigil",
                         "clear_as_group": true
                     }
@@ -216,7 +216,7 @@
                 "sections": [
                     {
                         "name": "Nirvana",
-                        "access_rules": ["^$CheckAccessLevel|monsterarena, celestialmirror"]
+                        "access_rules": ["^$CheckAccessLevel|monsterarena, progressivemirrors:2"]
                     },
                     {
                         "name": "Moon Crest",
@@ -228,34 +228,44 @@
                     },
                     {
                         "name": "Nirvana Crest Upgrade",
-                        "access_rules": ["@Macalania/Celestial Flower, celestialmirror, mooncrest, $hasNirvana"],
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, mooncrest, $hasNirvana"],
                         "hosted_item": "nirvanacrest",
                         "clear_as_group": true
                     },
                     {
                         "name": "Nirvana Sigil Upgrade",
-                        "access_rules": ["@Macalania/Celestial Flower, celestialmirror, mooncrest, moonsigil, $hasNirvana"],
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, mooncrest, moonsigil, $hasNirvana"],
                         "hosted_item": "nirvanasigil",
                         "clear_as_group": true
                     }
                 ]
             },
             {
-                "name": "General",
+                "name": "Cloudy Mirror",
+                "chest_unopened_img": "/images/items/Cloudy Mirror.png",
+                "chest_opened_img": "/images/items/Mirror BW.png",
+                "access_rules": ["@Remiem Temple"],
+                "visibility_rules": ["minigames"],
                 "sections": [
                     {
-                        "name": "Cloudy Mirror",
-                        "chest_unopened_img": "/images/items/Cloudy Mirror.png",
-                        "chest_opened_img": "/images/items/Mirror BW.png",
-                        "access_rules": ["@Remiem Temple"],
-                        "visibility_rules": ["minigames"]
-                    },
+                        "name": "Progressive Mirror"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Mirror",
+                "chest_unopened_img": "/images/items/Celestial Mirror.png",
+                "chest_opened_img": "/images/items/Mirror BW.png",
+                "access_rules": ["@Macalania/Celestial Flower, progressivemirrors"],
+                "sections": [
                     {
-                        "name": "Celestial Mirror",
-                        "chest_unopened_img": "/images/items/Celestial Mirror.png",
-                        "chest_opened_img": "/images/items/Mirror BW.png",
-                        "access_rules": ["@Macalania/Celestial Flower, cloudymirror"]
-                    },
+                        "name": "Progressive Mirror"
+                    }
+                ]
+            },
+            {
+                "name": "General",
+                "sections": [
                     {
                         "name": "Rusty Sword",
                         "chest_unopened_img": "/images/items/Rusty Sword.png",
