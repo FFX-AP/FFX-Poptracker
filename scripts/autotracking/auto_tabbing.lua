@@ -188,7 +188,6 @@ RoomToMap = {
     [193] = {"Guadosalam"},
     [364] = {"Guadosalam"},
     [213] = {"Guadosalam"},
-    [134] = {"Guadosalam"},
 
     [140] = {"Thunder Plains"},
     [256] = {"Thunder Plains"},
