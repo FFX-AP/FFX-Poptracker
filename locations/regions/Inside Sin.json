@@ -111,15 +111,16 @@
                 "map_locations": [{ "map": "Inside Sin", "x": 170, "y": 905}],
                 "sections": [
                     {"name": "Ahriman (4x Eye)", "ref": "Monster Arena/Fiend Capture/Mt. Gagazet/Fiends/Ahriman (4x Eye)"},
-                    {"name": "Exoray (5x Fungus)", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Exoray (5x Fungus)"},
-                    {"name": "Gemini (Sword) (10x Iron Giant)", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Gemini (Sword) (10x Iron Giant)"},
-                    {"name": "Gemini (Club) (10x Iron Giant)", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Gemini (Club) (10x Iron Giant)"},
                     {"name": "Adamantoise", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Adamantoise"},
                     {"name": "Behemoth King", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Behemoth King"},
-                    {"name": "Wraith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Wraith"},
+                    {"name": "Exoray (5x Fungus)", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Exoray (5x Fungus)"},
+                    {"name": "Gemini (Club) (10x Iron Giant)", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Gemini (Club) (10x Iron Giant)"},
+                    {"name": "Gemini (Sword) (10x Iron Giant)", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Gemini (Sword) (10x Iron Giant)"},
+                    {"name": "Barbatos", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Barbatos"},
                     {"name": "Demonolith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Demonolith"},
                     {"name": "Great Malboro", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Great Malboro"},
-                    {"name": "Barbatos", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Barbatos"}
+                    {"name": "Wraith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Wraith"}
+                    
                 ]
             },
             {
@@ -127,15 +128,16 @@
                 "map_locations": [{ "map": "Inside Sin", "x": 190, "y": 905, "shape": "diamond"}],
                 "sections": [
                     {"name": "Ahriman", "ref": "Monster Arena/Fiend Capture/Mt. Gagazet/Captures Required for Logic/Ahriman"},
-                    {"name": "Exoray", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Exoray"},
-                    {"name": "Gemini (Sword)", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Gemini (Sword)"},
-                    {"name": "Gemini (Club)", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Gemini (Club)"},
                     {"name": "Adamantoise", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Adamantoise"},
                     {"name": "Behemoth King", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Behemoth King"},
-                    {"name": "Wraith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Wraith"},
+                    {"name": "Exoray", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Exoray"},
+                    {"name": "Gemini (Club)", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Gemini (Club)"},
+                    {"name": "Gemini (Sword)", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Gemini (Sword)"},
+                    {"name": "Barbatos", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Barbatos"},
                     {"name": "Demonolith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Demonolith"},
                     {"name": "Great Malboro", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Great Malboro"},
-                    {"name": "Barbatos", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Barbatos"}
+                    {"name": "Wraith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Wraith"}
+                    
                 ]
             }
         ]
