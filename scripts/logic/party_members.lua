@@ -290,7 +290,7 @@ end
 function hasRanged()
     if hasWakka() or hasLulu() then
         return true
-    elseif hasYuna() and ((hasAeons(1) and not hasYojimbo() or hasMagusSisters()) or hasAeons(2)) then
+    elseif hasYuna() and ((hasAeons(1) and not hasYojimbo() and not hasMagusSisters()) or (hasAeons(2) and not hasYojimbo() and not hasMagusSisters())) then
         return true
     else
         return false
