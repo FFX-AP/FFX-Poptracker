@@ -248,8 +248,7 @@
                 "visibility_rules": ["minigames"],
                 "sections": [
                     {
-                        "name": "Progressive Mirror",
-                        "hosted_item": "cloudymirror"
+                        "name": "Progressive Mirror"
                     }
                 ]
             },
@@ -257,11 +256,10 @@
                 "name": "Celestial Mirror",
                 "chest_unopened_img": "/images/items/Celestial Mirror.png",
                 "chest_opened_img": "/images/items/Mirror BW.png",
-                "access_rules": ["@Macalania/Celestial Flower, cloudymirror"],
+                "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2"],
                 "sections": [
                     {
-                        "name": "Progressive Mirror",
-                        "hosted_item": "celestialmirror"
+                        "name": "Progressive Mirror"
                     }
                 ]
             },
