@@ -38,6 +38,7 @@
                         "name": "Post-Blitzball Tournament (Event)",
                         "map_locations": [{"map": "Luca", "x": 400, "y": 505}],
                         "access_rules": ["oblitzerator, [$hasMinimumParty|3]"],
+                        "visibility_rules": ["storymodeblitzball"],
                         "sections": [
                             {
                                 "name": "Auron",
@@ -167,6 +168,7 @@
                     {
                         "name": "Recruit: Shuu",
                         "map_locations": [{"map": "Luca", "x": 1150, "y": 475}],
+                        "visibility_rules": ["storymodeblitzball"],
                         "sections": [{"name": "Shuu", "ref": "Blitzball Recruits/Shuu"}]
                     },
                     {

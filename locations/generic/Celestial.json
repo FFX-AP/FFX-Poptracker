@@ -180,7 +180,8 @@
                     },
                     {
                         "name": "Jupiter Crest",
-                        "access_rules": ["@Luca/Stadium, oblitzerator, [$hasMinimumParty|3]"]
+                        "access_rules": ["@Luca/Stadium, oblitzerator, [$hasMinimumParty|3]"],
+                        "visibility_rules": ["storymodeblitzball"]
                     },
                     {
                         "name": "Jupiter Sigil",
@@ -236,20 +237,30 @@
                 "name": "General",
                 "sections": [
                     {
-                        "name": "Cloudy Mirror",
-                        "ref": "Minigames/Chocobo Racing/Remiem Temple - Win Chocobo Race (Event)"
-                    },
-                    {
-                        "name": "Celestial Mirror",
-                        "chest_unopened_img": "/images/items/Celestial Mirror.png",
-                        "chest_opened_img": "/images/items/Mirror BW.png",
-                        "access_rules": ["@Macalania/Celestial Flower, cloudymirror"]
-                    },
-                    {
                         "name": "Rusty Sword",
                         "chest_unopened_img": "/images/items/Rusty Sword.png",
                         "chest_opened_img": "/images/items/Rusty Sword BW.png",
                         "access_rules": ["@Cavern of the Stolen Fayth"]
+                    }
+                ]
+            },
+            {
+                "name": "Cloudy Mirror",
+                "sections": [
+                    {
+                        "name": "Progressive Mirror",
+                        "ref": "Minigames/Chocobo Racing/Remiem Temple - Win Chocobo Race (Event)"
+                    }
+                ]
+            },
+            {
+                "name": "Celestial Mirror",
+                "chest_unopened_img": "/images/items/Celestial Mirror.png",
+                "chest_opened_img": "/images/items/Mirror BW.png",
+                "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2"],
+                "sections": [
+                    {
+                        "name": "Progressive Mirror"
                     }
                 ]
             }            
