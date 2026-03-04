@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/hd/Blitzball_BW.png",
         "overlay_background": "#000000",
         "visibility_rules": ["recruitsanity"],
-        "Children": [
+        "children": [
             {
                 "name": "Al Bhed Psyches",
                 "access_rules": ["@Airship"],

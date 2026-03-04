@@ -13,11 +13,26 @@
                         "name": "Recruit: Tatts",
                         "map_locations": [{ "map": "Kilika Village", "x": 740, "y": 720}],
                         "sections": [{"name": "Tatts", "ref": "Blitzball Recruits/Free Agents/Tatts"}]
-                    },                    
+                    },
+                    {
+                        "name": "Recruit: Vuroja",
+                        "map_locations": [{ "map": "Kilika Village", "x": 825, "y": 650}],
+                        "sections": [{"name": "Vuroja", "ref": "Blitzball Recruits/Kilika Beasts/Vuroja"}]
+                    },
+                    {
+                        "name": "Recruit: Larbeight",
+                        "map_locations": [{ "map": "Kilika Village", "x": 930, "y": 485}],
+                        "sections": [{"name": "Larbeight", "ref": "Blitzball Recruits/Kilika Beasts/Larbeight"}]
+                    },
                     {
                         "name": "House - Right of Collapsing House (Chest)",
                         "map_locations": [{ "map": "Kilika Village", "x": 730, "y": 115}],
                         "sections": [{"name": "Potion x3"}]
+                    },
+                    {
+                        "name": "Recruit: Isken",
+                        "map_locations": [{ "map": "Kilika Village", "x": 740, "y": 50}],
+                        "sections": [{"name": "Isken", "ref": "Blitzball Recruits/Kilika Beasts/Isken"}]
                     },
                     {
                         "name": "Tavern - After Rescuing Kulukan's Sister from Collapsing House (Chest)",
@@ -25,8 +40,13 @@
                         "sections": [{"name": "Ether x1"}]
                     },
                     {
+                        "name": "Recruit: Kulukan",
+                        "map_locations": [{ "map": "Kilika Village", "x": 1000, "y": 300}],
+                        "sections": [{"name": "Kulukan", "ref": "Blitzball Recruits/Kilika Beasts/Kulukan"}]
+                    },
+                    {
                         "name": "Tavern - On Counter (Primer)",
-                        "map_locations": [{ "map": "Kilika Village", "x": 1020, "y": 340}],
+                        "map_locations": [{ "map": "Kilika Village", "x": 1020, "y": 315}],
                         "sections": [
                             {
                                 "name": "Al Bhed Primer IV",
@@ -128,6 +148,20 @@
                         "name": "Recruit: Mep",
                         "map_locations": [{ "map": "Kilika Temple", "x": 120, "y": 355}],
                         "sections": [{"name": "Mep", "ref": "Blitzball Recruits/Free Agents/Mep"}]
+                    },
+                    {
+                        "name": "Blitzball Recruit - Deim & Nizarut",
+                        "map_locations": [{ "map": "Kilika Temple", "x": 250, "y": 120}],
+                        "sections": [
+                            {
+                                "name": "Recruit: Deim",
+                                "ref": "Blitzball Recruits/Kilika Beasts/Deim"
+                            },
+                            {
+                                "name": "Recruit: Nizarut",
+                                "ref": "Blitzball Recruits/Kilika Beasts/Nizarut"
+                            }
+                        ]
                     },
                     {
                         "name": "Cloister - Destruction Sphere (Chest)",

@@ -17,6 +17,22 @@
                 "sections": [{"name": "Wakka", "ref": "Blitzball Recruits/Free Agents/Wakka"}]
             },
             {
+                "name": "Recruit: Lakkam",
+                "map_locations": [{ "map": "Airship", "x": 567, "y": 325}],
+                "sections": [{"name": "Lakkam", "ref": "Blitzball Recruits/Al Bhed Psyches/Lakkam"}]
+            },
+            {
+                "name": "Blitzball Recruit - Al Bhed Psyches ",
+                "map_locations": [{ "map": "Airship", "x": 567, "y": 275}],
+                "sections": [
+                    {"name": "Berrik", "ref": "Blitzball Recruits/Al Bhed Psyches/Berrik"},
+                    {"name": "Blappa", "ref": "Blitzball Recruits/Al Bhed Psyches/Blappa"},
+                    {"name": "Eigaar", "ref": "Blitzball Recruits/Al Bhed Psyches/Eigaar"},
+                    {"name": "Judda", "ref": "Blitzball Recruits/Al Bhed Psyches/Judda"},
+                    {"name": "Nimrook", "ref": "Blitzball Recruits/Al Bhed Psyches/Nimrook"}
+                ]
+            },
+            {
                 "name": "Rin",
                 "map_locations": [{ "map": "Airship", "x": 297, "y": 382}],
                 "sections": [

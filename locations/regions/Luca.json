@@ -44,13 +44,37 @@
                     },
                     {
                         "name": "Blitzball Recruit - Besaid Aurochs",
-                        "map_locations": [{"map": "Luca", "x": 465, "y": 390}],
+                        "map_locations": [{"map": "Luca", "x": 475, "y": 400}],
                         "sections": [
                             {"name": "Recruit: Botta", "ref": "Blitzball Recruits/Besaid Aurochs/Botta"},
                             {"name": "Recruit: Datto", "ref": "Blitzball Recruits/Besaid Aurochs/Datto"},
                             {"name": "Recruit: Jassu", "ref": "Blitzball Recruits/Besaid Aurochs/Jassu"},
                             {"name": "Recruit: Keepa", "ref": "Blitzball Recruits/Besaid Aurochs/Keepa"},
                             {"name": "Recruit: Letty", "ref": "Blitzball Recruits/Besaid Aurochs/Letty"}
+                        ]
+                    },
+                    {
+                        "name": "Blitzball Recruit - Luca Goers\n2nd Visit",
+                        "map_locations": [{"map": "Luca", "x": 454, "y": 150}],
+                        "sections": [
+                            {"name": "Recruit: Abus", "ref": "Blitzball Recruits/Luca Goers/Abus"},
+                            {"name": "Recruit: Balgerda", "ref": "Blitzball Recruits/Luca Goers/Balgerda"},
+                            {"name": "Recruit: Bickson", "ref": "Blitzball Recruits/Luca Goers/Bickson"},
+                            {"name": "Recruit: Doram", "ref": "Blitzball Recruits/Luca Goers/Doram"},
+                            {"name": "Recruit: Graav", "ref": "Blitzball Recruits/Luca Goers/Graav"},
+                            {"name": "Recruit: Raudy", "ref": "Blitzball Recruits/Luca Goers/Raudy"}
+                        ]
+                    },
+                    {
+                        "name": "Blitzball Recruit - Ronso Fangs\n2nd Visit",
+                        "map_locations": [{"map": "Luca", "x": 710, "y": 350}],
+                        "sections": [
+                            {"name": "Recruit: Argai Ronso", "ref": "Blitzball Recruits/Ronso Fangs/Argai Ronso"},
+                            {"name": "Recruit: Basik Ronso", "ref": "Blitzball Recruits/Ronso Fangs/Basik Ronso"},
+                            {"name": "Recruit: Gazna Ronso", "ref": "Blitzball Recruits/Ronso Fangs/Gazna Ronso"},
+                            {"name": "Recruit: Irga Ronso", "ref": "Blitzball Recruits/Ronso Fangs/Irga Ronso"},
+                            {"name": "Recruit: Nuvy Ronso", "ref": "Blitzball Recruits/Ronso Fangs/Nuvy Ronso"},
+                            {"name": "Recruit: Zamzi Ronso", "ref": "Blitzball Recruits/Ronso Fangs/Zamzi Ronso"}
                         ]
                     },
                     {
