@@ -10,45 +10,23 @@
                 "name": "Al Bhed Psyches",
                 "access_rules": ["@Airship"],
                 "sections": [
-                    {
-                        "name": "Berrik"
-                    },
-                    {
-                        "name": "Blappa"
-                    },
-                    {
-                        "name": "Eigaar"
-                    },
-                    {
-                        "name": "Judda"
-                    },
-                    {
-                        "name": "Lakkam"
-                    },
-                    {
-                        "name": "Nimrook"
-                    }
+                    {"name": "Berrik"},
+                    {"name": "Blappa"},
+                    {"name": "Eigaar"},
+                    {"name": "Judda"},
+                    {"name": "Lakkam"},
+                    {"name": "Nimrook"}
                 ]
             },
             {
                 "name": "Besaid Aurochs",
                 "access_rules": ["@Luca"],
                 "sections": [
-                    {
-                        "name": "Botta"
-                    },
-                    {
-                        "name": "Datto"
-                    },
-                    {
-                        "name": "Jassu"
-                    },
-                    {
-                        "name": "Keepa"
-                    },
-                    {
-                        "name": "Letty"
-                    }
+                    {"name": "Botta"},
+                    {"name": "Datto"},
+                    {"name": "Jassu"},
+                    {"name": "Keepa"},
+                    {"name": "Letty"}
                 ]
             },
             {
@@ -156,24 +134,12 @@
                 "name": "Guado Glories",
                 "access_rules": ["@Guadosalam"],
                 "sections": [
-                    {
-                        "name": "Auda Guado"
-                    },
-                    {
-                        "name": "Giera Guado"
-                    },
-                    {
-                        "name": "Nav Guado"
-                    },
-                    {
-                        "name": "Noy Guado"
-                    },
-                    {
-                        "name": "Pah Guado"
-                    },
-                    {
-                        "name": "Zazi Guado"
-                    }
+                    {"name": "Auda Guado"},
+                    {"name": "Giera Guado"},
+                    {"name": "Nav Guado"},
+                    {"name": "Noy Guado"},
+                    {"name": "Pah Guado"},
+                    {"name": "Zazi Guado"}
                 ]
             },
             {
@@ -181,8 +147,7 @@
                 "sections": [
                     {
                         "name": "Deim",
-                        "access_rules": ["@Kilika/Temple"]
-                    },
+                        "access_rules": ["@Kilika/Temple"]},
                     {
                         "name": "Isken",
                         "access_rules": ["@Kilika/Village"]
@@ -209,48 +174,24 @@
                 "name": "Luca Goers",
                 "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"],
                 "sections": [
-                    {
-                        "name": "Abus"
-                    },
-                    {
-                        "name": "Balgerda"
-                    },
-                    {
-                        "name": "Bickson"
-                    },
-                    {
-                        "name": "Doram"
-                    },
-                    {
-                        "name": "Graav"
-                    },
-                    {
-                        "name": "Raudy"
-                    }
+                    {"name": "Abus"},
+                    {"name": "Balgerda"},
+                    {"name": "Bickson"},
+                    {"name": "Doram"},
+                    {"name": "Graav"},
+                    {"name": "Raudy"}
                 ]
             },
             {
                 "name": "Ronso Fangs",
                 "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"],
                 "sections": [
-                    {
-                        "name": "Argai Ronso"
-                    },
-                    {
-                        "name": "Basik Ronso"
-                    },
-                    {
-                        "name": "Gazna Ronso"
-                    },
-                    {
-                        "name": "Irga Ronso"
-                    },
-                    {
-                        "name": "Nuvy Ronso"
-                    },
-                    {
-                        "name": "Zamzi Ronso"
-                    }
+                    {"name": "Argai Ronso"},
+                    {"name": "Basik Ronso"},
+                    {"name": "Gazna Ronso"},
+                    {"name": "Irga Ronso"},
+                    {"name": "Nuvy Ronso"},
+                    {"name": "Zamzi Ronso"}
                 ]
             }
         ]
