@@ -62,10 +62,28 @@
     },
     {
         "name": "Recruit Sanity",
-        "type": "toggle",
+        "type": "progressive",
         "img": "images/items/hd/Blitzball.png",
-        "initial_active_state": true,
-        "codes": "recruitsanity"
+        "allow_disabled": false,
+        "codes": "recruitsanity",
+        "stages": [
+            {
+                "name": "No Recruits",
+                "img": "images/items/hd/Blitzball.png",
+                "img_mods": "@disabled",
+                "codes": "recruitsanitynone"
+            },
+            {
+                "name": "Free Agents",
+                "img": "images/items/hd/Blitzball.png",
+                "codes": "recruitsanityfree"
+            },
+            {
+                "name": "All Recruits",
+                "img": "images/items/hd/Blitzball.png",
+                "codes": "recruitsanityfree, recruitsanityall"
+            }
+        ]
     },
     {
         "name": "Capture Sanity",

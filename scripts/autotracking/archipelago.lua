@@ -119,6 +119,15 @@ function applySlotData(slot_data)
         Tracker:FindObjectForCode("creationbosses").CurrentStage = 3
     end
 
+    local recruit_sanity = slot_data["recruit_sanity"]
+    if (recruit_sanity == 0) then
+        Tracker:FindObjectForCode("recruitsanity").CurrentStage = 0
+    elseif (recruit_sanity == 1) then
+        Tracker:FindObjectForCode("recruitsanity").CurrentStage = 1
+    elseif (recruit_sanity == 2) then
+        Tracker:FindObjectForCode("recruitsanity").CurrentStage = 2
+    end
+
     
     if (slot_data["required_primers"] ~= nil) then
         Tracker:FindObjectForCode("requiredprimers").AcquiredCount = slot_data["required_primers"]    

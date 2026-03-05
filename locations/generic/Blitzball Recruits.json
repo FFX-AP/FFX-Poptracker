@@ -9,6 +9,7 @@
             {
                 "name": "Al Bhed Psyches",
                 "access_rules": ["@Airship"],
+                "visibility_rules": ["recruitsanityall"],
                 "sections": [
                     {"name": "Berrik"},
                     {"name": "Blappa"},
@@ -21,6 +22,7 @@
             {
                 "name": "Besaid Aurochs",
                 "access_rules": ["@Luca"],
+                "visibility_rules": ["recruitsanityall"],
                 "sections": [
                     {"name": "Botta"},
                     {"name": "Datto"},
@@ -133,6 +135,7 @@
             {
                 "name": "Guado Glories",
                 "access_rules": ["@Guadosalam"],
+                "visibility_rules": ["recruitsanityall"],
                 "sections": [
                     {"name": "Auda Guado"},
                     {"name": "Giera Guado"},
@@ -144,6 +147,7 @@
             },
             {
                 "name": "Kilika Beasts",
+                "visibility_rules": ["recruitsanityall"],
                 "sections": [
                     {
                         "name": "Deim",
@@ -173,6 +177,7 @@
             {
                 "name": "Luca Goers",
                 "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"],
+                "visibility_rules": ["recruitsanityall"],
                 "sections": [
                     {"name": "Abus"},
                     {"name": "Balgerda"},
@@ -185,6 +190,7 @@
             {
                 "name": "Ronso Fangs",
                 "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"],
+                "visibility_rules": ["recruitsanityall"],
                 "sections": [
                     {"name": "Argai Ronso"},
                     {"name": "Basik Ronso"},
