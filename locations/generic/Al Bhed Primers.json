@@ -7,7 +7,7 @@
         "sections": [
             {
                 "name": "Complete Al Bhed Primers",
-                "access_rules": ["@Airship, albhedprimers:26"]
+                "access_rules": ["@Airship, progressiveprimers:26"]
             }
         ],
         "children": [
