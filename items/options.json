@@ -66,6 +66,7 @@
         "img": "images/items/hd/Blitzball.png",
         "allow_disabled": false,
         "codes": "recruitsanity",
+        "initial_stage_idx": 0,
         "stages": [
             {
                 "name": "No Recruits",

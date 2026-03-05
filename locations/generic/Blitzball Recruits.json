@@ -4,7 +4,6 @@
         "chest_unopened_img": "/images/items/hd/Blitzball.png",
         "chest_opened_img": "/images/items/hd/Blitzball_BW.png",
         "overlay_background": "#000000",
-        "visibility_rules": ["recruitsanity"],
         "children": [
             {
                 "name": "Al Bhed Psyches",
@@ -33,6 +32,7 @@
             },
             {
                 "name": "Free Agents",
+                "visibility_rules": ["recruitsanityfree", "recruitsanityall"],
                 "sections": [
                     {
                         "name": "Biggs",
