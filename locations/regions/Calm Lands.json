@@ -82,6 +82,10 @@
                     {
                         "name": "Nirvana",
                         "ref": "Celestial/Yuna/Nirvana"
+                    },
+                    {
+                        "name": "Mars Sigil",
+                        "ref": "Celestial/Auron/Mars Sigil"
                     }
                 ]
             },

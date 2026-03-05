@@ -1746,6 +1746,10 @@
                         "ref": "Monster Arena/Area Conquest/Creation Rewards/Omega Dungeon"
                     },
                     {
+                        "name": "Mars Sigil",
+                        "ref": "Celestial/Auron/Mars Sigil"
+                    },
+                    {
                         "name": "Species Conquest - Wolf (3x)",
                         "ref": "Monster Arena/Species Conquest/Creation Rewards/Wolf (3x)"
                     },
