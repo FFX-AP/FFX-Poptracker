@@ -215,6 +215,7 @@ AllCreations = {
     "malboromenace",
     "kottos",
     "coeurlregina",
+    "jormungand",
     "cactuarking",
     "espada",
     "abyssworm",
@@ -301,5 +302,16 @@ function OnCapture(capture)
         else
             complete.Active = false
         end
+    end
+end
+
+function CheckTotalConquests()
+    local area_conq = Tracker:ProviderCountForCode("areaconquests")
+    local species_conq = Tracker:ProviderCountForCode("speciesconquests")
+
+    if area_conq + species_conq >= 10 then
+        return ACCESS_NORMAL
+    else
+        return ACCESS_NONE
     end
 end

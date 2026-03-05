@@ -18,7 +18,7 @@
                     },
                     {
                         "name": "Mars Sigil",
-                        "access_rules": ["@Calm Lands"]
+                        "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards, ^$CheckTotalConquests"]
                     },
                     {
                         "name": "Masamune Crest Upgrade",
