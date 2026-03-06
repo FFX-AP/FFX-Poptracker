@@ -105,21 +105,25 @@
                     {
                         "name": "Wobbly Chocobo Minigame (Event)",
                         "visibility_rules": ["wobblyminigame"],
+                        "hosted_item": "wobblychocobo",
                         "clear_as_group": true
                     },
                     {
                         "name": "Dodger Chocobo Minigame (Event)",
                         "visibility_rules": ["dodgerminigame"],
+                        "hosted_item": "dodgerchocobo",
                         "clear_as_group": true
                     },
                     {
                         "name": "Hyper Dodger Chocobo Minigame (Event)",
                         "visibility_rules": ["hyperdodgerminigame"],
+                        "hosted_item": "hyperdodgerchocobo",
                         "clear_as_group": true
                     },
                     {
                         "name": "Catcher Chocobo Minigame (Event)",
                         "visibility_rules": ["catcherminigame"],
+                        "hosted_item": "catcherchocobo",
                         "clear_as_group": true
                     },
                     {
