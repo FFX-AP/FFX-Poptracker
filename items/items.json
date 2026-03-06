@@ -5029,6 +5029,18 @@
         "codes": "progressivemirrors"
     },
     {
+        "name": "Progressive Al Bhed Primer",
+        "type": "consumable",
+        "img": "images/items/Al Bhed Primer.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "overlay_background": "#000000",
+        "initial_quantity": 0,
+        "max_quantity": 26,
+        "overlay_align": "right",
+        "codes": "progressiveprimers"
+    },
+    {
         "name": "Purifying Salt x 40",
         "type": "toggle",
         "img": "images/items/purifyingsaltx40.png",

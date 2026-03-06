@@ -1286,16 +1286,6 @@
         "codes": "albhedpotionx8-2"
     },
     {
-        "name": "Al Bhed Primer XIV",
-        "type": "toggle",
-        "img": "images/items/hd/Al Bhed Primer.png",
-        "img_mods": "",
-        "disabled_img_mods": "@disabled",
-        "capturable": true,
-        "initial_active_state": false,
-        "codes": "albhedprimerxiv"
-    },
-    {
         "name": "Lv. 2 Key Sphere x1",
         "type": "toggle",
         "capturable": true,
