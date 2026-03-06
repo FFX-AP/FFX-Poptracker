@@ -25,28 +25,28 @@
                 "map_locations": [{ "map": "Remiem Temple", "x": 195, "y": 60}],
                 "sections": [
                     {
-                        "name": "Remiem Temple - Win Chocobo Race with at least 0 Chests",
-                        "ref": "Minigames/Chocobo Racing/Remiem Temple - Win Chocobo Race With at Least 0 Chests (Event)"
+                        "name": "Win the Chocobo Race (Event)",
+                        "ref": "Minigames/Chocobo Racing/Win the Chocobo Race (Event)"
                     },
                     {
-                        "name": "Remiem Temple - Win Chocobo Race With at Least 1 Chest (Event)",
-                        "ref": "Minigames/Chocobo Racing/Remiem Temple - Win Chocobo Race With at Least 1 Chest (Event)"
+                        "name": "Win the Chocobo Race With 1 Chest",
+                        "ref": "Minigames/Chocobo Racing/Win the Chocobo Race With 1 Chest"
                     },
                     {
-                        "name": "Remiem Temple - Win Chocobo Race With at Least 2 Chests (Event)",
-                        "ref": "Minigames/Chocobo Racing/Remiem Temple - Win Chocobo Race With at Least 2 Chests (Event)"
+                        "name": "Win the Chocobo Race With 2 Chests",
+                        "ref": "Minigames/Chocobo Racing/Win the Chocobo Race With 2 Chests"
                     },
                     {
-                        "name": "Remiem Temple - Win Chocobo Race With at Least 3 Chests (Event)",
-                        "ref": "Minigames/Chocobo Racing/Remiem Temple - Win Chocobo Race With at Least 3 Chests (Event)"
+                        "name": "Win the Chocobo Race With 3 Chests",
+                        "ref": "Minigames/Chocobo Racing/Win the Chocobo Race With 3 Chests"
                     },
                     {
-                        "name": "Remiem Temple - Win Chocobo Race With at Least 4 Chests (Event)",
-                        "ref": "Minigames/Chocobo Racing/Remiem Temple - Win Chocobo Race With at Least 4 Chests (Event)"
+                        "name": "Win the Chocobo Race With 4 Chests",
+                        "ref": "Minigames/Chocobo Racing/Win the Chocobo Race With 4 Chests"
                     },
                     {
-                        "name": "Remiem Temple - Win Chocobo Race With 5 Chests (Event)",
-                        "ref": "Minigames/Chocobo Racing/Remiem Temple - Win Chocobo Race With 5 Chests (Event)"
+                        "name": "Win the Chocobo Race With 5 Chests",
+                        "ref": "Minigames/Chocobo Racing/Win the Chocobo Race With 5 Chests"
                     }
                 ]
             },
