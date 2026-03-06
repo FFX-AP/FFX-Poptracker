@@ -152,27 +152,27 @@
                         "clear_as_group": true
                     },
                     {
-                        "name": "Win the Chocobo Race With 1 Chest",
+                        "name": "Win the Chocobo Race With 1 Chest (Event)",
                         "visibility_rules": ["1chestchocoborace"],
                         "clear_as_group": true
                     },
                     {
-                        "name": "Win the Chocobo Race With 2 Chests",
+                        "name": "Win the Chocobo Race With 2 Chests (Event)",
                         "visibility_rules": ["2chestchocoborace"],
                         "clear_as_group": true
                     },
                     {
-                        "name": "Win the Chocobo Race With 3 Chests",
+                        "name": "Win the Chocobo Race With 3 Chests (Event)",
                         "visibility_rules": ["3chestchocoborace"],
                         "clear_as_group": true
                     },
                     {
-                        "name": "Win the Chocobo Race With 4 Chests",
+                        "name": "Win the Chocobo Race With 4 Chests (Event)",
                         "visibility_rules": ["4chestchocoborace"],
                         "clear_as_group": true
                     },
                     {
-                        "name": "Win the Chocobo Race With 5 Chests",
+                        "name": "Win the Chocobo Race With 5 Chests (Event)",
                         "visibility_rules": ["5chestchocoborace"],
                         "clear_as_group": true
                     }
