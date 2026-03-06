@@ -196,11 +196,11 @@ function applySlotData(slot_data)
     if (slot_data["capture_sanity"] ~= nil) then
         Tracker:FindObjectForCode("capturesanity").Active = slot_data["capture_sanity"]
     end
-    if (slot_data["mini_games_butterflies"] ~= nil) then
-        Tracker:FindObjectForCode("minigamebutterfly").Active = slot_data["mini_games_butterflies"]
+    if (slot_data["mini_game_butterflies"] ~= nil) then
+        Tracker:FindObjectForCode("minigamebutterfly").Active = slot_data["mini_game_butterflies"]
     end
-    if (slot_data["mini_games_cactuar_village"] ~= nil) then
-        Tracker:FindObjectForCode("minigamecactuar").Active = slot_data["mini_games_cactuar_village"]
+    if (slot_data["mini_game_cactuar_village"] ~= nil) then
+        Tracker:FindObjectForCode("minigamecactuar").Active = slot_data["mini_game_cactuar_village"]
     end
     if (slot_data["jecht_spheres"] ~= nil) then
         Tracker:FindObjectForCode("jechtspheres").Active = slot_data["jecht_spheres"]
