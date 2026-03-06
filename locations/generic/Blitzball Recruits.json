@@ -68,8 +68,7 @@
             },
             {
                 "name": "Shuu",
-                "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"],
-                "visibility_rules": ["storymodeblitzball"]
+                "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"]
             },
             {
                 "name": "Svanda",

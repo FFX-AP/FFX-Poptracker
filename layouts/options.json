@@ -62,7 +62,10 @@
                     "item_v_alignment": "center",
                     "item_height": 48,
                     "item_width": 48,
-                    "rows": [["minigameblitzball", "minigamebutterfly", "minigamelightningdodging"],["minigamecactuar", "minigamechocobotraining", "minigamechocoborace"]]
+                    "rows": [
+                        ["minigameblitzball", "minigamebutterfly", "minigamelightningdodging"],
+                        ["minigamecactuar", "minigamechocobotraining", "minigamechocoborace"]
+                    ]
                 }
                 
             },

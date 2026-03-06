@@ -64,7 +64,6 @@
                     {
                         "name": "Auron",
                         "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"],
-                        "visibility_rules": ["storymodeblitzball"],
                         "hosted_item": "auronlocation",
                         "clear_as_group": true
                     },

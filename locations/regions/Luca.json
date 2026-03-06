@@ -168,7 +168,6 @@
                     {
                         "name": "Recruit: Shuu",
                         "map_locations": [{"map": "Luca", "x": 1150, "y": 475}],
-                        "visibility_rules": ["storymodeblitzball"],
                         "sections": [{"name": "Shuu", "ref": "Blitzball Recruits/Shuu"}]
                     },
                     {

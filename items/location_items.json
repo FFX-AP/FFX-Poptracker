@@ -675,7 +675,7 @@
     {
         "name": "Lightning Dodging 5x - X-Potion x2",
         "type": "toggle",
-        "img": "images/minigames/Lightning2.png",
+        "img": "images/minigames/Lightning.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -685,7 +685,7 @@
     {
         "name": "Lightning Dodging 10x - Mega-Potion x2",
         "type": "toggle",
-        "img": "images/minigames/Lightning2.png",
+        "img": "images/minigames/Lightning.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -695,7 +695,7 @@
     {
         "name": "Lightning Dodging 20x - MP Sphere x2",
         "type": "toggle",
-        "img": "images/minigames/Lightning2.png",
+        "img": "images/minigames/Lightning.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -705,7 +705,7 @@
     {
         "name": "Lightning Dodging 50x - Strength Sphere x3",
         "type": "toggle",
-        "img": "images/minigames/Lightning2.png",
+        "img": "images/minigames/Lightning.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -715,7 +715,7 @@
     {
         "name": "Lightning Dodging 100x - HP Sphere x3",
         "type": "toggle",
-        "img": "images/minigames/Lightning2.png",
+        "img": "images/minigames/Lightning.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -725,7 +725,7 @@
     {
         "name": "Lightning Dodging 150x - Megalixir x4",
         "type": "toggle",
-        "img": "images/minigames/Lightning2.png",
+        "img": "images/minigames/Lightning.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -735,7 +735,7 @@
     {
         "name": "Lightning Dodging 200x - Venus Sigil",
         "type": "toggle",
-        "img": "images/minigames/Lightning2.png",
+        "img": "images/minigames/Lightning.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -753,17 +753,7 @@
         "codes": "keepasucks"
     },
     {
-        "name": "Story Blitzball",
-        "type": "toggle",
-        "img": "images/minigames/Blitzball.png",
-        "img_mods": "@disabled",
-        "disabled_img_mods": "",
-        "capturable": true,
-        "initial_active_state": false,
-        "codes": "blitzballjupitersigil"
-    },
-    {
-        "name": "Story Blitzball",
+        "name": "Blitzball Celestial",
         "type": "toggle",
         "img": "images/minigames/Blitzball.png",
         "img_mods": "@disabled",
@@ -771,6 +761,16 @@
         "capturable": true,
         "initial_active_state": false,
         "codes": "blitzballworldchamp"
+    },
+    {
+        "name": "Blitzball Sigil",
+        "type": "toggle",
+        "img": "images/minigames/Blitzball.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "blitzballjupitersigil"
     },
     {
         "name": "Butterfly Minigame",

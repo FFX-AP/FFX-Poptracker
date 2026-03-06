@@ -74,12 +74,12 @@
             {
                 "name": "Up to World Champion",
                 "img": "images/minigames/Blitzball.png",
-                "codes": "worldchampminigame"
+                "codes": "storymodeblitzball, worldchampminigame"
             },
             {
                 "name": "Up to Jupiter Sigil",
                 "img": "images/minigames/Blitzball.png",
-                "codes": "jupitersigilminigame"
+                "codes": "storymodeblitzball, worldchampminigame, jupitersigilminigame"
             }
         ]
     },
@@ -99,44 +99,44 @@
         "stages": [
             {
                 "name": "No Lightning Dodging",
-                "img": "images/minigames/Lightning2.png",
+                "img": "images/minigames/Lightning.png",
                 "img_mods": "@disabled",
                 "codes": "nolightningdodging"
             },
             {
                 "name": "Up to 5 Lightning Dodges",
-                "img": "images/minigames/Lightning2.png",
+                "img": "images/minigames/Lightning.png",
                 "codes": "5lightningdodging"
             },
             {
                 "name": "Up to 10 Lightning Dodges",
-                "img": "images/minigames/Lightning2.png",
-                "codes": "10lightningdodging"
+                "img": "images/minigames/Lightning.png",
+                "codes": "5lightningdodging, 10lightningdodging"
             },
             {
                 "name": "Up to 20 Lightning Dodges",
-                "img": "images/minigames/Lightning2.png",
-                "codes": "20lightningdodging"
+                "img": "images/minigames/Lightning.png",
+                "codes": "5lightningdodging, 10lightningdodging, 20lightningdodging"
             },
             {
                 "name": "Up to 50 Lightning Dodges",
-                "img": "images/minigames/Lightning2.png",
-                "codes": "50lightningdodging"
+                "img": "images/minigames/Lightning.png",
+                "codes": "5lightningdodging, 10lightningdodging, 20lightningdodging, 50lightningdodging"
             },
             {
                 "name": "Up to 100 Lightning Dodges",
-                "img": "images/minigames/Lightning2.png",
-                "codes": "100lightningdodging"
+                "img": "images/minigames/Lightning.png",
+                "codes": "5lightningdodging, 10lightningdodging, 20lightningdodging, 50lightningdodging, 100lightningdodging"
             },
             {
                 "name": "Up to 150 Lightning Dodges",
-                "img": "images/minigames/Lightning2.png",
-                "codes": "150lightningdodging"
+                "img": "images/minigames/Lightning.png",
+                "codes": "5lightningdodging, 10lightningdodging, 20lightningdodging, 50lightningdodging, 100lightningdodging, 150lightningdodging"
             },
             {
                 "name": "Up to 200 Lightning Dodges",
-                "img": "images/minigames/Lightning2.png",
-                "codes": "200lightningdodging"
+                "img": "images/minigames/Lightning.png",
+                "codes": "5lightningdodging, 10lightningdodging, 20lightningdodging, 50lightningdodging, 100lightningdodging, 150lightningdodging, 200lightningdodging"
             }
         ]
         
@@ -169,22 +169,22 @@
             {
                 "name": "Up to Dodger Chocobo",
                 "img": "images/minigames/Red Chocobo.png",
-                "codes": "dodgerminigame"
+                "codes": "wobblyminigame, dodgerminigame"
             },
             {
                 "name": "Up to Hyper Dodger Chocobo",
                 "img": "images/minigames/Red Chocobo.png",
-                "codes": "hyperdodgerminigame"
+                "codes": "wobblyminigame, dodgerminigame, hyperdodgerminigame"
             },
             {
                 "name": "Up to Catcher Chocobo",
                 "img": "images/minigames/Red Chocobo.png",
-                "codes": "catcherminigame"
+                "codes": "wobblyminigame, dodgerminigame, hyperdodgerminigame, catcherminigame"
             },
             {
                 "name": "Up to Sun Sigil",
                 "img": "images/minigames/Red Chocobo.png",
-                "codes": "sunsigilminigame"
+                "codes": "wobblyminigame, dodgerminigame, hyperdodgerminigame, catcherminigame, sunsigilminigame"
             }
         ]
     },
@@ -209,27 +209,27 @@
             {
                 "name": "Up to 1 Chest",
                 "img": "images/minigames/Chocobo.png",
-                "codes": "1chestchocoborace"
+                "codes": "nochestchocoborace, 1chestchocoborace"
             },
             {
                 "name": "Up to 2 Chests",
                 "img": "images/minigames/Chocobo.png",
-                "codes": "2chestchocoborace"
+                "codes": "nochestchocoborace, 1chestchocoborace, 2chestchocoborace"
             },
             {
                 "name": "Up to 3 Chests",
                 "img": "images/minigames/Chocobo.png",
-                "codes": "3chestchocoborace"
+                "codes": "nochestchocoborace, 1chestchocoborace, 2chestchocoborace, 3chestchocoborace"
             },
             {
                 "name": "Up to 4 Chests",
                 "img": "images/minigames/Chocobo.png",
-                "codes": "4chestchocoborace"
+                "codes": "nochestchocoborace, 1chestchocoborace, 2chestchocoborace, 3chestchocoborace, 4chestchocoborace"
             },
             {
                 "name": "Up to 5 Chests",
                 "img": "images/minigames/Chocobo.png",
-                "codes": "5chestchocoborace"
+                "codes": "nochestchocoborace, 1chestchocoborace, 2chestchocoborace, 3chestchocoborace, 4chestchocoborace, 5chestchocoborace"
             }
         ]
     },
