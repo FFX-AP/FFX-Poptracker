@@ -1,0 +1,13 @@
+name: Maintenance
+description: Chores, routine tasks, and refactors
+type: Maintenance
+labels: "Maintenance"
+projects: "FFX-AP/1"
+body:
+  - type: textarea
+    id: maintenace
+    attributes:
+      label: Maintenance
+      description: What maintenance tasks are being performed, and why?
+    validations:
+      required: true

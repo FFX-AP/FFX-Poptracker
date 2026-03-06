@@ -354,6 +354,12 @@
         "img": "images/maps/regions/zanarkand/Zanarkand Ruins.png"
     },
     {
+        "name": "Zanarkand Cloister",
+        "location_size": 32,
+        "location_border_thickness": 1,
+        "img": "images/maps/cloisters/Zanarkand Cloister.png"
+    },
+    {
         "name": "Zanarkand Temple",
         "location_size": 20,
         "location_border_thickness": 1,

@@ -1088,6 +1088,7 @@
                     {
                         "name": "Bring Cloudy Mirror to Celestial Flower (Event)",
                         "ref": "Celestial/Celestial Mirror/Progressive Mirror"
+                        "ref": "Celestial/Celestial Mirror/Progressive Mirror"
                     },
                     {
                         "name": "Upgrade Caladbolg Once (Event)",
@@ -1764,6 +1765,10 @@
                     {
                         "name": "Area Conquest - Omega Dungeon",
                         "ref": "Monster Arena/Area Conquest/Creation Rewards/Omega Dungeon"
+                    },
+                    {
+                        "name": "Mars Sigil",
+                        "ref": "Celestial/Auron/Mars Sigil"
                     },
                     {
                         "name": "Species Conquest - Wolf (3x)",

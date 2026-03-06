@@ -1,0 +1,13 @@
+name: Bug Report
+description: "An unexpected problem or behaviour"
+type: Bug
+labels: "Bug"
+projects: "FFX-AP/1"
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: In as much detail, what failed, and what steps were taken to cause this?
+    validations:
+      required: true

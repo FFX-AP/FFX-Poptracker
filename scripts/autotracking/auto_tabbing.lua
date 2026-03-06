@@ -188,7 +188,6 @@ RoomToMap = {
     [193] = {"Guadosalam"},
     [364] = {"Guadosalam"},
     [213] = {"Guadosalam"},
-    [134] = {"Guadosalam"},
 
     [140] = {"Thunder Plains"},
     [256] = {"Thunder Plains"},
@@ -287,7 +286,6 @@ RoomToMap = {
     [309] = {"Mt. Gagazet", "Outside"},
     [165] = {"Mt. Gagazet", "Outside"},
     [249] = {"Mt. Gagazet", "Outside"},
-    [134] = {"Mt. Gagazet", "Outside"},
     [272] = {"Mt. Gagazet", "Cave"},
     [310] = {"Mt. Gagazet", "Cave"},
     [311] = {"Mt. Gagazet", "Cave"},
@@ -304,7 +302,7 @@ RoomToMap = {
     [222] = {"Zanarkand", "Ruins"},
     [316] = {"Zanarkand", "Ruins"},
     [313] = {"Zanarkand", "Ruins"},
-    [320] = {"Zanarkand", "Temple"},
+    [320] = {"Zanarkand", "Cloister"},
     [317] = {"Zanarkand", "Temple"},
     [318] = {"Zanarkand", "Temple"},
     [224] = {"Zanarkand", "Temple"},
@@ -325,12 +323,18 @@ RoomToMap = {
     [271] = {"Omega Ruins"},
 }
 
+RoomToIgnore = {
+    134
+}
+
 function autoTab(value)
     if (RoomToMap[value] ~= nil) then   -- Map found, activate tab/s for room
         for _, tab in pairs(RoomToMap[value]) do
             print("MAP: " .. tab)    
             Tracker:UiHint("ActivateTab", tab)
         end
+    elseif (RoomToIgnore[value] ~= nil) then  -- Don't tab on these maps
+        return
     else    -- If map not found, default to world map
         print("WORLD MAP")
         Tracker:UiHint("ActivateTab", "World Map")
