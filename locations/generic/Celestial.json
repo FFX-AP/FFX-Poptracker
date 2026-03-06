@@ -19,7 +19,7 @@
                     {
                         "name": "Mars Sigil",
                         "visibility_rules": ["capturesanity, capturerewardsarea"],
-                        "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards, ^$CheckTotalConquests"]
+                        "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards, ^$CheckTotalConquests|10"]
                     },
                     {
                         "name": "Masamune Crest Upgrade",

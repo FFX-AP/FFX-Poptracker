@@ -305,11 +305,11 @@ function OnCapture(capture)
     end
 end
 
-function CheckTotalConquests()
+function CheckTotalConquests(qty)
     local area_conq = Tracker:ProviderCountForCode("areaconquests")
     local species_conq = Tracker:ProviderCountForCode("speciesconquests")
 
-    if area_conq + species_conq >= 10 then
+    if area_conq + species_conq >= tonumber(qty) then
         return ACCESS_NORMAL
     else
         return ACCESS_NONE
