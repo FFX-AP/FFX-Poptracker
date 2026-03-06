@@ -27,9 +27,12 @@
                     {
                         "name": "Win the Story Blitzball Tournament (Event)",
                         "map_locations": [{"map": "Luca", "x": 420, "y": 415}],
-                        "access_rules": ["oblitzerator, [$hasMinimumParty|3]"],
-                        "visibility_rules": ["minigames"],
-                        "sections": [{"name": "Story Win vs. Luca Goers Reward"}]
+                        "sections": [
+                            {
+                                "name": "Story Win vs. Luca Goers Reward", 
+                                "ref": "Minigames/Blitzball/Win the Story Blitzball Tournament (Event)"
+                            }
+                        ]
                     },
                     {
                         "name": "Post-Blitzball Tournament (Event)",
@@ -74,11 +77,10 @@
                     {
                         "name": "Blitzball: Obtain The Jupiter Sigil League Prize (Event)",
                         "map_locations": [{"map": "Luca", "x": 480, "y": 730}],
-                        "access_rules": ["oblitzerator, [$hasMinimumParty|3]"],
                         "sections": [
                             {
                                 "name": "Jupiter Sigil",
-                                "ref": "Celestial/Wakka/Jupiter Sigil"
+                                "ref": "Minigames/Blitzball/Blitzball: Obtain The Jupiter Sigil League Prize (Event)"
                             }
                         ]
                     }
@@ -175,11 +177,10 @@
                     {
                         "name": "Cafe - Talk to Owner After Placing at Least Third in a Tournament (Chest)",
                         "map_locations": [{"map": "Luca", "x": 1145, "y": 410}],
-                        "access_rules": ["oblitzerator, [$hasMinimumParty|3]"],
                         "sections": [
                             {
                                 "name": "World Champion",
-                                "ref": "Celestial/Wakka/World Champion"
+                                "ref": "Minigames/Blitzball/Cafe - Talk to Owner After Placing at Least Third in a Tournament (Chest)"
                             }
                         ]
                     }
