@@ -38,7 +38,6 @@
                         "name": "Post-Blitzball Tournament (Event)",
                         "map_locations": [{"map": "Luca", "x": 400, "y": 505}],
                         "access_rules": ["oblitzerator, [$hasMinimumParty|3]"],
-                        "visibility_rules": ["storymodeblitzball"],
                         "sections": [
                             {
                                 "name": "Auron",
