@@ -119,18 +119,88 @@ function applySlotData(slot_data)
         Tracker:FindObjectForCode("creationbosses").CurrentStage = 3
     end
 
-    
+    local recruit_sanity = slot_data["recruit_sanity"]
+    if (recruit_sanity == 0) then
+        Tracker:FindObjectForCode("recruitsanity").CurrentStage = 0
+    elseif (recruit_sanity == 1) then
+        Tracker:FindObjectForCode("recruitsanity").CurrentStage = 1
+    elseif (recruit_sanity == 2) then
+        Tracker:FindObjectForCode("recruitsanity").CurrentStage = 2
+    end
+
+    local mini_game_chocobo_training = slot_data["mini_game_chocobo_training"]
+    if (mini_game_chocobo_training == 0) then
+        Tracker:FindObjectForCode("minigamechocobotraining").CurrentStage = 0
+    elseif (mini_game_chocobo_training == 1) then
+        Tracker:FindObjectForCode("minigamechocobotraining").CurrentStage = 1
+    elseif (mini_game_chocobo_training == 2) then
+        Tracker:FindObjectForCode("minigamechocobotraining").CurrentStage = 2
+    elseif (mini_game_chocobo_training == 3) then
+        Tracker:FindObjectForCode("minigamechocobotraining").CurrentStage = 3
+    elseif (mini_game_chocobo_training == 4) then
+        Tracker:FindObjectForCode("minigamechocobotraining").CurrentStage = 4
+    elseif (mini_game_chocobo_training == 5) then
+        Tracker:FindObjectForCode("minigamechocobotraining").CurrentStage = 5
+    end
+
+    local mini_game_lightning_dodging = slot_data["mini_game_lightning_dodging"]
+    if (mini_game_lightning_dodging == 0) then
+        Tracker:FindObjectForCode("minigamelightningdodging").CurrentStage = 0
+    elseif (mini_game_lightning_dodging == 1) then
+        Tracker:FindObjectForCode("minigamelightningdodging").CurrentStage = 1
+    elseif (mini_game_lightning_dodging == 2) then
+        Tracker:FindObjectForCode("minigamelightningdodging").CurrentStage = 2
+    elseif (mini_game_lightning_dodging == 3) then
+        Tracker:FindObjectForCode("minigamelightningdodging").CurrentStage = 3
+    elseif (mini_game_lightning_dodging == 4) then
+        Tracker:FindObjectForCode("minigamelightningdodging").CurrentStage = 4
+    elseif (mini_game_lightning_dodging == 5) then
+        Tracker:FindObjectForCode("minigamelightningdodging").CurrentStage = 5
+    elseif (mini_game_lightning_dodging == 6) then
+        Tracker:FindObjectForCode("minigamelightningdodging").CurrentStage = 6
+    elseif (mini_game_lightning_dodging == 7) then
+        Tracker:FindObjectForCode("minigamelightningdodging").CurrentStage = 7
+    end
+
+    local mini_game_chocobo_race = slot_data["mini_game_chocobo_race"]
+    if (mini_game_chocobo_race == 0) then
+        Tracker:FindObjectForCode("minigamechocoborace").CurrentStage = 0
+    elseif (mini_game_chocobo_race == 1) then
+        Tracker:FindObjectForCode("minigamechocoborace").CurrentStage = 1
+    elseif (mini_game_chocobo_race == 2) then
+        Tracker:FindObjectForCode("minigamechocoborace").CurrentStage = 2
+    elseif (mini_game_chocobo_race == 3) then
+        Tracker:FindObjectForCode("minigamechocoborace").CurrentStage = 3
+    elseif (mini_game_chocobo_race == 4) then
+        Tracker:FindObjectForCode("minigamechocoborace").CurrentStage = 4
+    elseif (mini_game_chocobo_race == 5) then
+        Tracker:FindObjectForCode("minigamechocoborace").CurrentStage = 5
+    elseif (mini_game_chocobo_race == 6) then
+        Tracker:FindObjectForCode("minigamechocoborace").CurrentStage = 6
+    end
+
+    local mini_game_blitzball = slot_data["mini_game_blitzball"]
+    if (mini_game_blitzball == 0) then
+        Tracker:FindObjectForCode("minigameblitzball").CurrentStage = 0
+    elseif (mini_game_blitzball == 1) then
+        Tracker:FindObjectForCode("minigameblitzball").CurrentStage = 1
+    elseif (mini_game_blitzball == 2) then
+        Tracker:FindObjectForCode("minigameblitzball").CurrentStage = 2
+    elseif (mini_game_blitzball == 3) then
+        Tracker:FindObjectForCode("minigameblitzball").CurrentStage = 3
+    end
+
     if (slot_data["required_primers"] ~= nil) then
         Tracker:FindObjectForCode("requiredprimers").AcquiredCount = slot_data["required_primers"]    
     end
     if (slot_data["capture_sanity"] ~= nil) then
         Tracker:FindObjectForCode("capturesanity").Active = slot_data["capture_sanity"]
     end
-    if (slot_data["mini_games"] ~= nil) then
-        Tracker:FindObjectForCode("minigames").Active = slot_data["mini_games"]
+    if (slot_data["mini_games_butterflies"] ~= nil) then
+        Tracker:FindObjectForCode("minigamebutterfly").Active = slot_data["mini_games_butterflies"]
     end
-    if (slot_data["recruit_sanity"] ~= nil) then
-        Tracker:FindObjectForCode("recruitsanity").Active = slot_data["recruit_sanity"]
+    if (slot_data["mini_games_cactuar_village"] ~= nil) then
+        Tracker:FindObjectForCode("minigamecactuar").Active = slot_data["mini_games_cactuar_village"]
     end
     if (slot_data["jecht_spheres"] ~= nil) then
         Tracker:FindObjectForCode("jechtspheres").Active = slot_data["jecht_spheres"]

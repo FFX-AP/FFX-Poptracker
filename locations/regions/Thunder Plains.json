@@ -57,7 +57,7 @@
                     {
                         "name": "Blitzball Recruit",
                         "map_locations": [{ "map": "Thunder Plains", "x": 355, "y": 83}],
-                        "sections": [{"name": "Recruit: Mifurey", "ref": "Blitzball Recruits/Mifurey"}]
+                        "sections": [{"name": "Recruit: Mifurey", "ref": "Blitzball Recruits/Free Agents/Mifurey"}]
                     },
                     {
                         "name": "Agency & Bikanel: Desert, East (Primer)",
@@ -77,17 +77,34 @@
                     {
                         "name": "Lightning Dodging",
                         "map_locations": [{ "map": "Thunder Plains", "x": 325, "y": 255}],
-                        "visibility_rules": ["minigames"],
                         "sections": [
-                            {"name": "Lightning Dodger - 5 Consecutive Dodges (Event)"},
-                            {"name": "Lightning Dodger - 10 Consecutive Dodges (Event)"},
-                            {"name": "Lightning Dodger - 20 Consecutive Dodges (Event)"},
-                            {"name": "Lightning Dodger - 50 Consecutive Dodges (Event)"},
-                            {"name": "Lightning Dodger - 100 Consecutive Dodges (Event)"},
-                            {"name": "Lightning Dodger - 150 Consecutive Dodges (Event)"},
+                            {
+                                "name": "Lightning Dodger - 5 Consecutive Dodges (Event)",
+                                "ref": "Minigames/Lightning Dodging/Lightning Dodger - 5 Consecutive Dodges (Event)"
+                            },
+                            {
+                                "name": "Lightning Dodger - 10 Consecutive Dodges (Event)",
+                                "ref": "Minigames/Lightning Dodging/Lightning Dodger - 10 Consecutive Dodges (Event)"
+                            },
+                            {
+                                "name": "Lightning Dodger - 20 Consecutive Dodges (Event)",
+                                "ref": "Minigames/Lightning Dodging/Lightning Dodger - 20 Consecutive Dodges (Event)"
+                            },
+                            {
+                                "name": "Lightning Dodger - 50 Consecutive Dodges (Event)",
+                                "ref": "Minigames/Lightning Dodging/Lightning Dodger - 50 Consecutive Dodges (Event)"
+                            },
+                            {
+                                "name": "Lightning Dodger - 100 Consecutive Dodges (Event)",
+                                "ref": "Minigames/Lightning Dodging/Lightning Dodger - 100 Consecutive Dodges (Event)"
+                            },
+                            {
+                                "name": "Lightning Dodger - 150 Consecutive Dodges (Event)",
+                                "ref": "Minigames/Lightning Dodging/Lightning Dodger - 150 Consecutive Dodges (Event)"
+                            },
                             {
                                 "name": "Lightning Dodger - 200 Consecutive Dodges (Event)",
-                                "ref": "Celestial/Lulu/Venus Sigil"
+                                "ref": "Minigames/Lightning Dodging/Lightning Dodger - 200 Consecutive Dodges (Event)"
                             }
                         ]
                     }
