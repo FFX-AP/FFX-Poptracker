@@ -203,7 +203,7 @@
                                 "maps": ["Macalania Temple"]
                             }
                         },
-                         {
+                        {
                             "title": "Cloister",
                             "content": {
                                 "type": "map",
@@ -326,6 +326,13 @@
                             "content": {
                                 "type": "map",
                                 "maps": ["Zanarkand Ruins"]
+                            }
+                        },
+                        {
+                            "title": "Cloister",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Zanarkand Cloister"]
                             }
                         },
                         {

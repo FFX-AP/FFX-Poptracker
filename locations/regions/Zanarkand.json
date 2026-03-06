@@ -75,7 +75,10 @@
                 "children": [
                     {
                         "name": "Defeat Spectral Keeper (Boss)",
-                        "map_locations": [{ "map": "Zanarkand Temple", "x": 381, "y": 695, "shape": "trapezoid", "size": 32}],
+                        "map_locations": [
+                            { "map": "Zanarkand Temple", "x": 381, "y": 695, "shape": "trapezoid", "size": 32},
+                            { "map": "Zanarkand Cloister", "x": 1200, "y": 883, "shape": "trapezoid", "size": 40}
+                        ],
                         "access_rules": ["[$hasMinimumParty|3]"],
                         "sections": [
                             {
@@ -109,7 +112,10 @@
                     },
                     {
                         "name": "Cloister - Destruction Sphere (Chest)",
-                        "map_locations": [{ "map": "Zanarkand Temple", "x": 381, "y": 420}],
+                        "map_locations": [
+                            { "map": "Zanarkand Temple", "x": 381, "y": 420},
+                            { "map": "Zanarkand Cloister", "x": 1200, "y": 490}
+                        ],
                         "access_rules": ["yunalesca, [$hasMinimumParty|3]"],
                         "sections": [
                             { 
