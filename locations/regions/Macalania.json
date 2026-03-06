@@ -13,7 +13,7 @@
                 "sections": [
                     {
                         "name": "Bring Cloudy Mirror to Celestial Flower (Event)",
-                        "ref": "Celestial/General/Celestial Mirror"
+                        "ref": "Celestial/Celestial Mirror/Progressive Mirror"
                     },
                     {
                         "name": "Upgrade Caladbolg Once (Event)",
@@ -138,7 +138,7 @@
                         "sections": [
                             {
                                 "name": "Saturn Sigil",
-                                "ref": "Celestial/Kimahri/Saturn Sigil"
+                                "ref": "Minigames/Butterfly/Finish Butterfly Minigame (Event)"
                             }
                         ]
                     },
