@@ -1718,7 +1718,7 @@
                                 "access_rules": ["splasher:2, achelous:2, maelspike:2"]
                             },
                             {
-                                "name": "All Fiends x10",
+                                "name": "Capture all Fiends x10 & Kill all Creations",
                                 "access_rules": ["^$CheckAllCaptures|10, ^$CheckAllCreations"]
                             },
                             {
@@ -1780,7 +1780,7 @@
                             },
                             {
                                 "name": "Nemesis",
-                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/All Fiends x10"],
+                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations"],
                                 "hosted_item": "nemesis",
                                 "clear_as_group": true
                             }
