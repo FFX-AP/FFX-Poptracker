@@ -235,7 +235,7 @@
                                 "map_locations": [{ "map": "Lake Macalania", "x": 250, "y": 600}],
                                 "sections": [
                                     {"name": "400 gil"},
-                                    {"name": "Recruit: Linna", "ref": "Blitzball Recruits/Linna"}
+                                    {"name": "Recruit: Linna", "ref": "Blitzball Recruits/Free Agents/Linna"}
                                 ]
                             },
                             {

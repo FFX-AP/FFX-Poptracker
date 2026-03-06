@@ -99,7 +99,7 @@
                     {
                         "name": "Blitzball Recruit",
                         "map_locations": [{ "map": "Moonflow", "x": 265, "y": 170}],
-                        "sections": [{"name": "Recruit: Miyu", "ref": "Blitzball Recruits/Miyu"}]
+                        "sections": [{"name": "Recruit: Miyu", "ref": "Blitzball Recruits/Free Agents/Miyu"}]
                     },
                     {
                         "name": "North Bank - Mix Tutorial (Event)",

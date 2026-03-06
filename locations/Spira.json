@@ -151,7 +151,7 @@
                     },
                     {
                         "name": "Recruit: Vilucha",
-                        "ref": "Blitzball Recruits/Vilucha"
+                        "ref": "Blitzball Recruits/Free Agents/Vilucha"
                     },
                     {
                         "name": "Cloister - Destruction Sphere (Chest)",
@@ -243,11 +243,23 @@
                 "sections": [
                     {
                         "name": "Recruit: Tatts",
-                        "ref": "Blitzball Recruits/Tatts"
-                    },                    
+                        "ref": "Blitzball Recruits/Free Agents/Tatts"
+                    },
+                    {
+                        "name": "Recruit: Vuroja",
+                        "ref": "Blitzball Recruits/Kilika Beasts/Vuroja"
+                    },
+                    {
+                        "name": "Recruit: Larbeight",
+                        "ref": "Blitzball Recruits/Kilika Beasts/Larbeight"
+                    },
                     {
                         "name": "House - Right of Collapsing House (Chest)",
                         "ref": "Kilika/Village/House - Right of Collapsing House (Chest)/Potion x3"
+                    },
+                    {
+                        "name": "Recruit: Isken",
+                        "ref": "Blitzball Recruits/Kilika Beasts/Isken"
                     },
                     {
                         "name": "Tavern - After Rescuing Kulukan's Sister from Collapsing House (Chest)",
@@ -256,6 +268,10 @@
                     {
                         "name": "Tavern - On Counter (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer IV/Kilika"
+                    },
+                    {
+                        "name": "Recruit: Kulukan",
+                        "ref": "Blitzball Recruits/Kilika Beasts/Kulukan"
                     },
                     {
                         "name": "Woods - East of First Intersection (Chest)",
@@ -295,7 +311,15 @@
                     },
                     {
                         "name": "Recruit: Mep",
-                        "ref": "Blitzball Recruits/Mep"
+                        "ref": "Blitzball Recruits/Free Agents/Mep"
+                    },
+                    {
+                        "name": "Recruit: Deim",
+                        "ref": "Blitzball Recruits/Kilika Beasts/Deim"
+                    },
+                    {
+                        "name": "Recruit: Nizarut",
+                        "ref": "Blitzball Recruits/Kilika Beasts/Nizarut"
                     },
                     {
                         "name": "Cloister - Destruction Sphere (Chest)",
@@ -321,7 +345,7 @@
                     },
                     {
                         "name": "Recruit: Kiyuri\n2nd Visit",
-                        "ref": "Blitzball Recruits/Kiyuri"
+                        "ref": "Blitzball Recruits/Free Agents/Kiyuri"
                     },
                     {
                         "name": "Deck - Top Floor, Counting Gulls (NPC)\n2nd Visit",
@@ -370,32 +394,52 @@
                         "ref": "Luca/City/City Limits - Staircase Leading to Mi'ihen (Chest)/1000 Gil"
                     },
                     {
+                        "name": "Recruit: Botta",
+                        "ref": "Blitzball Recruits/Besaid Aurochs/Botta"
+                    },
+                    {
+                        "name": "Recruit: Datto",
+                        "ref": "Blitzball Recruits/Besaid Aurochs/Datto"
+                    },
+                    {
+                        "name": "Recruit: Jassu",
+                        "ref": "Blitzball Recruits/Besaid Aurochs/Jassu"
+                    },
+                    {
+                        "name": "Recruit: Keepa",
+                        "ref": "Blitzball Recruits/Besaid Aurochs/Keepa"
+                    },
+                    {
+                        "name": "Recruit: Letty",
+                        "ref": "Blitzball Recruits/Besaid Aurochs/Letty"
+                    },
+                    {
                         "name": "Recruit: Nedus",
-                        "ref": "Blitzball Recruits/Nedus"
+                        "ref": "Blitzball Recruits/Free Agents/Nedus"
                     },
                     {
                         "name": "Recruit: Zev Ronso",
-                        "ref": "Blitzball Recruits/Zev Ronso"
+                        "ref": "Blitzball Recruits/Free Agents/Zev Ronso"
                     },
                     {
                         "name": "Recruit: Biggs",
-                        "ref": "Blitzball Recruits/Biggs"
+                        "ref": "Blitzball Recruits/Free Agents/Biggs"
                     },
                     {
                         "name": "Recruit: Wedge",
-                        "ref": "Blitzball Recruits/Wedge"
+                        "ref": "Blitzball Recruits/Free Agents/Wedge"
                     },
                     {
                         "name": "Recruit: Jumal",
-                        "ref": "Blitzball Recruits/Jumal"
+                        "ref": "Blitzball Recruits/Free Agents/Jumal"
                     },
                     {
                         "name": "Recruit: Shaami",
-                        "ref": "Blitzball Recruits/Shaami"
+                        "ref": "Blitzball Recruits/Free Agents/Shaami"
                     },
                     {
                         "name": "Recruit: Zalitz",
-                        "ref": "Blitzball Recruits/Zalitz"
+                        "ref": "Blitzball Recruits/Free Agents/Zalitz"
                     },
                     {
                         "name": "Defeat Oblitzerator (Boss)",
@@ -418,8 +462,56 @@
                         "ref": "Jecht's Spheres/Stadium Basement A - East Locker Hall (Jecht's Sphere)/Progressive Jecht's Sphere"
                     },
                     {
+                        "name": "Recruit: Argai Ronso",
+                        "ref": "Blitzball Recruits/Ronso Fangs/Argai Ronso"
+                    },
+                    {
+                        "name": "Recruit: Basik Ronso",
+                        "ref": "Blitzball Recruits/Ronso Fangs/Basik Ronso"
+                    },
+                    {
+                        "name": "Recruit: Gazna Ronso",
+                        "ref": "Blitzball Recruits/Ronso Fangs/Gazna Ronso"
+                    },
+                    {
+                        "name": "Recruit: Irga Ronso",
+                        "ref": "Blitzball Recruits/Ronso Fangs/Irga Ronso"
+                    },
+                    {
+                        "name": "Recruit: Nuvy Ronso",
+                        "ref": "Blitzball Recruits/Ronso Fangs/Nuvy Ronso"
+                    },
+                    {
+                        "name": "Recruit: Zamzi Ronso",
+                        "ref": "Blitzball Recruits/Ronso Fangs/Zamzi Ronso"
+                    },
+                    {
+                        "name": "Recruit: Abus",
+                        "ref": "Blitzball Recruits/Luca Goers/Abus"
+                    },
+                    {
+                        "name": "Recruit: Balgerda",
+                        "ref": "Blitzball Recruits/Luca Goers/Balgerda"
+                    },
+                    {
+                        "name": "Recruit: Bickson",
+                        "ref": "Blitzball Recruits/Luca Goers/Bickson"
+                    },
+                    {
+                        "name": "Recruit: Doram",
+                        "ref": "Blitzball Recruits/Luca Goers/Doram"
+                    },
+                    {
+                        "name": "Recruit: Graav",
+                        "ref": "Blitzball Recruits/Luca Goers/Graav"
+                    },
+                    {
+                        "name": "Recruit: Raudy",
+                        "ref": "Blitzball Recruits/Luca Goers/Raudy"
+                    },
+                    {
                         "name": "Recruit: Shuu",
-                        "ref": "Blitzball Recruits/Shuu"
+                        "ref": "Blitzball Recruits/Free Agents/Shuu"
                     },
                     {
                         "name": "Cafe - Talk to Owner After Placing at Least Third in a Tournament (Chest)",
@@ -509,7 +601,7 @@
                     },
                     {
                         "name": "Recruit: Ropp",
-                        "ref": "Blitzball Recruits/Ropp"
+                        "ref": "Blitzball Recruits/Free Agents/Ropp"
                     },
                     {
                         "name": "Defeat Chocobo Eater (Boss)",
@@ -745,7 +837,7 @@
                     },
                     {
                         "name": "Recruit: Kyou",
-                        "ref": "Blitzball Recruits/Kyou"
+                        "ref": "Blitzball Recruits/Free Agents/Kyou"
                     }
                 ]
             },
@@ -795,7 +887,7 @@
                     },
                     {
                         "name": "Recruit: Miyu",
-                        "ref": "Blitzball Recruits/Miyu"
+                        "ref": "Blitzball Recruits/Free Agents/Miyu"
                     },
                     {
                         "name": "North Wharf - Near Bench (Chest)",
@@ -824,8 +916,20 @@
                 "map_locations": [{ "map": "Spira", "x": 709, "y": 483}],
                 "sections": [
                     {
+                        "name": "Recruit: Noy Guado",
+                        "ref": "Blitzball Recruits/Guado Glories/Noy Guado"
+                    },
+                    {
                         "name": "East of Mansion (Chest)",
                         "ref": "Guadosalam/Guadosalam/East of Mansion (Chest)/Mega-Potion x1"
+                    },
+                    {
+                        "name": "Recruit: Nav Guado",
+                        "ref": "Blitzball Recruits/Guado Glories/Nav Guado"
+                    },
+                    {
+                        "name": "Recruit: Zazi Guado",
+                        "ref": "Blitzball Recruits/Guado Glories/Zazi Guado"
                     },
                     {
                         "name": "House - On Floor (Primer)",
@@ -836,6 +940,14 @@
                         "ref": "Guadosalam/Guadosalam/House - Back Wall (Chest)/3000 gil"
                     },
                     {
+                        "name": "Recruit: Pah Guado",
+                        "ref": "Blitzball Recruits/Guado Glories/Pah Guado"
+                    },
+                    {
+                        "name": "Recruit: Auda Guado",
+                        "ref": "Blitzball Recruits/Guado Glories/Auda Guado"
+                    },
+                    {
                         "name": "Upper Level, South Side (Chest)",
                         "ref": "Guadosalam/Guadosalam/Upper Level, South Side (Chest)/Elixir x1"
                     },
@@ -844,8 +956,12 @@
                         "ref": "Guadosalam/Guadosalam/Mansion, Entrance - Upper Level (Chest)/Hi-Potion x2"
                     },
                     {
+                        "name": "Recruit: Giera Guado",
+                        "ref": "Blitzball Recruits/Guado Glories/Giera Guado"
+                    },
+                    {
                         "name": "Recruit: Yuma Guado",
-                        "ref": "Blitzball Recruits/Yuma Guado"
+                        "ref": "Blitzball Recruits/Free Agents/Yuma Guado"
                     },
                     {
                         "name": "Road to Farplane - Left Side Behind Wall (Chest)",
@@ -883,7 +999,7 @@
                     },
                     {
                         "name": "Recruit: Mifurey",
-                        "ref": "Blitzball Recruits/Mifurey"
+                        "ref": "Blitzball Recruits/Free Agents/Mifurey"
                     },
                     {
                         "name": "Agency & Bikanel: Desert, East (Primer)",
@@ -1013,7 +1129,7 @@
                     },
                     {
                         "name": "Recruit: Linna",
-                        "ref": "Blitzball Recruits/Linna"
+                        "ref": "Blitzball Recruits/Free Agents/Linna"
                     },
                     {
                         "name": "Hall - Gift from Tromell upon Entrance (Event)",
@@ -1321,15 +1437,39 @@
                 "sections": [
                     {
                         "name": "Recruit: Brother",
-                        "ref": "Blitzball Recruits/Brother"
+                        "ref": "Blitzball Recruits/Free Agents/Brother"
                     },
                     {
                         "name": "Recruit: Wakka",
-                        "ref": "Blitzball Recruits/Wakka"
+                        "ref": "Blitzball Recruits/Free Agents/Wakka"
+                    },
+                    {
+                        "name": "Recruit: Lakkam",
+                        "ref": "Blitzball Recruits/Al Bhed Psyches/Lakkam"
+                    },
+                    {
+                        "name": "Recruit: Berrik",
+                        "ref": "Blitzball Recruits/Al Bhed Psyches/Berrik"
+                    },
+                    {
+                        "name": "Recruit: Blappa",
+                        "ref": "Blitzball Recruits/Al Bhed Psyches/Blappa"
+                    },
+                    {
+                        "name": "Recruit: Eigaar",
+                        "ref": "Blitzball Recruits/Al Bhed Psyches/Eigaar"
+                    },
+                    {
+                        "name": "Recruit: Judda",
+                        "ref": "Blitzball Recruits/Al Bhed Psyches/Judda"
+                    },
+                    {
+                        "name": "Recruit: Nimrook",
+                        "ref": "Blitzball Recruits/Al Bhed Psyches/Nimrook"
                     },
                     {
                         "name": "Recruit: Rin",
-                        "ref": "Blitzball Recruits/Rin"
+                        "ref": "Blitzball Recruits/Free Agents/Rin"
                     },
                     {
                         "name": "Collect All Primers, Talk to Rin (NPC)",
@@ -1465,11 +1605,11 @@
                     },
                     {
                         "name": "Recruit: Naida",
-                        "ref": "Blitzball Recruits/Naida"
+                        "ref": "Blitzball Recruits/Free Agents/Naida"
                     },
                     {
                         "name": "Recruit: Svanda",
-                        "ref": "Blitzball Recruits/Svanda"
+                        "ref": "Blitzball Recruits/Free Agents/Svanda"
                     },
                     {
                         "name": "Defeat Defender X (Boss)",
@@ -2015,7 +2155,7 @@
                 "sections": [
                     {
                         "name": "Recruit: Durren",
-                        "ref": "Blitzball Recruits/Durren"
+                        "ref": "Blitzball Recruits/Free Agents/Durren"
                     },
                     {
                         "name": "Gorge Bottom - Rusty Sword Between Two Rocks, East End (Event)",

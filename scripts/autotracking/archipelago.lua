@@ -119,6 +119,15 @@ function applySlotData(slot_data)
         Tracker:FindObjectForCode("creationbosses").CurrentStage = 3
     end
 
+    local recruit_sanity = slot_data["recruit_sanity"]
+    if (recruit_sanity == 0) then
+        Tracker:FindObjectForCode("recruitsanity").CurrentStage = 0
+    elseif (recruit_sanity == 1) then
+        Tracker:FindObjectForCode("recruitsanity").CurrentStage = 1
+    elseif (recruit_sanity == 2) then
+        Tracker:FindObjectForCode("recruitsanity").CurrentStage = 2
+    end
+
     local mini_game_chocobo_training = slot_data["mini_game_chocobo_training"]
     if (mini_game_chocobo_training == 0) then
         Tracker:FindObjectForCode("minigamechocobotraining").CurrentStage = 0
@@ -192,9 +201,6 @@ function applySlotData(slot_data)
     end
     if (slot_data["mini_games_cactuar_village"] ~= nil) then
         Tracker:FindObjectForCode("minigamecactuar").Active = slot_data["mini_games_cactuar_village"]
-    end
-    if (slot_data["recruit_sanity"] ~= nil) then
-        Tracker:FindObjectForCode("recruitsanity").Active = slot_data["recruit_sanity"]
     end
     if (slot_data["jecht_spheres"] ~= nil) then
         Tracker:FindObjectForCode("jechtspheres").Active = slot_data["jecht_spheres"]

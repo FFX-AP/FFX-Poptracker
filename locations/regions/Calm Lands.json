@@ -49,12 +49,12 @@
                     {
                         "name": "Recruit: Naida",
                         "map_locations": [{ "map": "Calm Lands", "x": 260, "y": 620}],
-                        "sections": [{"name": "Naida", "ref": "Blitzball Recruits/Naida"}]
+                        "sections": [{"name": "Naida", "ref": "Blitzball Recruits/Free Agents/Naida"}]
                     },
                     {
                         "name": "Recruit: Svanda",
                         "map_locations": [{ "map": "Calm Lands", "x": 485, "y": 450}],
-                        "sections": [{"name": "Svanda", "ref": "Blitzball Recruits/Svanda"}]
+                        "sections": [{"name": "Svanda", "ref": "Blitzball Recruits/Free Agents/Svanda"}]
                     },
                     {
                         "name": "Defeat Defender X (Boss)",

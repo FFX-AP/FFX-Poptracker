@@ -10,9 +10,24 @@
                 "name": "Guadosalam",
                 "children": [
                     {
+                        "name": "Recruit: Noy Guado",
+                        "map_locations": [{ "map": "Guadosalam", "x": 540, "y": 590}],
+                        "sections": [{"name": "Noy Guado", "ref": "Blitzball Recruits/Guado Glories/Noy Guado"}]
+                    },
+                    {
                         "name": "East of Mansion (Chest)",
                         "map_locations": [{ "map": "Guadosalam", "x": 520, "y": 205}],
                         "sections": [{"name": "Mega-Potion x1"}]
+                    },
+                    {
+                        "name": "Recruit: Nav Guado",
+                        "map_locations": [{ "map": "Guadosalam", "x": 320, "y": 310}],
+                        "sections": [{"name": "Nav Guado", "ref": "Blitzball Recruits/Guado Glories/Nav Guado"}]
+                    },
+                    {
+                        "name": "Recruit: Zazi Guado",
+                        "map_locations": [{ "map": "Guadosalam", "x": 55, "y": 580}],
+                        "sections": [{"name": "Zazi Guado", "ref": "Blitzball Recruits/Guado Glories/Zazi Guado"}]
                     },
                     {
                         "name": "House - On Floor (Primer)",
@@ -30,6 +45,16 @@
                         "sections": [{"name": "3000 gil"}]
                     },
                     {
+                        "name": "Recruit: Pah Guado",
+                        "map_locations": [{ "map": "Guadosalam", "x": 170, "y": 505}],
+                        "sections": [{"name": "Pah Guado", "ref": "Blitzball Recruits/Guado Glories/Pah Guado"}]
+                    },
+                    {
+                        "name": "Recruit: Auda Guado",
+                        "map_locations": [{ "map": "Guadosalam", "x": 300, "y": 475}],
+                        "sections": [{"name": "Auda Guado", "ref": "Blitzball Recruits/Guado Glories/Auda Guado"}]
+                    },
+                    {
                         "name": "Upper Level, South Side (Chest)",
                         "map_locations": [{ "map": "Guadosalam", "x": 317, "y": 495}],
                         "sections": [{"name": "Elixir x1"}]
@@ -40,9 +65,14 @@
                         "sections": [{"name": "Hi-Potion x2"}]
                     },
                     {
-                        "name": "Blitzball Recruit",
+                        "name": "Recruit: Giera Guado",
+                        "map_locations": [{ "map": "Guadosalam", "x": 720, "y": 540}],
+                        "sections": [{"name": "Giera Guado", "ref": "Blitzball Recruits/Guado Glories/Giera Guado"}]
+                    },
+                    {
+                        "name": "Recruit: Yuma Guado",
                         "map_locations": [{ "map": "Guadosalam", "x": 720, "y": 160}],
-                        "sections": [{"name": "Recruit: Yuma Guado", "ref": "Blitzball Recruits/Yuma Guado"}]
+                        "sections": [{"name": "Yuma Guado", "ref": "Blitzball Recruits/Free Agents/Yuma Guado"}]
                     }
                 ]
             },

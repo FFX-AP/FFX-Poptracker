@@ -46,11 +46,46 @@
                         ]
                     },
                     {
+                        "name": "Blitzball Recruit - Besaid Aurochs",
+                        "map_locations": [{"map": "Luca", "x": 475, "y": 400}],
+                        "sections": [
+                            {"name": "Recruit: Botta", "ref": "Blitzball Recruits/Besaid Aurochs/Botta"},
+                            {"name": "Recruit: Datto", "ref": "Blitzball Recruits/Besaid Aurochs/Datto"},
+                            {"name": "Recruit: Jassu", "ref": "Blitzball Recruits/Besaid Aurochs/Jassu"},
+                            {"name": "Recruit: Keepa", "ref": "Blitzball Recruits/Besaid Aurochs/Keepa"},
+                            {"name": "Recruit: Letty", "ref": "Blitzball Recruits/Besaid Aurochs/Letty"}
+                        ]
+                    },
+                    {
+                        "name": "Blitzball Recruit - Luca Goers\n2nd Visit",
+                        "map_locations": [{"map": "Luca", "x": 454, "y": 150}],
+                        "sections": [
+                            {"name": "Recruit: Abus", "ref": "Blitzball Recruits/Luca Goers/Abus"},
+                            {"name": "Recruit: Balgerda", "ref": "Blitzball Recruits/Luca Goers/Balgerda"},
+                            {"name": "Recruit: Bickson", "ref": "Blitzball Recruits/Luca Goers/Bickson"},
+                            {"name": "Recruit: Doram", "ref": "Blitzball Recruits/Luca Goers/Doram"},
+                            {"name": "Recruit: Graav", "ref": "Blitzball Recruits/Luca Goers/Graav"},
+                            {"name": "Recruit: Raudy", "ref": "Blitzball Recruits/Luca Goers/Raudy"}
+                        ]
+                    },
+                    {
+                        "name": "Blitzball Recruit - Ronso Fangs\n2nd Visit",
+                        "map_locations": [{"map": "Luca", "x": 710, "y": 350}],
+                        "sections": [
+                            {"name": "Recruit: Argai Ronso", "ref": "Blitzball Recruits/Ronso Fangs/Argai Ronso"},
+                            {"name": "Recruit: Basik Ronso", "ref": "Blitzball Recruits/Ronso Fangs/Basik Ronso"},
+                            {"name": "Recruit: Gazna Ronso", "ref": "Blitzball Recruits/Ronso Fangs/Gazna Ronso"},
+                            {"name": "Recruit: Irga Ronso", "ref": "Blitzball Recruits/Ronso Fangs/Irga Ronso"},
+                            {"name": "Recruit: Nuvy Ronso", "ref": "Blitzball Recruits/Ronso Fangs/Nuvy Ronso"},
+                            {"name": "Recruit: Zamzi Ronso", "ref": "Blitzball Recruits/Ronso Fangs/Zamzi Ronso"}
+                        ]
+                    },
+                    {
                         "name": "Blitzball Recruit - Biggs & Wedge",
                         "map_locations": [{"map": "Luca", "x": 443, "y": 640}],
                         "sections": [
-                            {"name": "Recruit: Biggs", "ref": "Blitzball Recruits/Biggs"},
-                            {"name": "Recruit: Wedge", "ref": "Blitzball Recruits/Wedge"}
+                            {"name": "Recruit: Biggs", "ref": "Blitzball Recruits/Free Agents/Biggs"},
+                            {"name": "Recruit: Wedge", "ref": "Blitzball Recruits/Free Agents/Wedge"}
                         ]
                     },
                     {
@@ -115,12 +150,12 @@
                     {
                         "name": "Recruit: Nedus",
                         "map_locations": [{"map": "Luca", "x": 90, "y": 800}],
-                        "sections": [{"name": "Nedus", "ref": "Blitzball Recruits/Nedus"}]
+                        "sections": [{"name": "Nedus", "ref": "Blitzball Recruits/Free Agents/Nedus"}]
                     },
                     {
                         "name": "Recruit: Zev Ronso",
                         "map_locations": [{"map": "Luca", "x": 680, "y": 650}],
-                        "sections": [{"name": "Zev Ronso", "ref": "Blitzball Recruits/Zev Ronso"}]
+                        "sections": [{"name": "Zev Ronso", "ref": "Blitzball Recruits/Free Agents/Zev Ronso"}]
                     },
                     {
                         "name": "Defeat Oblitzerator (Boss)",
@@ -157,22 +192,22 @@
                     {
                         "name": "Recruit: Jumal",
                         "map_locations": [{"map": "Luca", "x": 1050, "y": 720}],
-                        "sections": [{"name": "Jumal", "ref": "Blitzball Recruits/Jumal"}]
+                        "sections": [{"name": "Jumal", "ref": "Blitzball Recruits/Free Agents/Jumal"}]
                     },
                     {
                         "name": "Recruit: Shaami",
                         "map_locations": [{"map": "Luca", "x": 930, "y": 988}],
-                        "sections": [{"name": "Shaami", "ref": "Blitzball Recruits/Shaami"}]
+                        "sections": [{"name": "Shaami", "ref": "Blitzball Recruits/Free Agents/Shaami"}]
                     },
                     {
                         "name": "Recruit: Shuu",
                         "map_locations": [{"map": "Luca", "x": 1150, "y": 475}],
-                        "sections": [{"name": "Shuu", "ref": "Blitzball Recruits/Shuu"}]
+                        "sections": [{"name": "Shuu", "ref": "Blitzball Recruits/Free Agents/Shuu"}]
                     },
                     {
                         "name": "Recruit: Zalitz",
                         "map_locations": [{"map": "Luca", "x": 910, "y": 820}],
-                        "sections": [{"name": "Zalitz", "ref": "Blitzball Recruits/Zalitz"}]
+                        "sections": [{"name": "Zalitz", "ref": "Blitzball Recruits/Free Agents/Zalitz"}]
                     },
                     {
                         "name": "Cafe - Talk to Owner After Placing at Least Third in a Tournament (Chest)",
