@@ -18,7 +18,7 @@
                     },
                     {
                         "name": "Mars Sigil",
-                        "visibility_rule": "capturesanity, capturerewardsarea",
+                        "visibility_rules": ["capturesanity, capturerewardsarea"],
                         "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards, ^$CheckTotalConquests"]
                     },
                     {
