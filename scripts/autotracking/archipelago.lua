@@ -121,17 +121,17 @@ function applySlotData(slot_data)
 
     local mini_game_chocobo_training = slot_data["mini_game_chocobo_training"]
     if (mini_game_chocobo_training == 0) then
-        Tracker:FindObjectForCode("chocobotrainingminigames").CurrentStage = 0
+        Tracker:FindObjectForCode("minigamechocobotraining").CurrentStage = 0
     elseif (mini_game_chocobo_training == 1) then
-        Tracker:FindObjectForCode("chocobotrainingminigames").CurrentStage = 1
+        Tracker:FindObjectForCode("minigamechocobotraining").CurrentStage = 1
     elseif (mini_game_chocobo_training == 2) then
-        Tracker:FindObjectForCode("chocobotrainingminigames").CurrentStage = 2
+        Tracker:FindObjectForCode("minigamechocobotraining").CurrentStage = 2
     elseif (mini_game_chocobo_training == 3) then
-        Tracker:FindObjectForCode("chocobotrainingminigames").CurrentStage = 3
+        Tracker:FindObjectForCode("minigamechocobotraining").CurrentStage = 3
     elseif (mini_game_chocobo_training == 4) then
-        Tracker:FindObjectForCode("chocobotrainingminigames").CurrentStage = 4
+        Tracker:FindObjectForCode("minigamechocobotraining").CurrentStage = 4
     elseif (mini_game_chocobo_training == 5) then
-        Tracker:FindObjectForCode("chocobotrainingminigames").CurrentStage = 5
+        Tracker:FindObjectForCode("minigamechocobotraining").CurrentStage = 5
     end
 
     local mini_game_lightning_dodging = slot_data["mini_game_lightning_dodging"]

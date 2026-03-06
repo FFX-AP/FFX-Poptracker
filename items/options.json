@@ -152,7 +152,7 @@
         "name": "Chocobo Training Minigame",
         "type": "progressive",
         "allow_disabled": false,
-        "codes": "chocobotrainingminigames",
+        "codes": "minigamechocobotraining",
         "initial_stage_idx": 0,
         "stages": [
             {
