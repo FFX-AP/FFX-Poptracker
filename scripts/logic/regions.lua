@@ -173,7 +173,7 @@ function UpdateAccessLevels()
 end
 
 function CheckAccessLevel(Region)
-    print("CHECK ACCESS: " .. Region .. " | " .. RegionAccessibility[Region])
+    -- print("CHECK ACCESS: " .. Region .. " | " .. RegionAccessibility[Region])
     return RegionAccessibility[Region]
 end
 
@@ -220,5 +220,26 @@ function CheckGoalRequirement()
     else
         return ACCESS_NONE
     end
-    
+end
+
+function CheckRemiemAccess()
+    local wobbly_minigame  = Tracker:FindObjectForCode("minigamechocobotraining").CurrentStage
+    local defenderx        = Tracker:FindObjectForCode("defenderx"    ).Active
+    local wobbly           = Tracker:FindObjectForCode("wobblychocobo").Active
+
+    if wobbly_minigame >= 1 then
+        if (wobbly or (defenderx and hasMinimumParty(3))) then
+            return ACCESS_NORMAL
+        elseif (defenderx) then
+            return ACCESS_SEQUENCEBREAK
+        end
+    else
+        if (defenderx and hasMinimumParty(3)) then
+            return ACCESS_NORMAL
+        elseif (wobbly or defenderx) then
+            return ACCESS_SEQUENCEBREAK
+        end
+    end
+
+    return ACCESS_NONE
 end
