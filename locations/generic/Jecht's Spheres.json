@@ -72,7 +72,7 @@
             },
             {
                 "name": "Trail - Side Road (Braska's Sphere)",
-                "access_rules": ["@Mt. Gagazet, biranyenke, [$hasMinimumParty|3]"],
+                "access_rules": ["@Mt. Gagazet, biran, yenke, [$hasMinimumParty|3]"],
                 "hosted_item": "braskasphere",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
