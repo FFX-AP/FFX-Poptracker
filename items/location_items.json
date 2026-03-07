@@ -251,14 +251,24 @@
         "codes": "defenderx"
     },
     {
-        "name": "Biran & Yenke",
+        "name": "Biran",
         "type": "toggle",
         "img": "images/bosses/Biran.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
-        "codes": "biranyenke"
+        "codes": "biran"
+    },
+    {
+        "name": "Yenke",
+        "type": "toggle",
+        "img": "images/bosses/Yenke.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "yenke"
     },
     {
         "name": "Seymour Flux",

@@ -1809,7 +1809,7 @@
                     {
                         "name": "Mt. Gagazet",
                         "hosted_item": "imp, nidhogg, bandersnatch, grenade, grat, bashura",
-                        "access_rules": ["@Monster Arena/Fiend Capture, @Mt. Gagazet, biranyenke, [$hasMinimumParty|3]"],
+                        "access_rules": ["@Monster Arena/Fiend Capture, @Mt. Gagazet, biran, yenke, [$hasMinimumParty|3]"],
                         "clear_as_group": false
                     },
                     {
