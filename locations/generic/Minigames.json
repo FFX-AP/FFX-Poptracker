@@ -138,7 +138,7 @@
                     {
                         "name": "North - NW Corner, Blocked Until Winning Catcher Chocobo (Event)",
                         "visibility_rules": ["catcherminigame"],
-                        "access_rules": ["celestialmirror, catcherchocobo"],
+                        "access_rules": ["progressivemirrors:2, catcherchocobo"],
                         "clear_as_group": true
                     }
                 ]
