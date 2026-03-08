@@ -2,7 +2,7 @@
     "versions": [
         {
             "package_version": "0.6.0",
-            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.4.1/FFX.zip",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.6.0/FFX.zip",
             "sha256": "3afea9d7001e23c54d453c3d896b22d38d1d666847dc671139edad9bfd6f8147",
             "changelog": [
                 " - New Additions",
