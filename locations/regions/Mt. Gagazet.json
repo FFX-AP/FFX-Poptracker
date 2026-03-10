@@ -15,6 +15,38 @@
                         "name": "Biran and Yenke",
                         "hosted_item": "biran, yenke",
                         "clear_as_group": true
+                    },
+                    {
+                        "name": "Use Lancet to Learn Fire Breath\nYenke",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Aqua Breath\nYenke",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Stone Breath\nYenke",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Stone Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn White Wind\nYenke (After Use)",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn White Wind"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Thrust Kick\nBiran",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Thrust Kick"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Self Destruct\nBiran",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Doom\nBiran",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Doom"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Mighty Guard\nBiran (After Use)",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"
                     }
                 ]
             },
@@ -105,6 +137,16 @@
                             {"name": "Grat", "ref": "Monster Arena/Fiend Capture/Mt. Gagazet/Captures Required for Logic/Grat"},
                             {"name": "Bashura", "ref": "Monster Arena/Fiend Capture/Mt. Gagazet/Captures Required for Logic/Bashura"}
                         ]
+                    },
+                    {
+                        "name": "Ronso Rages",
+                        "map_locations": [{ "map": "Gagazet Outside", "x": 455, "y": 656}],
+                        "sections": [
+                            {
+                                "name": "Use Lancet to Learn Self Destruct\nGrenade",
+                                "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                            }
+                        ]
                     }
                 ]
             },
@@ -179,6 +221,15 @@
                             {"name": "Splasher", "ref": "Monster Arena/Fiend Capture/Mt. Gagazet/Captures Required for Logic/Splasher"},
                             {"name": "Achelous", "ref": "Monster Arena/Fiend Capture/Mt. Gagazet/Captures Required for Logic/Achelous"},
                             {"name": "Maelspike", "ref": "Monster Arena/Fiend Capture/Mt. Gagazet/Captures Required for Logic/Maelspike"}
+                        ]
+                    },
+                    {
+                        "name": "Ronso Rages",
+                        "map_locations": [{ "map": "Gagazet Cave", "x": 725, "y": 510}],
+                        "sections": [
+                            {"name": "Use Lancet to Learn Fire Breath\nGrendel", "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"},
+                            {"name": "Use Lancet to Learn White Wind\nDark Flan", "ref": "Overdrives/Kimahri/Use Lancet to Learn White Wind"},
+                            {"name": "Use Lancet to Learn Mighty Guard\nBehemoth", "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"}
                         ]
                     }
                 ]

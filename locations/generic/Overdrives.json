@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Overdrives",
+        "chest_unopened_img": "/images/Overdrives/Overdrive.png",
+        "chest_opened_img": "/images/Overdrives/Overdrive BW.png",
+        "overlay_background": "#000000",
+        "children": [
+            {
+                "name": "Tidus",
+                "access_rules": ["$hasTidus"],
+                "visibility_rules": ["overdrivetidus"],
+                "sections": [
+                    {
+                        "name": "Use Tidus's Overdrive 10 Times (Slice and Dice)",
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Use Tidus's Overdrive 20 Times (Energy Rain)",
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Use Tidus's Overdrive 40 Times (Blitz Ace)",
+                        "clear_as_group": true
+                    }
+                ]
+            },
+            {
+                "name": "Auron",
+                "sections": [
+                    {
+                        "name": "Collect 1 Progressive Jecht's Sphere (Shooting Star)",
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Collect 3 Progressive Jecht's Sphere (Banishing Blade)",
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Collect 10 Progressive Jecht's Sphere (Tornado)",
+                        "clear_as_group": true
+                    }
+                ]
+            },
+            {
+                "name": "Kimahri",
+                "access_rules": ["$hasKimahri"],
+                "visibility_rules": ["hornlessrages"],
+                "sections": [
+                    {
+                        "name": "Use Lancet to Learn Fire Breath",
+                        "access_rules": ["@Miihen Highroad", "@Mushroom Rock Road", "@Bikanel/Home", "@Airship", "@Cavern of the Stolen Fayth", "@Mt. Gagazet, [$hasMinimumParty|3]", "@Zanarkand"],
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Use Lancet to Learn Seed Cannon",
+                        "access_rules": ["@Kilika"],
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Use Lancet to Learn Self Destruct",
+                        "access_rules": ["@Miihen Highroad", "@Mushroom Rock Road", "@Bikanel/Home", "@Airship", "@Mt. Gagazet, [$hasMinimumParty|3]", "@Omega Ruins"],
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Use Lancet to Learn Thrust Kick",
+                        "access_rules": ["@Bevelle", "@Mt. Gagazet, [$hasMinimumParty|3]", "@Zanarkand/Dome"],
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Use Lancet to Learn Stone Breath",
+                        "access_rules": ["@Djose", "@Calm Lands", "@Mt. Gagazet, [$hasMinimumParty|3]"],
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Use Lancet to Learn Aqua Breath",
+                        "access_rules": ["@Macalania/Woods", "@Bikanel/Home", "@Calm Lands","@Mt. Gagazet, [$hasMinimumParty|3]"],
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Use Lancet to Learn Doom",
+                        "access_rules": ["@Cavern of the Stolen Fayth", "@Mt. Gagazet, [$hasMinimumParty|3]", "@Inside Sin/City of Dying Dreams"],
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Use Lancet to Learn White Wind",
+                        "access_rules": ["@Mt. Gagazet, [$hasMinimumParty|3]", "@Zanarkand"],
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Use Lancet to Learn Bad Breath",
+                        "access_rules": ["@Calm Lands", "@Cavern of the Stolen Fayth", "@Inside Sin/City of Dying Dreams", "@Omega Ruins"],
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Use Lancet to Learn Mighty Guard",
+                        "access_rules": ["@Mt. Gagazet, [$hasMinimumParty|3]", "@Zanarkand", "@Inside Sin"],
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Use Lancet to Learn Nova",
+                        "visibility_rules": ["superbosses"],
+                        "access_rules": ["omegaweapon", "@Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations"],
+                        "clear_as_group": true
+                    }
+                ]
+            },
+            {
+                "name": "Wakka",
+                "sections": [
+                    {
+                        "name": "Come 1st in a Blitzball Tournament (Attack Reels)",
+                        "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"],
+                        "visibility_rules": ["attackreelsblitz"],
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Come 1st in a Blitzball League After Obtaining Attack Reels (Status Reels)",
+                        "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"],
+                        "visibility_rules": ["statusreelsblitz"],
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Come 1st in a Blitzball Tournament After Obtaining both Attack & Status Reels (Aurochs Reels)",
+                        "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"],
+                        "visibility_rules": ["aurochsreelsblitz"],
+                        "clear_as_group": true
+                    }
+                ]
+            },
+            {
+                "name": "Valefor",
+                "access_rules": ["@Besaid/Village"],
+                "sections": [
+                    {
+                        "name": "Village, House - Something Mangle and Slobbery from Dog (NPC)", 
+                        "clear_as_group": true
+                    }
+                ]
+            }
+        ]
+    }
+]

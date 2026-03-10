@@ -77,9 +77,24 @@
                 "codes": "storymodeblitzball, worldchampminigame"
             },
             {
+                "name": "Up to Attack Reels",
+                "img": "images/minigames/Blitzball.png",
+                "codes": "storymodeblitzball, worldchampminigame, attackreelsblitz"
+            },
+            {
+                "name": "Up to Status Reels",
+                "img": "images/minigames/Blitzball.png",
+                "codes": "storymodeblitzball, worldchampminigame, attackreelsblitz, statusreelsblitz"
+            },
+            {
+                "name": "Up to Aurochs Reels",
+                "img": "images/minigames/Blitzball.png",
+                "codes": "storymodeblitzball, worldchampminigame, attackreelsblitz, statusreelsblitz, aurochsreelsblitz"
+            },
+            {
                 "name": "Up to Jupiter Sigil",
                 "img": "images/minigames/Blitzball.png",
-                "codes": "storymodeblitzball, worldchampminigame, jupitersigilminigame"
+                "codes": "storymodeblitzball, worldchampminigame, attackreelsblitz, statusreelsblitz, aurochsreelsblitz, jupitersigilminigame"
             }
         ]
     },
@@ -325,6 +340,20 @@
                 "codes": "creationbossesarea, creationbossesspecies, creationbossesoriginal"
             }
         ]    
+    },
+    {
+        "name": "Tidus's Overdrives",
+        "type": "toggle",
+        "img": "images/Overdrives/Overdrive Tidus.png",
+        "initial_active_state": false,
+        "codes": "overdrivetidus"
+    },
+    {
+        "name": "Kimahri's Ronso Rages",
+        "type": "toggle",
+        "img": "images/Overdrives/Overdrive Kimahri.png",
+        "initial_active_state": false,
+        "codes": "hornlessrages"
     },
     {
         "name": "Super Bosses",

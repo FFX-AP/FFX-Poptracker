@@ -10,15 +10,15 @@
         "rows": [
             [
                 "partymember:tidus",
-                "partymember:wakka",
-                "partymember:lulu",
-                "partymember:yuna"
+                "partymember:yuna",
+                "partymember:auron",
+                "partymember:kimahri"
             ],
             [
-                "partymember:kimahri",
-                "partymember:auron",
+                "partymember:lulu",
                 "partymember:rikku",
-                "partymember:seymour"
+                "partymember:seymour",
+                "partymember:wakka"
             ]
         ]
     },    

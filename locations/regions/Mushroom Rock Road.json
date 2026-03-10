@@ -216,6 +216,20 @@
                     {"name": "Funguar", "ref": "Monster Arena/Fiend Capture/Mushroom Rock Road/Captures Required for Logic/Funguar"},
                     {"name": "Garuda", "ref": "Monster Arena/Fiend Capture/Mushroom Rock Road/Captures Required for Logic/Garuda"}
                 ]
+            },
+            {
+                "name": "Ronso Rages",
+                "map_locations": [{ "map": "Mushroom Rock Road", "x": 610, "y": 640}],
+                "sections": [
+                    {
+                        "name": "Use Lancet to Learn Fire Breath\nDual Horn",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Self Destruct\nBomb",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                    }
+                ]
             }
         ]
     }
