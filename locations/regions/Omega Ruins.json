@@ -36,7 +36,7 @@
             {
                 "name": "West Path (Chest)",
                 "map_locations": [{ "map": "Omega Ruins", "x": 1330, "y": 310}],
-                "access_rules": ["ultimaweapon, [$hasMinimumParty|3]"],
+                "access_rules": ["[$hasMinimumParty|3]"],
                 "sections": [{"name": "Friend Sphere x1"}]
             },
             {
