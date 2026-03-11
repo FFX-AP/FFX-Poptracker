@@ -69,7 +69,7 @@
             },
             {
                 "name": "Al Bhed Ship",
-                "map_locations": [{ "map": "Spira", "x": 260, "y": 830}],
+                "map_locations": [{ "map": "Spira", "x": 210, "y": 810, "size": 24}],
                 "sections": [
                     {
                         "name": "Deck - Yellow Al Bhed, on Left (NPC)",
@@ -243,7 +243,7 @@
             },
             {
                 "name": "Kilika",
-                "map_locations": [{ "map": "Spira", "x": 565, "y": 980}],
+                "map_locations": [{ "map": "Spira", "x": 565, "y": 985}],
                 "sections": [
                     {
                         "name": "Recruit: Tatts",
@@ -337,7 +337,7 @@
             },
             {
                 "name": "S.S. Winno",
-                "map_locations": [{ "map": "Spira", "x": 600, "y": 975, "size": 24}],
+                "map_locations": [{ "map": "Spira", "x": 600, "y": 980, "size": 24}],
                 "sections": [
                     {
                         "name": "Cabin - Left, Between Aurochs and Goers (Chest)",
@@ -847,7 +847,7 @@
             },
             {
                 "name": "Moonflow",
-                "map_locations": [{ "map": "Spira", "x": 770, "y": 595}],
+                "map_locations": [{ "map": "Spira", "x": 770, "y": 597}],
                 "sections": [
                     {
                         "name": "South Bank Road - Right of Shelinda (Chest)",
@@ -1729,7 +1729,7 @@
             },
             {
                 "name": "Monster Arena - Captures",
-                "map_locations": [{ "map": "Spira", "x": 654, "y": 236, "size": 24, "shape": "diamond"}],
+                "map_locations": [{ "map": "Spira", "x": 664, "y": 256, "size": 24, "shape": "diamond"}],
                 "visibility_rules": ["capturesanity"],
                 "sections": [
                     {
@@ -1851,7 +1851,7 @@
             },
             {
                 "name": "Monster Arena - Rewards",
-                "map_locations": [{ "map": "Spira", "x": 635, "y": 260, "size": 24, "shape": "diamond"}],
+                "map_locations": [{ "map": "Spira", "x": 644, "y": 280, "size": 24, "shape": "diamond"}],
                 "sections": [
                     {
                         "name": "Nirvana",
@@ -2009,7 +2009,7 @@
             },
             {
                 "name": "Monster Arena - Bosses",
-                "map_locations": [{ "map": "Spira", "x": 670, "y": 260, "size": 24, "shape": "diamond"}],
+                "map_locations": [{ "map": "Spira", "x": 674, "y": 280, "size": 24, "shape": "diamond"}],
                 "sections": [
                     {
                         "name": "Arena Conquest - Stratoavis",
@@ -2329,7 +2329,7 @@
             },
             {
                 "name": "Inside Sin",
-                "map_locations": [{ "map": "Spira", "x": 995, "y": 110}],
+                "map_locations": [{ "map": "Spira", "x": 535, "y": 485}],
                 "sections": [
                     {
                         "name": "Sea of Sorrow - West Alcove (Chest)",
@@ -2425,7 +2425,7 @@
             },
             {
                 "name": "Overdrives - Tidus",
-                "map_locations": [{ "map": "Spira", "x": 1090, "y": 985}],
+                "map_locations": [{ "map": "Spira", "x": 1135, "y": 1034}],
                 "sections": [
                     {
                         "name": "Use Tidus's Overdrive 10 Times (Slice and Dice)",
@@ -2443,7 +2443,7 @@
             },
             {
                 "name": "Overdrives - Auron",
-                "map_locations": [{ "map": "Spira", "x": 1165, "y": 985}],
+                "map_locations": [{ "map": "Spira", "x": 1200, "y": 1034}],
                 "sections": [
                     {
                         "name": "Collect 1 Progressive Jecht's Sphere (Shooting Star)",
@@ -2461,7 +2461,7 @@
             },
             {
                 "name": "Overdrives - Kimahri",
-                "map_locations": [{ "map": "Spira", "x": 1240, "y": 985}],
+                "map_locations": [{ "map": "Spira", "x": 1265, "y": 1034}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath",
@@ -2511,7 +2511,7 @@
             },
             {
                 "name": "Overdrives - Wakka",
-                "map_locations": [{ "map": "Spira", "x": 1315, "y": 985}],
+                "map_locations": [{ "map": "Spira", "x": 1325, "y": 1034}],
                 "sections": [
                     {
                         "name": "Come 1st in a Blitzball Tournament (Attack Reels)",
