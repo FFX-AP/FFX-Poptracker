@@ -2789,7 +2789,7 @@
         "type": "consumable",
         "capturable": true,
         "min_quantity": 0,
-        "max_quantity": 6,
+        "max_quantity": 13,
         "increment": 1,
         "initial_quantity": 0,
         "codes": "areaconquests"
@@ -2799,7 +2799,7 @@
         "type": "consumable",
         "capturable": true,
         "min_quantity": 0,
-        "max_quantity": 6,
+        "max_quantity": 14,
         "increment": 1,
         "initial_quantity": 0,
         "codes": "speciesconquests"
