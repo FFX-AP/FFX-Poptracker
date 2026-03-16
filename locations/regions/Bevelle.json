@@ -138,7 +138,7 @@
             {
                 "name": "Macalania Campsite (Chest)",
                 "map_locations": [{ "map": "Via Purifico", "x": 860, "y": 85}],
-                "access_rules": ["seymournatus, [$hasMinimumParty|3]"],
+                "access_rules": ["seymournatus, [$hasAeons|2], [$hasSwimmers|3], [$hasMinimumParty|3]"],
                 "sections": [{"name": "Lucid Ring"}]
             }
         ]
