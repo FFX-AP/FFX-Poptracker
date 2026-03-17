@@ -1156,4 +1156,8 @@ ITEM_MAPPING = {
 	[57365] = {{"omegaruins", "toggle"}},
 	[57366] = {{"monsterarena", "toggle"}},
 	[36864] = {{"stayawayfromthesummoner", "toggle"}},
+	[12384] = {{"overdrivespiralcut", "toggle"}}
+	[12385] = {{"overdrivesliceanddice", "toggle"}}
+	[12386] = {{"overdriveenergyrain", "toggle"}}
+	[12387] = {{"overdriveblitzace", "toggle"}}
 }
