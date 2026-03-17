@@ -215,7 +215,7 @@ function applySlotData(slot_data)
         Tracker:FindObjectForCode("overdrivetidus").AcquiredCount = slot_data["tidus_overdrives"]    
     end
     if (slot_data["kimahri_ronso_rages"] ~= nil) then
-        Tracker:FindObjectForCode("hornlessrages").AcquiredCount = slot_data["kimahri_ronso_rages"]    
+        Tracker:FindObjectForCode("ronsorages").AcquiredCount = slot_data["kimahri_ronso_rages"]    
     end
     if (slot_data["super_bosses"] ~= nil) then
         Tracker:FindObjectForCode("superbosses").Active = slot_data["super_bosses"]

@@ -44,7 +44,7 @@
             {
                 "name": "Kimahri",
                 "access_rules": ["$hasKimahri"],
-                "visibility_rules": ["hornlessrages"],
+                "visibility_rules": ["ronsorages"],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath",
