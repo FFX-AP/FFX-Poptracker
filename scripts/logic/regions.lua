@@ -269,7 +269,7 @@ function hasCombatRegions(qty)
 
     for _, region in ipairs(CombatRegions) do
         if (CheckAccessLevel(region) == ACCESS_NORMAL) then
-            if ((region == "gagazet" and Tracker:FindObjectForCode("biran").Active) or region ~= "gagazet")
+            if ((region == "gagazet" and Tracker:FindObjectForCode("biran").Active) or region ~= "gagazet") then
                 counter = counter + 1
                 if counter >= tonumber(qty) then
                     return ACCESS_NORMAL
