@@ -112,6 +112,26 @@ RegionAccessRegions = {
     ["superbosses"] = {},
 }
 
+CombatRegion = {
+    "besaid",
+    "kilika",
+    "miihenhighroad",
+    "mushroomrockroad",
+    "djose",
+    "moonflow",
+    "thunderplains",
+    "macalania",
+    "bikanel",
+    "airship",
+    "bevelle",
+    "calmlands",
+    "cavernofthestolenfayth",
+    "gagazet",
+    "zanarkand",
+    "sin",
+    "omegaruins",
+}
+
 -- Updates RegionAccessRegions with list of regions required to access new region, based on difficulty
 function UpdateAccessRegions()
     local LogicDifficulty = Tracker:ProviderCountForCode("logicdifficulty")
@@ -242,4 +262,19 @@ function CheckRemiemAccess()
     end
 
     return ACCESS_NONE
+end
+
+function hasCombatRegions(qty)
+    local counter = 0
+
+    for _, region in ipairs(CombatRegions) do
+        if Tracker:FindObjectForCode(region).Active then
+            counter = counter + 1
+            if counter >= tonumber(qty) then
+                return ACCESS_NORMAL
+            end
+        end
+    end
+
+    return ACCESS_SEQUENCEBREAK
 end

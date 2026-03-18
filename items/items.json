@@ -11663,5 +11663,29 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "update"
+    },
+    {
+        "name": "Overdrive: Spiral Cut",
+        "type": "toggle",
+        "initial_active_state": false,
+        "codes": "overdrivespiralcut"
+    },
+    {
+        "name": "Overdrive: Slice & Dice",
+        "type": "toggle",
+        "initial_active_state": false,
+        "codes": "overdrivesliceanddice"
+    },
+    {
+        "name": "Overdrive: Energy Rain",
+        "type": "toggle",
+        "initial_active_state": false,
+        "codes": "overdriveenergyrain"
+    },
+    {
+        "name": "Overdrive: Blitz Ace",
+        "type": "toggle",
+        "initial_active_state": false,
+        "codes": "overdriveblitzace"
     }
 ]
