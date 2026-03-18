@@ -7,32 +7,29 @@
         "children": [
             {
                 "name": "Tidus",
-                "access_rules": ["$hasTidus"],
+                "access_rules": ["$hasTidus, ^$hasTidusOverdrive"],
                 "visibility_rules": ["overdrivetidus"],
                 "sections": [
                     {
-                        "name": "Use Tidus's Overdrive 10 Times (Slice and Dice)"
+                        "name": "Use Tidus's Overdrive 10 Times (Slice and Dice)",
+                        "access_rules": ["^$hasCombatRegions|2"]                        
                     },
                     {
-                        "name": "Use Tidus's Overdrive 20 Times (Energy Rain)"
+                        "name": "Use Tidus's Overdrive 20 Times (Energy Rain)",
+                        "access_rules": ["^$hasCombatRegions|4"]
                     },
                     {
-                        "name": "Use Tidus's Overdrive 40 Times (Blitz Ace)"
+                        "name": "Use Tidus's Overdrive 40 Times (Blitz Ace)",
+                        "access_rules": ["^$hasCombatRegions|8"]
                     }
                 ]
             },
             {
                 "name": "Auron",
                 "sections": [
-                    {
-                        "name": "Collect 1 Progressive Jecht's Sphere (Shooting Star)"
-                    },
-                    {
-                        "name": "Collect 3 Progressive Jecht's Sphere (Banishing Blade)"
-                    },
-                    {
-                        "name": "Collect 10 Progressive Jecht's Sphere (Tornado)"
-                    }
+                    {"name": "Collect 1 Progressive Jecht's Sphere (Shooting Star)"},
+                    {"name": "Collect 3 Progressive Jecht's Sphere (Banishing Blade)"},
+                    {"name": "Collect 10 Progressive Jecht's Sphere (Tornado)"}
                 ]
             },
             {
@@ -116,11 +113,7 @@
             {
                 "name": "Valefor",
                 "access_rules": ["@Besaid/Village, map"],
-                "sections": [
-                    {
-                        "name": "Village, House - Something Mangle and Slobbery from Dog (NPC)"
-                    }
-                ]
+                "sections": [{"name": "Village, House - Something Mangle and Slobbery from Dog (NPC)"}]
             }
         ]
     }

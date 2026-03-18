@@ -316,3 +316,16 @@ function hasAeonsExcluding(quantity, aeon)
         return false
     end
 end
+
+function hasTidusOverdrive()
+    local spiral_cut     = Tracker:FindObjectForCode("overdrivespiralcut")
+    local slice_and_dice = Tracker:FindObjectForCode("overdrivesliceanddice")
+    local energy_rain    = Tracker:FindObjectForCode("overdriveenergyrain")
+    local blitz_ace      = Tracker:FindObjectForCode("overdriveblitzace")
+
+    if (spiral_cut.Active or slice_and_dice.Active or energy_rain.Active or blitz_ace.Active) then
+        return ACCESS_NORMAL
+    else
+        return ACCESS_NONE
+    end
+end
