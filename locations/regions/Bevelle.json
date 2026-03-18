@@ -136,6 +136,16 @@
                 ]
             },
             {
+                "name": "Ronso Rages",
+                "map_locations": [{ "map": "Via Purifico", "x": 1115, "y": 250}],
+                "sections": [
+                    {
+                        "name": "Use Lancet to Learn Thrust Kick\nYKT-63",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Thrust Kick"
+                    }
+                ]
+            },
+            {
                 "name": "Macalania Campsite (Chest)",
                 "map_locations": [{ "map": "Via Purifico", "x": 860, "y": 85}],
                 "access_rules": ["seymournatus, [$hasMinimumParty|3]"],

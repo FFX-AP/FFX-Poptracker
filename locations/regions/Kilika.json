@@ -137,6 +137,16 @@
                             {"name": "Yellow Element", "ref": "Monster Arena/Fiend Capture/Kilika/Captures Required for Logic/Yellow Element"},
                             {"name": "Ragora", "ref": "Monster Arena/Fiend Capture/Kilika/Captures Required for Logic/Ragora"}
                         ]
+                    },
+                    {
+                        "name": "Ronso Rage Tutorial",
+                        "map_locations": [{ "map": "Kilika Village", "x": 402, "y": 660}],
+                        "sections": [
+                            {
+                                "name": "Use Lancet to Learn Seed Cannon\nRagora",
+                                "ref": "Overdrives/Kimahri/Use Lancet to Learn Seed Cannon"
+                            }
+                        ]
                     }
                 ]
             },

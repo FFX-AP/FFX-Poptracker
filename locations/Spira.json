@@ -7,7 +7,7 @@
         "children": [
             {
                 "name": "Baaj Temple",
-                "map_locations": [{ "map": "Spira", "x": 186, "y": 615}],
+                "map_locations": [{ "map": "Spira", "x": 165, "y": 785}],
                 "sections": [
                     {
                         "name": "Submerged Ruins - Northeast Structure (Chest)",
@@ -69,7 +69,7 @@
             },
             {
                 "name": "Al Bhed Ship",
-                "map_locations": [{ "map": "Spira", "x": 241, "y": 675}],
+                "map_locations": [{ "map": "Spira", "x": 210, "y": 810, "size": 24}],
                 "sections": [
                     {
                         "name": "Deck - Yellow Al Bhed, on Left (NPC)",
@@ -87,7 +87,7 @@
             },
             {
                 "name": "Besaid",
-                "map_locations": [{ "map": "Spira", "x": 410, "y": 1005}],
+                "map_locations": [{ "map": "Spira", "x": 500, "y": 1020}],
                 "sections": [
                     {
                         "name": "Beach - West Near Huts (Chest)",
@@ -162,12 +162,16 @@
                         "ref": "Party Member/Aeon/Valefor"
                     },
                     {
-                        "name": "Exit the Village (Event) (1)" ,
+                        "name": "Exit the Village (Event) (1)",
                         "ref": "Celestial/Tidus/Brotherhood"
                     },
                     {
-                        "name": "Exit the Village (Event) (2)" ,
+                        "name": "Exit the Village (Event) (2)",
                         "ref": "Besaid/Village/Exit the Village (Event)/Map"
+                    },
+                    {
+                        "name": "Village, House - Something Mangle and Slobbery from Dog (NPC)",
+                        "ref": "Overdrives/Valefor/Village, House - Something Mangle and Slobbery from Dog (NPC)"
                     },
                     {
                         "name": "Village Slope - Element Tutorial (Event)",
@@ -209,7 +213,7 @@
             },
             {
                 "name": "S.S. Liki",
-                "map_locations": [{ "map": "Spira", "x": 445, "y": 1000, "size": 24}],
+                "map_locations": [{ "map": "Spira", "x": 535, "y": 1020, "size": 24}],
                 "sections": [
                     {
                         "name": "Cabin (Chest)",
@@ -239,7 +243,7 @@
             },
             {
                 "name": "Kilika",
-                "map_locations": [{ "map": "Spira", "x": 485, "y": 971}],
+                "map_locations": [{ "map": "Spira", "x": 565, "y": 985}],
                 "sections": [
                     {
                         "name": "Recruit: Tatts",
@@ -333,7 +337,7 @@
             },
             {
                 "name": "S.S. Winno",
-                "map_locations": [{ "map": "Spira", "x": 518, "y": 910, "size": 24}],
+                "map_locations": [{ "map": "Spira", "x": 600, "y": 980, "size": 24}],
                 "sections": [
                     {
                         "name": "Cabin - Left, Between Aurochs and Goers (Chest)",
@@ -355,7 +359,7 @@
             },
             {
                 "name": "Luca",
-                "map_locations": [{ "map": "Spira", "x": 546, "y": 845}],
+                "map_locations": [{ "map": "Spira", "x": 613, "y": 883}],
                 "sections": [
                     {
                         "name": "Stadium Basement B - West Locker Hall (Chest)",
@@ -525,7 +529,7 @@
             },
             {
                 "name": "Miihen Highroad",
-                "map_locations": [{ "map": "Spira", "x": 526, "y": 760}],
+                "map_locations": [{ "map": "Spira", "x": 580, "y": 830}],
                 "sections": [
                     {
                         "name": "South End - Yellow Man, Looping South to North (NPC)",
@@ -643,7 +647,7 @@
             },
             {
                 "name": "Mushroom Rock Road",
-                "map_locations": [{ "map": "Spira", "x": 621, "y": 710}],
+                "map_locations": [{ "map": "Spira", "x": 670, "y": 765}],
                 "sections": [
                     {
                         "name": "First Screen - Left Near Southern Exit (NPC)",
@@ -757,7 +761,7 @@
             },
             {
                 "name": "Djose",
-                "map_locations": [{ "map": "Spira", "x": 736, "y": 687}],
+                "map_locations": [{ "map": "Spira", "x": 790, "y": 725}],
                 "sections": [
                     {
                         "name": "Highroad - South End, West Side (Chest)",
@@ -843,7 +847,7 @@
             },
             {
                 "name": "Moonflow",
-                "map_locations": [{ "map": "Spira", "x": 766, "y": 533}],
+                "map_locations": [{ "map": "Spira", "x": 770, "y": 597}],
                 "sections": [
                     {
                         "name": "South Bank Road - Right of Shelinda (Chest)",
@@ -913,7 +917,7 @@
             },
             {
                 "name": "Guadosalam",
-                "map_locations": [{ "map": "Spira", "x": 709, "y": 483}],
+                "map_locations": [{ "map": "Spira", "x": 704, "y": 560}],
                 "sections": [
                     {
                         "name": "Recruit: Noy Guado",
@@ -979,7 +983,7 @@
             },
             {
                 "name": "Thunder Plains",
-                "map_locations": [{ "map": "Spira", "x": 808, "y": 383}],
+                "map_locations": [{ "map": "Spira", "x": 800, "y": 450}],
                 "sections": [
                     {
                         "name": "South - West Side, South of Save Sphere (Chest)",
@@ -1069,7 +1073,7 @@
             },
             {
                 "name": "Macalania",
-                "map_locations": [{ "map": "Spira", "x": 750, "y": 326}],
+                "map_locations": [{ "map": "Spira", "x": 670, "y": 410}],
                 "sections": [
                     {
                         "name": "South - Hidden Behind Tree in Middle of S-Bend (Chest)",
@@ -1199,7 +1203,7 @@
             },
             {
                 "name": "Celestial Flower",
-                "map_locations": [{ "map": "Spira", "x": 710, "y": 326, "size": 24, "shape": "diamond"}],
+                "map_locations": [{ "map": "Spira", "x": 635, "y": 410, "size": 24, "shape": "diamond"}],
                 "sections": [
                     {
                         "name": "Bring Cloudy Mirror to Celestial Flower (Event)",
@@ -1265,7 +1269,7 @@
             },
             {
                 "name": "Bikanel",
-                "map_locations": [{ "map": "Spira", "x": 343, "y": 400}],
+                "map_locations": [{ "map": "Spira", "x": 270, "y": 560}],
                 "sections": [
                     {
                         "name": "Oasis - In Southwest Corner of Water (Chest)",
@@ -1379,7 +1383,7 @@
             },
             {
                 "name": "Home",
-                "map_locations": [{ "map": "Spira", "x": 306, "y": 400, "size": 24}],
+                "map_locations": [{ "map": "Spira", "x": 230, "y": 560, "size": 24}],
                 "sections": [
                     {
                         "name": "Keyakku, on Ground (NPC)",
@@ -1433,7 +1437,7 @@
             },
             {
                 "name": "Airship",
-                "map_locations": [{ "map": "Spira", "x": 460, "y": 520}],
+                "map_locations": [{ "map": "Spira", "x": 320, "y": 465}],
                 "sections": [
                     {
                         "name": "Recruit: Brother",
@@ -1503,7 +1507,7 @@
             },
             {
                 "name": "Bevelle",
-                "map_locations": [{ "map": "Spira", "x": 678, "y": 273}],
+                "map_locations": [{ "map": "Spira", "x": 597, "y": 360}],
                 "sections": [
                     {
                         "name": "Priests' Passage - Corner South of Save Point (Primer)",
@@ -1577,7 +1581,7 @@
             },
             {
                 "name": "Calm Lands",
-                "map_locations": [{ "map": "Spira", "x": 641, "y": 207}],
+                "map_locations": [{ "map": "Spira", "x": 605, "y": 280}],
                 "sections": [
                     {
                         "name": "Central - Fight Belgemine (Win) (Event)",
@@ -1643,7 +1647,7 @@
             },
             {
                 "name": "Remiem Temple",
-                "map_locations": [{ "map": "Spira", "x": 718, "y": 207, "size": 24}],
+                "map_locations": [{ "map": "Spira", "x": 711, "y": 240, "size": 24}],
                 "sections": [
                     {
                         "name": "Remiem Temple - Northwest Corner (Primer)",
@@ -1725,7 +1729,7 @@
             },
             {
                 "name": "Monster Arena - Captures",
-                "map_locations": [{ "map": "Spira", "x": 790, "y": 175, "size": 24, "shape": "diamond"}],
+                "map_locations": [{ "map": "Spira", "x": 664, "y": 256, "size": 24, "shape": "diamond"}],
                 "visibility_rules": ["capturesanity"],
                 "sections": [
                     {
@@ -1847,7 +1851,7 @@
             },
             {
                 "name": "Monster Arena - Rewards",
-                "map_locations": [{ "map": "Spira", "x": 770, "y": 207, "size": 24, "shape": "diamond"}],
+                "map_locations": [{ "map": "Spira", "x": 644, "y": 280, "size": 24, "shape": "diamond"}],
                 "sections": [
                     {
                         "name": "Nirvana",
@@ -2005,7 +2009,7 @@
             },
             {
                 "name": "Monster Arena - Bosses",
-                "map_locations": [{ "map": "Spira", "x": 810, "y": 207, "size": 24, "shape": "diamond"}],
+                "map_locations": [{ "map": "Spira", "x": 674, "y": 280, "size": 24, "shape": "diamond"}],
                 "sections": [
                     {
                         "name": "Arena Conquest - Stratoavis",
@@ -2151,7 +2155,7 @@
             },
             {
                 "name": "Cavern of the Stolen Fayth",
-                "map_locations": [{ "map": "Spira", "x": 711, "y": 145}],
+                "map_locations": [{ "map": "Spira", "x": 595, "y": 215}],
                 "sections": [
                     {
                         "name": "Recruit: Durren",
@@ -2205,7 +2209,7 @@
             },
             {
                 "name": "Mt. Gagazet",
-                "map_locations": [{ "map": "Spira", "x": 711, "y": 70}],
+                "map_locations": [{ "map": "Spira", "x": 615, "y": 110}],
                 "sections": [
                     {
                         "name": "Defeat Biran and Yenke (Boss)",
@@ -2275,7 +2279,7 @@
             },
             {
                 "name": "Zanarkand",
-                "map_locations": [{ "map": "Spira", "x": 785, "y": 50}],
+                "map_locations": [{ "map": "Spira", "x": 691, "y": 75}],
                 "sections": [
                     {
                         "name": "Overpass - South Side, West Bend (Chest)",
@@ -2325,7 +2329,7 @@
             },
             {
                 "name": "Inside Sin",
-                "map_locations": [{ "map": "Spira", "x": 930, "y": 100}],
+                "map_locations": [{ "map": "Spira", "x": 535, "y": 485}],
                 "sections": [
                     {
                         "name": "Sea of Sorrow - West Alcove (Chest)",
@@ -2391,7 +2395,7 @@
             },
             {
                 "name": "Omega Ruins",
-                "map_locations": [{ "map": "Spira", "x": 1245, "y": 472}],
+                "map_locations": [{ "map": "Spira", "x": 1285, "y": 445}],
                 "sections": [
                     {
                         "name": "Press Both Glyphs, Then Take Narrow Central Path (Chest)",
@@ -2416,6 +2420,110 @@
                     {
                         "name": "Omega Boss Arena (Chest)",
                         "ref": "Omega Ruins/Omega Boss Arena (Chest)/Magic Sphere x1"
+                    }
+                ]
+            },
+            {
+                "name": "Overdrives - Tidus",
+                "map_locations": [{ "map": "Spira", "x": 1135, "y": 1034}],
+                "sections": [
+                    {
+                        "name": "Use Tidus's Overdrive 10 Times (Slice and Dice)",
+                        "ref": "Overdrives/Tidus/Use Tidus's Overdrive 10 Times (Slice and Dice)"
+                    },
+                    {
+                        "name": "Use Tidus's Overdrive 20 Times (Energy Rain)",
+                        "ref": "Overdrives/Tidus/Use Tidus's Overdrive 20 Times (Energy Rain)"
+                    },
+                    {
+                        "name": "Use Tidus's Overdrive 40 Times (Blitz Ace)",
+                        "ref": "Overdrives/Tidus/Use Tidus's Overdrive 40 Times (Blitz Ace)"
+                    }
+                ]
+            },
+            {
+                "name": "Overdrives - Auron",
+                "map_locations": [{ "map": "Spira", "x": 1200, "y": 1034}],
+                "sections": [
+                    {
+                        "name": "Collect 1 Progressive Jecht's Sphere (Shooting Star)",
+                        "ref": "Overdrives/Auron/Collect 1 Progressive Jecht's Sphere (Shooting Star)"
+                    },
+                    {
+                        "name": "Collect 3 Progressive Jecht's Sphere (Banishing Blade)",
+                        "ref": "Overdrives/Auron/Collect 3 Progressive Jecht's Sphere (Banishing Blade)"
+                    },
+                    {
+                        "name": "Collect 10 Progressive Jecht's Sphere (Tornado)",
+                        "ref": "Overdrives/Auron/Collect 10 Progressive Jecht's Sphere (Tornado)"
+                    }
+                ]
+            },
+            {
+                "name": "Overdrives - Kimahri",
+                "map_locations": [{ "map": "Spira", "x": 1265, "y": 1034}],
+                "sections": [
+                    {
+                        "name": "Use Lancet to Learn Fire Breath",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Seed Cannon",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Seed Cannon"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Self Destruct",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Thrust Kick",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Thrust Kick"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Stone Breath",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Stone Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Aqua Breath",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Doom",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Doom"
+                    },
+                    {
+                        "name": "Use Lancet to Learn White Wind",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn White Wind"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Bad Breath",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Mighty Guard",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Nova",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Nova"
+                    }
+                ]
+            },
+            {
+                "name": "Overdrives - Wakka",
+                "map_locations": [{ "map": "Spira", "x": 1325, "y": 1034}],
+                "sections": [
+                    {
+                        "name": "Come 1st in a Blitzball Tournament (Attack Reels)",
+                        "ref": "Overdrives/Wakka/Come 1st in a Blitzball Tournament (Attack Reels)"
+                    },
+                    {
+                        "name": "Come 1st in a Blitzball League After Obtaining Attack Reels (Status Reels)",
+                        "ref": "Overdrives/Wakka/Come 1st in a Blitzball League After Obtaining Attack Reels (Status Reels)"
+                    },
+                    {
+                        "name": "Come 1st in a Blitzball Tournament After Obtaining both Attack & Status Reels (Aurochs Reels)",
+                        "ref": "Overdrives/Wakka/Come 1st in a Blitzball Tournament After Obtaining both Attack & Status Reels (Aurochs Reels)"
                     }
                 ]
             }

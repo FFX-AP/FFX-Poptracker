@@ -361,6 +361,16 @@
                         "sections": [{"name": "Shiva", "ref": "Party Member/Aeon/Shiva"}]
                     }
                 ]
+            },
+            {
+                "name": "Ronso Rages",
+                "map_locations": [{ "map": "Macalania Woods", "x": 730, "y": 195}],
+                "sections": [
+                    {
+                        "name": "Use Lancet to Learn Aqua Breath\nChimera",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                    }
+                ]
             }
         ]
     }

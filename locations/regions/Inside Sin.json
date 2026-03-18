@@ -137,6 +137,24 @@
                     {"name": "Great Malboro", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Great Malboro"},
                     {"name": "Wraith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Wraith"}
                 ]
+            },
+            {
+                "name": "Ronso Rages",
+                "map_locations": [{ "map": "Inside Sin", "x": 250, "y": 835}],
+                "sections": [
+                    {
+                        "name": "Use Lancet to Learn Mighty Guard\nBehemoth King",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Doom\nWraith",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Doom"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Bad Breath\nGreat Malboro",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                    }
+                ]
             }
         ]
     }

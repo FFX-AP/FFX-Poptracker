@@ -171,6 +171,11 @@
                         ]
                     },
                     {
+                        "name": "Village, House - Something Mangle and Slobbery from Dog (NPC)",
+                        "map_locations": [{ "map": "Besaid Village", "x": 580, "y": 435}],
+                        "sections": [{"name": "Overdrive - Valefor", "ref": "Overdrives/Valefor/Village, House - Something Mangle and Slobbery from Dog (NPC)"}]
+                    },
+                    {
                         "name": "Defeat Dark Valefor (Superboss)",
                         "map_locations": [{ "map": "Besaid Village", "x": 375, "y": 880, "shape": "trapezoid", "size": 32}],
                         "sections": [{"name": "Dark Valefor", "ref": "Super Bosses/Dark Valefor"}]

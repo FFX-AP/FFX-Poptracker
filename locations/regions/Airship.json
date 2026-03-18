@@ -46,6 +46,20 @@
                 "sections": [{"name": "Al Bhed Potion x4 (NPC)"}]
             },
             {
+                "name": "Ronso Rages",
+                "map_locations": [{ "map": "Airship", "x": 285, "y": 150}],
+                "sections": [
+                    {
+                        "name": "Use Lancet to Learn Fire Breath\nDual Horn",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Self Destruct\nBomb",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                    }
+                ]
+            },
+            {
                 "name": "Roof (Bosses)",
                 "map_locations": [{ "map": "Airship", "x": 80, "y": 130, "shape": "trapezoid", "size": 24}],
                 "access_rules": ["[$hasMinimumParty|3]"],

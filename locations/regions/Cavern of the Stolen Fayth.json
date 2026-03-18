@@ -115,6 +115,24 @@
                             {"name": "Ghost", "ref": "Monster Arena/Fiend Capture/Cavern of the Stolen Fayth/Captures Required for Logic/Ghost"},
                             {"name": "Tonberry", "ref": "Monster Arena/Fiend Capture/Cavern of the Stolen Fayth/Captures Required for Logic/Tonberry"}
                         ]
+                    },
+                    {
+                        "name": "Ronso Rages",
+                        "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 490, "y": 400}],
+                        "sections": [
+                            {
+                                "name": "Use Lancet to Learn Fire Breath\nValaha", 
+                                "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                            },
+                            {
+                                "name": "Use Lancet to Learn Doom\nGhost", 
+                                "ref": "Overdrives/Kimahri/Use Lancet to Learn Doom"
+                            },
+                            {
+                                "name": "Use Lancet to Learn Bad Breath\nMalboro", 
+                                "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                            }
+                        ]
                     }
                 ]
             }

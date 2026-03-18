@@ -188,6 +188,12 @@ function applySlotData(slot_data)
         Tracker:FindObjectForCode("minigameblitzball").CurrentStage = 2
     elseif (mini_game_blitzball == 3) then
         Tracker:FindObjectForCode("minigameblitzball").CurrentStage = 3
+    elseif (mini_game_blitzball == 4) then
+        Tracker:FindObjectForCode("minigameblitzball").CurrentStage = 4
+    elseif (mini_game_blitzball == 5) then
+        Tracker:FindObjectForCode("minigameblitzball").CurrentStage = 5
+    elseif (mini_game_blitzball == 6) then
+        Tracker:FindObjectForCode("minigameblitzball").CurrentStage = 6
     end
 
     if (slot_data["required_primers"] ~= nil) then
@@ -204,6 +210,12 @@ function applySlotData(slot_data)
     end
     if (slot_data["jecht_spheres"] ~= nil) then
         Tracker:FindObjectForCode("jechtspheres").Active = slot_data["jecht_spheres"]
+    end
+    if (slot_data["tidus_overdrive"] ~= nil) then
+        Tracker:FindObjectForCode("overdrivetidus").AcquiredCount = slot_data["tidus_overdrive"]    
+    end
+    if (slot_data["kimahri_ronso_rage"] ~= nil) then
+        Tracker:FindObjectForCode("ronsorages").AcquiredCount = slot_data["kimahri_ronso_rage"]    
     end
     if (slot_data["super_bosses"] ~= nil) then
         Tracker:FindObjectForCode("superbosses").Active = slot_data["super_bosses"]

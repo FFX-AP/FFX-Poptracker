@@ -142,7 +142,7 @@
             },
             {
                 "name": "Captures Required for Logic",
-                "map_locations": [{ "map": "Calm Lands", "x": 230, "y": 220, "shape": "diamond"}],
+                "map_locations": [{ "map": "Calm Lands", "x": 215, "y": 220, "shape": "diamond"}],
                 "sections": [
                     {"name": "Skoll ", "ref": "Monster Arena/Fiend Capture/Calm Lands/Captures Required for Logic/Skoll"},
                     {"name": "Nebiros", "ref": "Monster Arena/Fiend Capture/Calm Lands/Captures Required for Logic/Nebiros"},
@@ -153,6 +153,24 @@
                     {"name": "Coeurl", "ref": "Monster Arena/Fiend Capture/Calm Lands/Captures Required for Logic/Coeurl"},
                     {"name": "Chimera Brain", "ref": "Monster Arena/Fiend Capture/Calm Lands/Captures Required for Logic/Chimera Brain"},
                     {"name": "Malboro", "ref": "Monster Arena/Fiend Capture/Calm Lands/Captures Required for Logic/Malboro"}
+                ]
+            },
+            {
+                "name": "Ronso Rages",
+                "map_locations": [{ "map": "Calm Lands", "x": 215, "y": 455}],
+                "sections": [
+                    {
+                        "name": "Use Lancet to Learn Stone Breath\nAnacondaur",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Stone Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Aqua Breath\nChimera Brain",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Bad Breath\nMalboro",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                    }
                 ]
             }
         ]       
