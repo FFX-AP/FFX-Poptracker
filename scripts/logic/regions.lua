@@ -268,7 +268,7 @@ function hasCombatRegions(qty)
     local counter = 0
 
     for _, region in ipairs(CombatRegions) do
-        if Tracker:FindObjectForCode(region).Active then
+        if (CheckAccessLevel(region) == ACCESS_NORMAL) then
             counter = counter + 1
             if counter >= tonumber(qty) then
                 return ACCESS_NORMAL
