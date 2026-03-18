@@ -15,7 +15,7 @@
                     },
                     {
                         "name": "Cafe - Talk to Owner After Placing at Least Third in a Tournament (Chest)",
-                        "access_rules": ["celestialmirror"],
+                        "access_rules": ["progressivemirrors:2"],
                         "visibility_rules": ["worldchampminigame"]
                     },
                     {
