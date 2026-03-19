@@ -212,10 +212,10 @@ function applySlotData(slot_data)
         Tracker:FindObjectForCode("jechtspheres").Active = slot_data["jecht_spheres"]
     end
     if (slot_data["tidus_overdrive"] ~= nil) then
-        Tracker:FindObjectForCode("overdrivetidus").AcquiredCount = slot_data["tidus_overdrive"]    
+        Tracker:FindObjectForCode("overdrivetidus").Active = slot_data["tidus_overdrive"]    
     end
     if (slot_data["kimahri_ronso_rage"] ~= nil) then
-        Tracker:FindObjectForCode("ronsorages").AcquiredCount = slot_data["kimahri_ronso_rage"]    
+        Tracker:FindObjectForCode("ronsorages").Active = slot_data["kimahri_ronso_rage"]    
     end
     if (slot_data["super_bosses"] ~= nil) then
         Tracker:FindObjectForCode("superbosses").Active = slot_data["super_bosses"]
