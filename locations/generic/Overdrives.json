@@ -79,7 +79,7 @@
                     },
                     {
                         "name": "Use Lancet to Learn Nova",
-                        "visibility_rules": ["superbosses"],
+                        "visibility_rules": ["superbosses", "creationbossesoriginal"],
                         "access_rules": ["@Omega Ruins/Defeat Omega Weapon (Superboss)", "@Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations"]
                     }
                 ]
