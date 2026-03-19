@@ -113,7 +113,7 @@
             {
                 "name": "Valefor",
                 "access_rules": ["@Besaid/Village, map"],
-                "sections": [{"name": "Village, House - Something Mangle and Slobbery from Dog (NPC)"}]
+                "sections": [{"name": "Village, House - Something Mangled and Slobbery from Dog (NPC)"}]
             }
         ]
     }
