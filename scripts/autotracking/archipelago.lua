@@ -323,6 +323,10 @@ function onClear(slot_data)
         Archipelago:Get({ap_logic_zu})
         print("Setting Notify for: " .. ap_logic_zu)
 
+        ap_tidus_od_counter = "Slot:" .. PLAYER_ID .. ":FFX_TIDUS_OVERDRIVE"
+        Archipelago:SetNotify({ap_tidus_od_counter})
+        Archipelago:Get({ap_tidus_od_counter})
+
         if #ALL_LOCATIONS > 0 then
             ALL_LOCATIONS = {}
         end
@@ -524,6 +528,7 @@ function onDataStorageUpdate(key, value, oldValue)
     elseif (key == ap_logic_zu and value ~= nil) then
         updateBattleLogic("zu", value)
     end
+    Tracker:FindObjectForCode("tidusoverdrivecounter").AcquiredCount = value
 end
 
 -- ScriptHost:AddWatchForCode("settings autofill handler", "autofill_settings", autoFill)
