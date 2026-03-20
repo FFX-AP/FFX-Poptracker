@@ -609,7 +609,9 @@
     {
         "name": "Attack Reels",
         "type": "toggle",
-        "img": "images/items/hd/Support_use_item_HD.png",
+        "img": "images/Overdrives/Overdrive.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "attackreels"
@@ -617,7 +619,9 @@
     {
         "name": "Status Reels",
         "type": "toggle",
-        "img": "images/items/hd/Support_use_item_HD.png",
+        "img": "images/Overdrives/Overdrive.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "statusreels"
@@ -625,7 +629,9 @@
     {
         "name": "Auroch Reels",
         "type": "toggle",
-        "img": "images/items/hd/Support_use_item_HD.png",
+        "img": "images/Overdrives/Overdrive.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
         "capturable": true,
         "initial_active_state": false,
         "codes": "aurochreels"

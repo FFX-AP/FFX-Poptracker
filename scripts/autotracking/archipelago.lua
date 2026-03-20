@@ -196,6 +196,17 @@ function applySlotData(slot_data)
         Tracker:FindObjectForCode("minigameblitzball").CurrentStage = 6
     end
 
+    local tidus_overdrive = slot_data["tidus_overdrive"]
+    if (tidus_overdrive == 0) then
+        Tracker:FindObjectForCode("overdrivetidus").CurrentStage = 0
+    elseif (tidus_overdrive == 1) then
+        Tracker:FindObjectForCode("overdrivetidus").CurrentStage = 1
+    elseif (tidus_overdrive == 2) then
+        Tracker:FindObjectForCode("overdrivetidus").CurrentStage = 2
+    elseif (tidus_overdrive == 3) then
+        Tracker:FindObjectForCode("overdrivetidus").CurrentStage = 3
+    end
+
     if (slot_data["required_primers"] ~= nil) then
         Tracker:FindObjectForCode("requiredprimers").AcquiredCount = slot_data["required_primers"]    
     end
@@ -210,9 +221,6 @@ function applySlotData(slot_data)
     end
     if (slot_data["jecht_spheres"] ~= nil) then
         Tracker:FindObjectForCode("jechtspheres").Active = slot_data["jecht_spheres"]
-    end
-    if (slot_data["tidus_overdrive"] ~= nil) then
-        Tracker:FindObjectForCode("overdrivetidus").Active = slot_data["tidus_overdrive"]    
     end
     if (slot_data["kimahri_ronso_rage"] ~= nil) then
         Tracker:FindObjectForCode("ronsorages").Active = slot_data["kimahri_ronso_rage"]    
@@ -326,6 +334,7 @@ function onClear(slot_data)
         ap_tidus_od_counter = "Slot:" .. PLAYER_ID .. ":FFX_TIDUS_OVERDRIVE"
         Archipelago:SetNotify({ap_tidus_od_counter})
         Archipelago:Get({ap_tidus_od_counter})
+        print("Setting Notify for: " .. ap_tidus_od_counter)
 
         if #ALL_LOCATIONS > 0 then
             ALL_LOCATIONS = {}
@@ -527,8 +536,9 @@ function onDataStorageUpdate(key, value, oldValue)
         updateCaptures(key, value)
     elseif (key == ap_logic_zu and value ~= nil) then
         updateBattleLogic("zu", value)
+    elseif (key == ap_tidus_od_counter and value ~= nil) then
+        Tracker:FindObjectForCode("tidusoverdrivecounter").AcquiredCount = value
     end
-    Tracker:FindObjectForCode("tidusoverdrivecounter").AcquiredCount = value
 end
 
 -- ScriptHost:AddWatchForCode("settings autofill handler", "autofill_settings", autoFill)
