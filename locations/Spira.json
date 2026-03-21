@@ -2304,22 +2304,6 @@
                 "map_locations": [{ "map": "Spira", "x": 615, "y": 115}],
                 "sections": [
                     {
-                        "name": "Use Lancet to Learn Fire Breath\nYenke", 
-                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MTGZ Fire Breath"
-                    },
-                    {
-                        "name": "Use Lancet to Learn Aqua Breath\nYenke", 
-                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Aqua Breath/MTGZ Aqua Breath"
-                    },
-                    {
-                        "name": "Use Lancet to Learn Stone Breath\nYenke", 
-                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Stone Breath/MTGZ Stone Breath"
-                    },
-                    {
-                        "name": "Use Lancet to Learn White Wind\nYenke (After Use)", 
-                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn White Wind/MTGZ White Wind"
-                    },
-                    {
                         "name": "Use Lancet to Learn Thrust Kick\nBiran", 
                         "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Thrust Kick/MTGZ Thrust Kick"
                     },
@@ -2334,6 +2318,22 @@
                     {
                         "name": "Use Lancet to Learn Mighty Guard\nBiran (After Use)", 
                         "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Mighty Guard/MTGZ Mighty Guard"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Fire Breath\nYenke", 
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MTGZ Fire Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Aqua Breath\nYenke", 
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Aqua Breath/MTGZ Aqua Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Stone Breath\nYenke", 
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Stone Breath/MTGZ Stone Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn White Wind\nYenke (After Use)", 
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn White Wind/MTGZ White Wind"
                     },
                     {
                         "name": "Defeat Biran and Yenke (Boss)",
@@ -2568,6 +2568,10 @@
                     {
                         "name": "Use Lancet to Learn Self Destruct\nPuroboros", 
                         "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/OMGR Self Destruct"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Doom\nWraith", 
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Doom/OMGR Doom"
                     },
                     {
                         "name": "Use Lancet to Learn Bad Breath\nGreat Malboro", 

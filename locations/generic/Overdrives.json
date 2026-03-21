@@ -106,7 +106,8 @@
                         "sections": [
                             {"name": "COSF Doom", "access_rules": ["@Cavern of the Stolen Fayth"], "hosted_item": "ronsoragedoom", "clear_as_group": true},
                             {"name": "MTGZ Doom", "access_rules": ["@Mt. Gagazet"], "hosted_item": "ronsoragedoom", "clear_as_group": true},
-                            {"name": "SINS Doom", "access_rules": ["@Inside Sin/City of Dying Dreams"], "hosted_item": "ronsoragedoom", "clear_as_group": true}
+                            {"name": "SINS Doom", "access_rules": ["@Inside Sin/City of Dying Dreams"], "hosted_item": "ronsoragedoom", "clear_as_group": true},
+                            {"name": "OMGR Doom", "access_rules": ["@Omega Ruins"], "hosted_item": "ronsoragedoom", "clear_as_group": true}
                         ]
                     },
                     {
