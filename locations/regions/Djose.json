@@ -177,7 +177,7 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Djose", "x": 247, "y": 225, "size": 32}],
+                "map_locations": [{ "map": "Djose", "x": 247, "y": 225}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Stone Breath\nBasilisk",

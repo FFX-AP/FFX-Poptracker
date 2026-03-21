@@ -118,7 +118,7 @@
                     },
                     {
                         "name": "Ronso Rages",
-                        "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 520, "y": 525, "size": 32}],
+                        "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 520, "y": 525}],
                         "sections": [
                             {
                                 "name": "Use Lancet to Learn Fire Breath\nValaha", 

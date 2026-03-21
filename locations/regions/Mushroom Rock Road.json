@@ -219,7 +219,7 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Mushroom Rock Road", "x": 510, "y": 685, "size": 32}],
+                "map_locations": [{ "map": "Mushroom Rock Road", "x": 510, "y": 685}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath\nDual Horn",

@@ -364,7 +364,7 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Macalania Woods", "x": 787, "y": 315, "size": 32}],
+                "map_locations": [{ "map": "Macalania Woods", "x": 787, "y": 315}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Aqua Breath\nChimera",

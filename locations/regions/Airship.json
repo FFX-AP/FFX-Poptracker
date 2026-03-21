@@ -47,7 +47,7 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Airship", "x": 285, "y": 220, "size": 32}],
+                "map_locations": [{ "map": "Airship", "x": 285, "y": 220}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath\nDual Horn",

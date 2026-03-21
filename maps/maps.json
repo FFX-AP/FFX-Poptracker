@@ -294,7 +294,7 @@
         "img": "images/maps/regions/mushroom rock road/MRR.png"
     },
     {
-        "name": "Omega Ruins",
+        "name": "Omega Ruins Back",
         "location_size": 24,
         "location_border_thickness": 1,
         "img": "images/maps/regions/omega ruins/Omega Ruins.png"
@@ -340,6 +340,12 @@
         "location_size": 12,
         "location_border_thickness": 1,
         "img": "images/maps/regions/thunder plains/Thunder Plains.png"
+    },
+    {
+        "name": "Omega Ruins Front",
+        "location_size": 24,
+        "location_border_thickness": 1,
+        "img": "images/maps/regions/omega ruins/Ultima Ruins.png"
     },
     {
         "name": "Via Purifico",

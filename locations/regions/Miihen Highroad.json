@@ -219,7 +219,7 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Miihen Highroad", "x": 530, "y": 630, "size": 32}],
+                "map_locations": [{ "map": "Miihen Highroad", "x": 530, "y": 630}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath\nDual Horn",
