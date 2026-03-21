@@ -170,8 +170,8 @@
                         "ref": "Besaid/Village/Exit the Village (Event)/Map"
                     },
                     {
-                        "name": "Village, House - Something Mangle and Slobbery from Dog (NPC)",
-                        "ref": "Overdrives/Valefor/Village, House - Something Mangle and Slobbery from Dog (NPC)"
+                        "name": "Village, House - Something Mangled and Slobbery from Dog (NPC)\nTalk to Shop Owner then Dog",
+                        "ref": "Overdrives/Valefor/Village, House - Something Mangled and Slobbery from Dog (NPC)"
                     },
                     {
                         "name": "Village Slope - Element Tutorial (Event)",
@@ -276,6 +276,10 @@
                     {
                         "name": "Recruit: Kulukan",
                         "ref": "Blitzball Recruits/Kilika Beasts/Kulukan"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Seed Cannon\nRagora",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Seed Cannon"
                     },
                     {
                         "name": "Woods - East of First Intersection (Chest)",
@@ -522,6 +526,18 @@
                         "ref": "Minigames/Blitzball/Cafe - Talk to Owner After Placing at Least Third in a Tournament (Chest)"
                     },
                     {
+                        "name": "Come 1st in a Blitzball Tournament (Attack Reels)",
+                        "ref": "Overdrives/Wakka/Come 1st in a Blitzball Tournament (Attack Reels)"
+                    },
+                    {
+                        "name": "Come 1st in a Blitzball League After Obtaining Attack Reels (Status Reels)",
+                        "ref": "Overdrives/Wakka/Come 1st in a Blitzball League After Obtaining Attack Reels (Status Reels)"
+                    },
+                    {
+                        "name": "Come 1st in a Blitzball Tournament After Obtaining both Attack & Status Reels (Aurochs Reels)",
+                        "ref": "Overdrives/Wakka/Come 1st in a Blitzball Tournament After Obtaining both Attack & Status Reels (Aurochs Reels)"
+                    },
+                    {
                         "name": "Blitzball: Obtain The Jupiter Sigil League Prize (Event)",
                         "ref": "Minigames/Blitzball/Blitzball: Obtain The Jupiter Sigil League Prize (Event)"
                     }
@@ -531,6 +547,14 @@
                 "name": "Miihen Highroad",
                 "map_locations": [{ "map": "Spira", "x": 580, "y": 830}],
                 "sections": [
+                    {
+                        "name": "Use Lancet to Learn Fire Breath\nDual Horn",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Self Destruct\nBomb",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                    },
                     {
                         "name": "South End - Yellow Man, Looping South to North (NPC)",
                         "ref": "Miihen Highroad/South/South End - Yellow Man, Looping South to North (NPC)/Hi-Potion"
@@ -650,6 +674,14 @@
                 "map_locations": [{ "map": "Spira", "x": 670, "y": 765}],
                 "sections": [
                     {
+                        "name": "Use Lancet to Learn Fire Breath\nDual Horn", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Self Destruct\nBomb", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                    },
+                    {
                         "name": "First Screen - Left Near Southern Exit (NPC)",
                         "ref": "Mushroom Rock Road/Entrance/First Screen - Left Near Southern Exit (NPC)/Remedy x1"
                     },
@@ -763,6 +795,10 @@
                 "name": "Djose",
                 "map_locations": [{ "map": "Spira", "x": 790, "y": 725}],
                 "sections": [
+                    {
+                        "name": "Use Lancet to Learn Stone Breath\nBasilisk",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Stone Breath"
+                    },
                     {
                         "name": "Highroad - South End, West Side (Chest)",
                         "ref": "Djose/Highroad/Highroad - South End, West Side (Chest)/Phoenix Down x2"
@@ -1075,6 +1111,10 @@
                 "name": "Macalania",
                 "map_locations": [{ "map": "Spira", "x": 670, "y": 410}],
                 "sections": [
+                    {
+                        "name": "Use Lancet to Learn Aqua Breath\nChimera",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                    },
                     {
                         "name": "South - Hidden Behind Tree in Middle of S-Bend (Chest)",
                         "ref": "Macalania/Woods/South - Hidden Behind Tree in Middle of S-Bend (Chest)/Sleepy Cait Sith"
@@ -1394,6 +1434,18 @@
                         "ref": "Al Bhed Primers/Al Bhed Primer XIX/Home"
                     },
                     {
+                        "name": "Use Lancet to Learn Fire Breath\nDual Horn",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Self Destruct\nBomb",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Aqua Breath\nChimera",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                    },
+                    {
                         "name": "Main Corridor - North Hall, Left (Chest)",
                         "ref": "Bikanel/Home/Main Corridor - North Hall, Left (Chest)/Al Bhed Potion x6"
                     },
@@ -1478,6 +1530,14 @@
                     {
                         "name": "Collect All Primers, Talk to Rin (NPC)",
                         "ref": "Al Bhed Primers/Complete Al Bhed Primers"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Fire Breath\nDual Horn",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Self Destruct\nBomb",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
                     },
                     {
                         "name": "Cabin - Before Evrae, Yellow Al Bhed on Left (NPC)",
@@ -1570,6 +1630,10 @@
                         "ref": "Bevelle/Underwater/Underwater After Evrae Altana, Right Side After First Turn (Chest)/Avenger"
                     },
                     {
+                        "name": "Use Lancet to Learn Thrust Kick\nYKT-63",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Thrust Kick"
+                    },
+                    {
                         "name": "Defeat Seymour Natus (Boss)",
                         "ref": "Bevelle/Highbridge/Defeat Seymour Natus (Boss)/Seymour Natus"
                     },
@@ -1583,6 +1647,18 @@
                 "name": "Calm Lands",
                 "map_locations": [{ "map": "Spira", "x": 605, "y": 280}],
                 "sections": [
+                    {
+                        "name": "Use Lancet to Learn Stone Breath\nAnacondaur", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Stone Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Aqua Breath\nChimera Brain", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Bad Breath\nMalboro", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                    },
                     {
                         "name": "Central - Fight Belgemine (Win) (Event)",
                         "ref": "Belgemine/Regions/Central - Fight Belgemine (Win) (Event)"
@@ -2158,6 +2234,18 @@
                 "map_locations": [{ "map": "Spira", "x": 595, "y": 215}],
                 "sections": [
                     {
+                        "name": "Use Lancet to Learn Fire Breath\nValaha", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Doom\nGhost", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Doom"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Bad Breath\nMalboro", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                    },
+                    {
                         "name": "Recruit: Durren",
                         "ref": "Blitzball Recruits/Free Agents/Durren"
                     },
@@ -2212,8 +2300,44 @@
                 "map_locations": [{ "map": "Spira", "x": 615, "y": 110}],
                 "sections": [
                     {
+                        "name": "Use Lancet to Learn Fire Breath\nYenke", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Aqua Breath\nYenke", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Stone Breath\nYenke", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Stone Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn White Wind\nYenke (After Use)", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn White Wind"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Thrust Kick\nBiran", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Thrust Kick"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Self Destruct\nBiran", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Doom\nBiran", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Doom"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Mighty Guard\nBiran (After Use)", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"
+                    },
+                    {
                         "name": "Defeat Biran and Yenke (Boss)",
                         "ref": "Mt. Gagazet/Defeat Biran and Yenke (Boss)/Biran and Yenke"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Self Destruct\nGrenade",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
                     },
                     {
                         "name": "Trail - Top of Right Ridge Near South Exit (Chest)",
@@ -2246,6 +2370,18 @@
                     {
                         "name": "Prominence - Hidden Between Left Pillars (Chest)",
                         "ref": "Celestial/Kimahri/Saturn Crest"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Fire Breath\nGrendel", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn White Wind\nDark Flan", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn White Wind"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Mighty Guard\nBehemoth", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"
                     },
                     {
                         "name": "Submerged Passage - Reward from First Trial (Chest)",
@@ -2282,12 +2418,28 @@
                 "map_locations": [{ "map": "Spira", "x": 691, "y": 75}],
                 "sections": [
                     {
+                        "name": "Use Lancet to Learn Fire Breath\nGrendel", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn White Wind\nDark Flan", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn White Wind"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Mighty Guard\nBehemoth", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"
+                    },
+                    {
                         "name": "Overpass - South Side, West Bend (Chest)",
                         "ref": "Zanarkand/Overpass/Overpass - South Side, West Bend (Chest)/Fortune Sphere x1"
                     },
                     {
                         "name": "Overpass - North Side, Left Alcove (Chest)",
                         "ref": "Zanarkand/Overpass/Overpass - North Side, Left Alcove (Chest)/Spiritual Targe"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Thrust Kick\nYKT-11", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Thrust Kick"
                     },
                     {
                         "name": "Dome Interior - Road Above Underpass (Chest)",
@@ -2332,6 +2484,10 @@
                 "map_locations": [{ "map": "Spira", "x": 535, "y": 485}],
                 "sections": [
                     {
+                        "name": "Use Lancet to Learn Mighty Guard\nBehemoth King",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"
+                    },
+                    {
                         "name": "Sea of Sorrow - West Alcove (Chest)",
                         "ref": "Inside Sin/Sea of Sorrow/Sea of Sorrow - West Alcove (Chest)/Phantom Ring"
                     },
@@ -2354,6 +2510,14 @@
                     {
                         "name": "Defeat Seymour Omnis (Boss)",
                         "ref": "Inside Sin/Sea of Sorrow/Defeat Seymour Omnis (Boss)/Seymour Omnis"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Doom\nWraith",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Doom"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Bad Breath\nGreat Malboro",
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
                     },
                     {
                         "name": "City of Dying Dreams - East Glyph Near South Exit, Defeat 10-10-15 Fiends (Chest)",
@@ -2397,6 +2561,18 @@
                 "name": "Omega Ruins",
                 "map_locations": [{ "map": "Spira", "x": 1285, "y": 445}],
                 "sections": [
+                    {
+                        "name": "Use Lancet to Learn Self Destruct\nPuroboros", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Bad Breath\nGreat Malboro", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Nova\nOmega Weapon", 
+                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Nova"
+                    },
                     {
                         "name": "Press Both Glyphs, Then Take Narrow Central Path (Chest)",
                         "ref": "Omega Ruins/Press Both Glyphs, Then Take Narrow Central Path (Chest)/Teleport Sphere x1"

@@ -171,9 +171,9 @@
                         ]
                     },
                     {
-                        "name": "Village, House - Something Mangle and Slobbery from Dog (NPC)",
+                        "name": "Village, House - Something Mangled and Slobbery from Dog (NPC)\nTalk to Shop Owner then Dog",
                         "map_locations": [{ "map": "Besaid Village", "x": 580, "y": 435}],
-                        "sections": [{"name": "Overdrive - Valefor", "ref": "Overdrives/Valefor/Village, House - Something Mangle and Slobbery from Dog (NPC)"}]
+                        "sections": [{"name": "Overdrive - Valefor", "ref": "Overdrives/Valefor/Village, House - Something Mangled and Slobbery from Dog (NPC)"}]
                     },
                     {
                         "name": "Defeat Dark Valefor (Superboss)",

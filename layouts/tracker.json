@@ -59,6 +59,15 @@
                                     "type": "layout",
                                     "key": "key_items_horizontal"
                                 }
+                            },
+                            {
+                                "type": "group",
+                                "header": "Overdrives",
+                                "dock": "top",
+                                "content": {
+                                    "type": "layout",
+                                    "key": "overdrives_horizontal"
+                                }
                             }
                         ]
                     }                    
