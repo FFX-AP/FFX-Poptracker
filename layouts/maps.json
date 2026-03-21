@@ -361,14 +361,14 @@
                             "title": "Ultima",
                             "content": {
                                 "type": "map",
-                                "maps": ["Omega Ruins Front"]
+                                "maps": ["Ultima Ruins"]
                             }
                         },
                         {
                             "title": "Omega",
                             "content": {
                                 "type": "map",
-                                "maps": ["Omega Ruins Back"]
+                                "maps": ["Omega Ruins"]
                             }
                         }
                     ]

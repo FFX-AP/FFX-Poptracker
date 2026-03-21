@@ -8,12 +8,12 @@
         "children": [
             {
                 "name": "Press Both Glyphs, Then Take Narrow Central Path (Chest)",
-                "map_locations": [{ "map": "Omega Ruins Front", "x": 430, "y": 490}],
+                "map_locations": [{ "map": "Ultima Ruins", "x": 430, "y": 490}],
                 "sections": [{"name": "Teleport Sphere x1"}]
             },
             {
                 "name": "North Side of Four Chest Intersection (Primer)",
-                "map_locations": [{ "map": "Omega Ruins Front", "x": 390, "y": 200}],
+                "map_locations": [{ "map": "Ultima Ruins", "x": 390, "y": 200}],
                 "sections": [
                     {
                         "name": "Al Bhed Primer XXVI",
@@ -23,7 +23,7 @@
             },
             {
                 "name": "Defeat Ultima Weapon (Boss)",
-                "map_locations": [{ "map": "Omega Ruins Front", "x": 770, "y": 202, "shape": "trapezoid", "size": 32}],
+                "map_locations": [{ "map": "Ultima Ruins", "x": 770, "y": 202, "shape": "trapezoid", "size": 32}],
                 "access_rules": ["[$hasMinimumParty|3]"],
                 "sections": [
                     {
@@ -35,26 +35,26 @@
             },
             {
                 "name": "West Path (Chest)",
-                "map_locations": [{ "map": "Omega Ruins Back", "x": 515, "y": 225}],
+                "map_locations": [{ "map": "Omega Ruins", "x": 515, "y": 225}],
                 "access_rules": ["ultimaweapon, [$hasMinimumParty|3]"],
                 "sections": [{"name": "Friend Sphere x1"}]
             },
             {
                 "name": "Defeat Omega Weapon (Superboss)",
-                "map_locations": [{ "map": "Omega Ruins Back", "x": 380, "y": 408, "shape": "trapezoid", "size": 32}],
+                "map_locations": [{ "map": "Omega Ruins", "x": 380, "y": 408, "shape": "trapezoid", "size": 32}],
                 "visibility_rules": ["superbosses"],
                 "sections": [{"name": "Omega Weapon", "ref": "Super Bosses/Omega Weapon"}]
             },
             {
                 "name": "Omega Boss Arena (Chest)",
-                "map_locations": [{ "map": "Omega Ruins Back", "x": 345, "y": 408}],
+                "map_locations": [{ "map": "Omega Ruins", "x": 345, "y": 408}],
                 "access_rules": ["omegaweapon, [$hasMinimumParty|3]"],
                 "visibility_rules": ["superbosses"],
                 "sections": [{"name": "Magic Sphere x1"}]
             },
             {
                 "name": "Monster Captures",
-                "map_locations": [{ "map": "Omega Ruins Front", "x": 630, "y": 345}],
+                "map_locations": [{ "map": "Ultima Ruins", "x": 630, "y": 345}],
                 "sections": [
                     {"name": "Adamantoise", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Adamantoise"},
                     {"name": "Wraith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Wraith"},
@@ -74,7 +74,7 @@
             },
             {
                 "name": "Captures Required for Logic",
-                "map_locations": [{ "map": "Omega Ruins Front", "x": 660, "y": 345, "shape": "diamond"}],
+                "map_locations": [{ "map": "Ultima Ruins", "x": 660, "y": 345, "shape": "diamond"}],
                 "sections": [
                     {"name": "Adamantoise", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Adamantoise"},
                     {"name": "Wraith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Wraith"},
@@ -94,7 +94,7 @@
             },
             {
                 "name": "Monster Captures",
-                "map_locations": [{ "map": "Omega Ruins Back", "x": 220, "y": 325}],
+                "map_locations": [{ "map": "Omega Ruins", "x": 220, "y": 325}],
                 "sections": [
                     {"name": "Adamantoise", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Adamantoise"},
                     {"name": "Wraith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Wraith"},
@@ -114,7 +114,7 @@
             },
             {
                 "name": "Captures Required for Logic",
-                "map_locations": [{ "map": "Omega Ruins Back", "x": 250, "y": 325, "shape": "diamond"}],
+                "map_locations": [{ "map": "Omega Ruins", "x": 250, "y": 325, "shape": "diamond"}],
                 "sections": [
                     {"name": "Adamantoise", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Adamantoise"},
                     {"name": "Wraith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Wraith"},
@@ -134,7 +134,7 @@
             },
             {
                 "name": "Captures Post-Omega Weapon",
-                "map_locations": [{ "map": "Omega Ruins Back", "x": 220, "y": 365}],
+                "map_locations": [{ "map": "Omega Ruins", "x": 220, "y": 365}],
                 "access_rules": ["@Inside Sin", "@Omega Ruins, omegaweapon, [$hasMinimumParty|3]"],
                 "visibility_rules": ["capturesanity, superbosses"],
                 "sections": [
@@ -152,7 +152,7 @@
             },
             {
                 "name": "Capture Logic Post-Omega Weapon",
-                "map_locations": [{ "map": "Omega Ruins Back", "x": 250, "y": 365, "shape": "diamond"}],
+                "map_locations": [{ "map": "Omega Ruins", "x": 250, "y": 365, "shape": "diamond"}],
                 "access_rules": ["@Inside Sin", "@Omega Ruins, omegaweapon, [$hasMinimumParty|3]"],
                 "visibility_rules": ["capturesanity, superbosses"],
                 "sections": [ 
@@ -170,7 +170,7 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Omega Ruins Front", "x": 600, "y": 345}],
+                "map_locations": [{ "map": "Ultima Ruins", "x": 590, "y": 345}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Self Destruct\nPuroboros",
@@ -184,7 +184,7 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Omega Ruins Back", "x": 280, "y": 345}],
+                "map_locations": [{ "map": "Omega Ruins", "x": 190, "y": 345}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Self Destruct\nPuroboros",
