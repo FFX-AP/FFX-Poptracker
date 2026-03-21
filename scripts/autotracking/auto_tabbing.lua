@@ -319,8 +319,8 @@ RoomToMap = {
     [325] = {"Inside Sin"},
     [326] = {"Inside Sin"},
 
-    [258] = {"Omega Ruins Front"},
-    [271] = {"Omega Ruins Back"},
+    [258] = {"Omega Ruins", "Ultima"},
+    [271] = {"Omega Ruins", "Omega"},
 }
 
 RoomToIgnore = {

@@ -278,13 +278,13 @@
         "name": "Capture Sanity",
         "type": "toggle",
         "img": "images/items/hd/Battle_Item_HD.png",
-        "initial_active_state": true,
+        "initial_active_state": false,
         "codes": "capturesanity"
     },
     {
         "name": "Capture Rewards",
         "type": "progressive",
-        "allow_disabled": true,
+        "allow_disabled": false,
         "codes": "capturerewards",
         "initial_stage_idx": 0,
         "stages": [
@@ -375,14 +375,14 @@
         "name": "Kimahri's Ronso Rages",
         "type": "toggle",
         "img": "images/Overdrives/Overdrive Kimahri.png",
-        "initial_active_state": true,
+        "initial_active_state": false,
         "codes": "ronsorages"
     },
     {
         "name": "Super Bosses",
         "type": "toggle",
         "img": "images/items/hd/Crossed Swords.png",
-        "initial_active_state": true,
+        "initial_active_state": false,
         "codes": "superbosses"
     },
     {
