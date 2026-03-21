@@ -343,10 +343,33 @@
     },
     {
         "name": "Tidus's Overdrives",
-        "type": "toggle",
-        "img": "images/Overdrives/Overdrive Tidus.png",
-        "initial_active_state": false,
-        "codes": "overdrivetidus"
+        "type": "progressive",
+        "allow_disabled": false,
+        "codes": "overdrivetidus",
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "name": "No Tidus Overdrives",
+                "img": "images/Overdrives/Overdrive Tidus.png",
+                "img_mods": "@disabled",
+                "codes": "tidusoverdrivenone"
+            },
+            {
+                "name": "Up to Slice and Dice",
+                "img": "images/Overdrives/Overdrive Tidus.png",
+                "codes": "tidusoverdrivesnd"
+            },
+            {
+                "name": "Up to Energy Rain",
+                "img": "images/Overdrives/Overdrive Tidus.png",
+                "codes": "tidusoverdrivesnd, tidusoverdriveer"
+            },
+            {
+                "name": "Up to Blitz Ace",
+                "img": "images/Overdrives/Overdrive Tidus.png",
+                "codes": "tidusoverdrivesnd, tidusoverdriveer, tidusoverdriveba"
+            }
+        ]
     },
     {
         "name": "Kimahri's Ronso Rages",

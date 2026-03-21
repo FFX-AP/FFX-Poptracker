@@ -8,18 +8,20 @@
             {
                 "name": "Tidus",
                 "access_rules": ["$hasTidus, ^$hasTidusOverdrive"],
-                "visibility_rules": ["overdrivetidus"],
                 "sections": [
                     {
                         "name": "Use Tidus's Overdrive 10 Times (Slice and Dice)",
+                        "visibility_rules": ["tidusoverdrivesnd"],
                         "access_rules": ["^$hasCombatRegions|2"]                        
                     },
                     {
                         "name": "Use Tidus's Overdrive 20 Times (Energy Rain)",
+                        "visibility_rules": ["tidusoverdriveer"],
                         "access_rules": ["^$hasCombatRegions|4"]
                     },
                     {
                         "name": "Use Tidus's Overdrive 40 Times (Blitz Ace)",
+                        "visibility_rules": ["tidusoverdriveba"],
                         "access_rules": ["^$hasCombatRegions|8"]
                     }
                 ]
@@ -79,7 +81,7 @@
                     },
                     {
                         "name": "Use Lancet to Learn Nova",
-                        "visibility_rules": ["superbosses"],
+                        "visibility_rules": ["superbosses", "creationbossesoriginal"],
                         "access_rules": ["@Omega Ruins/Defeat Omega Weapon (Superboss)", "@Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations"]
                     }
                 ]
@@ -113,7 +115,7 @@
             {
                 "name": "Valefor",
                 "access_rules": ["@Besaid/Village, map"],
-                "sections": [{"name": "Village, House - Something Mangle and Slobbery from Dog (NPC)"}]
+                "sections": [{"name": "Village, House - Something Mangled and Slobbery from Dog (NPC)"}]
             }
         ]
     }

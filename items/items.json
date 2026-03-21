@@ -11687,5 +11687,20 @@
         "type": "toggle",
         "initial_active_state": false,
         "codes": "overdriveblitzace"
+    },
+    {
+        "name": "Tidus's Overdrive Counter",
+        "type": "consumable",
+        "img": "images/Overdrives/Overdrive Tidus.png",
+        "img_mods": "",
+        "disabled_img_mods": "@disabled",
+        "overlay_background": "#000000",
+        "min_quantity": 0,
+        "max_quantity": 40,
+        "increment": 1,
+        "initial_quantity": 0,
+        "overlay_font_size": 15,
+        "overlay_align": "right",
+        "codes": "tidusoverdrivecounter"
     }
 ]

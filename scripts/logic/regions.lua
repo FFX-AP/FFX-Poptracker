@@ -267,7 +267,7 @@ end
 function hasCombatRegions(qty)
     local counter = 0
 
-    for _, region in ipairs(CombatRegions) do
+    for _, region in ipairs(CombatRegion) do
         if (CheckAccessLevel(region) == ACCESS_NORMAL) then
             if ((region == "gagazet" and Tracker:FindObjectForCode("biran").Active) or region ~= "gagazet") then
                 counter = counter + 1
