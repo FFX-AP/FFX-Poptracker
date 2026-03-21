@@ -8,12 +8,12 @@
         "children": [
             {
                 "name": "Press Both Glyphs, Then Take Narrow Central Path (Chest)",
-                "map_locations": [{ "map": "Omega Ruins", "x": 430, "y": 490}],
+                "map_locations": [{ "map": "Ultima Ruins", "x": 430, "y": 490}],
                 "sections": [{"name": "Teleport Sphere x1"}]
             },
             {
                 "name": "North Side of Four Chest Intersection (Primer)",
-                "map_locations": [{ "map": "Omega Ruins", "x": 390, "y": 200}],
+                "map_locations": [{ "map": "Ultima Ruins", "x": 390, "y": 200}],
                 "sections": [
                     {
                         "name": "Al Bhed Primer XXVI",
@@ -23,7 +23,7 @@
             },
             {
                 "name": "Defeat Ultima Weapon (Boss)",
-                "map_locations": [{ "map": "Omega Ruins", "x": 770, "y": 202, "shape": "trapezoid", "size": 32}],
+                "map_locations": [{ "map": "Ultima Ruins", "x": 770, "y": 202, "shape": "trapezoid", "size": 32}],
                 "access_rules": ["[$hasMinimumParty|3]"],
                 "sections": [
                     {
@@ -35,26 +35,26 @@
             },
             {
                 "name": "West Path (Chest)",
-                "map_locations": [{ "map": "Omega Ruins", "x": 1330, "y": 310}],
+                "map_locations": [{ "map": "Omega Ruins", "x": 515, "y": 225}],
                 "access_rules": ["ultimaweapon, [$hasMinimumParty|3]"],
                 "sections": [{"name": "Friend Sphere x1"}]
             },
             {
                 "name": "Defeat Omega Weapon (Superboss)",
-                "map_locations": [{ "map": "Omega Ruins", "x": 1192, "y": 488, "shape": "trapezoid", "size": 32}],
+                "map_locations": [{ "map": "Omega Ruins", "x": 380, "y": 408, "shape": "trapezoid", "size": 32}],
                 "visibility_rules": ["superbosses"],
                 "sections": [{"name": "Omega Weapon", "ref": "Super Bosses/Omega Weapon"}]
             },
             {
                 "name": "Omega Boss Arena (Chest)",
-                "map_locations": [{ "map": "Omega Ruins", "x": 1150, "y": 490}],
+                "map_locations": [{ "map": "Omega Ruins", "x": 345, "y": 408}],
                 "access_rules": ["omegaweapon, [$hasMinimumParty|3]"],
                 "visibility_rules": ["superbosses"],
                 "sections": [{"name": "Magic Sphere x1"}]
             },
             {
                 "name": "Monster Captures",
-                "map_locations": [{ "map": "Omega Ruins", "x": 630, "y": 430}],
+                "map_locations": [{ "map": "Ultima Ruins", "x": 630, "y": 345}],
                 "sections": [
                     {"name": "Adamantoise", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Adamantoise"},
                     {"name": "Wraith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Wraith"},
@@ -74,7 +74,47 @@
             },
             {
                 "name": "Captures Required for Logic",
-                "map_locations": [{ "map": "Omega Ruins", "x": 670, "y": 430, "shape": "diamond"}],
+                "map_locations": [{ "map": "Ultima Ruins", "x": 660, "y": 345, "shape": "diamond"}],
+                "sections": [
+                    {"name": "Adamantoise", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Adamantoise"},
+                    {"name": "Wraith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Wraith"},
+                    {"name": "Demonolith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Demonolith"},
+                    {"name": "Great Malboro", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Great Malboro"},
+                    {"name": "Zaurus", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Captures Required for Logic/Zaurus"},
+                    {"name": "Floating Death", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Captures Required for Logic/Floating Death"},
+                    {"name": "Black Element", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Captures Required for Logic/Black Element"},
+                    {"name": "Halma", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Captures Required for Logic/Halma"},
+                    {"name": "Puroboros", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Captures Required for Logic/Puroboros"},
+                    {"name": "Spirit", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Captures Required for Logic/Spirit"},
+                    {"name": "Machea", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Captures Required for Logic/Machea"},
+                    {"name": "Master Coeurl", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Captures Required for Logic/Master Coeurl"},
+                    {"name": "Master Tonberry", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Captures Required for Logic/Master Tonberry"},
+                    {"name": "Varuna", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Captures Required for Logic/Varuna"}
+                ]
+            },
+            {
+                "name": "Monster Captures",
+                "map_locations": [{ "map": "Omega Ruins", "x": 220, "y": 325}],
+                "sections": [
+                    {"name": "Adamantoise", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Adamantoise"},
+                    {"name": "Wraith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Wraith"},
+                    {"name": "Demonolith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Demonolith"},
+                    {"name": "Great Malboro", "ref": "Monster Arena/Fiend Capture/Inside Sin/Fiends/Great Malboro"},
+                    {"name": "Zaurus (3x Reptile)", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Fiends/Zaurus (3x Reptile)"},
+                    {"name": "Floating Death (4x Eye)", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Fiends/Floating Death (4x Eye)"},
+                    {"name": "Black Element (3x Elemental)", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Fiends/Black Element (3x Elemental)"},
+                    {"name": "Halma (3x Helm)", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Fiends/Halma (3x Helm)"},
+                    {"name": "Puroboros (5x Bomb)", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Fiends/Puroboros (5x Bomb)"},
+                    {"name": "Spirit", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Fiends/Spirit"},
+                    {"name": "Machea", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Fiends/Machea"},
+                    {"name": "Master Coeurl", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Fiends/Master Coeurl"},
+                    {"name": "Master Tonberry", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Fiends/Master Tonberry"},
+                    {"name": "Varuna", "ref": "Monster Arena/Fiend Capture/Omega Ruins/Fiends/Varuna"}
+                ]
+            },
+            {
+                "name": "Captures Required for Logic",
+                "map_locations": [{ "map": "Omega Ruins", "x": 250, "y": 325, "shape": "diamond"}],
                 "sections": [
                     {"name": "Adamantoise", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Adamantoise"},
                     {"name": "Wraith", "ref": "Monster Arena/Fiend Capture/Inside Sin/Captures Required for Logic/Wraith"},
@@ -94,7 +134,7 @@
             },
             {
                 "name": "Captures Post-Omega Weapon",
-                "map_locations": [{ "map": "Omega Ruins", "x": 630, "y": 470}],
+                "map_locations": [{ "map": "Omega Ruins", "x": 220, "y": 365}],
                 "access_rules": ["@Inside Sin", "@Omega Ruins, omegaweapon, [$hasMinimumParty|3]"],
                 "visibility_rules": ["capturesanity, superbosses"],
                 "sections": [
@@ -112,7 +152,7 @@
             },
             {
                 "name": "Capture Logic Post-Omega Weapon",
-                "map_locations": [{ "map": "Omega Ruins", "x": 670, "y": 470, "shape": "diamond"}],
+                "map_locations": [{ "map": "Omega Ruins", "x": 250, "y": 365, "shape": "diamond"}],
                 "access_rules": ["@Inside Sin", "@Omega Ruins, omegaweapon, [$hasMinimumParty|3]"],
                 "visibility_rules": ["capturesanity, superbosses"],
                 "sections": [ 
@@ -130,19 +170,33 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Omega Ruins", "x": 595, "y": 430}],
+                "map_locations": [{ "map": "Ultima Ruins", "x": 590, "y": 345}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Self Destruct\nPuroboros",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/OMGR Self Destruct"
                     },
                     {
                         "name": "Use Lancet to Learn Bad Breath\nGreat Malboro",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Bad Breath/OMGR Bad Breath"
+                    }
+                ]
+            },
+            {
+                "name": "Ronso Rages",
+                "map_locations": [{ "map": "Omega Ruins", "x": 180, "y": 325}],
+                "sections": [
+                    {
+                        "name": "Use Lancet to Learn Self Destruct\nPuroboros",
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/OMGR Self Destruct"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Bad Breath\nGreat Malboro",
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Bad Breath/OMGR Bad Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Nova\nOmega Weapon",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Nova"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Nova/OMGR Nova"
                     }
                 ]
             }

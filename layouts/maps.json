@@ -355,8 +355,23 @@
             {
                 "title": "Omega Ruins",
                 "content": {
-                    "type": "map",
-                    "maps": ["Omega Ruins"]
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Ultima",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Ultima Ruins"]
+                            }
+                        },
+                        {
+                            "title": "Omega",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Omega Ruins"]
+                            }
+                        }
+                    ]
                 }
             },
             {

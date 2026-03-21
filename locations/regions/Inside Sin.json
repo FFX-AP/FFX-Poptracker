@@ -140,19 +140,19 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Inside Sin", "x": 250, "y": 835}],
+                "map_locations": [{ "map": "Inside Sin", "x": 140, "y": 905}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Mighty Guard\nBehemoth King",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Mighty Guard/SINS Mighty Guard"
                     },
                     {
                         "name": "Use Lancet to Learn Doom\nWraith",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Doom"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Doom/SINS Doom"
                     },
                     {
                         "name": "Use Lancet to Learn Bad Breath\nGreat Malboro",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Bad Breath/SINS Bad Breath"
                     }
                 ]
             }

@@ -177,11 +177,11 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Djose", "x": 50, "y": 105}],
+                "map_locations": [{ "map": "Djose", "x": 40, "y": 105}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Stone Breath\nBasilisk",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Stone Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Stone Breath/DJOS Stone Breath"
                     }
                 ]
             }

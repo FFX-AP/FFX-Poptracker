@@ -9,22 +9,22 @@
             {
                 "name": "Defeat Biran and Yenke (Boss)",
                 "map_locations": [{ "map": "Gagazet Outside", "x": 772, "y": 390, "shape": "trapezoid", "size": 24}],
-                "access_rules": ["[$hasMinimumParty|3]"],
+                "access_rules": ["$hasKimahri"],
                 "sections": [
-                    {"name": "Biran and Yenke", "hosted_item": "biran, yenke", "clear_as_group": true },
-                    {"name": "Use Lancet to Learn Fire Breath\nYenke", "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"},
-                    {"name": "Use Lancet to Learn Aqua Breath\nYenke", "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"},
-                    {"name": "Use Lancet to Learn Stone Breath\nYenke", "ref": "Overdrives/Kimahri/Use Lancet to Learn Stone Breath"},
-                    {"name": "Use Lancet to Learn White Wind\nYenke (After Use)", "ref": "Overdrives/Kimahri/Use Lancet to Learn White Wind"},
-                    {"name": "Use Lancet to Learn Thrust Kick\nBiran", "ref": "Overdrives/Kimahri/Use Lancet to Learn Thrust Kick"},
-                    {"name": "Use Lancet to Learn Self Destruct\nBiran", "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"},
-                    {"name": "Use Lancet to Learn Doom\nBiran", "ref": "Overdrives/Kimahri/Use Lancet to Learn Doom"},
-                    {"name": "Use Lancet to Learn Mighty Guard\nBiran (After Use)", "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"}
+                    {"name": "Biran and Yenke", "hosted_item": "biran, yenke", "clear_as_group": true},
+                    {"name": "Use Lancet to Learn Thrust Kick\nBiran", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Thrust Kick/MTGZ Thrust Kick"},
+                    {"name": "Use Lancet to Learn Self Destruct\nBiran", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/MTGZ Self Destruct"},
+                    {"name": "Use Lancet to Learn Doom\nBiran", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Doom/MTGZ Doom"},
+                    {"name": "Use Lancet to Learn Mighty Guard\nBiran (After Use)", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Mighty Guard/MTGZ Mighty Guard"},
+                    {"name": "Use Lancet to Learn Fire Breath\nYenke", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MTGZ Fire Breath"},
+                    {"name": "Use Lancet to Learn Aqua Breath\nYenke", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Aqua Breath/MTGZ Aqua Breath"},
+                    {"name": "Use Lancet to Learn Stone Breath\nYenke", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Stone Breath/MTGZ Stone Breath"},
+                    {"name": "Use Lancet to Learn White Wind\nYenke (After Use)", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn White Wind/MTGZ White Wind"}
                 ]
             },
             {
                 "name": "Outside",
-                "access_rules": ["biran, yenke, [$hasMinimumParty|3]"],
+                "access_rules": ["biran, yenke"],
                 "children": [
                     {
                         "name": "Trail - Top of Right Ridge Near South Exit (Chest)",
@@ -112,11 +112,11 @@
                     },
                     {
                         "name": "Ronso Rages",
-                        "map_locations": [{ "map": "Gagazet Outside", "x": 455, "y": 656}],
+                        "map_locations": [{ "map": "Gagazet Outside", "x": 450, "y": 656}],
                         "sections": [
                             {
                                 "name": "Use Lancet to Learn Self Destruct\nGrenade",
-                                "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                                "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/MTGZ Self Destruct"
                             }
                         ]
                     }
@@ -197,11 +197,11 @@
                     },
                     {
                         "name": "Ronso Rages",
-                        "map_locations": [{ "map": "Gagazet Cave", "x": 725, "y": 510}],
+                        "map_locations": [{ "map": "Gagazet Cave", "x": 720, "y": 510}],
                         "sections": [
-                            {"name": "Use Lancet to Learn Fire Breath\nGrendel", "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"},
-                            {"name": "Use Lancet to Learn White Wind\nDark Flan", "ref": "Overdrives/Kimahri/Use Lancet to Learn White Wind"},
-                            {"name": "Use Lancet to Learn Mighty Guard\nBehemoth", "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"}
+                            {"name": "Use Lancet to Learn Fire Breath\nGrendel", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MGTZ Fire Breath"},
+                            {"name": "Use Lancet to Learn White Wind\nDark Flan", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn White Wind/MTGZ White Wind"},
+                            {"name": "Use Lancet to Learn Mighty Guard\nBehemoth", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Mighty Guard/MTGZ Mighty Guard"}
                         ]
                     }
                 ]
