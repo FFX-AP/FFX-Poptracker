@@ -72,7 +72,7 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Zanarkand Ruins", "x": 520, "y": 275}],
+                "map_locations": [{ "map": "Zanarkand Ruins", "x": 270, "y": 225}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath\nGrendel",

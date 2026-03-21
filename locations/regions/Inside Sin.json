@@ -140,7 +140,7 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Inside Sin", "x": 340, "y": 875}],
+                "map_locations": [{ "map": "Inside Sin", "x": 140, "y": 905}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Mighty Guard\nBehemoth King",

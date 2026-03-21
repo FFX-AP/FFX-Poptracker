@@ -157,7 +157,7 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Calm Lands", "x": 478, "y": 365}],
+                "map_locations": [{ "map": "Calm Lands", "x": 420, "y": 365}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Stone Breath\nAnacondaur",

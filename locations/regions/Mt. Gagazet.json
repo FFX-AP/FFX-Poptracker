@@ -112,7 +112,7 @@
                     },
                     {
                         "name": "Ronso Rages",
-                        "map_locations": [{ "map": "Gagazet Outside", "x": 380, "y": 720}],
+                        "map_locations": [{ "map": "Gagazet Outside", "x": 450, "y": 656}],
                         "sections": [
                             {
                                 "name": "Use Lancet to Learn Self Destruct\nGrenade",
@@ -197,7 +197,7 @@
                     },
                     {
                         "name": "Ronso Rages",
-                        "map_locations": [{ "map": "Gagazet Cave", "x": 880, "y": 345}],
+                        "map_locations": [{ "map": "Gagazet Cave", "x": 720, "y": 510}],
                         "sections": [
                             {"name": "Use Lancet to Learn Fire Breath\nGrendel", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MGTZ Fire Breath"},
                             {"name": "Use Lancet to Learn White Wind\nDark Flan", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn White Wind/MTGZ White Wind"},

@@ -305,7 +305,7 @@
                     },
                     {
                         "name": "Ronso Rages",
-                        "map_locations": [{ "map": "Home", "x": 710, "y": 115}],
+                        "map_locations": [{ "map": "Home", "x": 820, "y": 105}],
                         "sections": [
                             {
                                 "name": "Use Lancet to Learn Fire Breath\nDual Horn",
