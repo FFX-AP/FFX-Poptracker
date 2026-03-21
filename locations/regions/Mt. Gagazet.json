@@ -116,7 +116,7 @@
                         "sections": [
                             {
                                 "name": "Use Lancet to Learn Self Destruct\nGrenade",
-                                "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/MTGZ Self Destruct"
+                                "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/MTGZ Grenade Self Destruct"
                             }
                         ]
                     }
@@ -199,9 +199,9 @@
                         "name": "Ronso Rages",
                         "map_locations": [{ "map": "Gagazet Cave", "x": 720, "y": 510}],
                         "sections": [
-                            {"name": "Use Lancet to Learn Fire Breath\nGrendel", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MGTZ Fire Breath"},
-                            {"name": "Use Lancet to Learn White Wind\nDark Flan", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn White Wind/MTGZ White Wind"},
-                            {"name": "Use Lancet to Learn Mighty Guard\nBehemoth", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Mighty Guard/MTGZ Mighty Guard"}
+                            {"name": "Use Lancet to Learn Fire Breath\nGrendel", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MGTZ GrendelFire Breath"},
+                            {"name": "Use Lancet to Learn White Wind\nDark Flan", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn White Wind/MTGZ Flan White Wind"},
+                            {"name": "Use Lancet to Learn Mighty Guard\nBehemoth", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Mighty Guard/MTGZ Behemoth Mighty Guard"}
                         ]
                     }
                 ]

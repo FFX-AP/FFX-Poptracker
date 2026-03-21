@@ -48,6 +48,7 @@
                             {"name": "AIRS Fire Breath", "access_rules": ["@Airship"], "hosted_item": "ronsoragefirebreath", "clear_as_group": true},
                             {"name": "COSF Fire Breath", "access_rules": ["@Cavern of the Stolen Fayth"], "hosted_item": "ronsoragefirebreath", "clear_as_group": true},
                             {"name": "MTGZ Fire Breath", "access_rules": ["@Mt. Gagazet"], "hosted_item": "ronsoragefirebreath", "clear_as_group": true},
+                            {"name": "MTGZ Grendel Fire Breath", "access_rules": ["@Mt. Gagazet/Inside"], "hosted_item": "ronsoragefirebreath", "clear_as_group": true},
                             {"name": "ZNKD Fire Breath", "access_rules": ["@Zanarkand"], "hosted_item": "ronsoragefirebreath", "clear_as_group": true}
                         ]
                     },
@@ -67,6 +68,7 @@
                             {"name": "BIKA Self Destruct", "access_rules": ["@Bikanel/Home"], "hosted_item": "ronsorageselfdestruct", "clear_as_group": true},
                             {"name": "AIRS Self Destruct", "access_rules": ["@Airship"], "hosted_item": "ronsorageselfdestruct", "clear_as_group": true},
                             {"name": "MTGZ Self Destruct", "access_rules": ["@Mt. Gagazet"], "hosted_item": "ronsorageselfdestruct", "clear_as_group": true},
+                            {"name": "MTGZ Grenade Self Destruct", "access_rules": ["@Mt. Gagazet/Outside"], "hosted_item": "ronsorageselfdestruct", "clear_as_group": true},
                             {"name": "OMGR Self Destruct", "access_rules": ["@Omega Ruins"], "hosted_item": "ronsorageselfdestruct", "clear_as_group": true}
                         ]
                     },
@@ -112,6 +114,7 @@
                         "access_rules": ["$hasKimahri"],
                         "sections": [
                             {"name": "MTGZ White Wind", "access_rules": ["@Mt. Gagazet"], "hosted_item": "ronsoragewhitewind", "clear_as_group": true},
+                            {"name": "MTGZ Flan White Wind", "access_rules": ["@Mt. Gagazet/Inside"], "hosted_item": "ronsoragewhitewind", "clear_as_group": true},
                             {"name": "ZNKD White Wind", "access_rules": ["@Zanarkand"], "hosted_item": "ronsoragewhitewind", "clear_as_group": true}
                         ]
                     },
@@ -130,6 +133,7 @@
                         "access_rules": ["$hasKimahri"],
                         "sections": [
                             {"name": "MTGZ Mighty Guard", "access_rules": ["@Mt. Gagazet"], "hosted_item": "ronsoragemightyguard", "clear_as_group": true},
+                            {"name": "MTGZ Behemoth Mighty Guard", "access_rules": ["@Mt. Gagazet/Inside"], "hosted_item": "ronsoragemightyguard", "clear_as_group": true},
                             {"name": "ZNKD Mighty Guard", "access_rules": ["@Zanarkand"], "hosted_item": "ronsoragemightyguard", "clear_as_group": true},
                             {"name": "SINS Mighty Guard", "access_rules": ["@Inside Sin"], "hosted_item": "ronsoragemightyguard", "clear_as_group": true}
                         ]
@@ -139,7 +143,7 @@
                         "visibility_rules": ["superbosses", "creationbossesoriginal"],
                         "access_rules": ["$hasKimahri"],
                         "sections": [
-                            {"name": "OMGR Nova", "access_rules": ["@Omega Ruins/Defeat Omega Weapon (Superboss), [$hasMinimumParty|3]"], "hosted_item": "ronsoragenova", "clear_as_group": true},
+                            {"name": "OMGR Nova", "access_rules": ["@Omega Ruins/Defeat Omega Weapon (Superboss), ultimaweapon, [$hasMinimumParty|3]"], "hosted_item": "ronsoragenova", "clear_as_group": true},
                             {"name": "MOAR Nova", "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations, [$hasMinimumParty|3]"], "hosted_item": "ronsoragenova", "clear_as_group": true}
                         ]
                     }

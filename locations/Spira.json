@@ -1570,6 +1570,10 @@
                 "map_locations": [{ "map": "Spira", "x": 597, "y": 360}],
                 "sections": [
                     {
+                        "name": "Use Lancet to Learn Thrust Kick\nYKT-63",
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Thrust Kick/BEVL Thrust Kick"
+                    },
+                    {
                         "name": "Priests' Passage - Corner South of Save Point (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XXII/Bevelle"
                     },
@@ -1628,10 +1632,6 @@
                     {
                         "name": "Underwater After Evrae Altana, Right Side After First Turn (Chest)",
                         "ref": "Bevelle/Underwater/Underwater After Evrae Altana, Right Side After First Turn (Chest)/Avenger"
-                    },
-                    {
-                        "name": "Use Lancet to Learn Thrust Kick\nYKT-63",
-                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Thrust Kick/BEVL Thrust Kick"
                     },
                     {
                         "name": "Defeat Seymour Natus (Boss)",
@@ -2238,6 +2238,14 @@
                 "map_locations": [{ "map": "Spira", "x": 595, "y": 215}],
                 "sections": [
                     {
+                        "name": "Recruit: Durren",
+                        "ref": "Blitzball Recruits/Free Agents/Durren"
+                    },
+                    {
+                        "name": "Gorge Bottom - Rusty Sword Between Two Rocks, East End (Event)",
+                        "ref": "Celestial/General/Rusty Sword"
+                    },
+                    {
                         "name": "Use Lancet to Learn Fire Breath\nValaha", 
                         "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/COSF Fire Breath"
                     },
@@ -2248,14 +2256,6 @@
                     {
                         "name": "Use Lancet to Learn Bad Breath\nMalboro", 
                         "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Bad Breath/COSF Bad Breath"
-                    },
-                    {
-                        "name": "Recruit: Durren",
-                        "ref": "Blitzball Recruits/Free Agents/Durren"
-                    },
-                    {
-                        "name": "Gorge Bottom - Rusty Sword Between Two Rocks, East End (Event)",
-                        "ref": "Celestial/General/Rusty Sword"
                     },
                     {
                         "name": "First Branch East (Chest)",
@@ -2341,7 +2341,7 @@
                     },
                     {
                         "name": "Use Lancet to Learn Self Destruct\nGrenade",
-                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/MTGZ Self Destruct"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/MTGZ Grenade Self Destruct"
                     },
                     {
                         "name": "Trail - Top of Right Ridge Near South Exit (Chest)",
@@ -2377,15 +2377,15 @@
                     },
                     {
                         "name": "Use Lancet to Learn Fire Breath\nGrendel", 
-                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MTGZ Fire Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MTGZ Grendel Fire Breath"
                     },
                     {
                         "name": "Use Lancet to Learn White Wind\nDark Flan", 
-                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn White Wind/MTGZ White Wind"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn White Wind/MTGZ Flan White Wind"
                     },
                     {
                         "name": "Use Lancet to Learn Mighty Guard\nBehemoth", 
-                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Mighty Guard/MTGZ Mighty Guard"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Mighty Guard/MTGZ Behemoth Mighty Guard"
                     },
                     {
                         "name": "Submerged Passage - Reward from First Trial (Chest)",
@@ -2574,12 +2574,12 @@
                         "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Bad Breath/OMGR Bad Breath"
                     },
                     {
-                        "name": "Press Both Glyphs, Then Take Narrow Central Path (Chest)",
-                        "ref": "Omega Ruins/Press Both Glyphs, Then Take Narrow Central Path (Chest)/Teleport Sphere x1"
-                    },
-                    {
                         "name": "North Side of Four Chest Intersection (Primer)",
                         "ref": "Al Bhed Primers/Al Bhed Primer XXVI/Omega Ruins"
+                    },
+                    {
+                        "name": "Press Both Glyphs, Then Take Narrow Central Path (Chest)",
+                        "ref": "Omega Ruins/Press Both Glyphs, Then Take Narrow Central Path (Chest)/Teleport Sphere x1"
                     },
                     {
                         "name": "Defeat Ultima Weapon (Boss)",
@@ -2658,7 +2658,7 @@
                     },
                     {
                         "name": "Use Lancet to Learn Self Destruct",
-                        "access_rules": ["$hasKimahri @Miihen Highroad", "$hasKimahri, @Mushroom Rock Road", "$hasKimahri, @Bikanel/Home", "$hasKimahri, @Airship", "$hasKimahri, @Mt. Gagazet", "$hasKimahri, @Omega Ruins"],
+                        "access_rules": ["$hasKimahri, @Miihen Highroad", "$hasKimahri, @Mushroom Rock Road", "$hasKimahri, @Bikanel/Home", "$hasKimahri, @Airship", "$hasKimahri, @Mt. Gagazet", "$hasKimahri, @Omega Ruins"],
                         "hosted_item": "ronsorageselfdestruct",
                         "clear_as_group": true
                     },
