@@ -144,7 +144,7 @@
                     },
                     {
                         "name": "Monster Captures",
-                        "map_locations": [{ "map": "Macalania Woods", "x": 730, "y": 170}],
+                        "map_locations": [{ "map": "Macalania Woods", "x": 760, "y": 140}],
                         "sections": [
                             {"name": "Iguion (3x Reptile)", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Iguion (3x Reptile)"},
                             {"name": "Wasp (4x Wasp)", "ref": "Monster Arena/Fiend Capture/Macalania/Fiends/Wasp (4x Wasp)"},
@@ -156,7 +156,7 @@
                     },
                     {
                         "name": "Captures Required for Logic",
-                         "map_locations": [{ "map": "Macalania Woods", "x": 754, "y": 170, "shape": "diamond"}],
+                         "map_locations": [{ "map": "Macalania Woods", "x": 785, "y": 140, "shape": "diamond"}],
                         "sections": [
                             {"name": "Iguion", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Iguion"},
                             {"name": "Wasp", "ref": "Monster Arena/Fiend Capture/Macalania/Captures Required for Logic/Wasp"},
@@ -364,11 +364,11 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Macalania Woods", "x": 730, "y": 195}],
+                "map_locations": [{ "map": "Macalania Woods", "x": 730, "y": 140}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Aqua Breath\nChimera",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Aqua Breath/MACA Aqua Breath"
                     }
                 ]
             }

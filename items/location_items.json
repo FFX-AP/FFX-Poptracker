@@ -636,6 +636,116 @@
         "initial_active_state": false,
         "codes": "aurochreels"
     },
+    {
+        "name": "Ronso Rage - Fire breath",
+        "type": "toggle",
+        "img": "images/Overdrives/Overdrive.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ronsoragefirebreath"
+    },
+    {
+        "name": "Ronso Rage - Seed Cannon",
+        "type": "toggle",
+        "img": "images/Overdrives/Overdrive.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ronsorageseedcannon"
+    },
+    {
+        "name": "Ronso Rage - Self Destruct",
+        "type": "toggle",
+        "img": "images/Overdrives/Overdrive.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ronsorageselfdestruct"
+    },
+    {
+        "name": "Ronso Rage - Thrust Kick",
+        "type": "toggle",
+        "img": "images/Overdrives/Overdrive.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ronsoragethrustkick"
+    },
+    {
+        "name": "Ronso Rage - Stone Breath",
+        "type": "toggle",
+        "img": "images/Overdrives/Overdrive.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ronsoragestonebreath"
+    },
+    {
+        "name": "Ronso Rage - Aqua Breath",
+        "type": "toggle",
+        "img": "images/Overdrives/Overdrive.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ronsorageaquabreath"
+    },
+    {
+        "name": "Ronso Rage - Doom",
+        "type": "toggle",
+        "img": "images/Overdrives/Overdrive.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ronsoragedoom"
+    },
+    {
+        "name": "Ronso Rage - White Wind",
+        "type": "toggle",
+        "img": "images/Overdrives/Overdrive.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ronsoragewhitewind"
+    },
+    {
+        "name": "Ronso Rage - Bad Breath",
+        "type": "toggle",
+        "img": "images/Overdrives/Overdrive.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ronsoragebadbreath"
+    },
+    {
+        "name": "Ronso Rage - Mighty Guard",
+        "type": "toggle",
+        "img": "images/Overdrives/Overdrive.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ronsoragemightyguard"
+    },
+    {
+        "name": "Ronso Rage - Nova",
+        "type": "toggle",
+        "img": "images/Overdrives/Overdrive.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "ronsoragenova"
+    },
 
     //Minigames
     {

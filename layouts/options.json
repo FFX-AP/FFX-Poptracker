@@ -47,7 +47,7 @@
                     "item_v_alignment": "center",
                     "item_height": 48,
                     "item_width": 48,
-                    "rows": [["recruitsanity", "jechtspheres"],["capturesanity", "capturerewards"], ["overdrivetidus", "ronsorages"]]
+                    "rows": [["recruitsanity", "jechtspheres"],["capturesanity", "capturerewards", "alwayscapture"], ["overdrivetidus", "ronsorages"]]
                 }
             },
             {
@@ -113,7 +113,7 @@
                     "item_v_alignment": "center",
                     "item_height": 48,
                     "item_width": 48,
-                    "rows": [["autotab", "alwayscapture"]]
+                    "rows": [["autotab"]]
                 }
             }
         ]

@@ -6,7 +6,7 @@
         "overlay_background": "#000000",
         "children": [
             {
-                "name": "Tidus",
+                "name": "Swordplay",
                 "access_rules": ["$hasTidus, ^$hasTidusOverdrive"],
                 "sections": [
                     {
@@ -27,7 +27,7 @@
                 ]
             },
             {
-                "name": "Auron",
+                "name": "Bushido",
                 "sections": [
                     {"name": "Collect 1 Progressive Jecht's Sphere (Shooting Star)"},
                     {"name": "Collect 3 Progressive Jecht's Sphere (Banishing Blade)"},
@@ -35,59 +35,118 @@
                 ]
             },
             {
-                "name": "Kimahri",
-                "access_rules": ["$hasKimahri"],
+                "name": "Ronso Rage",
                 "visibility_rules": ["ronsorages"],
-                "sections": [
+                "children": [
                     {
                         "name": "Use Lancet to Learn Fire Breath",
-                        "access_rules": ["@Miihen Highroad", "@Mushroom Rock Road", "@Bikanel/Home", "@Airship", "@Cavern of the Stolen Fayth", "@Mt. Gagazet, [$hasMinimumParty|3]", "@Zanarkand"]
+                        "access_rules": ["$hasKimahri"],
+                        "sections": [
+                            {"name": "MIHN Fire Breath", "access_rules": ["@Miihen Highroad"], "hosted_item": "ronsoragefirebreath", "clear_as_group": true},
+                            {"name": "MUSH Fire Breath", "access_rules": ["@Mushroom Rock Road"], "hosted_item": "ronsoragefirebreath", "clear_as_group": true},
+                            {"name": "BIKA Fire Breath", "access_rules": ["@Bikanel/Home"], "hosted_item": "ronsoragefirebreath", "clear_as_group": true},
+                            {"name": "AIRS Fire Breath", "access_rules": ["@Airship"], "hosted_item": "ronsoragefirebreath", "clear_as_group": true},
+                            {"name": "COSF Fire Breath", "access_rules": ["@Cavern of the Stolen Fayth"], "hosted_item": "ronsoragefirebreath", "clear_as_group": true},
+                            {"name": "MTGZ Fire Breath", "access_rules": ["@Mt. Gagazet"], "hosted_item": "ronsoragefirebreath", "clear_as_group": true},
+                            {"name": "ZNKD Fire Breath", "access_rules": ["@Zanarkand"], "hosted_item": "ronsoragefirebreath", "clear_as_group": true}
+                        ]
                     },
                     {
                         "name": "Use Lancet to Learn Seed Cannon",
-                        "access_rules": ["@Kilika"]
+                        "access_rules": ["@Kilika"],
+                        "sections": [
+                            {"name": "KILK Seed Cannon", "hosted_item": "ronsorageseedcannon"}
+                        ]
                     },
                     {
                         "name": "Use Lancet to Learn Self Destruct",
-                        "access_rules": ["@Miihen Highroad", "@Mushroom Rock Road", "@Bikanel/Home", "@Airship", "@Mt. Gagazet, [$hasMinimumParty|3]", "@Omega Ruins"]
+                        "access_rules": ["$hasKimahri"],
+                        "sections": [
+                            {"name": "MIHN Self Destruct", "access_rules": ["@Miihen Highroad"], "hosted_item": "ronsorageselfdestruct", "clear_as_group": true},
+                            {"name": "MUSH Self Destruct", "access_rules": ["@Mushroom Rock Road"], "hosted_item": "ronsorageselfdestruct", "clear_as_group": true},
+                            {"name": "BIKA Self Destruct", "access_rules": ["@Bikanel/Home"], "hosted_item": "ronsorageselfdestruct", "clear_as_group": true},
+                            {"name": "AIRS Self Destruct", "access_rules": ["@Airship"], "hosted_item": "ronsorageselfdestruct", "clear_as_group": true},
+                            {"name": "MTGZ Self Destruct", "access_rules": ["@Mt. Gagazet"], "hosted_item": "ronsorageselfdestruct", "clear_as_group": true},
+                            {"name": "OMGR Self Destruct", "access_rules": ["@Omega Ruins"], "hosted_item": "ronsorageselfdestruct", "clear_as_group": true}
+                        ]
                     },
                     {
                         "name": "Use Lancet to Learn Thrust Kick",
-                        "access_rules": ["@Bevelle", "@Mt. Gagazet, [$hasMinimumParty|3]", "@Zanarkand/Dome"]
+                        "access_rules": ["$hasKimahri"],
+                        "sections": [
+                            {"name": "BEVL Thrust Kick", "access_rules": ["@Bevelle"], "hosted_item": "ronsoragethrustkick", "clear_as_group": true},
+                            {"name": "MTGZ Thrust Kick", "access_rules": ["@Mt. Gagazet"], "hosted_item": "ronsoragethrustkick", "clear_as_group": true},
+                            {"name": "ZNKD Thrust Kick", "access_rules": ["@Zanarkand/Dome"], "hosted_item": "ronsoragethrustkick", "clear_as_group": true}
+                        ]
                     },
                     {
                         "name": "Use Lancet to Learn Stone Breath",
-                        "access_rules": ["@Djose", "@Calm Lands", "@Mt. Gagazet, [$hasMinimumParty|3]"]
+                        "access_rules": ["$hasKimahri"],
+                        "sections": [
+                            {"name": "DJOS Stone Breath", "access_rules": ["@Djose"], "hosted_item": "ronsoragestonebreath", "clear_as_group": true},
+                            {"name": "CALM Stone Breath", "access_rules": ["@Calm Lands"], "hosted_item": "ronsoragestonebreath", "clear_as_group": true},
+                            {"name": "MTGZ Stone Breath", "access_rules": ["@Mt. Gagazet"], "hosted_item": "ronsoragestonebreath", "clear_as_group": true}
+                        ]
                     },
                     {
                         "name": "Use Lancet to Learn Aqua Breath",
-                        "access_rules": ["@Macalania/Woods", "@Bikanel/Home", "@Calm Lands","@Mt. Gagazet, [$hasMinimumParty|3]"]
+                        "access_rules": ["$hasKimahri"],
+                        "sections": [
+                            {"name": "MACA Aqua Breath", "access_rules": ["@Macalania/Woods"], "hosted_item": "ronsorageaquabreath", "clear_as_group": true},
+                            {"name": "BIKA Aqua Breath", "access_rules": ["@Bikanel/Home"], "hosted_item": "ronsorageaquabreath", "clear_as_group": true},
+                            {"name": "CALM Aqua Breath", "access_rules": ["@Calm Lands"], "hosted_item": "ronsorageaquabreath", "clear_as_group": true},
+                            {"name": "MTGZ Aqua Breath", "access_rules": ["@Mt. Gagazet"], "hosted_item": "ronsorageaquabreath", "clear_as_group": true}
+                        ]
                     },
                     {
                         "name": "Use Lancet to Learn Doom",
-                        "access_rules": ["@Cavern of the Stolen Fayth", "@Mt. Gagazet, [$hasMinimumParty|3]", "@Inside Sin/City of Dying Dreams"]
+                        "access_rules": ["$hasKimahri"],
+                        "sections": [
+                            {"name": "COSF Doom", "access_rules": ["@Cavern of the Stolen Fayth"], "hosted_item": "ronsoragedoom", "clear_as_group": true},
+                            {"name": "MTGZ Doom", "access_rules": ["@Mt. Gagazet"], "hosted_item": "ronsoragedoom", "clear_as_group": true},
+                            {"name": "SINS Doom", "access_rules": ["@Inside Sin/City of Dying Dreams"], "hosted_item": "ronsoragedoom", "clear_as_group": true}
+                        ]
                     },
                     {
                         "name": "Use Lancet to Learn White Wind",
-                        "access_rules": ["@Mt. Gagazet, [$hasMinimumParty|3]", "@Zanarkand"]
+                        "access_rules": ["$hasKimahri"],
+                        "sections": [
+                            {"name": "MTGZ White Wind", "access_rules": ["@Mt. Gagazet"], "hosted_item": "ronsoragewhitewind", "clear_as_group": true},
+                            {"name": "ZNKD White Wind", "access_rules": ["@Zanarkand"], "hosted_item": "ronsoragewhitewind", "clear_as_group": true}
+                        ]
                     },
                     {
                         "name": "Use Lancet to Learn Bad Breath",
-                        "access_rules": ["@Calm Lands", "@Cavern of the Stolen Fayth", "@Inside Sin/City of Dying Dreams", "@Omega Ruins"]
+                        "access_rules": ["$hasKimahri"],
+                        "sections": [
+                            {"name": "CALM Bad Breath", "access_rules": ["@Calm Lands"], "hosted_item": "ronsoragebadbreath", "clear_as_group": true},
+                            {"name": "COSF Bad Breath", "access_rules": ["@Cavern of the Stolen Fayth"], "hosted_item": "ronsoragebadbreath", "clear_as_group": true},
+                            {"name": "SINS Bad Breath", "access_rules": ["@Inside Sin/City of Dying Dreams"], "hosted_item": "ronsoragebadbreath", "clear_as_group": true},
+                            {"name": "OMGR Bad Breath", "access_rules": ["@Omega Ruins"], "hosted_item": "ronsoragebadbreath", "clear_as_group": true}
+                        ]
                     },
                     {
                         "name": "Use Lancet to Learn Mighty Guard",
-                        "access_rules": ["@Mt. Gagazet, [$hasMinimumParty|3]", "@Zanarkand", "@Inside Sin"]
+                        "access_rules": ["$hasKimahri"],
+                        "sections": [
+                            {"name": "MTGZ Mighty Guard", "access_rules": ["@Mt. Gagazet"], "hosted_item": "ronsoragemightyguard", "clear_as_group": true},
+                            {"name": "ZNKD Mighty Guard", "access_rules": ["@Zanarkand"], "hosted_item": "ronsoragemightyguard", "clear_as_group": true},
+                            {"name": "SINS Mighty Guard", "access_rules": ["@Inside Sin"], "hosted_item": "ronsoragemightyguard", "clear_as_group": true}
+                        ]
                     },
                     {
                         "name": "Use Lancet to Learn Nova",
                         "visibility_rules": ["superbosses", "creationbossesoriginal"],
-                        "access_rules": ["@Omega Ruins/Defeat Omega Weapon (Superboss)", "@Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations"]
+                        "access_rules": ["$hasKimahri"],
+                        "sections": [
+                            {"name": "OMGR Nova", "access_rules": ["@Omega Ruins/Defeat Omega Weapon (Superboss), [$hasMinimumParty|3]"], "hosted_item": "ronsoragenova", "clear_as_group": true},
+                            {"name": "MOAR Nova", "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations, [$hasMinimumParty|3]"], "hosted_item": "ronsoragenova", "clear_as_group": true}
+                        ]
                     }
                 ]
             },
             {
-                "name": "Wakka",
+                "name": "Reels",
                 "sections": [
                     {
                         "name": "Come 1st in a Blitzball Tournament (Attack Reels)",
@@ -114,6 +173,8 @@
             },
             {
                 "name": "Valefor",
+                "chest_unopened_img": "/images/Overdrives/Overdrive Valefor.png",
+                "chest_opened_img": "/images/Overdrives/Overdrive Valefor BW.png",
                 "access_rules": ["@Besaid/Village, map"],
                 "sections": [{"name": "Village, House - Something Mangled and Slobbery from Dog (NPC)"}]
             }

@@ -219,15 +219,15 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Mushroom Rock Road", "x": 610, "y": 640}],
+                "map_locations": [{ "map": "Mushroom Rock Road", "x": 605, "y": 640}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath\nDual Horn",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MUSH Fire Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Self Destruct\nBomb",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/MUSH Self Destruct"
                     }
                 ]
             }
