@@ -42,6 +42,16 @@
                 ]
             },
             {
+                "name": "Ronso Rages",
+                "map_locations": [{ "map": "Bevelle", "x": 650, "y": 850}],
+                "sections": [
+                    {
+                        "name": "Use Lancet to Learn Thrust Kick\nYKT-63",
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Thrust Kick/BEVL Thrust Kick"
+                    }
+                ]
+            },
+            {
                 "name": "Via Purifico",
                 "children": [
                     {

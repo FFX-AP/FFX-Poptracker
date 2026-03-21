@@ -177,6 +177,10 @@
                         "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/OMGR Self Destruct"
                     },
                     {
+                        "name": "Use Lancet to Learn Doom\nWraith", 
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Doom/OMGR Doom"
+                    },
+                    {
                         "name": "Use Lancet to Learn Bad Breath\nGreat Malboro",
                         "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Bad Breath/OMGR Bad Breath"
                     }
@@ -189,6 +193,10 @@
                     {
                         "name": "Use Lancet to Learn Self Destruct\nPuroboros",
                         "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/OMGR Self Destruct"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Doom\nWraith", 
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Doom/OMGR Doom"
                     },
                     {
                         "name": "Use Lancet to Learn Bad Breath\nGreat Malboro",
