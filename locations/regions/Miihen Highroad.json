@@ -219,15 +219,15 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Miihen Highroad", "x": 475, "y": 720}],
+                "map_locations": [{ "map": "Miihen Highroad", "x": 530, "y": 630, "size": 32}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath\nDual Horn",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MIHN Fire Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Self Destruct\nBomb",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/MIHN Self Destruct"
                     }
                 ]
             }

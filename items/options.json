@@ -375,7 +375,7 @@
         "name": "Kimahri's Ronso Rages",
         "type": "toggle",
         "img": "images/Overdrives/Overdrive Kimahri.png",
-        "initial_active_state": false,
+        "initial_active_state": true,
         "codes": "ronsorages"
     },
     {

@@ -72,23 +72,23 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Zanarkand Ruins", "x": 275, "y": 225}],
+                "map_locations": [{ "map": "Zanarkand Ruins", "x": 520, "y": 275, "size": 32}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath\nGrendel",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/ZNKD Fire Breath"
                     },
                     {
                         "name": "Use Lancet to Learn White Wind\nDark Flan",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn White Wind"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn White Wind/ZNKD White Wind"
                     },
                     {
                         "name": "Use Lancet to Learn Mighty Guard\nBehemoth",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Mighty Guard/ZNKD Mighty Guard"
                     },
                     {
                         "name": "Use Lancet to Learn Thrust Kick\nYKT-11",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Thrust Kick"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Thrust Kick/ZNKD Thrust Kick"
                     }
                 ]
             },

@@ -47,15 +47,15 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Airship", "x": 285, "y": 150}],
+                "map_locations": [{ "map": "Airship", "x": 285, "y": 220, "size": 32}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath\nDual Horn",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/AIRS Fire Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Self Destruct\nBomb",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/AIRS Self Destruct"
                     }
                 ]
             },

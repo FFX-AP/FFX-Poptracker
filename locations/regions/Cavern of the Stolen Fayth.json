@@ -118,19 +118,19 @@
                     },
                     {
                         "name": "Ronso Rages",
-                        "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 490, "y": 400}],
+                        "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 520, "y": 525, "size": 32}],
                         "sections": [
                             {
                                 "name": "Use Lancet to Learn Fire Breath\nValaha", 
-                                "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                                "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/COSF Fire Breath"
                             },
                             {
                                 "name": "Use Lancet to Learn Doom\nGhost", 
-                                "ref": "Overdrives/Kimahri/Use Lancet to Learn Doom"
+                                "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Doom/COSF Doom"
                             },
                             {
                                 "name": "Use Lancet to Learn Bad Breath\nMalboro", 
-                                "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                                "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Bad Breath/COSF Bad Breath"
                             }
                         ]
                     }

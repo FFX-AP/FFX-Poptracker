@@ -87,7 +87,7 @@
             },
             {
                 "name": "Besaid",
-                "map_locations": [{ "map": "Spira", "x": 500, "y": 1020}],
+                "map_locations": [{ "map": "Spira", "x": 500, "y": 1023}],
                 "sections": [
                     {
                         "name": "Beach - West Near Huts (Chest)",
@@ -213,7 +213,7 @@
             },
             {
                 "name": "S.S. Liki",
-                "map_locations": [{ "map": "Spira", "x": 535, "y": 1020, "size": 24}],
+                "map_locations": [{ "map": "Spira", "x": 535, "y": 1023, "size": 24}],
                 "sections": [
                     {
                         "name": "Cabin (Chest)",
@@ -243,7 +243,7 @@
             },
             {
                 "name": "Kilika",
-                "map_locations": [{ "map": "Spira", "x": 565, "y": 985}],
+                "map_locations": [{ "map": "Spira", "x": 565, "y": 988}],
                 "sections": [
                     {
                         "name": "Recruit: Tatts",
@@ -279,7 +279,7 @@
                     },
                     {
                         "name": "Use Lancet to Learn Seed Cannon\nRagora",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Seed Cannon"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Seed Cannon/KILK Seed Cannon"
                     },
                     {
                         "name": "Woods - East of First Intersection (Chest)",
@@ -341,7 +341,7 @@
             },
             {
                 "name": "S.S. Winno",
-                "map_locations": [{ "map": "Spira", "x": 600, "y": 980, "size": 24}],
+                "map_locations": [{ "map": "Spira", "x": 600, "y": 983, "size": 24}],
                 "sections": [
                     {
                         "name": "Cabin - Left, Between Aurochs and Goers (Chest)",
@@ -527,15 +527,15 @@
                     },
                     {
                         "name": "Come 1st in a Blitzball Tournament (Attack Reels)",
-                        "ref": "Overdrives/Wakka/Come 1st in a Blitzball Tournament (Attack Reels)"
+                        "ref": "Overdrives/Reels/Come 1st in a Blitzball Tournament (Attack Reels)"
                     },
                     {
                         "name": "Come 1st in a Blitzball League After Obtaining Attack Reels (Status Reels)",
-                        "ref": "Overdrives/Wakka/Come 1st in a Blitzball League After Obtaining Attack Reels (Status Reels)"
+                        "ref": "Overdrives/Reels/Come 1st in a Blitzball League After Obtaining Attack Reels (Status Reels)"
                     },
                     {
                         "name": "Come 1st in a Blitzball Tournament After Obtaining both Attack & Status Reels (Aurochs Reels)",
-                        "ref": "Overdrives/Wakka/Come 1st in a Blitzball Tournament After Obtaining both Attack & Status Reels (Aurochs Reels)"
+                        "ref": "Overdrives/Reels/Come 1st in a Blitzball Tournament After Obtaining both Attack & Status Reels (Aurochs Reels)"
                     },
                     {
                         "name": "Blitzball: Obtain The Jupiter Sigil League Prize (Event)",
@@ -545,15 +545,15 @@
             },
             {
                 "name": "Miihen Highroad",
-                "map_locations": [{ "map": "Spira", "x": 580, "y": 830}],
+                "map_locations": [{ "map": "Spira", "x": 580, "y": 833}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath\nDual Horn",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MIHN Fire Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Self Destruct\nBomb",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/MIHN Self Destruct"
                     },
                     {
                         "name": "South End - Yellow Man, Looping South to North (NPC)",
@@ -675,11 +675,11 @@
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath\nDual Horn", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MUSH Fire Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Self Destruct\nBomb", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/MUSH Self Destruct"
                     },
                     {
                         "name": "First Screen - Left Near Southern Exit (NPC)",
@@ -797,7 +797,7 @@
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Stone Breath\nBasilisk",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Stone Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Stone Breath/DJOS Stone Breath"
                     },
                     {
                         "name": "Highroad - South End, West Side (Chest)",
@@ -883,7 +883,7 @@
             },
             {
                 "name": "Moonflow",
-                "map_locations": [{ "map": "Spira", "x": 770, "y": 597}],
+                "map_locations": [{ "map": "Spira", "x": 770, "y": 600}],
                 "sections": [
                     {
                         "name": "South Bank Road - Right of Shelinda (Chest)",
@@ -1019,7 +1019,7 @@
             },
             {
                 "name": "Thunder Plains",
-                "map_locations": [{ "map": "Spira", "x": 800, "y": 450}],
+                "map_locations": [{ "map": "Spira", "x": 797, "y": 450}],
                 "sections": [
                     {
                         "name": "South - West Side, South of Save Sphere (Chest)",
@@ -1113,7 +1113,7 @@
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Aqua Breath\nChimera",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Aqua Breath/MACA Aqua Breath"
                     },
                     {
                         "name": "South - Hidden Behind Tree in Middle of S-Bend (Chest)",
@@ -1435,15 +1435,15 @@
                     },
                     {
                         "name": "Use Lancet to Learn Fire Breath\nDual Horn",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/BIKA Fire Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Self Destruct\nBomb",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/BIKA Self Destruct"
                     },
                     {
                         "name": "Use Lancet to Learn Aqua Breath\nChimera",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Aqua Breath/BIKA Aqua Breath"
                     },
                     {
                         "name": "Main Corridor - North Hall, Left (Chest)",
@@ -1489,7 +1489,7 @@
             },
             {
                 "name": "Airship",
-                "map_locations": [{ "map": "Spira", "x": 320, "y": 465}],
+                "map_locations": [{ "map": "Spira", "x": 320, "y": 468}],
                 "sections": [
                     {
                         "name": "Recruit: Brother",
@@ -1533,11 +1533,11 @@
                     },
                     {
                         "name": "Use Lancet to Learn Fire Breath\nDual Horn",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/AIRS Fire Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Self Destruct\nBomb",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/AIRS Self Destruct"
                     },
                     {
                         "name": "Cabin - Before Evrae, Yellow Al Bhed on Left (NPC)",
@@ -1631,7 +1631,7 @@
                     },
                     {
                         "name": "Use Lancet to Learn Thrust Kick\nYKT-63",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Thrust Kick"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Thrust Kick/BEVL Thrust Kick"
                     },
                     {
                         "name": "Defeat Seymour Natus (Boss)",
@@ -1649,15 +1649,15 @@
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Stone Breath\nAnacondaur", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Stone Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Stone Breath/CALM Stone Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Aqua Breath\nChimera Brain", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Aqua Breath/CALM Aqua Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Bad Breath\nMalboro", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Bad Breath/CALM Bad Breath"
                     },
                     {
                         "name": "Central - Fight Belgemine (Win) (Event)",
@@ -2074,6 +2074,10 @@
                         "ref": "Monster Arena/Original Creation/Creation Rewards/Underwater Fiends in Mt. Gagazet x2"
                     },
                     {
+                        "name": "Use Lancet to Learn Nova",
+                        "ref": "@Overdrives/Ronso Rage/Use Lancet to Learn Nova/MOAR Nova"
+                    },
+                    {
                         "name": "Original Creation - Capture all Fiends x10 & Kill all Creations",
                         "ref": "Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations"
                     },
@@ -2235,15 +2239,15 @@
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath\nValaha", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/COSF Fire Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Doom\nGhost", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Doom"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Doom/COSF Doom"
                     },
                     {
                         "name": "Use Lancet to Learn Bad Breath\nMalboro", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Bad Breath/COSF Bad Breath"
                     },
                     {
                         "name": "Recruit: Durren",
@@ -2297,39 +2301,39 @@
             },
             {
                 "name": "Mt. Gagazet",
-                "map_locations": [{ "map": "Spira", "x": 615, "y": 110}],
+                "map_locations": [{ "map": "Spira", "x": 615, "y": 115}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath\nYenke", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MTGZ Fire Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Aqua Breath\nYenke", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Aqua Breath/MTGZ Aqua Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Stone Breath\nYenke", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Stone Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Stone Breath/MTGZ Stone Breath"
                     },
                     {
                         "name": "Use Lancet to Learn White Wind\nYenke (After Use)", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn White Wind"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn White Wind/MTGZ White Wind"
                     },
                     {
                         "name": "Use Lancet to Learn Thrust Kick\nBiran", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Thrust Kick"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Thrust Kick/MTGZ Thrust Kick"
                     },
                     {
                         "name": "Use Lancet to Learn Self Destruct\nBiran", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/MTGZ Self Destruct"
                     },
                     {
                         "name": "Use Lancet to Learn Doom\nBiran", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Doom"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Doom/MTGZ Doom"
                     },
                     {
                         "name": "Use Lancet to Learn Mighty Guard\nBiran (After Use)", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Mighty Guard/MTGZ Mighty Guard"
                     },
                     {
                         "name": "Defeat Biran and Yenke (Boss)",
@@ -2337,7 +2341,7 @@
                     },
                     {
                         "name": "Use Lancet to Learn Self Destruct\nGrenade",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/MTGZ Self Destruct"
                     },
                     {
                         "name": "Trail - Top of Right Ridge Near South Exit (Chest)",
@@ -2373,15 +2377,15 @@
                     },
                     {
                         "name": "Use Lancet to Learn Fire Breath\nGrendel", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MTGZ Fire Breath"
                     },
                     {
                         "name": "Use Lancet to Learn White Wind\nDark Flan", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn White Wind"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn White Wind/MTGZ White Wind"
                     },
                     {
                         "name": "Use Lancet to Learn Mighty Guard\nBehemoth", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Mighty Guard/MTGZ Mighty Guard"
                     },
                     {
                         "name": "Submerged Passage - Reward from First Trial (Chest)",
@@ -2415,19 +2419,19 @@
             },
             {
                 "name": "Zanarkand",
-                "map_locations": [{ "map": "Spira", "x": 691, "y": 75}],
+                "map_locations": [{ "map": "Spira", "x": 691, "y": 80}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath\nGrendel", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/ZNKD Fire Breath"
                     },
                     {
                         "name": "Use Lancet to Learn White Wind\nDark Flan", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn White Wind"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn White Wind/ZNKD White Wind"
                     },
                     {
                         "name": "Use Lancet to Learn Mighty Guard\nBehemoth", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Mighty Guard/ZNKD Mighty Guard"
                     },
                     {
                         "name": "Overpass - South Side, West Bend (Chest)",
@@ -2439,7 +2443,7 @@
                     },
                     {
                         "name": "Use Lancet to Learn Thrust Kick\nYKT-11", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Thrust Kick"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Thrust Kick/ZNKD Thrust Kick"
                     },
                     {
                         "name": "Dome Interior - Road Above Underpass (Chest)",
@@ -2485,7 +2489,7 @@
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Mighty Guard\nBehemoth King",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Mighty Guard/SINS Mighty Guard"
                     },
                     {
                         "name": "Sea of Sorrow - West Alcove (Chest)",
@@ -2513,11 +2517,11 @@
                     },
                     {
                         "name": "Use Lancet to Learn Doom\nWraith",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Doom"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Doom/SINS Doom"
                     },
                     {
                         "name": "Use Lancet to Learn Bad Breath\nGreat Malboro",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Bad Breath/SINS Bad Breath"
                     },
                     {
                         "name": "City of Dying Dreams - East Glyph Near South Exit, Defeat 10-10-15 Fiends (Chest)",
@@ -2563,15 +2567,11 @@
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Self Destruct\nPuroboros", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/OMGR Self Destruct"
                     },
                     {
                         "name": "Use Lancet to Learn Bad Breath\nGreat Malboro", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
-                    },
-                    {
-                        "name": "Use Lancet to Learn Nova\nOmega Weapon", 
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Nova"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Bad Breath/OMGR Bad Breath"
                     },
                     {
                         "name": "Press Both Glyphs, Then Take Narrow Central Path (Chest)",
@@ -2590,6 +2590,10 @@
                         "ref": "Omega Ruins/West Path (Chest)/Friend Sphere x1"
                     },
                     {
+                        "name": "Use Lancet to Learn Nova\nOmega Weapon", 
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Nova/OMGR Nova"
+                    },
+                    {
                         "name": "Defeat Omega Weapon (Superboss)",
                         "ref": "Super Bosses/Omega Weapon"
                     },
@@ -2605,15 +2609,15 @@
                 "sections": [
                     {
                         "name": "Use Tidus's Overdrive 10 Times (Slice and Dice)",
-                        "ref": "Overdrives/Tidus/Use Tidus's Overdrive 10 Times (Slice and Dice)"
+                        "ref": "Overdrives/Swordplay/Use Tidus's Overdrive 10 Times (Slice and Dice)"
                     },
                     {
                         "name": "Use Tidus's Overdrive 20 Times (Energy Rain)",
-                        "ref": "Overdrives/Tidus/Use Tidus's Overdrive 20 Times (Energy Rain)"
+                        "ref": "Overdrives/Swordplay/Use Tidus's Overdrive 20 Times (Energy Rain)"
                     },
                     {
                         "name": "Use Tidus's Overdrive 40 Times (Blitz Ace)",
-                        "ref": "Overdrives/Tidus/Use Tidus's Overdrive 40 Times (Blitz Ace)"
+                        "ref": "Overdrives/Swordplay/Use Tidus's Overdrive 40 Times (Blitz Ace)"
                     }
                 ]
             },
@@ -2623,65 +2627,88 @@
                 "sections": [
                     {
                         "name": "Collect 1 Progressive Jecht's Sphere (Shooting Star)",
-                        "ref": "Overdrives/Auron/Collect 1 Progressive Jecht's Sphere (Shooting Star)"
+                        "ref": "Overdrives/Bushido/Collect 1 Progressive Jecht's Sphere (Shooting Star)"
                     },
                     {
                         "name": "Collect 3 Progressive Jecht's Sphere (Banishing Blade)",
-                        "ref": "Overdrives/Auron/Collect 3 Progressive Jecht's Sphere (Banishing Blade)"
+                        "ref": "Overdrives/Bushido/Collect 3 Progressive Jecht's Sphere (Banishing Blade)"
                     },
                     {
                         "name": "Collect 10 Progressive Jecht's Sphere (Tornado)",
-                        "ref": "Overdrives/Auron/Collect 10 Progressive Jecht's Sphere (Tornado)"
+                        "ref": "Overdrives/Bushido/Collect 10 Progressive Jecht's Sphere (Tornado)"
                     }
                 ]
             },
             {
                 "name": "Overdrives - Kimahri",
                 "map_locations": [{ "map": "Spira", "x": 1265, "y": 1034}],
+                "visibility_rules": ["ronsorages"],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Fire Breath",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                        "access_rules": ["$hasKimahri, @Miihen Highroad", "$hasKimahri, @Mushroom Rock Road", "$hasKimahri, @Bikanel/Home", "$hasKimahri, @Airship", "$hasKimahri, @Cavern of the Stolen Fayth", "$hasKimahri, @Mt. Gagazet", "$hasKimahri, @Zanarkand"],
+                        "hosted_item": "ronsoragefirebreath",
+                        "clear_as_group": true
                     },
                     {
                         "name": "Use Lancet to Learn Seed Cannon",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Seed Cannon"
+                        "access_rules": ["@Kilika"],
+                        "hosted_item": "ronsorageseedcannon",
+                        "clear_as_group": true
                     },
                     {
                         "name": "Use Lancet to Learn Self Destruct",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                        "access_rules": ["$hasKimahri @Miihen Highroad", "$hasKimahri, @Mushroom Rock Road", "$hasKimahri, @Bikanel/Home", "$hasKimahri, @Airship", "$hasKimahri, @Mt. Gagazet", "$hasKimahri, @Omega Ruins"],
+                        "hosted_item": "ronsorageselfdestruct",
+                        "clear_as_group": true
                     },
                     {
                         "name": "Use Lancet to Learn Thrust Kick",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Thrust Kick"
+                        "access_rules": ["$hasKimahri, @Bevelle", "$hasKimahri, @Mt. Gagazet", "$hasKimahri, @Zanarkand/Dome"],
+                        "hosted_item": "ronsoragethrustkick",
+                        "clear_as_group": true
                     },
                     {
                         "name": "Use Lancet to Learn Stone Breath",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Stone Breath"
+                        "access_rules": ["$hasKimahri, @Djose", "$hasKimahri, @Calm Lands", "$hasKimahri, @Mt. Gagazet"],
+                        "hosted_item": "ronsoragestonebreath",
+                        "clear_as_group": true
                     },
                     {
                         "name": "Use Lancet to Learn Aqua Breath",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                        "access_rules": ["$hasKimahri, @Macalania/Woods", "$hasKimahri, @Bikanel/Home", "$hasKimahri, @Calm Lands", "$hasKimahri, @Mt. Gagazet"],
+                        "hosted_item": "ronsorageaquabreath",
+                        "clear_as_group": true
                     },
                     {
                         "name": "Use Lancet to Learn Doom",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Doom"
+                        "access_rules": ["$hasKimahri, @Cavern of the Stolen Fayth", "$hasKimahri, @Mt. Gagazet", "$hasKimahri, @Inside Sin/City of Dying Dreams"],
+                        "hosted_item": "ronsoragedoom",
+                        "clear_as_group": true
                     },
                     {
                         "name": "Use Lancet to Learn White Wind",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn White Wind"
+                        "access_rules": ["$hasKimahri, @Mt. Gagazet", "$hasKimahri, @Zanarkand"],
+                        "hosted_item": "ronsoragewhitewind",
+                        "clear_as_group": true
                     },
                     {
                         "name": "Use Lancet to Learn Bad Breath",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                        "access_rules": ["$hasKimahri, @Calm Lands", "$hasKimahri, @Cavern of the Stolen Fayth", "$hasKimahri, @Inside Sin/City of Dying Dreams", "$hasKimahri, @Omega Ruins"],
+                        "hosted_item": "ronsoragebadbreath",
+                        "clear_as_group": true
                     },
                     {
                         "name": "Use Lancet to Learn Mighty Guard",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Mighty Guard"
+                        "access_rules": ["$hasKimahri, @Mt. Gagazet", "$hasKimahri, @Zanarkand", "$hasKimahri, @Inside Sin"],
+                        "hosted_item": "ronsoragemightyguard",
+                        "clear_as_group": true
                     },
                     {
                         "name": "Use Lancet to Learn Nova",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Nova"
+                        "access_rules": ["$hasKimahri, @Omega Ruins/Defeat Omega Weapon (Superboss), [$hasMinimumParty|3]", "$hasKimahri, @Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations, [$hasMinimumParty|3]"],
+                        "hosted_item": "ronsoragenova",
+                        "clear_as_group": true
                     }
                 ]
             },
@@ -2691,15 +2718,15 @@
                 "sections": [
                     {
                         "name": "Come 1st in a Blitzball Tournament (Attack Reels)",
-                        "ref": "Overdrives/Wakka/Come 1st in a Blitzball Tournament (Attack Reels)"
+                        "ref": "Overdrives/Reels/Come 1st in a Blitzball Tournament (Attack Reels)"
                     },
                     {
                         "name": "Come 1st in a Blitzball League After Obtaining Attack Reels (Status Reels)",
-                        "ref": "Overdrives/Wakka/Come 1st in a Blitzball League After Obtaining Attack Reels (Status Reels)"
+                        "ref": "Overdrives/Reels/Come 1st in a Blitzball League After Obtaining Attack Reels (Status Reels)"
                     },
                     {
                         "name": "Come 1st in a Blitzball Tournament After Obtaining both Attack & Status Reels (Aurochs Reels)",
-                        "ref": "Overdrives/Wakka/Come 1st in a Blitzball Tournament After Obtaining both Attack & Status Reels (Aurochs Reels)"
+                        "ref": "Overdrives/Reels/Come 1st in a Blitzball Tournament After Obtaining both Attack & Status Reels (Aurochs Reels)"
                     }
                 ]
             }

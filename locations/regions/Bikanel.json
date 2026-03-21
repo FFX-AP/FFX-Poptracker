@@ -305,19 +305,19 @@
                     },
                     {
                         "name": "Ronso Rages",
-                        "map_locations": [{ "map": "Home", "x": 820, "y": 105}],
+                        "map_locations": [{ "map": "Home", "x": 710, "y": 115, "size": 32}],
                         "sections": [
                             {
                                 "name": "Use Lancet to Learn Fire Breath\nDual Horn",
-                                "ref": "Overdrives/Kimahri/Use Lancet to Learn Fire Breath"
+                                "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/BIKA Fire Breath"
                             },
                             {
                                 "name": "Use Lancet to Learn Self Destruct\nBomb",
-                                "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                                "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/BIKA Self Destruct"
                             },
                             {
                                 "name": "Use Lancet to Learn Aqua Breath\nChimera",
-                                "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                                "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Aqua Breath/BIKA Aqua Breath"
                             }
                         ]
                     }

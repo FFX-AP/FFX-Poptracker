@@ -364,11 +364,11 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Macalania Woods", "x": 730, "y": 195}],
+                "map_locations": [{ "map": "Macalania Woods", "x": 787, "y": 315, "size": 32}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Aqua Breath\nChimera",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Aqua Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Aqua Breath/MACA Aqua Breath"
                     }
                 ]
             }

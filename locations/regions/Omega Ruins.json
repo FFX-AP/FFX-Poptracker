@@ -130,19 +130,19 @@
             },
             {
                 "name": "Ronso Rages",
-                "map_locations": [{ "map": "Omega Ruins", "x": 595, "y": 430}],
+                "map_locations": [{ "map": "Omega Ruins", "x": 515, "y": 470, "size": 32}],
                 "sections": [
                     {
                         "name": "Use Lancet to Learn Self Destruct\nPuroboros",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Self Destruct"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/OMGR Self Destruct"
                     },
                     {
                         "name": "Use Lancet to Learn Bad Breath\nGreat Malboro",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Bad Breath"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Bad Breath/OMGR Bad Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Nova\nOmega Weapon",
-                        "ref": "Overdrives/Kimahri/Use Lancet to Learn Nova"
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Nova/OMGR Nova"
                     }
                 ]
             }
