@@ -1899,6 +1899,12 @@
                         "clear_as_group": false
                     },
                     {
+                        "name": "Zanarkand",
+                        "hosted_item": "bashura, ahriman, darkflan, grendel, mandragora, behemoth",
+                        "access_rules": ["@Monster Arena/Fiend Capture, @Zanarkand"],
+                        "clear_as_group": false
+                    },
+                    {
                         "name": "Inside Sin",
                         "hosted_item": "ahriman, exoray, geminisword, geminiclub, adamantoise, behemothking",
                         "access_rules": ["@Monster Arena/Fiend Capture, @Inside Sin"],
