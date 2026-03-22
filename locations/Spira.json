@@ -2711,7 +2711,7 @@
                     {
                         "name": "Use Lancet to Learn Nova",
                         "visibility_rules": ["superbosses", "creationbossesoriginal"],
-                        "access_rules": ["$hasKimahri, @Omega Ruins/Defeat Omega Weapon (Superboss), [$hasMinimumParty|3]", "$hasKimahri, @Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations, [$hasMinimumParty|3]"],
+                        "access_rules": ["$hasKimahri, @Omega Ruins/Defeat Omega Weapon (Superboss), ultimaweapon, [$hasMinimumParty|3]", "$hasKimahri, @Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations, [$hasMinimumParty|3]"],
                         "hosted_item": "ronsoragenova",
                         "clear_as_group": true
                     }
