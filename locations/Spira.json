@@ -1434,12 +1434,12 @@
                         "ref": "Al Bhed Primers/Al Bhed Primer XIX/Home"
                     },
                     {
-                        "name": "Use Lancet to Learn Fire Breath\nDual Horn",
-                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/BIKA Fire Breath"
-                    },
-                    {
                         "name": "Use Lancet to Learn Self Destruct\nBomb",
                         "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/BIKA Self Destruct"
+                    },
+                    {
+                        "name": "Use Lancet to Learn Fire Breath\nDual Horn",
+                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/BIKA Fire Breath"
                     },
                     {
                         "name": "Use Lancet to Learn Aqua Breath\nChimera",
@@ -2692,7 +2692,7 @@
                     },
                     {
                         "name": "Use Lancet to Learn Doom",
-                        "access_rules": ["$hasKimahri, @Cavern of the Stolen Fayth", "$hasKimahri, @Mt. Gagazet", "$hasKimahri, @Inside Sin/City of Dying Dreams"],
+                        "access_rules": ["$hasKimahri, @Cavern of the Stolen Fayth", "$hasKimahri, @Mt. Gagazet", "$hasKimahri, @Inside Sin/City of Dying Dreams", "$hasKimahri, @Omega Ruins"],
                         "hosted_item": "ronsoragedoom",
                         "clear_as_group": true
                     },
