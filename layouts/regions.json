@@ -52,6 +52,32 @@
                         ]
                     }
                 ]
+            },
+            {
+                 "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "1, 1",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 30,
+                        "item_width": 30,
+                        "rows": [
+                            [
+                                "pilgrimagebesaid",
+                                "pilgrimagekilika",
+                                "pilgrimagedjose",
+                                "pilgrimagemacalania",
+                                "pilgrimagebevelle",
+                                "pilgrimagezanarkand"
+                            ]
+                        ]
+                    }
+                ]
             }
         ]
     }
