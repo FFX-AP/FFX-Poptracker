@@ -12,17 +12,17 @@
                     {
                         "name": "Use Tidus's Overdrive 10 Times (Slice and Dice)",
                         "visibility_rules": ["tidusoverdrivesnd"],
-                        "access_rules": ["^$hasCombatRegions|2"]                        
+                        "access_rules": ["^$hasCombatRegions|4"]                        
                     },
                     {
                         "name": "Use Tidus's Overdrive 20 Times (Energy Rain)",
                         "visibility_rules": ["tidusoverdriveer"],
-                        "access_rules": ["^$hasCombatRegions|4"]
+                        "access_rules": ["^$hasCombatRegions|8"]
                     },
                     {
                         "name": "Use Tidus's Overdrive 40 Times (Blitz Ace)",
                         "visibility_rules": ["tidusoverdriveba"],
-                        "access_rules": ["^$hasCombatRegions|8"]
+                        "access_rules": ["^$hasCombatRegions|14"]
                     }
                 ]
             },
