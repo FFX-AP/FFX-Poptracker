@@ -208,5 +208,65 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "monsterarena"
+    },
+    {
+        "name": "Pilgrimage Besaid",
+        "type": "toggle",
+        "img": "images/items/Temple Spheres/Besaid.png",
+        "img_mods": "",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pilgrimagebesaid"
+    },
+    {
+        "name": "Pilgrimage Kilika",
+        "type": "toggle",
+        "img": "images/items/Temple Spheres/Kilika.png",
+        "img_mods": "",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pilgrimagekilika"
+    },
+    {
+        "name": "Pilgrimage Djose",
+        "type": "toggle",
+        "img": "images/items/Temple Spheres/Djose.png",
+        "img_mods": "",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pilgrimagedjose"
+    },
+    {
+        "name": "Pilgrimage Macalania",
+        "type": "toggle",
+        "img": "images/items/Temple Spheres/Macalania.png",
+        "img_mods": "",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pilgrimagemacalania"
+    },
+    {
+        "name": "Pilgrimage Bevelle",
+        "type": "toggle",
+        "img": "images/items/Temple Spheres/Bevelle.png",
+        "img_mods": "",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pilgrimagebevelle"
+    },
+    {
+        "name": "Pilgrimage Zanarkand",
+        "type": "toggle",
+        "img": "images/items/Temple Spheres/Zanarkand.png",
+        "img_mods": "",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pilgrimagezanarkand"
     }
 ]
