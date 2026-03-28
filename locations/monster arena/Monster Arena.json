@@ -1502,7 +1502,7 @@
                             },
                             {
                                 "name": "Bird (5x)",
-                                "access_rules": ["condor:3, simurgh:3, alcyone:3"],
+                                "access_rules": ["condor:5, simurgh:5, alcyone:5"],
                                 "hosted_item": "speciesconquests",
                                 "item_count": 1,
                                 "clear_as_group": true
