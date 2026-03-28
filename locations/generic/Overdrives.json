@@ -178,8 +178,6 @@
             },
             {
                 "name": "Valefor",
-                "chest_unopened_img": "/images/Overdrives/Overdrive Valefor.png",
-                "chest_opened_img": "/images/Overdrives/Overdrive Valefor BW.png",
                 "access_rules": ["@Besaid/Village, map"],
                 "sections": [{"name": "Village, House - Something Mangled and Slobbery from Dog (NPC)"}]
             }
