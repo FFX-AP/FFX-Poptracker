@@ -30,7 +30,7 @@
             },
             {
                 "name": "South Wharf (Jecht's Sphere)",
-                "access_rules": ["@Moonflow, extractor, [$hasSwimmers|2]"],
+                "access_rules": ["@Moonflow, extractor, rikkulocation, [$hasSwimmers|2]"],
                 "hosted_item": "jechtsphere4",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
