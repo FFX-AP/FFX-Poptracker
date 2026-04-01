@@ -10,6 +10,16 @@
                 "name": "Temple",
                 "children": [
                     {
+                        "name": "Ronso Rages",
+                        "map_locations": [{ "map": "Bevelle", "x": 650, "y": 850}],
+                        "sections": [
+                            {
+                                "name": "Use Lancet to Learn Thrust Kick\nYKT-63",
+                                "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Thrust Kick/BEVL Thrust Kick"
+                            }
+                        ]
+                    },
+                    {
                         "name": "Priests' Passage - Corner South of Save Point (Primer)",
                         "map_locations": [{ "map": "Bevelle", "x": 230, "y": 520}],
                         "sections": [
@@ -38,16 +48,6 @@
                                 "ref": "Party Member/Aeon/Bahamut"
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "name": "Ronso Rages",
-                "map_locations": [{ "map": "Bevelle", "x": 650, "y": 850}],
-                "sections": [
-                    {
-                        "name": "Use Lancet to Learn Thrust Kick\nYKT-63",
-                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Thrust Kick/BEVL Thrust Kick"
                     }
                 ]
             },
@@ -92,6 +92,16 @@
                                 "name": "Isaaru",
                                 "hosted_item": "isaaru", 
                                 "clear_as_group": true
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ronso Rages",
+                        "map_locations": [{ "map": "Via Purifico", "x": 1115, "y": 250}],
+                        "sections": [
+                            {
+                                "name": "Use Lancet to Learn Thrust Kick\nYKT-63",
+                                "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Thrust Kick/BEVL Thrust Kick"
                             }
                         ]
                     }
@@ -142,16 +152,6 @@
                                 "clear_as_group": true
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "name": "Ronso Rages",
-                "map_locations": [{ "map": "Via Purifico", "x": 1115, "y": 250}],
-                "sections": [
-                    {
-                        "name": "Use Lancet to Learn Thrust Kick\nYKT-63",
-                        "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Thrust Kick/BEVL Thrust Kick"
                     }
                 ]
             },
