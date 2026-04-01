@@ -47,8 +47,20 @@
                                 "header": "Regions",
                                 "dock": "top",
                                 "content": {
-                                    "type": "layout",
-                                    "key": "regions_horizontal"
+                                    "type": "dock",
+                                    "dock": "left",
+                                    "h_alignment": "stretch",
+                                    "v_alignment": "stretch",
+                                    "content": [
+                                        {
+                                            "type": "layout",
+                                            "key": "regions_horizontal"
+                                        },
+                                        {
+                                            "type": "layout",
+                                            "key": "pilgrimage_horizontal"
+                                        }
+                                    ]
                                 }
                             },
                             {

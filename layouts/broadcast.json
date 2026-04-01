@@ -1,20 +1,94 @@
 {
     "tracker_broadcast": {
-        "type": "array",
-        "orientation": "vertical",
-        "margin": "0,0",
+        "type": "container",
+        "background": "#00000000",
         "content": [
             {
-                "type": "array",
-                "orientation": "vertical",
-                "margin": "0,0",
+                "type": "dock",
+                "dock": "left",
+                "h_alignment": "stretch",
+                "v_alignment": "stretch",
                 "content": [
                     {
-                        "type": "layout",
-                        "key": "shared_item_grid_vertical"
+                        "type": "dock",
+                        "dock": "left",
+                        "h_alignment": "stretch",
+                        "v_alignment": "stretch",
+                        "content": [
+                            {
+                                "type": "group",
+                                "header": "Party Members & Aeons",
+                                "dock": "top",
+                                "content": {
+                                    "type": "dock",
+                                    "dock": "left",
+                                    "h_alignment": "stretch",
+                                    "v_alignment": "stretch",
+                                    "content": [
+                                        {
+                                            "type": "layout",
+                                            "key": "party_members_horizontal"
+                                        },
+                                        {
+                                            "type": "layout",
+                                            "key": "aeons_horizontal"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "type": "group",
+                                "header": "Key Items",
+                                "dock": "top",
+                                "content": {
+                                    "type": "layout",
+                                    "key": "key_items_horizontal"
+                                }
+                            }
+                            
+                        ]
+                    },
+                    {
+                        "type": "dock",
+                        "dock": "right",
+                        "h_alignment": "stretch",
+                        "v_alignment": "stretch",
+                        "content": [
+                            {
+                                "type": "group",
+                                "header": "Regions",
+                                "dock": "top",
+                                "content": {
+                                    "type": "dock",
+                                    "dock": "left",
+                                    "h_alignment": "stretch",
+                                    "v_alignment": "stretch",
+                                    "content": [
+                                        {
+                                            "type": "layout",
+                                            "key": "regions_horizontal"
+                                        },
+                                        {
+                                            "type": "layout",
+                                            "key": "pilgrimage_horizontal"
+                                        }
+                                    ]
+                                }
+                            },                            
+                            {
+                                "type": "group",
+                                "header": "Overdrives",
+                                "dock": "top",
+                                "content": {
+                                    "type": "layout",
+                                    "key": "overdrives_horizontal"
+                                }
+                            }
+                        ]
                     }
                 ]
-            }
+            }   
         ]
     }
 }
+

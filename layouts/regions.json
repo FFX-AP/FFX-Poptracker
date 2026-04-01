@@ -52,7 +52,15 @@
                         ]
                     }
                 ]
-            },
+            }
+        ]
+    },
+
+    "pilgrimage_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 0",
+        "content": [
             {
                  "type": "array",
                 "orientation": "horizontal",
