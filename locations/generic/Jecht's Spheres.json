@@ -2,8 +2,8 @@
     {
         "name": "Jecht's Spheres",
         "overlay_background": "#000000",
-        "chest_unopened_img": "/images/items/Movie Sphere.png",
-        "chest_opened_img": "/images/items/Movie Sphere BW.png",
+        "chest_unopened_img": "images/Tromell.png",
+        "chest_opened_img": "images/Tromell BW.png",
         "visibility_rules": ["jechtspheres"],
         "children": [
             {

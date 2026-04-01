@@ -5,8 +5,8 @@
         "children": [
             {
                 "name": "Auron",
-                "chest_unopened_img": "/images/party/weapon/Katana.png",
-                "chest_opened_img": "/images/party/weapon/Katana_BW.png",
+                "chest_unopened_img": "images/Tromell.png",
+                "chest_opened_img": "images/Tromell BW.png",
                 "sections": [
                     {
                         "name": "Masamune",
@@ -37,8 +37,8 @@
             },
             {
                 "name": "Kimahri",
-                "chest_unopened_img": "/images/party/weapon/Spear.png",
-                "chest_opened_img": "/images/party/weapon/Spear_BW.png",
+                "chest_unopened_img": "images/Tromell.png",
+                "chest_opened_img": "images/Tromell BW.png",
                 "sections": [
                     {
                         "name": "Spirit Lance",
@@ -68,8 +68,8 @@
             },
             {
                 "name": "Lulu",
-                "chest_unopened_img": "/images/party/weapon/Doll.png",
-                "chest_opened_img": "/images/party/weapon/Doll_BW.png",
+                "chest_unopened_img": "images/Tromell.png",
+                "chest_opened_img": "images/Tromell BW.png",
                 "sections": [
                     {
                         "name": "Onion Knight",
@@ -99,8 +99,8 @@
             },
             {
                 "name": "Rikku",
-                "chest_unopened_img": "/images/party/weapon/Claw.png",
-                "chest_opened_img": "/images/party/weapon/Claw_BW.png",
+                "chest_unopened_img": "images/Tromell.png",
+                "chest_opened_img": "images/Tromell BW.png",
                 "sections": [
                     {
                         "name": "Godhand",
@@ -130,8 +130,8 @@
             },
             {
                 "name": "Tidus",
-                "chest_unopened_img": "/images/party/weapon/Sword.png",
-                "chest_opened_img": "/images/party/weapon/Sword_BW.png",
+                "chest_unopened_img": "images/Tromell.png",
+                "chest_opened_img": "images/Tromell BW.png",
                 "sections": [
                     {
                         "name": "Caladbolg",
@@ -171,8 +171,8 @@
             },
             {
                 "name": "Wakka",
-                "chest_unopened_img": "/images/party/weapon/Blitzball.png",
-                "chest_opened_img": "/images/party/weapon/Blitzball_BW.png",
+                "chest_unopened_img": "images/Tromell.png",
+                "chest_opened_img": "images/Tromell BW.png",
                 "sections": [
                     {
                         "name": "World Champion",
@@ -202,8 +202,8 @@
             },
             {
                 "name": "Yuna",
-                "chest_unopened_img": "/images/party/weapon/Staff.png",
-                "chest_opened_img": "/images/party/weapon/Staff_BW.png",
+                "chest_unopened_img": "images/Tromell.png",
+                "chest_opened_img": "images/Tromell BW.png",
                 "chest_opened_img_mods": "@disabled",
                 "sections": [
                     {
@@ -237,8 +237,8 @@
                 "sections": [
                     {
                         "name": "Rusty Sword",
-                        "chest_unopened_img": "/images/items/Rusty Sword.png",
-                        "chest_opened_img": "/images/items/Rusty Sword BW.png",
+                        "chest_unopened_img": "images/Tromell.png",
+                        "chest_opened_img": "images/Tromell BW.png",
                         "access_rules": ["@Cavern of the Stolen Fayth"]
                     }
                 ]
@@ -254,8 +254,8 @@
             },
             {
                 "name": "Celestial Mirror",
-                "chest_unopened_img": "/images/items/Celestial Mirror.png",
-                "chest_opened_img": "/images/items/Mirror BW.png",
+                "chest_unopened_img": "images/Tromell.png",
+                "chest_opened_img": "images/Tromell BW.png",
                 "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:1"],
                 "sections": [
                     {

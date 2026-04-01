@@ -5,8 +5,8 @@
         "children": [
             {
                 "name": "Blitzball",
-                "chest_unopened_img": "images/minigames/Blitzball.png",
-                "chest_opened_img": "images/minigames/Blitzball BW.png",
+                "chest_unopened_img": "images/Tromell.png",
+                "chest_opened_img": "images/Tromell BW.png",
                 "access_rules": ["^$CheckAccessLevel|luca, oblitzerator, [$hasMinimumParty|3]"],
                 "sections": [
                     {
@@ -29,8 +29,8 @@
             },
             {
                 "name": "Butterfly",
-                "chest_unopened_img": "images/minigames/Butterfly.png",
-                "chest_opened_img": "images/minigames/Butterfly BW.png",
+                "chest_unopened_img": "images/Tromell.png",
+                "chest_opened_img": "images/Tromell BW.png",
                 "access_rules": ["@Macalania, wendigo, [$hasMinimumParty|3]"],
                 "visibility_rules": ["minigamebutterfly"],
                 "sections": [
@@ -42,8 +42,8 @@
             },
             {
                 "name": "Lightning Dodging",
-                "chest_unopened_img": "images/minigames/Lightning.png",
-                "chest_opened_img": "images/minigames/Lightning BW.png",
+                "chest_unopened_img": "images/Tromell.png",
+                "chest_opened_img": "images/Tromell BW.png",
                 "access_rules": ["@Thunder Plains"],
                 "sections": [
                     {
@@ -85,8 +85,8 @@
             },
             {
                 "name": "Cactuar Village",
-                "chest_unopened_img": "images/minigames/Cactuar.png",
-                "chest_opened_img": "images/minigames/Cactuar BW.png",
+                "chest_unopened_img": "images/Tromell.png",
+                "chest_opened_img": "images/Tromell BW.png",
                 "access_rules": ["@Bikanel/Desert, homecompletion3, evrae, [$hasMinimumParty|3]"],
                 "visibility_rules": ["minigamecactuar"],
                 "sections": [
@@ -98,8 +98,8 @@
             },
             {
                 "name": "Chocobo Training",
-                "chest_unopened_img": "images/minigames/Red Chocobo.png",
-                "chest_opened_img": "images/minigames/Chocobo BW.png",
+                "chest_unopened_img": "images/Tromell.png",
+                "chest_opened_img": "images/Tromell BW.png",
                 "access_rules": ["@Calm Lands"],
                 "sections": [
                     {
@@ -145,8 +145,8 @@
             },
             {
                 "name": "Chocobo Racing",
-                "chest_unopened_img": "images/minigames/Chocobo.png",
-                "chest_opened_img": "images/minigames/Chocobo BW.png",
+                "chest_unopened_img": "images/Tromell.png",
+                "chest_opened_img": "images/Tromell BW.png",
                 "access_rules": ["@Remiem Temple"],
                 "sections": [
                     {
