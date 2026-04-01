@@ -1,8 +1,8 @@
 [
     {
         "name": "Blitzball Recruits",
-        "chest_unopened_img": "/images/items/hd/Blitzball.png",
-        "chest_opened_img": "/images/items/hd/Blitzball_BW.png",
+        "chest_unopened_img": "images/Tromell.png",
+        "chest_opened_img": "images/Tromell BW.png",
         "overlay_background": "#000000",
         "children": [
             {

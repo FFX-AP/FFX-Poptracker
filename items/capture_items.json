@@ -3,7 +3,7 @@
     {
         "name": "Dingo",
         "type": "consumable",
-        "img": "images/fiends/Dingo.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -16,7 +16,7 @@
     {
         "name": "Dingo Complete",
         "type": "toggle",
-        "img": "images/fiends/Dingo.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -27,7 +27,7 @@
     {
         "name": "Condor",
         "type": "consumable",
-        "img": "images/fiends/Condor.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -40,7 +40,7 @@
     {
         "name": "Condor Complete",
         "type": "toggle",
-        "img": "images/fiends/Condor.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -51,7 +51,7 @@
     {
         "name": "Water Flan",
         "type": "consumable",
-        "img": "images/fiends/Water Flan.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -64,7 +64,7 @@
     {
         "name": "Water Flan Complete",
         "type": "toggle",
-        "img": "images/fiends/Water Flan.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -76,7 +76,7 @@
     {
         "name": "Dinonix",
         "type": "consumable",
-        "img": "images/fiends/Dinonix.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -89,7 +89,7 @@
     {
         "name": "Dinonix Complete",
         "type": "toggle",
-        "img": "images/fiends/Dinonix.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -100,7 +100,7 @@
     {
         "name": "Killer Bee",
         "type": "consumable",
-        "img": "images/fiends/Killer Bee.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -113,7 +113,7 @@
     {
         "name": "Killer Bee Complete",
         "type": "toggle",
-        "img": "images/fiends/Killer Bee.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -124,7 +124,7 @@
     {
         "name": "Yellow Element",
         "type": "consumable",
-        "img": "images/fiends/Yellow Element.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -137,7 +137,7 @@
     {
         "name": "Yellow Element Complete",
         "type": "toggle",
-        "img": "images/fiends/Yellow Element.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -148,7 +148,7 @@
     {
         "name": "Ragora",
         "type": "consumable",
-        "img": "images/fiends/Ragora.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -161,7 +161,7 @@
     {
         "name": "Ragora Complete",
         "type": "toggle",
-        "img": "images/fiends/Ragora.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -173,7 +173,7 @@
     {
         "name": "Mi'ihen Fang",
         "type": "consumable",
-        "img": "images/fiends/Mi'ihen Fang.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -186,7 +186,7 @@
     {
         "name": "Mi'ihen Fang Complete",
         "type": "toggle",
-        "img": "images/fiends/Mi'ihen Fang.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -197,7 +197,7 @@
     {
         "name": "Ipiria",
         "type": "consumable",
-        "img": "images/fiends/Ipiria.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -210,7 +210,7 @@
     {
         "name": "Ipiria Complete",
         "type": "toggle",
-        "img": "images/fiends/Ipiria.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -221,7 +221,7 @@
     {
         "name": "Floating Eye",
         "type": "consumable",
-        "img": "images/fiends/Floating Eye.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -234,7 +234,7 @@
     {
         "name": "Floating Eye Complete",
         "type": "toggle",
-        "img": "images/fiends/Floating Eye.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -245,7 +245,7 @@
     {
         "name": "White Element",
         "type": "consumable",
-        "img": "images/fiends/White Element.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -258,7 +258,7 @@
     {
         "name": "White Element Complete",
         "type": "toggle",
-        "img": "images/fiends/White Element.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -269,7 +269,7 @@
     {
         "name": "Raldo",
         "type": "consumable",
-        "img": "images/fiends/Raldo.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -282,7 +282,7 @@
     {
         "name": "Raldo Complete",
         "type": "toggle",
-        "img": "images/fiends/Raldo.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -293,7 +293,7 @@
     {
         "name": "Vouivre",
         "type": "consumable",
-        "img": "images/fiends/Vouivre.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -306,7 +306,7 @@
     {
         "name": "Vouivre Complete",
         "type": "toggle",
-        "img": "images/fiends/Vouivre.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -317,7 +317,7 @@
     {
         "name": "Bomb",
         "type": "consumable",
-        "img": "images/fiends/Bomb.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -330,7 +330,7 @@
     {
         "name": "Bomb Complete",
         "type": "toggle",
-        "img": "images/fiends/Bomb.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -341,7 +341,7 @@
     {
         "name": "Dual Horn",
         "type": "consumable",
-        "img": "images/fiends/Dual Horn.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -354,7 +354,7 @@
     {
         "name": "Dual Horn Complete",
         "type": "toggle",
-        "img": "images/fiends/Dual Horn.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -366,7 +366,7 @@
     {
         "name": "Raptor",
         "type": "consumable",
-        "img": "images/fiends/Raptor.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -379,7 +379,7 @@
     {
         "name": "Raptor Complete",
         "type": "toggle",
-        "img": "images/fiends/Raptor.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -390,7 +390,7 @@
     {
         "name": "Gandarewa",
         "type": "consumable",
-        "img": "images/fiends/Gandarewa.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -403,7 +403,7 @@
     {
         "name": "Gandarewa Complete",
         "type": "toggle",
-        "img": "images/fiends/Gandarewa.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -414,7 +414,7 @@
     {
         "name": "Thunder Flan",
         "type": "consumable",
-        "img": "images/fiends/Thunder Flan.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -427,7 +427,7 @@
     {
         "name": "Thunder Flan Complete",
         "type": "toggle",
-        "img": "images/fiends/Thunder Flan.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -438,7 +438,7 @@
     {
         "name": "Red Element",
         "type": "consumable",
-        "img": "images/fiends/Red Element.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -451,7 +451,7 @@
     {
         "name": "Red Element Complete",
         "type": "toggle",
-        "img": "images/fiends/Red Element.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -462,7 +462,7 @@
     {
         "name": "Lamashtu",
         "type": "consumable",
-        "img": "images/fiends/Lamashtu.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -475,7 +475,7 @@
     {
         "name": "Lamashtu Complete",
         "type": "toggle",
-        "img": "images/fiends/Lamashtu.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -486,7 +486,7 @@
     {
         "name": "Funguar",
         "type": "consumable",
-        "img": "images/fiends/Funguar.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -499,7 +499,7 @@
     {
         "name": "Funguar Complete",
         "type": "toggle",
-        "img": "images/fiends/Funguar.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -510,7 +510,7 @@
     {
         "name": "Garuda",
         "type": "consumable",
-        "img": "images/fiends/Garuda.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -523,7 +523,7 @@
     {
         "name": "Garuda Complete",
         "type": "toggle",
-        "img": "images/fiends/Garuda.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -535,7 +535,7 @@
     {
         "name": "Garm",
         "type": "consumable",
-        "img": "images/fiends/Garm.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -548,7 +548,7 @@
     {
         "name": "Garm Complete",
         "type": "toggle",
-        "img": "images/fiends/Garm.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -559,7 +559,7 @@
     {
         "name": "Simurgh",
         "type": "consumable",
-        "img": "images/fiends/Simurgh.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -572,7 +572,7 @@
     {
         "name": "Simurgh Complete",
         "type": "toggle",
-        "img": "images/fiends/Simurgh.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -583,7 +583,7 @@
     {
         "name": "Bite Bug",
         "type": "consumable",
-        "img": "images/fiends/Bite Bug.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -596,7 +596,7 @@
     {
         "name": "Bite Bug Complete",
         "type": "toggle",
-        "img": "images/fiends/Bite Bug.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -607,7 +607,7 @@
     {
         "name": "Snow Flan",
         "type": "consumable",
-        "img": "images/fiends/Snow Flan.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -620,7 +620,7 @@
     {
         "name": "Snow Flan Complete",
         "type": "toggle",
-        "img": "images/fiends/Snow Flan.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -631,7 +631,7 @@
     {
         "name": "Bunyip",
         "type": "consumable",
-        "img": "images/fiends/Bunyip.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -644,7 +644,7 @@
     {
         "name": "Bunyip Complete",
         "type": "toggle",
-        "img": "images/fiends/Bunyip.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -655,7 +655,7 @@
     {
         "name": "Basilisk",
         "type": "consumable",
-        "img": "images/fiends/Basilisk.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -668,7 +668,7 @@
     {
         "name": "Basilisk Complete",
         "type": "toggle",
-        "img": "images/fiends/Basilisk.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -679,7 +679,7 @@
     {
         "name": "Ochu",
         "type": "consumable",
-        "img": "images/fiends/Ochu.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -692,7 +692,7 @@
     {
         "name": "Ochu Complete",
         "type": "toggle",
-        "img": "images/fiends/Ochu.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -704,7 +704,7 @@
     {
         "name": "Melusine",
         "type": "consumable",
-        "img": "images/fiends/Melusine.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -717,7 +717,7 @@
     {
         "name": "Melusine Complete",
         "type": "toggle",
-        "img": "images/fiends/Melusine.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -728,7 +728,7 @@
     {
         "name": "Aerouge",
         "type": "consumable",
-        "img": "images/fiends/Aerouge.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -741,7 +741,7 @@
     {
         "name": "Aerouge Complete",
         "type": "toggle",
-        "img": "images/fiends/Aerouge.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -752,7 +752,7 @@
     {
         "name": "Buer",
         "type": "consumable",
-        "img": "images/fiends/Buer.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -765,7 +765,7 @@
     {
         "name": "Buer Complete",
         "type": "toggle",
-        "img": "images/fiends/Buer.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -776,7 +776,7 @@
     {
         "name": "Gold Element",
         "type": "consumable",
-        "img": "images/fiends/Gold Element.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -789,7 +789,7 @@
     {
         "name": "Gold Element Complete",
         "type": "toggle",
-        "img": "images/fiends/Gold Element.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -800,7 +800,7 @@
     {
         "name": "Kusariqqu",
         "type": "consumable",
-        "img": "images/fiends/Kusariqqu.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -813,7 +813,7 @@
     {
         "name": "Kusariqqu Complete",
         "type": "toggle",
-        "img": "images/fiends/Kusariqqu.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -824,7 +824,7 @@
     {
         "name": "Larva",
         "type": "consumable",
-        "img": "images/fiends/Larva.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -837,7 +837,7 @@
     {
         "name": "Larva Complete",
         "type": "toggle",
-        "img": "images/fiends/Larva.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -848,7 +848,7 @@
     {
         "name": "Iron Giant",
         "type": "consumable",
-        "img": "images/fiends/Iron Giant.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -861,7 +861,7 @@
     {
         "name": "Iron Giant Complete",
         "type": "toggle",
-        "img": "images/fiends/Iron Giant.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -872,7 +872,7 @@
     {
         "name": "Qactuar",
         "type": "consumable",
-        "img": "images/fiends/Qactuar.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -885,7 +885,7 @@
     {
         "name": "Qactuar Complete",
         "type": "toggle",
-        "img": "images/fiends/Qactuar.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -897,7 +897,7 @@
     {
         "name": "Snow Wolf",
         "type": "consumable",
-        "img": "images/fiends/Snow Wolf.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -910,7 +910,7 @@
     {
         "name": "Snow Wolf Complete",
         "type": "toggle",
-        "img": "images/fiends/Snow Wolf.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -921,7 +921,7 @@
     {
         "name": "Iguion",
         "type": "consumable",
-        "img": "images/fiends/Iguion.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -934,7 +934,7 @@
     {
         "name": "Iguion Complete",
         "type": "toggle",
-        "img": "images/fiends/Iguion.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -945,7 +945,7 @@
     {
         "name": "Wasp",
         "type": "consumable",
-        "img": "images/fiends/Wasp.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -958,7 +958,7 @@
     {
         "name": "Wasp Complete",
         "type": "toggle",
-        "img": "images/fiends/Wasp.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -969,7 +969,7 @@
     {
         "name": "Evil Eye",
         "type": "consumable",
-        "img": "images/fiends/Evil Eye.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -982,7 +982,7 @@
     {
         "name": "Evil Eye Complete",
         "type": "toggle",
-        "img": "images/fiends/Evil Eye.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -993,7 +993,7 @@
     {
         "name": "Ice Flan",
         "type": "consumable",
-        "img": "images/fiends/Ice Flan.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1006,7 +1006,7 @@
     {
         "name": "Ice Flan Complete",
         "type": "toggle",
-        "img": "images/fiends/Ice Flan.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1017,7 +1017,7 @@
     {
         "name": "Blue Element",
         "type": "consumable",
-        "img": "images/fiends/Blue Element.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1030,7 +1030,7 @@
     {
         "name": "Blue Element Complete",
         "type": "toggle",
-        "img": "images/fiends/Blue Element.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1041,7 +1041,7 @@
     {
         "name": "Murussu",
         "type": "consumable",
-        "img": "images/fiends/Murussu.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1054,7 +1054,7 @@
     {
         "name": "Murussu Complete",
         "type": "toggle",
-        "img": "images/fiends/Murussu.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1065,7 +1065,7 @@
     {
         "name": "Mafdet",
         "type": "consumable",
-        "img": "images/fiends/Mafdet.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1078,7 +1078,7 @@
     {
         "name": "Mafdet Complete",
         "type": "toggle",
-        "img": "images/fiends/Mafdet.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1089,7 +1089,7 @@
     {
         "name": "Xiphos",
         "type": "consumable",
-        "img": "images/fiends/Xiphos.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1102,7 +1102,7 @@
     {
         "name": "Xiphos Complete",
         "type": "toggle",
-        "img": "images/fiends/Xiphos.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1113,7 +1113,7 @@
     {
         "name": "Chimera",
         "type": "consumable",
-        "img": "images/fiends/Chimera.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1126,7 +1126,7 @@
     {
         "name": "Chimera Complete",
         "type": "toggle",
-        "img": "images/fiends/Chimera.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1138,7 +1138,7 @@
     {
         "name": "Sand Wolf",
         "type": "consumable",
-        "img": "images/fiends/Sand Wolf.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1151,7 +1151,7 @@
     {
         "name": "Sand Wolf Complete",
         "type": "toggle",
-        "img": "images/fiends/Sand Wolf.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1162,7 +1162,7 @@
     {
         "name": "Alcyone",
         "type": "consumable",
-        "img": "images/fiends/Alcyone.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1175,7 +1175,7 @@
     {
         "name": "Alcyone Complete",
         "type": "toggle",
-        "img": "images/fiends/Alcyone.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1186,7 +1186,7 @@
     {
         "name": "Mushussu",
         "type": "consumable",
-        "img": "images/fiends/Mushussu.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1199,7 +1199,7 @@
     {
         "name": "Mushussu Complete",
         "type": "toggle",
-        "img": "images/fiends/Mushussu.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1210,7 +1210,7 @@
     {
         "name": "Zu",
         "type": "consumable",
-        "img": "images/fiends/Zu.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1223,7 +1223,7 @@
     {
         "name": "Zu Complete",
         "type": "toggle",
-        "img": "images/fiends/Zu.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1234,7 +1234,7 @@
     {
         "name": "Sand Worm",
         "type": "consumable",
-        "img": "images/fiends/Sand Worm.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1247,7 +1247,7 @@
     {
         "name": "Sand Worm Complete",
         "type": "toggle",
-        "img": "images/fiends/Sand Worm.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1258,7 +1258,7 @@
     {
         "name": "Cactuar",
         "type": "consumable",
-        "img": "images/fiends/Cactuar.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1271,7 +1271,7 @@
     {
         "name": "Cactuar Complete",
         "type": "toggle",
-        "img": "images/fiends/Cactuar.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1283,7 +1283,7 @@
     {
         "name": "Skoll",
         "type": "consumable",
-        "img": "images/fiends/Skoll.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1296,7 +1296,7 @@
     {
         "name": "Skoll Complete",
         "type": "toggle",
-        "img": "images/fiends/Skoll.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1307,7 +1307,7 @@
     {
         "name": "Nebiros",
         "type": "consumable",
-        "img": "images/fiends/Nebiros.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1320,7 +1320,7 @@
     {
         "name": "Nebiros Complete",
         "type": "toggle",
-        "img": "images/fiends/Nebiros.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1331,7 +1331,7 @@
     {
         "name": "Flame Flan",
         "type": "consumable",
-        "img": "images/fiends/Flame Flan.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1344,7 +1344,7 @@
     {
         "name": "Flame Flan Complete",
         "type": "toggle",
-        "img": "images/fiends/Flame Flan.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1355,7 +1355,7 @@
     {
         "name": "Shred",
         "type": "consumable",
-        "img": "images/fiends/Shred.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1368,7 +1368,7 @@
     {
         "name": "Shred Complete",
         "type": "toggle",
-        "img": "images/fiends/Shred.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1379,7 +1379,7 @@
     {
         "name": "Anacondaur",
         "type": "consumable",
-        "img": "images/fiends/Anacondaur.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1392,7 +1392,7 @@
     {
         "name": "Anacondaur Complete",
         "type": "toggle",
-        "img": "images/fiends/Anacondaur.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1403,7 +1403,7 @@
     {
         "name": "Ogre",
         "type": "consumable",
-        "img": "images/fiends/Ogre.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1416,7 +1416,7 @@
     {
         "name": "Ogre Complete",
         "type": "toggle",
-        "img": "images/fiends/Ogre.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1427,7 +1427,7 @@
     {
         "name": "Coeurl",
         "type": "consumable",
-        "img": "images/fiends/Coeurl.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1440,7 +1440,7 @@
     {
         "name": "Coeurl Complete",
         "type": "toggle",
-        "img": "images/fiends/Coeurl.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1451,7 +1451,7 @@
     {
         "name": "Chimera Brain",
         "type": "consumable",
-        "img": "images/fiends/Chimera Brain.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1464,7 +1464,7 @@
     {
         "name": "Chimera Brain Complete",
         "type": "toggle",
-        "img": "images/fiends/Chimera Brain.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1475,7 +1475,7 @@
     {
         "name": "Malboro",
         "type": "consumable",
-        "img": "images/fiends/Malboro.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1488,7 +1488,7 @@
     {
         "name": "Malboro Complete",
         "type": "toggle",
-        "img": "images/fiends/Malboro.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1501,7 +1501,7 @@
     {
         "name": "Yowie",
         "type": "consumable",
-        "img": "images/fiends/Yowie.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1514,7 +1514,7 @@
     {
         "name": "Yowie Complete",
         "type": "toggle",
-        "img": "images/fiends/Yowie.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1525,7 +1525,7 @@
     {
         "name": "Imp",
         "type": "consumable",
-        "img": "images/fiends/Imp.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1538,7 +1538,7 @@
     {
         "name": "Imp Complete",
         "type": "toggle",
-        "img": "images/fiends/Imp.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1549,7 +1549,7 @@
     {
         "name": "Dark Element",
         "type": "consumable",
-        "img": "images/fiends/Dark Element.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1562,7 +1562,7 @@
     {
         "name": "Dark Element Complete",
         "type": "toggle",
-        "img": "images/fiends/Dark Element.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1573,7 +1573,7 @@
     {
         "name": "Nidhogg",
         "type": "consumable",
-        "img": "images/fiends/Nidhogg.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1586,7 +1586,7 @@
     {
         "name": "Nidhogg Complete",
         "type": "toggle",
-        "img": "images/fiends/Nidhogg.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1597,7 +1597,7 @@
     {
         "name": "Thorn",
         "type": "consumable",
-        "img": "images/fiends/Thorn.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1610,7 +1610,7 @@
     {
         "name": "Thorn Complete",
         "type": "toggle",
-        "img": "images/fiends/Thorn.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1621,7 +1621,7 @@
     {
         "name": "Valaha",
         "type": "consumable",
-        "img": "images/fiends/Valaha.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1634,7 +1634,7 @@
     {
         "name": "Valaha Complete",
         "type": "toggle",
-        "img": "images/fiends/Valaha.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1645,7 +1645,7 @@
     {
         "name": "Epaaj",
         "type": "consumable",
-        "img": "images/fiends/Epaaj.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1658,7 +1658,7 @@
     {
         "name": "Epaaj Complete",
         "type": "toggle",
-        "img": "images/fiends/Epaaj.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1669,7 +1669,7 @@
     {
         "name": "Ghost",
         "type": "consumable",
-        "img": "images/fiends/Ghost.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1682,7 +1682,7 @@
     {
         "name": "Ghost Complete",
         "type": "toggle",
-        "img": "images/fiends/Ghost.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1693,7 +1693,7 @@
     {
         "name": "Tonberry",
         "type": "consumable",
-        "img": "images/fiends/Tonberry.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1706,7 +1706,7 @@
     {
         "name": "Tonberry Complete",
         "type": "toggle",
-        "img": "images/fiends/Tonberry.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1718,7 +1718,7 @@
     {
         "name": "Bandersnatch",
         "type": "consumable",
-        "img": "images/fiends/Bandersnatch.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1731,7 +1731,7 @@
     {
         "name": "Bandersnatch Complete",
         "type": "toggle",
-        "img": "images/fiends/Bandersnatch.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1742,7 +1742,7 @@
     {
         "name": "Ahriman",
         "type": "consumable",
-        "img": "images/fiends/Ahriman.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1755,7 +1755,7 @@
     {
         "name": "Ahriman Complete",
         "type": "toggle",
-        "img": "images/fiends/Ahriman.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1766,7 +1766,7 @@
     {
         "name": "Dark Flan",
         "type": "consumable",
-        "img": "images/fiends/Dark Flan.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1779,7 +1779,7 @@
     {
         "name": "Dark Flan Complete",
         "type": "toggle",
-        "img": "images/fiends/Dark Flan.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1790,7 +1790,7 @@
     {
         "name": "Grenade",
         "type": "consumable",
-        "img": "images/fiends/Grenade.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1803,7 +1803,7 @@
     {
         "name": "Grenade Complete",
         "type": "toggle",
-        "img": "images/fiends/Grenade.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1814,7 +1814,7 @@
     {
         "name": "Grat",
         "type": "consumable",
-        "img": "images/fiends/Grat.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1827,7 +1827,7 @@
     {
         "name": "Grat Complete",
         "type": "toggle",
-        "img": "images/fiends/Grat.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1838,7 +1838,7 @@
     {
         "name": "Grendel",
         "type": "consumable",
-        "img": "images/fiends/Grendel.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1851,7 +1851,7 @@
     {
         "name": "Grendel Complete",
         "type": "toggle",
-        "img": "images/fiends/Grendel.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1862,7 +1862,7 @@
     {
         "name": "Bashura",
         "type": "consumable",
-        "img": "images/fiends/Bashura.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1875,7 +1875,7 @@
     {
         "name": "Bashura Complete",
         "type": "toggle",
-        "img": "images/fiends/Bashura.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1886,7 +1886,7 @@
     {
         "name": "Mandragora",
         "type": "consumable",
-        "img": "images/fiends/Mandragora.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1899,7 +1899,7 @@
     {
         "name": "Mandragora Complete",
         "type": "toggle",
-        "img": "images/fiends/Mandragora.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1910,7 +1910,7 @@
     {
         "name": "Behemoth",
         "type": "consumable",
-        "img": "images/fiends/Behemoth.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1923,7 +1923,7 @@
     {
         "name": "Behemoth Complete",
         "type": "toggle",
-        "img": "images/fiends/Behemoth.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1934,7 +1934,7 @@
     {
         "name": "Splasher",
         "type": "consumable",
-        "img": "images/fiends/Splasher.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1947,7 +1947,7 @@
     {
         "name": "Splasher Complete",
         "type": "toggle",
-        "img": "images/fiends/Splasher.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1958,7 +1958,7 @@
     {
         "name": "Achelous",
         "type": "consumable",
-        "img": "images/fiends/Achelous.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1971,7 +1971,7 @@
     {
         "name": "Achelous Complete",
         "type": "toggle",
-        "img": "images/fiends/Achelous.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -1982,7 +1982,7 @@
     {
         "name": "Maelspike",
         "type": "consumable",
-        "img": "images/fiends/Maelspike.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -1995,7 +1995,7 @@
     {
         "name": "Maelspike Complete",
         "type": "toggle",
-        "img": "images/fiends/Maelspike.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2007,7 +2007,7 @@
     {
         "name": "Exoray",
         "type": "consumable",
-        "img": "images/fiends/Exoray.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2020,7 +2020,7 @@
     {
         "name": "Exoray Complete",
         "type": "toggle",
-        "img": "images/fiends/Exoray.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2031,7 +2031,7 @@
     {
         "name": "Wraith",
         "type": "consumable",
-        "img": "images/fiends/Wraith.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2044,7 +2044,7 @@
     {
         "name": "Wraith Complete",
         "type": "toggle",
-        "img": "images/fiends/Wraith.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2055,7 +2055,7 @@
     {
         "name": "Gemini (Sword)",
         "type": "consumable",
-        "img": "images/fiends/Gemini (Sword).png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2068,7 +2068,7 @@
     {
         "name": "Gemini (Sword) Complete",
         "type": "toggle",
-        "img": "images/fiends/Gemini (Sword).png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2079,7 +2079,7 @@
     {
         "name": "Gemini (Club)",
         "type": "consumable",
-        "img": "images/fiends/Gemini (Club).png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2092,7 +2092,7 @@
     {
         "name": "Gemini (Club) Complete",
         "type": "toggle",
-        "img": "images/fiends/Gemini (Club).png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2103,7 +2103,7 @@
     {
         "name": "Demonolith",
         "type": "consumable",
-        "img": "images/fiends/Demonolith.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2116,7 +2116,7 @@
     {
         "name": "Demonolith Complete",
         "type": "toggle",
-        "img": "images/fiends/Demonolith.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2127,7 +2127,7 @@
     {
         "name": "Great Malboro",
         "type": "consumable",
-        "img": "images/fiends/Great Malboro.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2140,7 +2140,7 @@
     {
         "name": "Great Malboro Complete",
         "type": "toggle",
-        "img": "images/fiends/Great Malboro.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2151,7 +2151,7 @@
     {
         "name": "Barbatos",
         "type": "consumable",
-        "img": "images/fiends/Barbatos.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2164,7 +2164,7 @@
     {
         "name": "Barbatos Complete",
         "type": "toggle",
-        "img": "images/fiends/Barbatos.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2175,7 +2175,7 @@
     {
         "name": "Adamantoise",
         "type": "consumable",
-        "img": "images/fiends/Adamantoise.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2188,7 +2188,7 @@
     {
         "name": "Adamantoise Complete",
         "type": "toggle",
-        "img": "images/fiends/Adamantoise.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2199,7 +2199,7 @@
     {
         "name": "Behemoth King",
         "type": "consumable",
-        "img": "images/fiends/Behemoth King.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2212,7 +2212,7 @@
     {
         "name": "Behemoth King Complete",
         "type": "toggle",
-        "img": "images/fiends/Behemoth King.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2224,7 +2224,7 @@
     {
         "name": "Zaurus",
         "type": "consumable",
-        "img": "images/fiends/Zaurus.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2237,7 +2237,7 @@
     {
         "name": "Zaurus Complete",
         "type": "toggle",
-        "img": "images/fiends/Zaurus.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2248,7 +2248,7 @@
     {
         "name": "Floating Death",
         "type": "consumable",
-        "img": "images/fiends/Floating Death.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2261,7 +2261,7 @@
     {
         "name": "Floating Death Complete",
         "type": "toggle",
-        "img": "images/fiends/Floating Death.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2272,7 +2272,7 @@
     {
         "name": "Black Element",
         "type": "consumable",
-        "img": "images/fiends/Black Element.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2285,7 +2285,7 @@
     {
         "name": "Black Element Complete",
         "type": "toggle",
-        "img": "images/fiends/Black Element.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2296,7 +2296,7 @@
     {
         "name": "Halma",
         "type": "consumable",
-        "img": "images/fiends/Halma.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2309,7 +2309,7 @@
     {
         "name": "Halma Complete",
         "type": "toggle",
-        "img": "images/fiends/Halma.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2320,7 +2320,7 @@
     {
         "name": "Puroboros",
         "type": "consumable",
-        "img": "images/fiends/Puroboros.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2333,7 +2333,7 @@
     {
         "name": "Puroboros Complete",
         "type": "toggle",
-        "img": "images/fiends/Puroboros.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2344,7 +2344,7 @@
     {
         "name": "Spirit",
         "type": "consumable",
-        "img": "images/fiends/Spirit.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2357,7 +2357,7 @@
     {
         "name": "Spirit Complete",
         "type": "toggle",
-        "img": "images/fiends/Spirit.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2368,7 +2368,7 @@
     {
         "name": "Machea",
         "type": "consumable",
-        "img": "images/fiends/Machea.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2381,7 +2381,7 @@
     {
         "name": "Machea Complete",
         "type": "toggle",
-        "img": "images/fiends/Machea.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2392,7 +2392,7 @@
     {
         "name": "Master Coeurl",
         "type": "consumable",
-        "img": "images/fiends/Master Coeurl.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2405,7 +2405,7 @@
     {
         "name": "Master Coeurl Complete",
         "type": "toggle",
-        "img": "images/fiends/Master Coeurl.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2416,7 +2416,7 @@
     {
         "name": "Master Tonberry",
         "type": "consumable",
-        "img": "images/fiends/Master Tonberry.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2429,7 +2429,7 @@
     {
         "name": "Master Tonberry Complete",
         "type": "toggle",
-        "img": "images/fiends/Master Tonberry.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2440,7 +2440,7 @@
     {
         "name": "Varuna",
         "type": "consumable",
-        "img": "images/fiends/Varuna.png",
+        "img": "images/Tromell.png",
         "overlay_font_size": 12,
         "overlay_align": "right",
         "capturable": true,
@@ -2453,7 +2453,7 @@
     {
         "name": "Varuna Complete",
         "type": "toggle",
-        "img": "images/fiends/Varuna.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "capturable": true,
@@ -2466,7 +2466,7 @@
     {
         "name": "Stratoavis",
         "type": "toggle",
-        "img": "images/bosses/arena/Stratoavis.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2475,7 +2475,7 @@
     {
         "name": "Malboro Menace",
         "type": "toggle",
-        "img": "images/bosses/arena/Malboro Menace.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2484,7 +2484,7 @@
     {
         "name": "Kottos",
         "type": "toggle",
-        "img": "images/bosses/arena/Kottos.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2493,7 +2493,7 @@
     {
         "name": "Coeurlregina",
         "type": "toggle",
-        "img": "images/bosses/arena/Coeurlregina.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2502,7 +2502,7 @@
     {
         "name": "Jormungand",
         "type": "toggle",
-        "img": "images/bosses/arena/Jormungand.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2511,7 +2511,7 @@
     {
         "name": "Cactuar King",
         "type": "toggle",
-        "img": "images/bosses/arena/Cactuar King.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2520,7 +2520,7 @@
     {
         "name": "Espada",
         "type": "toggle",
-        "img": "images/bosses/arena/Espada.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2529,7 +2529,7 @@
     {
         "name": "Abyss Worm",
         "type": "toggle",
-        "img": "images/bosses/arena/Abyss Worm.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2538,7 +2538,7 @@
     {
         "name": "Chimerageist",
         "type": "toggle",
-        "img": "images/bosses/arena/Chimerageist.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2547,7 +2547,7 @@
     {
         "name": "Don Tonberry",
         "type": "toggle",
-        "img": "images/bosses/arena/Don Tonberry.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2556,7 +2556,7 @@
     {
         "name": "Catoblepas",
         "type": "toggle",
-        "img": "images/bosses/arena/Catoblepas.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2565,7 +2565,7 @@
     {
         "name": "Abaddon",
         "type": "toggle",
-        "img": "images/bosses/arena/Abaddon.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2574,7 +2574,7 @@
     {
         "name": "Vorban",
         "type": "toggle",
-        "img": "images/bosses/arena/Vorban.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2585,7 +2585,7 @@
     {
         "name": "Fenrir",
         "type": "toggle",
-        "img": "images/bosses/arena/Fenrir.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2594,7 +2594,7 @@
     {
         "name": "Ornitholestes",
         "type": "toggle",
-        "img": "images/bosses/arena/Ornitholestes.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2603,7 +2603,7 @@
     {
         "name": "Pteryx",
         "type": "toggle",
-        "img": "images/bosses/arena/Pteryx.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2612,7 +2612,7 @@
     {
         "name": "Hornet",
         "type": "toggle",
-        "img": "images/bosses/arena/Hornet.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2621,7 +2621,7 @@
     {
         "name": "Vidatu",
         "type": "toggle",
-        "img": "images/bosses/arena/Vidatu.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2630,7 +2630,7 @@
     {
         "name": "One-Eye",
         "type": "toggle",
-        "img": "images/bosses/arena/One-Eye.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2639,7 +2639,7 @@
     {
         "name": "Jumbo Flan",
         "type": "toggle",
-        "img": "images/bosses/arena/Jumbo Flan.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2648,7 +2648,7 @@
     {
         "name": "Nega Elemental",
         "type": "toggle",
-        "img": "images/bosses/arena/Nega Elemental.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2657,7 +2657,7 @@
     {
         "name": "Tanket",
         "type": "toggle",
-        "img": "images/bosses/arena/Tanket.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2666,7 +2666,7 @@
     {
         "name": "Fafnir",
         "type": "toggle",
-        "img": "images/bosses/arena/Fafnir.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2675,7 +2675,7 @@
     {
         "name": "Sleep Sprout",
         "type": "toggle",
-        "img": "images/bosses/arena/Sleep Sprout.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2684,7 +2684,7 @@
     {
         "name": "Bomb King",
         "type": "toggle",
-        "img": "images/bosses/arena/Bomb King.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2693,7 +2693,7 @@
     {
         "name": "Juggernaut",
         "type": "toggle",
-        "img": "images/bosses/arena/Juggernaut.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2702,7 +2702,7 @@
     {
         "name": "Ironclad",
         "type": "toggle",
-        "img": "images/bosses/arena/Ironclad.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2713,7 +2713,7 @@
     {
         "name": "Earth Eater",
         "type": "toggle",
-        "img": "images/bosses/arena/Earth Eater.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2722,7 +2722,7 @@
     {
         "name": "Greater Sphere",
         "type": "toggle",
-        "img": "images/bosses/arena/Greater Sphere.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2731,7 +2731,7 @@
     {
         "name": "Catastrophe",
         "type": "toggle",
-        "img": "images/bosses/arena/Catastrophe.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2740,7 +2740,7 @@
     {
         "name": "Th'uban",
         "type": "toggle",
-        "img": "images/bosses/arena/Th'uban.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2749,7 +2749,7 @@
     {
         "name": "Neslug",
         "type": "toggle",
-        "img": "images/bosses/arena/Neslug.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2758,7 +2758,7 @@
     {
         "name": "Ultima Buster",
         "type": "toggle",
-        "img": "images/bosses/arena/Ultima Buster.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2767,7 +2767,7 @@
     {
         "name": "Shinryu",
         "type": "toggle",
-        "img": "images/bosses/arena/Shinryu.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,
@@ -2776,7 +2776,7 @@
     {
         "name": "Nemesis",
         "type": "toggle",
-        "img": "images/bosses/arena/Nemesis.png",
+        "img": "images/Tromell.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "",
         "initial_active_state": false,

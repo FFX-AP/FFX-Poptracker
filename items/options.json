@@ -7,28 +7,28 @@
         "stages": [
             {
                 "name": "None",
-                "img": "images/items/hd/Support_use_item_HD.png",
+                "img": "images/Tromell.png",
                 "img_mods": "@disabled",
                 "codes": "goalnone"
             },
             {
                 "name": "Party Members",
-                "img": "images/party/characters/Tidus Portrait.png",
+                "img": "images/Tromell.png",
                 "codes": "goalpartymembers"
             },
             {
                 "name": "Pilgrimage",
-                "img": "images/spheres/hd/Purple_Sphere_HD.png",
+                "img": "images/Tromell.png",
                 "codes": "goalpilgrimage"
             },
             {
                 "name": "Party Members And Aeons",
-                "img": "images/party/aeons/Valefor.png",
+                "img": "images/Tromell.png",
                 "codes": "goalpartymembersandaeons"
             },
             {
                 "name": "Nemesis",
-                "img": "images/bosses/arena/Nemesis.png",
+                "img": "images/Tromell.png",
                 "codes": "goalnemesis"
             }
         ]
@@ -36,7 +36,7 @@
     {
         "name": "Required Party Members",
         "type": "consumable",
-        "img": "images/items/hd/Support_use_item_HD.png",
+        "img": "images/Tromell.png",
         "min_quantity": 0,
         "max_quantity": 16,
         "increment": 1,
@@ -46,7 +46,7 @@
     {
         "name": "Required Al Bhed Primers",
         "type": "consumable",
-        "img": "images/items/Al Bhed Primer.png",
+        "img": "images/Tromell.png",
         "min_quantity": 0,
         "max_quantity": 26,
         "increment": 1,
@@ -62,23 +62,23 @@
         "stages": [
             {
                 "name": "No Blitzball",
-                "img": "images/minigames/Blitzball.png",
+                "img": "images/Tromell.png",
                 "img_mods": "@disabled",
                 "codes": "noblitzball"
             },
             {
                 "name": "Story Blitzball",
-                "img": "images/minigames/Blitzball.png",
+                "img": "images/Tromell.png",
                 "codes": "storymodeblitzball"
             },
             {
                 "name": "Up to World Champion",
-                "img": "images/minigames/Blitzball.png",
+                "img": "images/Tromell.png",
                 "codes": "storymodeblitzball, worldchampminigame"
             },
             {
                 "name": "Up to Jupiter Sigil",
-                "img": "images/minigames/Blitzball.png",
+                "img": "images/Tromell.png",
                 "codes": "storymodeblitzball, worldchampminigame, jupitersigilminigame"
             }
         ]
@@ -86,7 +86,7 @@
     {
         "name": "Butterfly Minigame",
         "type": "toggle",
-        "img": "images/minigames/Butterfly.png",
+        "img": "images/Tromell.png",
         "initial_active_state": false,
         "codes": "minigamebutterfly"
     },
@@ -99,43 +99,43 @@
         "stages": [
             {
                 "name": "No Lightning Dodging",
-                "img": "images/minigames/Lightning.png",
+                "img": "images/Tromell.png",
                 "img_mods": "@disabled",
                 "codes": "nolightningdodging"
             },
             {
                 "name": "Up to 5 Lightning Dodges",
-                "img": "images/minigames/Lightning.png",
+                "img": "images/Tromell.png",
                 "codes": "5lightningdodging"
             },
             {
                 "name": "Up to 10 Lightning Dodges",
-                "img": "images/minigames/Lightning.png",
+                "img": "images/Tromell.png",
                 "codes": "5lightningdodging, 10lightningdodging"
             },
             {
                 "name": "Up to 20 Lightning Dodges",
-                "img": "images/minigames/Lightning.png",
+                "img": "images/Tromell.png",
                 "codes": "5lightningdodging, 10lightningdodging, 20lightningdodging"
             },
             {
                 "name": "Up to 50 Lightning Dodges",
-                "img": "images/minigames/Lightning.png",
+                "img": "images/Tromell.png",
                 "codes": "5lightningdodging, 10lightningdodging, 20lightningdodging, 50lightningdodging"
             },
             {
                 "name": "Up to 100 Lightning Dodges",
-                "img": "images/minigames/Lightning.png",
+                "img": "images/Tromell.png",
                 "codes": "5lightningdodging, 10lightningdodging, 20lightningdodging, 50lightningdodging, 100lightningdodging"
             },
             {
                 "name": "Up to 150 Lightning Dodges",
-                "img": "images/minigames/Lightning.png",
+                "img": "images/Tromell.png",
                 "codes": "5lightningdodging, 10lightningdodging, 20lightningdodging, 50lightningdodging, 100lightningdodging, 150lightningdodging"
             },
             {
                 "name": "Up to 200 Lightning Dodges",
-                "img": "images/minigames/Lightning.png",
+                "img": "images/Tromell.png",
                 "codes": "5lightningdodging, 10lightningdodging, 20lightningdodging, 50lightningdodging, 100lightningdodging, 150lightningdodging, 200lightningdodging"
             }
         ]
@@ -144,7 +144,7 @@
     {
         "name": "Cactuar Village Minigame",
         "type": "toggle",
-        "img": "images/minigames/Cactuar.png",
+        "img": "images/Tromell.png",
         "initial_active_state": false,
         "codes": "minigamecactuar"
     },
@@ -157,33 +157,33 @@
         "stages": [
             {
                 "name": "No Chocobo Training",
-                "img": "images/minigames/Red Chocobo.png",
+                "img": "images/Tromell.png",
                 "img_mods": "@disabled",
                 "codes": "nochocobotraining"
             },
             {
                 "name": "Up to Wobbly Chocobo",
-                "img": "images/minigames/Red Chocobo.png",
+                "img": "images/Tromell.png",
                 "codes": "wobblyminigame"
             },
             {
                 "name": "Up to Dodger Chocobo",
-                "img": "images/minigames/Red Chocobo.png",
+                "img": "images/Tromell.png",
                 "codes": "wobblyminigame, dodgerminigame"
             },
             {
                 "name": "Up to Hyper Dodger Chocobo",
-                "img": "images/minigames/Red Chocobo.png",
+                "img": "images/Tromell.png",
                 "codes": "wobblyminigame, dodgerminigame, hyperdodgerminigame"
             },
             {
                 "name": "Up to Catcher Chocobo",
-                "img": "images/minigames/Red Chocobo.png",
+                "img": "images/Tromell.png",
                 "codes": "wobblyminigame, dodgerminigame, hyperdodgerminigame, catcherminigame"
             },
             {
                 "name": "Up to Sun Sigil",
-                "img": "images/minigames/Red Chocobo.png",
+                "img": "images/Tromell.png",
                 "codes": "wobblyminigame, dodgerminigame, hyperdodgerminigame, catcherminigame, sunsigilminigame"
             }
         ]
@@ -197,38 +197,38 @@
         "stages": [
             {
                 "name": "No Chocobo Race",
-                "img": "images/minigames/Chocobo.png",
+                "img": "images/Tromell.png",
                 "img_mods": "@disabled",
                 "codes": "nochocoborace"
             },
             {
                 "name": "No Chests",
-                "img": "images/minigames/Chocobo.png",
+                "img": "images/Tromell.png",
                 "codes": "nochestchocoborace"
             },
             {
                 "name": "Up to 1 Chest",
-                "img": "images/minigames/Chocobo.png",
+                "img": "images/Tromell.png",
                 "codes": "nochestchocoborace, 1chestchocoborace"
             },
             {
                 "name": "Up to 2 Chests",
-                "img": "images/minigames/Chocobo.png",
+                "img": "images/Tromell.png",
                 "codes": "nochestchocoborace, 1chestchocoborace, 2chestchocoborace"
             },
             {
                 "name": "Up to 3 Chests",
-                "img": "images/minigames/Chocobo.png",
+                "img": "images/Tromell.png",
                 "codes": "nochestchocoborace, 1chestchocoborace, 2chestchocoborace, 3chestchocoborace"
             },
             {
                 "name": "Up to 4 Chests",
-                "img": "images/minigames/Chocobo.png",
+                "img": "images/Tromell.png",
                 "codes": "nochestchocoborace, 1chestchocoborace, 2chestchocoborace, 3chestchocoborace, 4chestchocoborace"
             },
             {
                 "name": "Up to 5 Chests",
-                "img": "images/minigames/Chocobo.png",
+                "img": "images/Tromell.png",
                 "codes": "nochestchocoborace, 1chestchocoborace, 2chestchocoborace, 3chestchocoborace, 4chestchocoborace, 5chestchocoborace"
             }
         ]
@@ -236,25 +236,25 @@
     {
         "name": "Recruit Sanity",
         "type": "progressive",
-        "img": "images/items/hd/Blitzball.png",
+        "img": "images/Tromell.png",
         "allow_disabled": false,
         "codes": "recruitsanity",
         "initial_stage_idx": 0,
         "stages": [
             {
                 "name": "No Recruits",
-                "img": "images/items/hd/Blitzball.png",
+                "img": "images/Tromell.png",
                 "img_mods": "@disabled",
                 "codes": "recruitsanitynone"
             },
             {
                 "name": "Free Agents",
-                "img": "images/items/hd/Blitzball.png",
+                "img": "images/Tromell.png",
                 "codes": "recruitsanityfree"
             },
             {
                 "name": "All Recruits",
-                "img": "images/items/hd/Blitzball.png",
+                "img": "images/Tromell.png",
                 "codes": "recruitsanityfree, recruitsanityall"
             }
         ]
@@ -262,7 +262,7 @@
     {
         "name": "Capture Sanity",
         "type": "toggle",
-        "img": "images/items/hd/Battle_Item_HD.png",
+        "img": "images/Tromell.png",
         "initial_active_state": false,
         "codes": "capturesanity"
     },
@@ -275,23 +275,23 @@
         "stages": [
             {
                 "name": "Capture Rewards",
-                "img": "images/items/hd/Battle_Item_MOAR.png",
+                "img": "images/Tromell.png",
                 "img_mods": "@disabled",
                 "codes": "capturerewardsnone"
             },
             {
                 "name": "Area Conquest Rewards",
-                "img": "images/items/hd/Battle_Item_MOAR.png",
+                "img": "images/Tromell.png",
                 "codes": "capturerewardsarea"
             },
             {
                 "name": "Area & Species Conquest Rewards",
-                "img": "images/items/hd/Battle_Item_MOAR.png",
+                "img": "images/Tromell.png",
                 "codes": "capturerewardsarea, capturerewardsspecies"
             },
             {
                 "name": "Area, Species & Original Creations Rewards",
-                "img": "images/items/hd/Battle_Item_MOAR.png",
+                "img": "images/Tromell.png",
                 "codes": "capturerewardsarea, capturerewardsspecies, capturerewardsoriginal"
             }
         ]
@@ -305,23 +305,23 @@
         "stages": [
             {
                 "name": "Arena Bosses",
-                "img": "images/items/hd/Battle_Item_HD.png",
+                "img": "images/Tromell.png",
                 "img_mods": "@disabled",
                 "codes": "creationbossesnone"
             },
             {
                 "name": "Area Conquest Bosses",
-                "img": "images/items/hd/Battle_Item_HD.png",
+                "img": "images/Tromell.png",
                 "codes": "creationbossesarea"
             },
             {
                 "name": "Area & Species Conquest Bosses",
-                "img": "images/items/hd/Battle_Item_HD.png",
+                "img": "images/Tromell.png",
                 "codes": "creationbossesarea, creationbossesspecies"
             },
             {
                 "name": "Area, Species & Original Creations Bosses",
-                "img": "images/items/hd/Battle_Item_HD.png",
+                "img": "images/Tromell.png",
                 "codes": "creationbossesarea, creationbossesspecies, creationbossesoriginal"
             }
         ]    
@@ -329,14 +329,14 @@
     {
         "name": "Super Bosses",
         "type": "toggle",
-        "img": "images/items/hd/Crossed Swords.png",
+        "img": "images/Tromell.png",
         "initial_active_state": false,
         "codes": "superbosses"
     },
     {
         "name": "Logic Difficulty",
         "type": "consumable",
-        "img": "images/items/hd/Support_use_item_HD.png",
+        "img": "images/Tromell.png",
         "min_quantity": 1,
         "max_quantity": 10,
         "increment": 1,
@@ -346,21 +346,21 @@
     {
         "name": "Auto Tab",
         "type": "toggle",
-        "img": "images/settings/Tab.png",
+        "img": "images/Tromell.png",
         "initial_active_state": true,
         "codes": "autotab"
     },
     {
         "name": "Always Capture",
         "type": "toggle",
-        "img": "images/items/hd/Battle_Item_HD.png",
+        "img": "images/Tromell.png",
         "initial_active_state": false,
         "codes": "alwayscapture"
     },
     {
         "name": "Jecht's Spheres",
         "type": "toggle",
-        "img": "images/items/Movie Sphere.png",
+        "img": "images/Tromell.png",
         "initial_active_state": false,
         "codes": "jechtspheres"
     }

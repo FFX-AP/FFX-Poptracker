@@ -2,9 +2,9 @@
     {
         "name": "Region: Baaj Temple",
         "type": "toggle",
-        "img": "images/region/Baaj.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "baajtemple"
@@ -12,9 +12,9 @@
     {
         "name": "Region: Besaid",
         "type": "toggle",
-        "img": "images/region/Besaid.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "besaid"
@@ -22,9 +22,9 @@
     {
         "name": "Region: Kilika",
         "type": "toggle",
-        "img": "images/region/Kilika.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "kilika"
@@ -32,9 +32,9 @@
     {
         "name": "Region: Luca",
         "type": "toggle",
-        "img": "images/region/Luca.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "luca"
@@ -42,9 +42,9 @@
     {
         "name": "Region: Miihen Highroad",
         "type": "toggle",
-        "img": "images/region/Mi'ihen.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "miihenhighroad"
@@ -52,9 +52,9 @@
     {
         "name": "Region: Mushroom Rock Road",
         "type": "toggle",
-        "img": "images/region/MushroomRockRoad.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mushroomrockroad"
@@ -62,9 +62,9 @@
     {
         "name": "Region: Djose",
         "type": "toggle",
-        "img": "images/region/Djose.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "djose"
@@ -72,9 +72,9 @@
     {
         "name": "Region: Moonflow",
         "type": "toggle",
-        "img": "images/region/Moonflow.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "moonflow"
@@ -82,9 +82,9 @@
     {
         "name": "Region: Guadosalam",
         "type": "toggle",
-        "img": "images/region/Guadosalam.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "guadosalam"
@@ -92,9 +92,9 @@
     {
         "name": "Region: Thunder Plains",
         "type": "toggle",
-        "img": "images/region/ThunderPlains.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "thunderplains"
@@ -102,9 +102,9 @@
     {
         "name": "Region: Macalania",
         "type": "toggle",
-        "img": "images/region/Macalania.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "macalania"
@@ -112,9 +112,9 @@
     {
         "name": "Region: Bikanel",
         "type": "toggle",
-        "img": "images/region/Bikanel.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "bikanel"
@@ -122,9 +122,9 @@
     {
         "name": "Region: Airship",
         "type": "toggle",
-        "img": "images/region/Airship.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "airship"
@@ -132,9 +132,9 @@
     {
         "name": "Region: Bevelle",
         "type": "toggle",
-        "img": "images/region/Bevelle.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "bevelle"
@@ -142,9 +142,9 @@
     {
         "name": "Region: Calm Lands",
         "type": "toggle",
-        "img": "images/region/CalmLands.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "calmlands"
@@ -152,9 +152,9 @@
     {
         "name": "Region: Cavern of the Stolen Fayth",
         "type": "toggle",
-        "img": "images/region/CavernOfTheStolenFayth.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "cavernofthestolenfayth"
@@ -162,9 +162,9 @@
     {
         "name": "Region: Mt. Gagazet",
         "type": "toggle",
-        "img": "images/region/Gagazet.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "gagazet"
@@ -172,9 +172,9 @@
     {
         "name": "Region: Zanarkand Ruins",
         "type": "toggle",
-        "img": "images/region/Zanarkand.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "zanarkand"
@@ -182,9 +182,9 @@
     {
         "name": "Region: Sin",
         "type": "toggle",
-        "img": "images/region/Sin.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sin"
@@ -192,9 +192,9 @@
     {
         "name": "Region: Omega Ruins",
         "type": "toggle",
-        "img": "images/region/Omega.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "omegaruins"
@@ -202,9 +202,9 @@
     {
         "name": "Region: Monster Arena",
         "type": "toggle",
-        "img": "images/region/MonsterArena.png",
+        "img": "images/Tromell.png",
         "img_mods": "",
-        "disabled_img": "",
+        "disabled_img": "images/Tromell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "monsterarena"
