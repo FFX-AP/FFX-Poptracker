@@ -2,8 +2,8 @@
     "versions": [
         {
             "package_version": "0.7.0",
-            "download_url": "",
-            "sha256": "",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.7.0/FFX.zip",
+            "sha256": "58e6f73288e7bc8e5fe07c55d8e83710876ae7344b55fdf62923d50dfc3eeffb",
             "changelog": [
                 " - New Additions",
                 " - - Added Overdrive locations",
