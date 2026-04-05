@@ -7,7 +7,7 @@
         "access_rules": ["^$CheckAccessLevel|omegaruins"],
         "children": [
             {
-                "name": "Ulitma",
+                "name": "Ultima",
                 "children": [
                     {
                         "name": "Press Both Glyphs, Then Take Narrow Central Path (Chest)",

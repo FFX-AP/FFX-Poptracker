@@ -1,6 +1,41 @@
 {
     "versions": [
         {
+            "package_version": "0.7.0",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.7.0/FFX.zip",
+            "sha256": "58e6f73288e7bc8e5fe07c55d8e83710876ae7344b55fdf62923d50dfc3eeffb",
+            "changelog": [
+                " - New Additions",
+                " - - Added Overdrive locations",
+                " - - Added Broadcast Popout",
+                " - - Added Pilgrimage Goal tracker to Layout",
+                " - Map Updates",
+                " - - Updated World map",
+                " - - Split Omega Ruins map to be pre/post Ultima",
+                " - Options Updates",
+                " - - Added Ronso Rages overdrive option",
+                " - - Added granular Swordplay overdrive option",
+                " - Logic and Location Updates",
+                " - - Fixed Mars Sigil logic",
+                " - - Updated access rules for Macalania Campsite"
+            ]
+        },
+        {
+            "package_version": "0.6.1",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.6.1/FFX.zip",
+            "sha256": "50bffa0837715ee9504e7589ea17c420f940065f838619664040b3e9cf69ecb4",
+            "changelog": [
+                " - New Additions",
+                " - - In Soviet Russia, Tromell Burns YOU and Boils YOU (it matters not)",
+                " - - The Guado take care of Guado affairs.",
+                " - - Lord Seymour! What happened here?!",
+                " - - Y-You did this?!",
+                " - - No, stop! Stay away from him, traitors!",
+                " - - Lady Yuna, we've been expecting you. We were surprised you decided to come so soon. Pleasantly surprised, of course.",
+                " - - April Fools!"
+            ]
+        },
+        {
             "package_version": "0.6.0",
             "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.6.0/FFX.zip",
             "sha256": "3afea9d7001e23c54d453c3d896b22d38d1d666847dc671139edad9bfd6f8147",
