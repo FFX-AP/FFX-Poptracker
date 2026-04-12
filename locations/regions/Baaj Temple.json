@@ -85,7 +85,6 @@
                     },
                     {
                         "name": "Underwater Hall - South Side Hidden Under Rocks (Chest)",
-                        "access_rules": ["geosgaeno, [$hasSwimmers|3]"],
                         "map_locations": [{ "map": "Baaj Temple", "x": 700, "y": 860}],
                         "sections": [
                             {
