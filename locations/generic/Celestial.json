@@ -73,7 +73,7 @@
                 "sections": [
                     {
                         "name": "Onion Knight",
-                        "access_rules": ["@Baaj Temple/Temple, geosgaeno, progressivemirrors:2"]
+                        "access_rules": ["@Baaj Temple/Temple, geosgaeno, progressivemirrors:2, [$hasSwimmers|3]"]
                     },
                     {
                         "name": "Venus Crest",
