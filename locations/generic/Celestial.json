@@ -262,7 +262,18 @@
                         "name": "Progressive Mirror"
                     }
                 ]
-            }            
+            },
+            {
+                "name": "Seymour",
+                "chest_unopened_img": "/images/party/weapon/Seymour Staff.png",
+                "chest_opened_img": "/images/party/weapon/Staff_BW.png",
+                "chest_opened_img_mods": "@disabled",
+                "children": [
+                    {
+                        "name": "Seymour Celestial Name"
+                    }
+                ]
+            }
         ]
     }
 ]

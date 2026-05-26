@@ -340,6 +340,26 @@
         "initial_active_state": false,
         "codes": "bfa"
     },
+    {
+        "name": "Yuna's Aeons",
+        "type": "toggle",
+        "img": "images/bosses/Dark Valefor.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "contest"
+    },
+    {
+        "name": "Yu Yevon",
+        "type": "toggle",
+        "img": "images/bosses/Yu Yevon.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "yuyevon"
+    },
     
     //Super Bosses
     {

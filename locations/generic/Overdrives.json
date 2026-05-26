@@ -141,7 +141,7 @@
                     },
                     {
                         "name": "Use Lancet to Learn Nova",
-                        "visibility_rules": ["superbosses", "creationbossesoriginal"],
+                        "visibility_rules": ["superbossesomega", "superbossesdarkaeons", "creationbossesoriginal"],
                         "access_rules": ["$hasKimahri"],
                         "sections": [
                             {"name": "OMGR Nova", "access_rules": ["@Omega Ruins/Defeat Omega Weapon (Superboss), ultimaweapon, [$hasMinimumParty|3]"], "hosted_item": "ronsoragenova", "clear_as_group": true},

@@ -93,13 +93,24 @@
                         "sections": [{"name": "Laevatein"}]
                     },
                     {
-                        "name": "Defeat Braska's Final Aeon (Boss)",
+                        "name": "Dream's End",
                         "map_locations": [{ "map": "Inside Sin", "x": 761, "y": 66, "shape": "trapezoid", "size": 24}],
                         "access_rules": ["^$CheckGoalRequirement"],
                         "sections": [
                             {
-                                "name": "Braska's Final Aeon",
+                                "name": "Defeat Braska's Final Aeon (Boss)",
                                 "hosted_item": "bfa",
+                                "clear_as_group": true
+                            },
+                            {
+                                "name": "Defeat Yuna's Aeons (Boss)",
+                                "visibility_rules": ["skipcontestofaeons"],
+                                "hosted_item": "contest",
+                                "clear_as_group": true
+                            },
+                            {
+                                "name": "Defeat Yu Yevon (Boss)",
+                                "hosted_item": "yuyevon",
                                 "clear_as_group": true
                             }
                         ]

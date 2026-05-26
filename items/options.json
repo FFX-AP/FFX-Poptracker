@@ -1,5 +1,23 @@
 [
     {
+        "name": "Goal",
+        "type": "progressive",
+        "allow_disabled": false,
+        "codes": "goal",
+        "stages": [
+            {
+                "name": "Yu Yevon",
+                "img": "images/bosses/Yu Yevon.png",
+                "codes": "goalyuyevon"
+            },
+            {
+                "name": "Nemesis",
+                "img": "images/bosses/arena/Nemesis.png",
+                "codes": "nemesisgoal"
+            }
+        ]
+    },
+    {
         "name": "Goal Requirement",
         "type": "progressive",
         "allow_disabled": false,
@@ -342,6 +360,38 @@
         ]    
     },
     {
+        "name": "Super Bosses",
+        "type": "progressive",
+        "allow_disabled": false,
+        "codes": "superbosses",
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "name": "No Superbosses",
+                "img": "images/items/hd/Crossed Swords.png",
+                "img_mods": "@disabled",
+                "codes": "superbossesnone"
+            },
+            {
+                "name": "Up to Omega",
+                "img": "images/bosses/Omega Weapon.png",
+                "codes": "superbossesomega"
+            },
+            {
+                "name": "Up to Dark Aeons",
+                "img": "images/bosses/Dark Valefor.png",
+                "codes": "superbossesdarkaeons"
+            }
+        ]
+    },
+    {
+        "name": "Skip Contest of Aeons",
+        "type": "toggle",
+        "img": "images/bosses/Dark Valefor.png",
+        "initial_active_state": false,
+        "codes": "skipcontestofaeons"
+    },
+    {
         "name": "Tidus's Overdrives",
         "type": "progressive",
         "allow_disabled": false,
@@ -377,13 +427,6 @@
         "img": "images/Overdrives/Overdrive Kimahri.png",
         "initial_active_state": false,
         "codes": "ronsorages"
-    },
-    {
-        "name": "Super Bosses",
-        "type": "toggle",
-        "img": "images/items/hd/Crossed Swords.png",
-        "initial_active_state": false,
-        "codes": "superbosses"
     },
     {
         "name": "Logic Difficulty",
