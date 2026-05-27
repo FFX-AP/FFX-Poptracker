@@ -8447,7 +8447,7 @@
         "codes": "progressivespiritlance"
     },
     {
-        "name": "Progressive Seymour Celestial",
+        "name": "Progressive Dimittis",
         "type": "consumable",
         "img": "images/party/weapon/Seymour Staff.png",
         "img_mods": "",
@@ -8458,7 +8458,7 @@
         "increment": 1,
         "initial_quantity": 0,
         "overlay_align": "right",
-        "codes": "progressiveseymourcelestial"
+        "codes": "progressivedimittis"
     },
     {
         "name": "Mana Distiller x 50",
