@@ -227,7 +227,7 @@ function applySlotData(slot_data)
         Tracker:FindObjectForCode("skipcontestofaeons").Active = slot_data["skip_contest_of_aeons"]
     end
     if (slot_data["required_primers"] ~= nil) then
-        Tracker:FindObjectFoCode("requiredprimers").AcquiredCount = slot_data["required_primers"]    
+        Tracker:FindObjectForCode("requiredprimers").AcquiredCount = slot_data["required_primers"]    
     end
     if (slot_data["capture_sanity"] ~= nil) then
         Tracker:FindObjectForCode("capturesanity").Active = slot_data["capture_sanity"]

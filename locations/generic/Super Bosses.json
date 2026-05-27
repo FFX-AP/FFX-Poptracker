@@ -9,7 +9,7 @@
             {
                 "name": "Omega Weapon",
                 "access_rules": ["@Omega Ruins, ultimaweapon, [$hasMinimumParty|3]"],
-                "visibility_rules": ["superbossesomega", "superbossesdarkaeons"],
+                "visibility_rules": ["superbossesomega"],
                 "hosted_item": "omegaweapon",
                 "clear_as_group": true
             },

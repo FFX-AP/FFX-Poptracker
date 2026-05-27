@@ -68,14 +68,14 @@
                     {
                         "name": "Defeat Omega Weapon (Superboss)",
                         "map_locations": [{ "map": "Omega Ruins", "x": 380, "y": 408, "shape": "trapezoid", "size": 32}],
-                        "visibility_rules": ["superbossesomega", "superbossesdarkaeons"],
+                        "visibility_rules": ["superbossesomega"],
                         "sections": [{"name": "Omega Weapon", "ref": "Super Bosses/Omega Weapon"}]
                     },
                     {
                         "name": "Omega Boss Arena (Chest)",
                         "map_locations": [{ "map": "Omega Ruins", "x": 345, "y": 408}],
                         "access_rules": ["omegaweapon, [$hasMinimumParty|3]"],
-                        "visibility_rules": ["superbossesomega", "superbossesdarkaeons"],
+                        "visibility_rules": ["superbossesomega"],
                         "sections": [{"name": "Magic Sphere x1"}]
                     },
                     {
@@ -152,7 +152,7 @@
                 "name": "Captures Post-Omega Weapon",
                 "map_locations": [{ "map": "Omega Ruins", "x": 220, "y": 365}],
                 "access_rules": ["@Inside Sin", "@Omega Ruins, omegaweapon, [$hasMinimumParty|3]"],
-                "visibility_rules": ["capturesanity, superbossesomega", "capturesanity, superbossesdarkaeons"],
+                "visibility_rules": ["capturesanity, superbossesomega"],
                 "sections": [
                     {   
                         "name": "Gemini (Sword) (10x Iron Giant)",
@@ -170,7 +170,7 @@
                 "name": "Capture Logic Post-Omega Weapon",
                 "map_locations": [{ "map": "Omega Ruins", "x": 250, "y": 365, "shape": "diamond"}],
                 "access_rules": ["@Inside Sin", "@Omega Ruins, omegaweapon, [$hasMinimumParty|3]"],
-                "visibility_rules": ["capturesanity, superbossesomega", "capturesanity, superbossesdarkaeons"],
+                "visibility_rules": ["capturesanity, superbossesomega"],
                 "sections": [ 
                     {   
                         "name": "Gemini (Sword)",
