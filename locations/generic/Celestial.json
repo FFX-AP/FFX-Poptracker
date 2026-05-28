@@ -275,7 +275,7 @@
                     },
                     {
                         "name": "Neptune Crest",
-                        "access_rules": ["@Macalania/Lake, [$hasMinimumParty|3]"]
+                        "access_rules": ["@Macalania/Lake, crawler, [$hasMinimumParty|3]"]
                     },
                     {
                         "name": "Neptune Sigil",
