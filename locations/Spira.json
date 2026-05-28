@@ -2563,7 +2563,15 @@
                     },
                     {
                         "name": "Defeat Braska's Final Aeon (Boss)",
-                        "ref": "Inside Sin/City of Dying Dreams/Defeat Braska's Final Aeon (Boss)/Braska's Final Aeon"
+                        "ref": "Inside Sin/City of Dying Dreams/Dream's End/Defeat Braska's Final Aeon (Boss)"
+                    },
+                    {
+                        "name": "Defeat Yuna's Aeons (Boss)",
+                        "ref": "Inside Sin/City of Dying Dreams/Dream's End/Defeat Yuna's Aeons (Boss)"
+                    },
+                    {
+                        "name": "Defeat Yu Yevon (Boss)",
+                        "ref": "Inside Sin/City of Dying Dreams/Dream's End/Defeat Yu Yevon (Boss)"
                     }
                 ]
             },
