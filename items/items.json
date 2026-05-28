@@ -8449,7 +8449,7 @@
     {
         "name": "Progressive Dimittis",
         "type": "consumable",
-        "img": "images/party/weapon/Seymour Staff.png",
+        "img": "images/party/weapon/Dimittis.png",
         "img_mods": "",
         "disabled_img_mods": "@disabled",
         "overlay_background": "#000000",

@@ -280,6 +280,10 @@ function hasMinimumParty(quantity)
         counter = counter + 1
     end
 
+    if hasSeymour() then
+        counter = counter + 1
+    end
+
     if counter >= quantity then
         return true
     else
@@ -288,7 +292,7 @@ function hasMinimumParty(quantity)
 end
 
 function hasRanged()
-    if hasWakka() or hasLulu() then
+    if hasWakka() or hasLulu() or hasSeymour() then
         return true
     elseif hasYuna() then
         local ranged_aeons = {
