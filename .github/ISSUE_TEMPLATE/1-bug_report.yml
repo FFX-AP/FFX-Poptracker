@@ -10,4 +10,4 @@ body:
       label: What happened?
       description: In as much detail, what failed, and what steps were taken to cause this?
     validations:
-      required: true
+      required: false

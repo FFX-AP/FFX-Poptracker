@@ -10,4 +10,4 @@ body:
       label: Enhancement
       description: In as much detail, what is the requested enhancement, and how would this improve the player experience?
     validations:
-      required: true
+      required: false

@@ -10,4 +10,4 @@ body:
       label: Maintenance
       description: What maintenance tasks are being performed, and why?
     validations:
-      required: true
+      required: false
