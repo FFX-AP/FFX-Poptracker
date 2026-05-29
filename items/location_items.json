@@ -1388,6 +1388,26 @@
         "codes": "worldchampionsigil"
     },
     {
+        "name": "Dimittis - Crest Upgrade",
+        "type": "toggle",
+        "img": "images/party/weapon/Dimittis.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "dimittiscrest"
+    },
+    {
+        "name": "Dimittis - Sigil Upgrade",
+        "type": "toggle",
+        "img": "images/party/weapon/Dimittis.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "dimittissigil"
+    },
+    {
         "name": "Progressive Mirror",
         "type": "toggle",
         "img": "images/items/Celestial Mirror.png",

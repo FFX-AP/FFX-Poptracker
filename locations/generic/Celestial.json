@@ -284,13 +284,13 @@
                     {
                         "name": "Dimittis Crest Upgrade",
                         "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, neptunecrest, $hasDimittis"],
-                        "hosted_item": "neptunecrest",
+                        "hosted_item": "dimittiscrest",
                         "clear_as_group": true
                     },
                     {
                         "name": "Dimittis Sigil Upgrade",
                         "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, neptunecrest, neptunesigil, $hasDimittis"],
-                        "hosted_item": "neptunesigil",
+                        "hosted_item": "dimittissigil",
                         "clear_as_group": true
                     }
                 ]
