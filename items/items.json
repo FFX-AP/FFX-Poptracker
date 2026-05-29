@@ -11716,5 +11716,14 @@
         "overlay_font_size": 15,
         "overlay_align": "right",
         "codes": "tidusoverdrivecounter"
+    },
+    {
+        "name": "Progressive Empty Space",
+        "type": "toggle",
+        "img": "images/progressiveemptyspace.png",
+        "img_mods": "",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "codes": "progressiveemptyspace"
     }
 ]
