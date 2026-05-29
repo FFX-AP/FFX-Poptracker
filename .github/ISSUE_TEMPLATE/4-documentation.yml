@@ -10,4 +10,4 @@ body:
       label: Documentation
       description: What documentation needs to be updated, and what needs to be edited therein?
     validations:
-      required: true
+      required: false
