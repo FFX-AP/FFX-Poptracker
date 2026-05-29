@@ -74,6 +74,15 @@
                             },
                             {
                                 "type": "group",
+                                "header": "Celestial Weapons",
+                                "dock": "top",
+                                "content": {
+                                    "type": "layout",
+                                    "key": "celestial_weapons_horizontal"
+                                }
+                            },
+                            {
+                                "type": "group",
                                 "header": "Overdrives",
                                 "dock": "top",
                                 "content": {

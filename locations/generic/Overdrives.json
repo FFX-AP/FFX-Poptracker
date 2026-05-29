@@ -141,10 +141,10 @@
                     },
                     {
                         "name": "Use Lancet to Learn Nova",
-                        "visibility_rules": ["superbosses", "creationbossesoriginal"],
+                        "visibility_rules": ["superbossesomega", "creationbossesoriginal"],
                         "access_rules": ["$hasKimahri"],
                         "sections": [
-                            {"name": "OMGR Nova", "access_rules": ["@Omega Ruins/Defeat Omega Weapon (Superboss), ultimaweapon, [$hasMinimumParty|3]"], "hosted_item": "ronsoragenova", "clear_as_group": true},
+                            {"name": "OMGR Nova", "access_rules": ["@Omega Ruins/Omega/Defeat Omega Weapon (Superboss), ultimaweapon, [$hasMinimumParty|3]"], "hosted_item": "ronsoragenova", "clear_as_group": true},
                             {"name": "MOAR Nova", "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations, [$hasMinimumParty|3]"], "hosted_item": "ronsoragenova", "clear_as_group": true}
                         ]
                     }

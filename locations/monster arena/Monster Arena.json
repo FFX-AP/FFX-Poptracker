@@ -1780,7 +1780,7 @@
                             },
                             {
                                 "name": "Nemesis",
-                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations"],
+                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations, ^$CheckGoalRequirement"],
                                 "hosted_item": "nemesis",
                                 "clear_as_group": true
                             }

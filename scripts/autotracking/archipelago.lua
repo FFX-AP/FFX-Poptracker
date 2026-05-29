@@ -97,6 +97,13 @@ function applySlotData(slot_data)
         Tracker:FindObjectForCode("goalrequirement").CurrentStage = 4
     end
 
+    local goal = slot_data["goal"]
+    if (goal == 0) then
+        Tracker:FindObjectForCode("goal").CurrentStage = 0
+    elseif (goal == 1) then
+        Tracker:FindObjectForCode("goal").CurrentStage = 1
+    end
+
     local creation_rewards = slot_data["creation_rewards"]
     if (creation_rewards == 0) then
         Tracker:FindObjectForCode("capturerewards").CurrentStage = 0
@@ -117,6 +124,15 @@ function applySlotData(slot_data)
         Tracker:FindObjectForCode("creationbosses").CurrentStage = 2
     elseif (arena_bosses == 3) then
         Tracker:FindObjectForCode("creationbosses").CurrentStage = 3
+    end
+
+    local super_bosses = slot_data["super_bosses"]
+    if (super_bosses == 0) then
+        Tracker:FindObjectForCode("superbosses").CurrentStage = 0
+    elseif (super_bosses == 1) then
+        Tracker:FindObjectForCode("superbosses").CurrentStage = 1
+    elseif (super_bosses == 2) then
+        Tracker:FindObjectForCode("superbosses").CurrentStage = 2
     end
 
     local recruit_sanity = slot_data["recruit_sanity"]
@@ -207,6 +223,9 @@ function applySlotData(slot_data)
         Tracker:FindObjectForCode("overdrivetidus").CurrentStage = 3
     end
 
+    if (slot_data["skip_contest_of_aeons"] ~= nil) then
+        Tracker:FindObjectForCode("skipcontestofaeons").Active = slot_data["skip_contest_of_aeons"]
+    end
     if (slot_data["required_primers"] ~= nil) then
         Tracker:FindObjectForCode("requiredprimers").AcquiredCount = slot_data["required_primers"]    
     end
@@ -224,9 +243,6 @@ function applySlotData(slot_data)
     end
     if (slot_data["kimahri_ronso_rage"] ~= nil) then
         Tracker:FindObjectForCode("ronsorages").Active = slot_data["kimahri_ronso_rage"]    
-    end
-    if (slot_data["super_bosses"] ~= nil) then
-        Tracker:FindObjectForCode("superbosses").Active = slot_data["super_bosses"]
     end
     if (slot_data["always_capture"] ~= nil) then
         Tracker:FindObjectForCode("alwayscapture").Active = slot_data["always_capture"]

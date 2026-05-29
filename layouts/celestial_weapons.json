@@ -1,5 +1,5 @@
 {
-    "key_items_horizontal": {
+    "celestial_weapons_horizontal": {
         "type": "array",
         "orientation": "vertical",
         "margin": "0, 0",
@@ -19,11 +19,16 @@
                         "item_width": 40,
                         "rows": [
                             [
-                                "progressivemirrors",
-                                "rustysword",
-                                "blossomcrown",
-                                "flowerscepter",
-                                "progressiveprimers"
+                                "progressivecaladbolg",
+                                "progressivenirvana",
+                                "progressivemasamune",
+                                "progressivespiritlance"
+                            ],
+                            [
+                                "progressiveworldchampion",
+                                "progressiveonionknight",
+                                "progressivegodhand",
+                                "progressivedimittis"
                             ]
                         ]
                     }

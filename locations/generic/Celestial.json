@@ -262,7 +262,39 @@
                         "name": "Progressive Mirror"
                     }
                 ]
-            }            
+            },
+            {
+                "name": "Seymour",
+                "chest_unopened_img": "/images/party/weapon/Dimittis.png",
+                "chest_opened_img": "/images/party/weapon/Dimittis_BW.png",
+                "chest_opened_img_mods": "@disabled",
+                "children": [
+                    {
+                        "name": "Dimittis",
+                        "access_rules": ["@Guadosalam/Farplane"]
+                    },
+                    {
+                        "name": "Neptune Crest",
+                        "access_rules": ["@Macalania/Lake, crawler, [$hasMinimumParty|3]"]
+                    },
+                    {
+                        "name": "Neptune Sigil",
+                        "access_rules": ["@Baaj Temple/Temple, geosgaeno, [$hasSwimmers|3], besaiddestructionsphere, bevelledestructionsphere, kilikadestructionsphere, djosedestructionsphere, macalaniadestructionsphere, zanarkanddestructionsphere"]
+                    },
+                    {
+                        "name": "Dimittis Crest Upgrade",
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, neptunecrest, $hasDimittis"],
+                        "hosted_item": "dimittiscrest",
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Dimittis Sigil Upgrade",
+                        "access_rules": ["@Macalania/Celestial Flower, progressivemirrors:2, neptunecrest, neptunesigil, $hasDimittis"],
+                        "hosted_item": "dimittissigil",
+                        "clear_as_group": true
+                    }
+                ]
+            }
         ]
     }
 ]

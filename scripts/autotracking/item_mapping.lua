@@ -1118,6 +1118,7 @@ ITEM_MAPPING = {
 	[20563] = {{"weapon(rikku):infinity", "toggle"}},
 	[20564] = {{"weapon(lulu):wickedcaitsith", "toggle"}},
 	[20565] = {{"weapon(tidus):hrunting", "toggle"}},
+	[20566] = {{"progressivedimittis", "consumable"}},
 	[61440] = {{"partymember:tidus", "toggle"}},
 	[61441] = {{"partymember:yuna", "toggle"}},
 	[61442] = {{"partymember:auron", "toggle"}},

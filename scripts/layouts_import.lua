@@ -1,3 +1,4 @@
+Tracker:AddLayouts("layouts/celestial_weapons.json")
 Tracker:AddLayouts("layouts/items.json")
 Tracker:AddLayouts("layouts/maps.json")
 Tracker:AddLayouts("layouts/party_members.json")

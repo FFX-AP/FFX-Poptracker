@@ -8447,6 +8447,20 @@
         "codes": "progressivespiritlance"
     },
     {
+        "name": "Progressive Dimittis",
+        "type": "consumable",
+        "img": "images/party/weapon/Dimittis.png",
+        "img_mods": "",
+        "disabled_img_mods": "@disabled",
+        "overlay_background": "#000000",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "codes": "progressivedimittis"
+    },
+    {
         "name": "Mana Distiller x 50",
         "type": "toggle",
         "img": "images/items/manadistillerx50.png",
