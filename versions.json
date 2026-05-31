@@ -1,6 +1,22 @@
 {
     "versions": [
         {
+            "package_version": "0.8.0",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.8.0/FFX.zip",
+            "sha256": "28d87fd41f9abbc34a6fc7102c03afe446b063eaba6aa798c66b823f04f74946",
+            "changelog": [
+                " - New Additions",
+                " - - Added Seymour Celestial Weapon (Progressive Dimittis)",
+                " - - Minor adjustments to the item tracker layout, for both main & broadcast layouts",
+                " - Options Updates",
+                " - - Superbosses split for Omega vs Dark Aeons",
+                " - - Added Goal option for Nemesis & Yu Yevon",
+                " - Logic and Location Updates",
+                " - - Onion Knight logic requires 3 swimmers for post-Geosgaeno",
+                " - - Updated reference chains to fix logical issues"
+            ]
+        },
+        {
             "package_version": "0.7.0",
             "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.7.0/FFX.zip",
             "sha256": "58e6f73288e7bc8e5fe07c55d8e83710876ae7344b55fdf62923d50dfc3eeffb",
