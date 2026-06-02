@@ -208,6 +208,26 @@
                     {
                         "name": "Village - East of Temple (Jecht's Sphere)\n2nd Visit",
                         "ref": "Jecht's Spheres/Village - East of Temple (Jecht's Sphere)/Progressive Jecht's Sphere"
+                    },
+                    {
+                        "name": "Valefor's Fayth Event - Evasion Sphere",
+                        "ref": "Besaid/Temple/Chamber of the Fayth/Valefor's Fayth Event - Evasion Sphere"
+                    },
+                    {
+                        "name": "Valefor's Chamber of the Fayth Front Left Chest - Hi Potion",
+                        "ref": "Besaid/Temple/Chamber of the Fayth/Valefor's Chamber of the Fayth Front Left Chest - Hi Potion"
+                    },
+                    {
+                        "name": "Valefor's Chamber of the Fayth Back Left Chest - Wht Magic Sphere",
+                        "ref": "Besaid/Temple/Chamber of the Fayth/Valefor's Chamber of the Fayth Back Left Chest - Wht Magic Sphere"
+                    },
+                    {
+                        "name": "Valefor's Chamber of the Fayth Back Right Chest - Elixir",
+                        "ref": "Besaid/Temple/Chamber of the Fayth/Valefor's Chamber of the Fayth Back Right Chest - Elixir"
+                    },
+                    {
+                        "name": "Valefor's Chamber of the Fayth Front Right Chest - Potion",
+                        "ref": "Besaid/Temple/Chamber of the Fayth/Valefor's Chamber of the Fayth Front Right Chest - Potion"
                     }
                 ]
             },
@@ -336,7 +356,23 @@
                     {
                         "name": "Name Ifrit (Event)",
                         "ref": "Party Member/Aeon/Ifrit"
-                    }                  
+                    },
+                    {
+                        "name": "Ifrit's Fayth Event - Luck Sphere",
+                        "ref": "Kilika/Temple/Chamber of the Fayth\n2nd Visit/Ifrit's Fayth Event - Luck Sphere"
+                    },
+                    {
+                        "name": "Ifrit's Chamber of the Fayth Front Right Chest - Accuracy Sphere",
+                        "ref": "Kilika/Temple/Chamber of the Fayth\n2nd Visit/Ifrit's Chamber of the Fayth Front Right Chest - Accuracy Sphere"
+                    },
+                    {
+                        "name": "Ifrit's Chamber of the Fayth Back Right Chest - Defense Sphere",
+                        "ref": "Kilika/Temple/Chamber of the Fayth\n2nd Visit/Ifrit's Chamber of the Fayth Back Right Chest - Defense Sphere"
+                    },
+                    {
+                        "name": "Ifrit's Chamber of the Fayth Back Left Chest - Agility Sphere",
+                        "ref": "Kilika/Temple/Chamber of the Fayth\n2nd Visit/Ifrit's Chamber of the Fayth Back Left Chest - Agility Sphere"
+                    }
                 ]
             },
             {
@@ -878,6 +914,18 @@
                     {
                         "name": "Recruit: Kyou",
                         "ref": "Blitzball Recruits/Free Agents/Kyou"
+                    },
+                    {
+                        "name": "Ixion's Fayth Event - Luck Sphere",
+                        "ref": "Djose/Temple/Chamber of the Fayth\n2nd Visit/Ixion's Fayth Event - Luck Sphere"
+                    },
+                    {
+                        "name": "Ixion's Chamber of the Fayth Back Left Chest - Agility Sphere",
+                        "ref": "Djose/Temple/Chamber of the Fayth\n2nd Visit/Ixion's Chamber of the Fayth Back Left Chest - Agility Sphere"
+                    },
+                    {
+                        "name": "Ixion's Chamber of the Fayth Back Right Chest - Mag Def Sphere",
+                        "ref": "Djose/Temple/Chamber of the Fayth\n2nd Visit/Ixion's Chamber of the Fayth Back Right Chest - Mag Def Sphere"
                     }
                 ]
             },
@@ -1238,6 +1286,18 @@
                     {
                         "name": "Defeat Dark Shiva (Superboss)",
                         "ref": "Super Bosses/Dark Shiva"
+                    },
+                    {
+                        "name": "Shiva's Fayth Event - Magic Sphere",
+                        "ref": "Macalania/Temple/Chamber of the Fayth\n2nd Visit/Shiva's Fayth Event - Magic Sphere"
+                    },
+                    {
+                        "name": "Shiva's Chamber of the Fayth Back Left Chest - Mag Def Sphere",
+                        "ref": "Macalania/Temple/Chamber of the Fayth\n2nd Visit/Shiva's Chamber of the Fayth Back Left Chest - Mag Def Sphere"
+                    },
+                    {
+                        "name": "Shiva's Chamber of the Fayth Back Right Chest - Accuracy Sphere",
+                        "ref": "Macalania/Temple/Chamber of the Fayth\n2nd Visit/Shiva's Chamber of the Fayth Back Right Chest - Accuracy Sphere"
                     }
                 ]
             },
@@ -1800,6 +1860,10 @@
                     {
                         "name": "Name the Magus Sisters (Event)",
                         "ref": "Party Member/Aeon/Magus Sisters"
+                    },
+                    {
+                        "name": "Magus Sisters' Fayth Event - Defense Sphere",
+                        "ref": "Remiem Temple/Chamber of the Fayth/Magus Sisters' Fayth Event - Defense Sphere"
                     }
                 ]
             },
@@ -2298,6 +2362,14 @@
                     {
                         "name": "Hire Yojimbo (Event)",
                         "ref": "Party Member/Aeon/Yojimbo"
+                    },
+                    {
+                        "name": "Pay Triple Yojimbo's Asking Price (Event)",
+                        "ref": "Cavern of the Stolen Fayth/Chamber of the Fayth/Pay Triple Yojimbo's Asking Price (Event)"
+                    },
+                    {
+                        "name": "Yojimbo's Fayth Event - Strength Sphere\n2nd Visit",
+                        "ref": "Cavern of the Stolen Fayth/Chamber of the Fayth/Yojimbo's Fayth Event - Strength Sphere\n2nd Visit"
                     },
                     {
                         "name": "Defeat Dark Yojimbo (Superboss)",

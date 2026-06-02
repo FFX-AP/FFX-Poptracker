@@ -192,6 +192,16 @@
                         "name": "Name Ifrit (Event)",
                         "map_locations": [{ "map": "Kilika Temple", "x": 713, "y": 303}],
                         "sections": [{"name": "Ifrit", "ref": "Party Member/Aeon/Ifrit"}]
+                    },
+                    {
+                        "name": "Chamber of the Fayth\n2nd Visit",
+                        "map_locations": [{ "map": "Kilika Temple", "x": 714, "y": 125}],
+                        "sections": [
+                            {"name": "Ifrit's Fayth Event - Luck Sphere"},
+                            {"name": "Ifrit's Chamber of the Fayth Front Right Chest - Accuracy Sphere"},
+                            {"name": "Ifrit's Chamber of the Fayth Back Right Chest - Defense Sphere"},
+                            {"name": "Ifrit's Chamber of the Fayth Back Left Chest - Agility Sphere"}
+                        ]
                     }
                 ]
             }

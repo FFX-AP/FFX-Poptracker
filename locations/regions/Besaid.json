@@ -209,6 +209,19 @@
                                 "clear_as_group": true
                             }
                         ]
+                    },
+                    {
+                        "name": "Chamber of the Fayth\n2nd Visit",
+                        "map_locations": [{ "map": "Besaid Temple", "x": 305, "y": 100}],
+                        "access_rules": ["@Super Bosses/Dark Valefor"],
+                        "visibility_rules": ["superbossesdarkaeons"],
+                        "sections": [
+                            {"name": "Valefor's Fayth Event - Evasion Sphere"},
+                            {"name": "Valefor's Chamber of the Fayth Front Left Chest - Hi Potion"},
+                            {"name": "Valefor's Chamber of the Fayth Back Left Chest - Wht Magic Sphere"},
+                            {"name": "Valefor's Chamber of the Fayth Back Right Chest - Elixir"},
+                            {"name": "Valefor's Chamber of the Fayth Front Right Chest - Potion"}
+                        ]
                     }
                 ]
             }

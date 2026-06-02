@@ -116,6 +116,15 @@
                                 "access_rules": ["djosecloister"]
                             }
                         ]
+                    },
+                    {
+                        "name": "Chamber of the Fayth\n2nd Visit",
+                        "map_locations": [{ "map": "Djose", "x": 379, "y": 40}],
+                        "sections": [
+                            {"name": "Ixion's Fayth Event - Luck Sphere"},
+                            {"name": "Ixion's Chamber of the Fayth Back Left Chest - Agility Sphere"},
+                            {"name": "Ixion's Chamber of the Fayth Back Right Chest - Mag Def Sphere"}
+                        ]
                     }
                 ]
             },

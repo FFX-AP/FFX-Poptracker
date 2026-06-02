@@ -359,6 +359,17 @@
                         "name": "Fight Seymour (Boss)",
                         "map_locations": [{ "map": "Macalania Temple", "x": 169, "y": 290}],
                         "sections": [{"name": "Shiva", "ref": "Party Member/Aeon/Shiva"}]
+                    },
+                    {
+                        "name": "Chamber of the Fayth\n2nd Visit",
+                        "map_locations": [{ "map": "Macalania Temple", "x": 100, "y": 290}],
+                        "access_rules": ["@Super Bosses/Dark Shiva"],
+                        "visibility_rules": ["superbossesdarkaeons"],
+                        "sections": [
+                            {"name": "Shiva's Fayth Event - Magic Sphere"},
+                            {"name": "Shiva's Chamber of the Fayth Back Left Chest - Mag Def Sphere"},
+                            {"name": "Shiva's Chamber of the Fayth Back Right Chest - Accuracy Sphere"}
+                        ]
                     }
                 ]
             },

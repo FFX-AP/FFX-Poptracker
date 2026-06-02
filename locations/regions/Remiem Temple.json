@@ -111,6 +111,12 @@
                         "ref": "Party Member/Aeon/Magus Sisters"
                     }
                 ]
+            },
+            {
+                "name": "Chamber of the Fayth\n2nd Visit",
+                "map_locations": [{ "map": "Remiem Temple", "x": 816, "y": 260}],
+                "access_rules": ["@Party Member/Aeon/Magus Sisters"],
+                "sections": [{"name": "Magus Sisters' Fayth Event - Defense Sphere"}]
             }
         ]
     }

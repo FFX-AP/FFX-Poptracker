@@ -68,17 +68,19 @@
                         ]
                     },
                     {
-                        "name": "Hire Yojimbo (Event)",
+                        "name": "Chamber of the Fayth",
                         "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 528, "y": 100}],
                         "sections": [
                             {
-                                "name": "Yojimbo",
+                                "name": "Hire Yojimbo (Event)",
                                 "ref": "Party Member/Aeon/Yojimbo"
-                            }
+                            },
+                            {"name": "Pay Triple Yojimbo's Asking Price (Event)"},
+                            {"name": "Yojimbo's Fayth Event - Strength Sphere\n2nd Visit"}
                         ]
                     },
                     {
-                         "name": "Defeat Dark Yojimbo (Superboss)",
+                        "name": "Defeat Dark Yojimbo (Superboss)",
                         "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 210, "y": 275, "shape": "trapezoid", "size": 20}],
                         "sections": [{"name": "Dark Yojimbo", "ref": "Super Bosses/Dark Yojimbo"}]
                     },
