@@ -23,6 +23,7 @@
             },
             {
                 "name": "Outside",
+                "access_rules": ["biran, yenke"],
                 "children": [
                     {
                         "name": "Trail - Top of Right Ridge Near South Exit (Chest)",

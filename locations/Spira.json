@@ -2597,15 +2597,15 @@
                     },
                     {
                         "name": "Press Both Glyphs, Then Take Narrow Central Path (Chest)",
-                        "ref": "Omega Ruins/Press Both Glyphs, Then Take Narrow Central Path (Chest)/Teleport Sphere x1"
+                        "ref": "Omega Ruins/Ultima/Press Both Glyphs, Then Take Narrow Central Path (Chest)/Teleport Sphere x1"
                     },
                     {
                         "name": "Defeat Ultima Weapon (Boss)",
-                        "ref": "Omega Ruins/Defeat Ultima Weapon (Boss)/Ultima Weapon"
+                        "ref": "Omega Ruins/Ultima/Defeat Ultima Weapon (Boss)/Ultima Weapon"
                     },
                     {
                         "name": "West Path (Chest)",
-                        "ref": "Omega Ruins/West Path (Chest)/Friend Sphere x1"
+                        "ref": "Omega Ruins/Omega/West Path (Chest)/Friend Sphere x1"
                     },
                     {
                         "name": "Use Lancet to Learn Nova\nOmega Weapon", 
@@ -2617,7 +2617,7 @@
                     },
                     {
                         "name": "Omega Boss Arena (Chest)",
-                        "ref": "Omega Ruins/Omega Boss Arena (Chest)/Magic Sphere x1"
+                        "ref": "Omega Ruins/Omega/Omega Boss Arena (Chest)/Magic Sphere x1"
                     }
                 ]
             },
