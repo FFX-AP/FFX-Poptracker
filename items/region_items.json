@@ -4,7 +4,6 @@
         "type": "toggle",
         "img": "images/region/Baaj.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "baajtemple"
@@ -14,7 +13,6 @@
         "type": "toggle",
         "img": "images/region/Besaid.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "besaid"
@@ -24,7 +22,6 @@
         "type": "toggle",
         "img": "images/region/Kilika.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "kilika"
@@ -34,7 +31,6 @@
         "type": "toggle",
         "img": "images/region/Luca.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "luca"
@@ -44,7 +40,6 @@
         "type": "toggle",
         "img": "images/region/Mi'ihen.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "miihenhighroad"
@@ -54,7 +49,6 @@
         "type": "toggle",
         "img": "images/region/MushroomRockRoad.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mushroomrockroad"
@@ -64,7 +58,6 @@
         "type": "toggle",
         "img": "images/region/Djose.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "djose"
@@ -74,7 +67,6 @@
         "type": "toggle",
         "img": "images/region/Moonflow.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "moonflow"
@@ -84,7 +76,6 @@
         "type": "toggle",
         "img": "images/region/Guadosalam.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "guadosalam"
@@ -94,7 +85,6 @@
         "type": "toggle",
         "img": "images/region/ThunderPlains.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "thunderplains"
@@ -104,7 +94,6 @@
         "type": "toggle",
         "img": "images/region/Macalania.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "macalania"
@@ -114,7 +103,6 @@
         "type": "toggle",
         "img": "images/region/Bikanel.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "bikanel"
@@ -124,7 +112,6 @@
         "type": "toggle",
         "img": "images/region/Airship.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "airship"
@@ -134,7 +121,6 @@
         "type": "toggle",
         "img": "images/region/Bevelle.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "bevelle"
@@ -144,7 +130,6 @@
         "type": "toggle",
         "img": "images/region/CalmLands.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "calmlands"
@@ -154,7 +139,6 @@
         "type": "toggle",
         "img": "images/region/CavernOfTheStolenFayth.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "cavernofthestolenfayth"
@@ -164,7 +148,6 @@
         "type": "toggle",
         "img": "images/region/Gagazet.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "gagazet"
@@ -174,7 +157,6 @@
         "type": "toggle",
         "img": "images/region/Zanarkand.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "zanarkand"
@@ -184,7 +166,6 @@
         "type": "toggle",
         "img": "images/region/Sin.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sin"
@@ -194,7 +175,6 @@
         "type": "toggle",
         "img": "images/region/Omega.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "omegaruins"
@@ -204,7 +184,6 @@
         "type": "toggle",
         "img": "images/region/MonsterArena.png",
         "img_mods": "",
-        "disabled_img": "",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "monsterarena"
