@@ -1,6 +1,17 @@
 {
     "versions": [
         {
+            "package_version": "0.8.1",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.8.1/FFX.zip",
+            "sha256": "1afd96693d26df69b8ccd5051dc067a64bbacf87546422311a2ddf36da1c7e4c",
+            "changelog": [
+                " - Logic & Location Updates",
+                " - - Fixed Braska Sphere logic to consider B&Y logic correctly",
+                " - Maintenance",
+                " - - Removed unnecessary explicit references for disabled images, which broke in Poptracker v0.35.2"
+            ]
+        },
+        {
             "package_version": "0.8.0",
             "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.8.0/FFX.zip",
             "sha256": "28d87fd41f9abbc34a6fc7102c03afe446b063eaba6aa798c66b823f04f74946",
