@@ -88,12 +88,12 @@
                     },
                     {
                         "name": "Central - Hidden Behind Tree Before Spiral Down (Chest)",
-                        "map_locations": [{ "map": "Macalania Woods", "x": 130, "y": 105}],
+                        "map_locations": [{ "map": "Macalania Woods", "x": 150, "y": 195}],
                         "sections": [{"name": "Phoenix Down x3"}]
                     },
                     {
                         "name": "North - Hidden Behind Tree on West Side (Chest)",
-                        "map_locations": [{ "map": "Macalania Woods", "x": 410, "y": 750}],
+                        "map_locations": [{ "map": "Macalania Woods", "x": 430, "y": 650}],
                         "sections": [{"name": "Remedy x1"}]
                     },
                     {
