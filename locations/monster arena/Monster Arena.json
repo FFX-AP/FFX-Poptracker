@@ -1340,7 +1340,7 @@
                             },
                             {
                                 "name": "Macalania",
-                                "access_rules": ["^$CheckAccessLevel|macalania, snowwolf:1, iguion:1, wasp:1, evileye:1, iceflan:1, blueelement:1, murussu:1, mafdet:1, xiphos:1, chimera:1"],
+                                "access_rules": ["^$CheckAccessLevel|macalania, snowwolf:1, iguion:1, wasp:1, evileye:1, iceflan:1, blueelement:1, murussu:1, mafdet:1, xiphos:1, chimera:1, [$hasMinimumParty|3]"],
                                 "hosted_item": "areaconquests",
                                 "item_count": 1,
                                 "clear_as_group": true
@@ -1368,7 +1368,7 @@
                             },
                             {
                                 "name": "Mt. Gagazet",
-                                "access_rules": ["^$CheckAccessLevel|mtgagazet, bandersnatch:1, ahriman:1, darkflan:1, grenade:1, grat:1, grendel:1, bashura:1, mandragora:1, behemoth:1, splasher:1, achelous:1, maelspike:1, [$hasMinimumParty|3]"],
+                                "access_rules": ["^$CheckAccessLevel|gagazet, bandersnatch:1, ahriman:1, darkflan:1, grenade:1, grat:1, grendel:1, bashura:1, mandragora:1, behemoth:1, splasher:1, achelous:1, maelspike:1, [$hasMinimumParty|3]"],
                                 "hosted_item": "areaconquests",
                                 "item_count": 1,
                                 "clear_as_group": true
@@ -1382,7 +1382,7 @@
                             },
                             {
                                 "name": "Omega Dungeon",
-                                "access_rules": ["^$CheckAccessLevel|omegadungeon, zaurus:1, floatingdeath:1, blackelement:1, halma:1, puroboros:1, spirit:1, machea:1, mastercoeurl:1, mastertonberry:1, varuna:1"],
+                                "access_rules": ["^$CheckAccessLevel|omegaruins, zaurus:1, floatingdeath:1, blackelement:1, halma:1, puroboros:1, spirit:1, machea:1, mastercoeurl:1, mastertonberry:1, varuna:1"],
                                 "hosted_item": "areaconquests",
                                 "item_count": 1,
                                 "clear_as_group": true
