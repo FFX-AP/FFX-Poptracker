@@ -1312,7 +1312,7 @@
                             },
                             {
                                 "name": "Miihen Highroad",
-                                "access_rules": ["^$CheckAccessLevel|miihenhighroad, miihenfang:1, ipiria:1, floatingeye:1, whiteelement:1, raldo:1, vouivre:1, bomb:1, dualhorn:1, [$hasMinimumParty|3]"],
+                                "access_rules": ["@Miihen Highroad/North, miihenfang:1, ipiria:1, floatingeye:1, whiteelement:1, raldo:1, vouivre:1, bomb:1, dualhorn:1"],
                                 "hosted_item": "areaconquests",
                                 "item_count": 1,
                                 "clear_as_group": true
