@@ -52,7 +52,7 @@
                     },
                     {
                         "name": "Yojimbo",
-                        "access_rules": ["@Cavern of the Stolen Fayth"],
+                        "access_rules": ["@Cavern of the Stolen Fayth, [$hasMinimumParty|3]"],
                         "hosted_item": "caverncloister",
                         "clear_as_group": true
                     }
