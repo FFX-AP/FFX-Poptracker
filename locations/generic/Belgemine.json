@@ -2,7 +2,7 @@
     {
         "name": "Belgemine",
         "overlay_background": "#000000",
-        "access_rules": ["$hasYuna, $hasAeons|1, [$hasAeons|2]"],
+        "access_rules": ["$hasYuna"],
         "children": [
             {
                 "name": "Remiem",
