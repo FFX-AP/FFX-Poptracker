@@ -308,10 +308,19 @@ end
 function CheckTotalConquests(qty)
     local area_conq = Tracker:ProviderCountForCode("areaconquests")
     local species_conq = Tracker:ProviderCountForCode("speciesconquests")
+    local capturerewards = Tracker:FindObjectForCode("capturerewards").CurrentStage
 
-    if area_conq + species_conq >= tonumber(qty) then
-        return ACCESS_NORMAL
-    else
-        return ACCESS_NONE
+    if capturerewards == 1 then
+        if area_conq >= tonumber(qty) then
+            return ACCESS_NORMAL
+        else
+            return ACCESS_NONE
+        end
+    elseif capturerewards >= 2 then
+        if area_conq + species_conq >= tonumber(qty) then
+            return ACCESS_NORMAL
+        else
+            return ACCESS_NONE
+        end
     end
 end
