@@ -11,22 +11,22 @@
                 "children": [
                     {
                         "name": "South Bank Road - Right of Shelinda (Chest)",
-                        "map_locations": [{ "map": "Moonflow", "x": 795, "y": 377}],
+                        "map_locations": [{ "map": "Moonflow", "x": 775, "y": 400}],
                         "sections": [{"name": "Lv. 1 Key Sphere x3"}]
                     },
                     {
                         "name": "South Bank Road - West Corner as Path Bends East (Chest)",
-                        "map_locations": [{ "map": "Moonflow", "x": 785, "y": 255}],
+                        "map_locations": [{ "map": "Moonflow", "x": 808, "y": 285}],
                         "sections": [{"name": "X-Potion x1"}]
                     },
                     {
                         "name": "South Bank Road - East Alcove as Path Bends North (Chest)",
-                        "map_locations": [{ "map": "Moonflow", "x": 900, "y": 210}],
+                        "map_locations": [{ "map": "Moonflow", "x": 922, "y": 260}],
                         "sections": [{"name": "Lv. 1 Key Sphere x3"}]
                     },
                     {
                         "name": "South Bank Road - Fight Belgemine (Win) (Event)",
-                        "map_locations": [{ "map": "Moonflow", "x": 919, "y": 135, "shape": "trapezoid", "size": 16}],
+                        "map_locations": [{ "map": "Moonflow", "x": 950, "y": 175, "shape": "trapezoid", "size": 16}],
                         "sections": [
                             {
                                 "name": "South Bank Road - Fight Belgemine (Win) (Event)",
@@ -40,7 +40,7 @@
                     },
                     {
                         "name": "South Bank Road - West Alcove in Forest Past Belgemine (Chest)",
-                        "map_locations": [{ "map": "Moonflow", "x": 920, "y": 90}],
+                        "map_locations": [{ "map": "Moonflow", "x": 929, "y": 129}],
                         "sections": [{"name": "Magic Def Sphere x1"}]
                     },
                     {
