@@ -15,7 +15,7 @@
             },
             {
                 "name": "Village - East of Temple (Jecht's Sphere)",
-                "access_rules": ["@Besaid, darkvalefor, [$hasMinimumParty|3]"],
+                "access_rules": ["@Super Bosses/Dark Valefor"],
                 "visibility_rules": ["superbossesdarkaeons"],
                 "hosted_item": "jechtsphere2",
                 "clear_as_group": true,
@@ -30,49 +30,49 @@
             },
             {
                 "name": "South Wharf (Jecht's Sphere)",
-                "access_rules": ["@Moonflow, extractor, [$hasSwimmers|2]"],
+                "access_rules": ["@Party Member/Character/Rikku"],
                 "hosted_item": "jechtsphere4",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
                 "name": "Oldroad, South - South End (Jecht's Sphere)",
-                "access_rules": ["@Miihen Highroad, chocoboeater, [$hasMinimumParty|3]"],
+                "access_rules": ["@Miihen Highroad/North"],
                 "hosted_item": "jechtsphere5",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
                 "name": "Stadium Basement A - East Locker Hall (Jecht's Sphere)",
-                "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"],
+                "access_rules": ["@Party Member/Character/Auron"],
                 "hosted_item": "jechtsphere6",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
                 "name": "Captain's Room (Jecht's Sphere)",
-                "access_rules": ["@S.S. Liki, echuilles"],
+                "access_rules": ["@S.S. Liki/Encounter Sin Fin (Event)"],
                 "hosted_item": "jechtsphere7",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
                 "name": "South - Near Entrance (Jecht's Sphere)",
-                "access_rules": ["@Macalania, spherimorph, [$hasMinimumParty|3]"],
+                "access_rules": ["@Macalania/Lake"],
                 "hosted_item": "jechtsphere8",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
                 "name": "Precipice - South of Large Elevator (Auron's Sphere)",
-                "access_rules": ["@Mushroom Rock Road, sinspawngui, [$hasMinimumParty|3]"],
+                "access_rules": ["@Mushroom Rock Road/Aftermath"],
                 "hosted_item": "auronsphere",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]
             },
             {
                 "name": "Trail - Side Road (Braska's Sphere)",
-                "access_rules": ["@Mt. Gagazet, biran, yenke"],
+                "access_rules": ["@Mt. Gagazet/Outside"],
                 "hosted_item": "braskasphere",
                 "clear_as_group": true,
                 "sections": [{"name": "Progressive Jecht's Sphere"}]

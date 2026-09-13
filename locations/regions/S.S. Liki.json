@@ -44,7 +44,6 @@
             },
             {
                 "name": "Captain's Room (Jecht's Sphere)\n2nd Visit",
-                "access_rules": ["[$hasMinimumParty|3], [$hasSwimmers|2], [$hasRanged]"],
                 "map_locations": [{ "map": "S.S. Liki", "x": 210, "y": 530}],
                 "sections": [
                     {
