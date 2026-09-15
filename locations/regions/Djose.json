@@ -15,7 +15,7 @@
                         "sections": [{"name": "Phoenix Down x2"}]
                     },
                     {
-                        "name": "Highroad - South End, Behind Left Pillar (Primer)",
+                        "name": "Highroad - South End, Behind Right Pillar (Primer)",
                         "map_locations": [{ "map": "Djose", "x": 40, "y": 330}],
                         "sections": [
                             {
