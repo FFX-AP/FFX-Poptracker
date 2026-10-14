@@ -222,6 +222,7 @@ function CheckGoalRequirement()
             goal_condition = true
         end
     elseif (goal == 4) then
+        -- Nemesis
         if (CheckAllCaptures(10) and CheckAllCreations()) then
             goal_condition = true
         end
