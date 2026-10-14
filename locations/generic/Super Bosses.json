@@ -8,77 +8,77 @@
         "sections": [
             {
                 "name": "Omega Weapon",
-                "access_rules": ["@Omega Ruins, ultimaweapon, [$hasMinimumParty|3]"],
+                "access_rules": ["@Omega Ruins, ultimaweapon, [$hasMinimumParty|3], ^$hasOffensiveRecipes"],
                 "visibility_rules": ["superbossesomega"],
                 "hosted_item": "omegaweapon",
                 "clear_as_group": true
             },
             {
                 "name": "Dark Anima",
-                "access_rules": ["@Mt. Gagazet, sanctuarykeeper, [$hasMinimumParty|3]"],
+                "access_rules": ["@Mt. Gagazet, sanctuarykeeper, [$hasMinimumParty|3], ^$hasLategameRecipes"],
                 "visibility_rules": ["superbossesdarkaeons"],
                 "hosted_item": "darkanima",
                 "clear_as_group": true
             },
             {
                 "name": "Dark Bahamut",
-                "access_rules": ["@Zanarkand, yunalesca, [$hasMinimumParty|3]"],
+                "access_rules": ["@Zanarkand, yunalesca, [$hasMinimumParty|3], ^$hasLategameRecipes"],
                 "visibility_rules": ["superbossesdarkaeons"],
                 "hosted_item": "darkbahamut",
                 "clear_as_group": true
             },
             {
                 "name": "Dark Cindy",
-                "access_rules": ["@Mushroom Rock Road, sinspawngui, [$hasMinimumParty|3]"],
+                "access_rules": ["@Mushroom Rock Road, sinspawngui, [$hasMinimumParty|3], ^$hasLategameRecipes"],
                 "visibility_rules": ["superbossesdarkaeons"],
                 "hosted_item": "darkcindy",
                 "clear_as_group": true
             },
             {
                 "name": "Dark Ifrit",
-                "access_rules": ["@Bikanel, homecompletion3, [$hasMinimumParty|3]"],
+                "access_rules": ["@Bikanel, homecompletion3, [$hasMinimumParty|3], ^$hasOffensiveRecipes"],
                 "visibility_rules": ["superbossesdarkaeons"],
                 "hosted_item": "darkifrit",
                 "clear_as_group": true
             },
             {
                 "name": "Dark Ixion",
-                "access_rules": ["@Thunder Plains, [$hasYuna], [$hasMinimumParty|3]"],
+                "access_rules": ["@Thunder Plains, [$hasYuna], [$hasMinimumParty|3], ^$hasOffensiveRecipes"],
                 "visibility_rules": ["superbossesdarkaeons"],
                 "hosted_item": "darkixion",
                 "clear_as_group": true
             },
             {
                 "name": "Dark Mindy",
-                "access_rules": ["@Mushroom Rock Road, sinspawngui, [$hasMinimumParty|3]"],
+                "access_rules": ["@Mushroom Rock Road, sinspawngui, [$hasMinimumParty|3], ^$hasLategameRecipes"],
                 "visibility_rules": ["superbossesdarkaeons"],
                 "hosted_item": "darkmindy",
                 "clear_as_group": true
             },
             {
                 "name": "Dark Sandy",
-                "access_rules": ["@Mushroom Rock Road, sinspawngui, [$hasMinimumParty|3]"],
+                "access_rules": ["@Mushroom Rock Road, sinspawngui, [$hasMinimumParty|3], ^$hasLategameRecipes"],
                 "visibility_rules": ["superbossesdarkaeons"],
                 "hosted_item": "darksandy",
                 "clear_as_group": true
             },
             {
                 "name": "Dark Shiva",
-                "access_rules": ["@Macalania, wendigo, [$hasMinimumParty|3]"],
+                "access_rules": ["@Macalania, wendigo, [$hasMinimumParty|3], ^$hasOffensiveRecipes"],
                 "visibility_rules": ["superbossesdarkaeons"],
                 "hosted_item": "darkshiva",
                 "clear_as_group": true
             },
             {
                 "name": "Dark Valefor",
-                "access_rules": ["@Besaid/Village, echuilles, [$hasYuna], [$hasMinimumParty|3]"],
+                "access_rules": ["@Besaid/Village, @S.S. Liki/Encounter Sin Fin (Event), echuilles, [$hasYuna], [$hasMinimumParty|3], ^$hasOffensiveRecipes"],
                 "visibility_rules": ["superbossesdarkaeons"],
                 "hosted_item": "darkvalefor",
                 "clear_as_group": true
             },
             {
                 "name": "Dark Yojimbo",
-                "access_rules": ["@Cavern of the Stolen Fayth, [$hasYuna], [$hasAeons|2], [$hasMinimumParty|3]"],
+                "access_rules": ["@Cavern of the Stolen Fayth, [$hasYuna], [$hasAeons|2], [$hasMinimumParty|3], ^$hasLategameRecipes"],
                 "visibility_rules": ["superbossesdarkaeons"],
                 "hosted_item": "darkyojimbo",
                 "clear_as_group": true
@@ -86,7 +86,7 @@
             {
                 "name": "Penance",
                 "access_rules": [
-                    "@Airship, darkanima, darkbahamut, darkcindy, darkifrit, darkixion, darkmindy, darksandy, darkshiva, darkvalefor, darkyojimbo, [$hasMinimumParty|3]"
+                    "@Airship, darkanima, darkbahamut, darkcindy, darkifrit, darkixion, darkmindy, darksandy, darkshiva, darkvalefor, darkyojimbo, [$hasMinimumParty|3], ^$hasLategameRecipes"
                 ],
                 "hosted_item": "penance",
                 "clear_as_group": true
