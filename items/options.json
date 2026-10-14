@@ -458,5 +458,30 @@
         "img": "images/items/Movie Sphere.png",
         "initial_active_state": false,
         "codes": "jechtspheres"
+    },
+    {
+        "name": "Equipment Customization",
+        "type": "progressive",
+        "allow_disabled": false,
+        "codes": "customizerecipessettings",
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "name": "Customize Recipes Off",
+                "img": "images/items/hd/Remedy_HD.png",
+                "img_mods": "@disabled",
+                "codes": "customizerecipesoff"
+            },
+            {
+                "name": "Customize Recipes On",
+                "img": "images/items/hd/Remedy_HD.png",
+                "codes": "customizerecipeson"
+            },
+            {
+                "name": "Customize Recipes Always Free",
+                "img": "images/items/hd/Remedy_HD.png",
+                "codes": "customizerecipesalwaysfree"
+            }
+        ]
     }
 ]

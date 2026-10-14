@@ -10597,5 +10597,125 @@
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "progressiveemptyspace"
+    },
+
+
+    // Customization Recipes
+    {
+        "name": "Customization Recipe: First Strike",
+        "type": "toggle",
+        "img": "images/items/hd/Remedy_HD.png",
+        "img_mods": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customizerecipefirststrike"
+    },
+    {
+        "name": "Customization Recipe: Auto-Haste",
+        "type": "toggle",
+        "img": "images/items/hd/Remedy_HD.png",
+        "img_mods": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customizerecipeautohaste"
+    },
+    {
+        "name": "Customization Recipe: Auto-Phoenix",
+        "type": "toggle",
+        "img": "images/items/hd/Remedy_HD.png",
+        "img_mods": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customizerecipeautophoenix"
+    },
+    {
+        "name": "Customization Recipe: Auto-Protect",
+        "type": "toggle",
+        "img": "images/items/hd/Remedy_HD.png",
+        "img_mods": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customizerecipeautoprotect"
+    },
+    {
+        "name": "Customization Recipe: Auto-Shell",
+        "type": "toggle",
+        "img": "images/items/hd/Remedy_HD.png",
+        "img_mods": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customizerecipeautoshell"
+    },
+    {
+        "name": "Customization Recipe: Auto-Potion",
+        "type": "toggle",
+        "img": "images/items/hd/Remedy_HD.png",
+        "img_mods": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customizerecipeautopotion"
+    },
+    {
+        "name": "Customization Recipe: Ribbon",
+        "type": "toggle",
+        "img": "images/items/hd/Remedy_HD.png",
+        "img_mods": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customizereciperibbon"
+    },
+    {
+        "name": "Customization Recipe: Stoneproof",
+        "type": "toggle",
+        "img": "images/items/hd/Remedy_HD.png",
+        "img_mods": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customizerecipestoneproof"
+    },
+    {
+        "name": "Customization Recipe: Confuseproof",
+        "type": "toggle",
+        "img": "images/items/hd/Remedy_HD.png",
+        "img_mods": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customizerecipeconfuseproof"
+    },
+    {
+        "name": "Customization Recipe: Break HP Limit",
+        "type": "toggle",
+        "img": "images/items/hd/Remedy_HD.png",
+        "img_mods": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customizerecipebhpl"
+    },
+    {
+        "name": "Customization Recipe: Break Damage Limit",
+        "type": "toggle",
+        "img": "images/items/hd/Remedy_HD.png",
+        "img_mods": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customizerecipebdl"
+    },
+    {
+        "name": "Customization Recipe: Magic Counter",
+        "type": "toggle",
+        "img": "images/items/hd/Remedy_HD.png",
+        "img_mods": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customizerecipemagiccounter"
+    },
+    {
+        "name": "Customization Recipe: Evade & Counter",
+        "type": "toggle",
+        "img": "images/items/hd/Remedy_HD.png",
+        "img_mods": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customizerecipee&c"
     }
 ]

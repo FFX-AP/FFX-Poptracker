@@ -1397,49 +1397,49 @@
                         "sections": [
                             {
                                 "name": "Stratoavis",
-                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Besaid"],
+                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Besaid, ^$hasOffensiveRecipes"],
                                 "hosted_item": "stratoavis",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Malboro Menace",
-                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Kilika"],
+                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Kilika, ^$hasLategameRecipes"],
                                 "hosted_item": "malboromenace",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Kottos",
-                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Miihen Highroad"],
+                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Miihen Highroad, ^$hasLategameRecipes"],
                                 "hosted_item": "kottos",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Coeurlregina",
-                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Mushroom Rock Road"],
+                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Mushroom Rock Road, ^$hasOffensiveRecipes"],
                                 "hosted_item": "coeurlregina",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Jormungand",
-                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Djose Road"],
+                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Djose Road, ^$hasLategameRecipes"],
                                 "hosted_item": "jormungand",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Cactuar King",
-                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Thunder Plains"],
+                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Thunder Plains, ^$hasOffensiveRecipes"],
                                 "hosted_item": "cactuarking",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Espada",
-                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Macalania"],
+                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Macalania, ^$hasOffensiveRecipes"],
                                 "hosted_item": "espada",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Abyss Worm",
-                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Bikanel"],
+                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Bikanel, ^$hasLategameRecipes"],
                                 "hosted_item": "abyssworm",
                                 "clear_as_group": true
                             },
@@ -1451,25 +1451,25 @@
                             },
                             {
                                 "name": "Don Tonberry",
-                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Stolen Fayth Cavern"],
+                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Stolen Fayth Cavern, ^$hasLategameRecipes"],
                                 "hosted_item": "dontonberry",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Catoblepas",
-                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Mt. Gagazet"],
+                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Mt. Gagazet, ^$hasLategameRecipes"],
                                 "hosted_item": "catoblepas",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Abaddon",
-                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Inside Sin"],
+                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Inside Sin, ^$hasOffensiveRecipes"],
                                 "hosted_item": "abaddon",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Vorban",
-                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Omega Dungeon"],
+                                "access_rules": ["@Monster Arena/Area Conquest/Creation Rewards/Omega Dungeon, ^$hasLategameRecipes"],
                                 "hosted_item": "vorban",
                                 "clear_as_group": true
                             }
@@ -1594,85 +1594,85 @@
                         "sections": [
                             {
                                 "name": "Fenrir",
-                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Wolf (3x)"],
+                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Wolf (3x), ^$hasLategameRecipes"],
                                 "hosted_item": "fenrir",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Ornitholestes",
-                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Reptile (3x)"],
+                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Reptile (3x), ^$hasLategameRecipes"],
                                 "hosted_item": "ornitholestes",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Pteryx",
-                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Bird (5x)"],
+                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Bird (5x), ^$hasOffensiveRecipes"],
                                 "hosted_item": "pteryx",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Hornet",
-                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Wasp (4x)"],
+                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Wasp (4x), ^$hasLategameRecipes"],
                                 "hosted_item": "hornet",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Vidatu",
-                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Imp (4x)"],
+                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Imp (4x), ^$hasOffensiveRecipes"],
                                 "hosted_item": "vidatu",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "One-Eye",
-                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Eye (4x)"],
+                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Eye (4x), ^$hasOffensiveRecipes"],
                                 "hosted_item": "oneeye",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Jumbo Flan",
-                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Flan (3x)"],
+                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Flan (3x), ^$hasLategameRecipes"],
                                 "hosted_item": "jumboflan",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Nega Elemental",
-                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Element (3x)"],
+                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Element (3x), ^$hasLategameRecipes"],
                                 "hosted_item": "negaelemental",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Tanket",
-                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Helm (3x)"],
+                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Helm (3x), ^$hasLategameRecipes"],
                                 "hosted_item": "tanket",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Fafnir",
-                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Drake (4x)"],
+                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Drake (4x), ^$hasLategameRecipes"],
                                 "hosted_item": "fafnir",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Sleep Sprout",
-                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Fungus (5x)"],
+                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Fungus (5x), ^$hasOffensiveRecipes"],
                                 "hosted_item": "sleepsprout",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Bomb King",
-                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Bomb (5x)"],
+                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Bomb (5x), ^$hasLategameRecipes"],
                                 "hosted_item": "bombking",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Juggernaut",
-                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Ruminant (5x)"],
+                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Ruminant (5x), ^$hasLategameRecipes"],
                                 "hosted_item": "juggernaut",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Ironclad",
-                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Iron Giant (10x)"],
+                                "access_rules": ["@Monster Arena/Species Conquest/Creation Rewards/Iron Giant (10x), ^$hasLategameRecipes"],
                                 "hosted_item": "ironclad",
                                 "clear_as_group": true
                             }
@@ -1738,49 +1738,49 @@
                         "sections": [
                             {
                                 "name": "Earth Eater",
-                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Area Conquest x2"],
+                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Area Conquest x2, ^$hasLategameRecipes"],
                                 "hosted_item": "eartheater",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Greater Sphere",
-                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Species Conquest x2"],
+                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Species Conquest x2, ^$hasLategameRecipes"],
                                 "hosted_item": "greatersphere",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Catastrophe",
-                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Area Conquest x6"],
+                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Area Conquest x6, ^$hasLategameRecipes"],
                                 "hosted_item": "catastrophe",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Th'uban",
-                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Species Conquest x6"],
+                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Species Conquest x6, ^$hasLategameRecipes"],
                                 "hosted_item": "thuban",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Neslug",
-                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/All Fiends x1"],
+                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/All Fiends x1, ^$hasLategameRecipes"],
                                 "hosted_item": "neslug",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Ultima Buster",
-                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/All Fiends x5"],
+                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/All Fiends x5, ^$hasLategameRecipes"],
                                 "hosted_item": "ultimabuster",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Shinryu",
-                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Underwater Fiends in Mt. Gagazet x2"],
+                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Underwater Fiends in Mt. Gagazet x2, ^$hasLategameRecipes"],
                                 "hosted_item": "shinryu",
                                 "clear_as_group": true
                             },
                             {
                                 "name": "Nemesis",
-                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations, ^$CheckGoalRequirement"],
+                                "access_rules": ["@Monster Arena/Original Creation/Creation Rewards/Capture all Fiends x10 & Kill all Creations, ^$CheckGoalRequirement, ^$hasLategameRecipes"],
                                 "hosted_item": "nemesis",
                                 "clear_as_group": true
                             }

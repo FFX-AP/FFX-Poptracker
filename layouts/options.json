@@ -129,7 +129,7 @@
                     "item_v_alignment": "center",
                     "item_height": 48,
                     "item_width": 48,
-                    "rows": [["autotab", "skipcontestofaeons"]]
+                    "rows": [["autotab", "skipcontestofaeons", "customizerecipessettings"]]
                 }
             }
         ]

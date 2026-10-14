@@ -223,6 +223,15 @@ function applySlotData(slot_data)
         Tracker:FindObjectForCode("overdrivetidus").CurrentStage = 3
     end
 
+    local customization_recipes = slot_data["customization_recipes"]
+    if (customization_recipes == 0) then
+        Tracker:FindObjectForCode("customizerecipessettings").CurrentStage = 0
+    elseif (customization_recipes == 1) then
+        Tracker:FindObjectForCode("customizerecipessettings").CurrentStage = 1
+    elseif (customization_recipes == 2) then
+        Tracker:FindObjectForCode("customizerecipessettings").CurrentStage = 2
+    end
+
     if (slot_data["skip_contest_of_aeons"] ~= nil) then
         Tracker:FindObjectForCode("skipcontestofaeons").Active = slot_data["skip_contest_of_aeons"]
     end
