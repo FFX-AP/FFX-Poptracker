@@ -218,6 +218,17 @@
                             {"name": "Sand Worm", "ref": "Monster Arena/Fiend Capture/Bikanel/Captures Required for Logic/Sand Worm"},
                             {"name": "Cactuar", "ref": "Monster Arena/Fiend Capture/Bikanel/Captures Required for Logic/Cactuar"}
                         ]
+                    },
+                    {
+                        "name": "Ronso Rages",
+                        "map_locations": [{ "map": "Bikanel", "x": 170, "y": 1070}],
+                        "sections": [
+                            {
+                                "name": "Use Lancet to Learn Seed Cannon\nSandragora", 
+                                "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Seed Cannon/BIKA Seed Cannon"
+                            }
+                        ]
+
                     }
                 ]
             },

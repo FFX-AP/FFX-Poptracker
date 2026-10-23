@@ -2674,7 +2674,7 @@
                     },
                     {
                         "name": "Use Lancet to Learn Seed Cannon",
-                        "access_rules": ["@Kilika"],
+                        "access_rules": ["@Kilika", "@Bikanel/Desert/West, $hasKimahri,", "@Mt. Gagazet/Outside"],
                         "hosted_item": "ronsorageseedcannon",
                         "clear_as_group": true
                     },
