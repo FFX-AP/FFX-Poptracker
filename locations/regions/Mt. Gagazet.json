@@ -116,6 +116,10 @@
                             {
                                 "name": "Use Lancet to Learn Self Destruct\nGrenade",
                                 "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Self Destruct/MTGZ Grenade Self Destruct"
+                            },
+                            {
+                                "name": "Use Lancet to Learn Seed Cannon\nGrat", 
+                                "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Seed Cannon/MTGZ Seed Cannon"
                             }
                         ]
                     }

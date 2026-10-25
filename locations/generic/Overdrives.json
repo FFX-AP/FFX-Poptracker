@@ -54,9 +54,11 @@
                     },
                     {
                         "name": "Use Lancet to Learn Seed Cannon",
-                        "access_rules": ["@Kilika"],
                         "sections": [
-                            {"name": "KILK Seed Cannon", "hosted_item": "ronsorageseedcannon"}
+                            {"name": "KILK Seed Cannon", "access_rules": ["@Kilika"], "hosted_item": "ronsorageseedcannon", "clear_as_group": true},
+                            {"name": "BIKA Seed Cannon", "access_rules": ["@Bikanel/Desert/West, $hasKimahri"], "hosted_item": "ronsorageseedcannon", "clear_as_group": true},
+                            {"name": "MTGZ Seed Cannon", "access_rules": ["@Mt. Gagazet/Outside"], "hosted_item": "ronsorageseedcannon", "clear_as_group": true}
+
                         ]
                     },
                     {
