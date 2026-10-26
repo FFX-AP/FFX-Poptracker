@@ -202,7 +202,7 @@
                         "name": "Ronso Rages",
                         "map_locations": [{ "map": "Gagazet Cave", "x": 720, "y": 510}],
                         "sections": [
-                            {"name": "Use Lancet to Learn Fire Breath\nGrendel", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MGTZ GrendelFire Breath"},
+                            {"name": "Use Lancet to Learn Fire Breath\nGrendel", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Fire Breath/MTGZ Grendel Fire Breath"},
                             {"name": "Use Lancet to Learn White Wind\nDark Flan", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn White Wind/MTGZ Flan White Wind"},
                             {"name": "Use Lancet to Learn Mighty Guard\nBehemoth", "ref": "Overdrives/Ronso Rage/Use Lancet to Learn Mighty Guard/MTGZ Behemoth Mighty Guard"}
                         ]
