@@ -1,6 +1,18 @@
 {
     "versions": [
         {
+            "package_version": "0.10.0",
+            "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.10.0/FFX.zip",
+            "sha256": "5d850c7db52df9a34fc57e6df37288abda27bea807d722fd55fc93d901e9c723",
+            "changelog": [
+                " - Logic & Location Updates",
+                " - - Nemesis goal requirement logic fixed",
+                " - - Customization Recipe option now supported",
+                " - - Seed Cannon now showing correctly in Bikanel & Mt. Gagazet",
+                " - - S.S. Liki Jecht Sphere access rule updated"
+            ]
+        },
+        {
             "package_version": "0.9.0",
             "download_url": "https://github.com/FFX-AP/FFX-Poptracker/releases/download/v0.9.0/FFX.zip",
             "sha256": "302be5d9f5bcb0768206cce626cf303e14bdaa173171fa306d05d5e30667ccf0",
